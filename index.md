@@ -33,6 +33,13 @@ sections:
       id: infobar
       button: Click Here
       url: https://cms.isomer.gov.sg/sites/pa-moca/homepage
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
   - textcards:
       title: Our Town
       id: textcards
@@ -46,7 +53,7 @@ sections:
           linktext: Learn more
           url: https://cms.isomer.gov.sg/sites/pa-moca/homepage
         - title: News
-          description: " Improvement works on the drainage outside Spanish Village"
+          description: Improvement works on the drainage outside Spanish Village
           linktext: Learn more
           url: https://cms.isomer.gov.sg/sites/pa-moca/homepage
   - textcards:
@@ -65,4 +72,8 @@ sections:
           description: Card description
           linktext: Learn more
           url: https://cms.isomer.gov.sg/sites/pa-moca/homepage
+  - infobar:
+      id: infobar
+      button: View More
+      url: https://cms.isomer.gov.sg/sites/pa-moca/homepage
 ---
