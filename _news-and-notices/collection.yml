@@ -1,0 +1,4 @@
+collections:
+  news-and-notices:
+    output: true
+    order: []
