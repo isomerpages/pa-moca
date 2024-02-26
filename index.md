@@ -31,22 +31,38 @@ sections:
   - infobar:
       title: Upcoming Activites
       id: infobar
-  - infopic:
-      title: MoCa CNY Lunch 2024
-      id: infopic
-      description: Join us for a delightful Chinese New Year celebration at
-        Moulmein-Cairnhill CNY Lunch 2024!
-      button: Purchase Here
+      button: Click Here
       url: https://cms.isomer.gov.sg/sites/pa-moca/homepage
-      image: /images/420166361_768092105364181_935740015338386226_n.jpg
-      alt: Register Here
-  - infopic:
-      title: International Womens' Day 2024
-      id: infopic
-      description: This event is open to all ages and genders, so gather your friends
-        and family for a morning of opportunity to meet new people.
-      button: Register Here
-      alt: Image alt text
-      url: https://www.onepa.gov.sg/events/moulmein-cairnhill-international-women-day-2024-35923950?fbclid=IwAR1_mRcLVyWL8vPyFF7K4TWLOiB9gk1H2ehhpGpUbwmnYTDQrlbnKHrU3z8
-      image: /images/410709554_17938925732772703_225382307033218481_n.jpg
+  - textcards:
+      title: Our Town
+      id: textcards
+      cards:
+        - title: News
+          description: New parking spaces for private hire vehicles in Tekka
+          linktext: Learn more
+          url: https://cms.isomer.gov.sg/sites/pa-moca/homepage
+        - title: News
+          description: Going Green with our Covered Walkways
+          linktext: Learn more
+          url: https://cms.isomer.gov.sg/sites/pa-moca/homepage
+        - title: News
+          description: " Improvement works on the drainage outside Spanish Village"
+          linktext: Learn more
+          url: https://cms.isomer.gov.sg/sites/pa-moca/homepage
+  - textcards:
+      title: News & Notices
+      id: textcards
+      cards:
+        - title: News
+          description: Card description
+          linktext: Learn more
+          url: https://cms.isomer.gov.sg/sites/pa-moca/homepage
+        - title: News
+          description: Card description
+          linktext: Learn more
+          url: https://cms.isomer.gov.sg/sites/pa-moca/homepage
+        - title: News
+          description: Card description
+          linktext: Learn more
+          url: https://cms.isomer.gov.sg/sites/pa-moca/homepage
 ---
