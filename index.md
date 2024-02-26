@@ -34,11 +34,16 @@ sections:
       button: Click Here
       url: https://cms.isomer.gov.sg/sites/pa-moca/homepage
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: Our Town
       id: infopic
-      description: Infopic description
-      button: Button Text
+      button: View More Here
+      alt: Image alt text
+      url: https://cms.isomer.gov.sg/sites/pa-moca/homepage
+  - infopic:
+      title: News and Notices
+      id: infopic
+      button: View More Here
+      url: https://cms.isomer.gov.sg/sites/pa-moca/homepage
       alt: Image alt text
   - textcards:
       title: Our Town
