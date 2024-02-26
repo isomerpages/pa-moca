@@ -1,0 +1,4 @@
+collections:
+  our-town:
+    output: true
+    order: []
