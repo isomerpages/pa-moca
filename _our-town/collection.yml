@@ -2,4 +2,5 @@ collections:
   our-town:
     output: true
     order:
+      - Improvement works on the drainage outside Spanish Village.md
       - example-page.md
