@@ -72,8 +72,4 @@ sections:
           description: Card description
           linktext: Learn more
           url: https://cms.isomer.gov.sg/sites/pa-moca/homepage
-  - infobar:
-      id: infobar
-      button: View More
-      url: https://cms.isomer.gov.sg/sites/pa-moca/homepage
 ---
