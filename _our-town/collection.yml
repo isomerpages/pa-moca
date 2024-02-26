@@ -2,5 +2,6 @@ collections:
   our-town:
     output: true
     order:
+      - New parking spaces for private hire vehicles in Tekka.md
       - Improvement works on the drainage outside Spanish Village.md
       - example-page.md
