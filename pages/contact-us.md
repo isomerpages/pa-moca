@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Visit Our Centres
+agency_name: " Our Centres"
 locations:
   - address:
       - 21 Gloucester Road
