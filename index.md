@@ -41,10 +41,12 @@ sections:
       image: /images/420166361_768092105364181_935740015338386226_n.jpg
       alt: Register Here
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: International Womens' Day 2024
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: This event is open to all ages and genders, so gather your friends
+        and family for a morning of opportunity to meet new people.
+      button: Register Here
       alt: Image alt text
+      url: https://www.onepa.gov.sg/events/moulmein-cairnhill-international-women-day-2024-35923950?fbclid=IwAR1_mRcLVyWL8vPyFF7K4TWLOiB9gk1H2ehhpGpUbwmnYTDQrlbnKHrU3z8
+      image: /images/410709554_17938925732772703_225382307033218481_n.jpg
 ---
