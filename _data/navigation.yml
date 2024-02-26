@@ -1,8 +1,25 @@
 logo: /images/isomer-logo.svg
 links:
+  - title: Our Community
+    url: /permalink
+    sublinks:
+      - title: Moulmein-Cairnhill (CCC) GROs
+        url: /permalink
+      - title: Pek Kio Community Centre (CC)
+        url: /permalink
+      - title: Tanglin Community Club (CC)
+        url: /permalink
+      - title: Cairnhill Community Club (CC)
+        url: /permalink
+  - title: Our People
+    url: /permalink
+  - title: OUR TOWN
+    url: /permalink
+  - title: NEWS AND NOTICES
+    url: /permalink
+  - title: ACTIVITIES
+    url: /permalink
+  - title: Volunteer With us
+    url: /example-page/
   - title: Contact Us
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
