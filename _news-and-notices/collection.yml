@@ -2,5 +2,6 @@ collections:
   news-and-notices:
     output: true
     order:
+      - New parking spaces for private hire vehicles in Tekka.md
       - Expunction of part of Walshe Road.md
       - Vehicle impact guardraill works along Cavenagh Road.md
