@@ -61,7 +61,7 @@ sections:
         years and above who are Singaporean citizens or Permanent Residents.
       image: /images/426501329_419318410449891_5991587861523243739_n.jpg
   - textcards:
-      title: News & Notices
+      title: Recent Events
       id: textcards
       cards:
         - title: News
@@ -76,4 +76,18 @@ sections:
           description: Card description
           linktext: Learn more
           url: https://cms.isomer.gov.sg/sites/pa-moca/homepage
+  - announcements:
+      title: Announcements
+      id: announcements
+      subtitle: Add a list of announcements with dates
+      announcement_items:
+        - title: New Announcement
+          date: 27 February 2024
+          announcement: Announcement content
+          link_text: ""
+          link_url: ""
+  - resources:
+      title: Events
+      subtitle: Recent Events
+      id: resources
 ---
