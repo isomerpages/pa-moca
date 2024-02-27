@@ -1,4 +1,5 @@
 collections:
   volunteer-with-us:
     output: true
-    order: []
+    order:
+      - Our Green MoCa.md
