@@ -16,7 +16,7 @@ sections:
       key_highlights:
         - title: Get to Know Us
           description: Our People
-          url: https://google.com
+          url: /page-Our People
         - title: upgrade and plans
           description: Our Towns
           url: https://gmail.com
