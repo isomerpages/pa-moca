@@ -1,5 +1,5 @@
 collections:
-  our-town-x:
+  our-town:
     output: true
     order:
       - Traffic Diversion along Northbound Thomson Road in front of Novena Lodge
