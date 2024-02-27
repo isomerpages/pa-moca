@@ -2,4 +2,5 @@ collections:
   our-people:
     output: true
     order:
+      - The Krishnans and Ngs.md
       - Mr Alvin Tan.md
