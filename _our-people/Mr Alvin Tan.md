@@ -24,8 +24,8 @@ Green MOCA, MOCA’s Mental Well-Being Circles, and MOCA’s Harmony Circles.
 He also oversees infrastructural improvements in MOCA.</p>
 <p>At the national level, Mr. Tan is also Minister of State for both the
 Ministry of Trade &amp; Industry (MTI), and the Ministry of Culture, Community
-&amp; Youth (MCCY), and serves on the Board of the Monetary Auth</p>
-<p>ority of Singapore (MAS).</p>
+&amp; Youth (MCCY), and serves on the Board of the Monetary Authority of
+Singapore (MAS).</p>
 <p>Before leaving the private sector to join politics, Mr. Tan worked in
 finance and tech at companies such as Goldman Sachs, Facebook and LinkedIn.
 He has also worked in the United Nations and Oxfam, and in New York, Hong
