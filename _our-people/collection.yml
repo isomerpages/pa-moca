@@ -2,6 +2,7 @@ collections:
   our-people:
     output: true
     order:
+      - Ms Grace Ong.md
       - Mrs Chu.md
       - The Krishnans and Ngs.md
       - Mr Alvin Tan.md
