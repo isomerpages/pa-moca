@@ -1,7 +1,7 @@
 logo: /images/isomer-logo.svg
 links:
   - title: Our Town
-    url: /our-town/permalink
+    url: /our-town/permalink/
   - title: Our Community
     url: /permalink
     sublinks:
@@ -14,7 +14,7 @@ links:
       - title: Cairnhill Community Club (CC)
         url: /permalink
   - title: Our People
-    url: /our-people/permalink
+    url: /our-people/permalink/
   - title: Activities
     url: /permalink
   - title: Volunteer With us
