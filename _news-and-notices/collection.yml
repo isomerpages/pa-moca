@@ -2,6 +2,7 @@ collections:
   news-and-notices:
     output: true
     order:
+      - Tekka Centre Basement Carpark Improvement Works.md
       - Grand Reopening of Tekka Centre.md
       - Going Green with our Covered Walkways.md
       - New parking spaces for private hire vehicles in Tekka.md
