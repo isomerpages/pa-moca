@@ -1,5 +1,5 @@
 collections:
-  our-town-x:
+  our-town:
     output: true
     order:
       - Tekka Centre Basement Carpark Improvement Works.md
