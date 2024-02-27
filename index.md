@@ -40,7 +40,7 @@ sections:
       subtitle: Mar 9, 2024
       description: This event is open to all ages and genders, so gather your friends
         and family for a morning of opportunity to meet new people.
-      image: /images/WhatsApp_Image_2024_02_25_at_19_59_51.jpg
+      image: /images/Untitled__5_.png
   - infopic:
       title: Pek Kio Family Day 2024
       id: infopic
@@ -59,7 +59,7 @@ sections:
       subtitle: Mar 2, 2024
       description: Early detection saves lives! This event is open to women aged 40
         years and above who are Singaporean citizens or Permanent Residents.
-      image: /images/426501329_419318410449891_5991587861523243739_n.jpg
+      image: /images/Untitled_2.png
   - textcards:
       title: Recent Events
       id: textcards
