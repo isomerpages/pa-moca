@@ -2,10 +2,10 @@ collections:
   our-people:
     output: true
     order:
-      - Ms Grace Chong/Ms Grace Ong.md
-      - Ms Grace Chong/.keep
-      - Alvin Tan/Mr Alvin Tan.md
       - Alvin Tan/.keep
+      - Alvin Tan/Mr Alvin Tan.md
+      - Ms Grace Chong/.keep
+      - Ms Grace Chong/Ms Grace Ong.md
       - Mrs Chu.md
       - The Krishnans and Ngs.md
       - Ms Marlene Gwee.md
