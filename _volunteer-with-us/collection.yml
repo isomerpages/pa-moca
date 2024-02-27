@@ -2,5 +2,6 @@ collections:
   volunteer-with-us:
     output: true
     order:
+      - MoCa Well Being Circle.md
       - Be Our Volunteer.md
       - Our Green MoCa.md
