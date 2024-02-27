@@ -1,5 +1,5 @@
 collections:
-  new-and-notices:
+  our-town:
     output: true
     order:
       - Going Green with our Covered Walkways.md
