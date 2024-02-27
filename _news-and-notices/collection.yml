@@ -1,5 +1,5 @@
 collections:
-  our-town:
+  news-and-notices:
     output: true
     order:
       - New parking spaces for private hire vehicles in Tekka.md
