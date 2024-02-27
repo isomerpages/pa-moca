@@ -22,7 +22,7 @@ sections:
           url: https://gmail.com
         - title: Volunteer with us
           description: Interest Group
-          url: /privacy/
+          url: ""
         - title: Contact us
           description: Visit Our Centres
           url: ""
