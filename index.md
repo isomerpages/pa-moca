@@ -25,7 +25,7 @@ sections:
           url: /volunteer-with-us/permalink
         - title: Contact us
           description: Visit Our Centres
-          url: ""
+          url: /contact-us/
       variant: center
   - infobar:
       title: Upcoming Activites
