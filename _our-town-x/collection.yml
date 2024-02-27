@@ -1,5 +1,5 @@
 collections:
-  news-and-notices:
+  our-town-x:
     output: true
     order:
       - Tekka Centre Basement Carpark Improvement Works.md
