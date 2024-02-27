@@ -44,13 +44,13 @@ sections:
   - infopic:
       title: International Womens' Day 2024
       id: infopic
-      button: View More Here
-      url: https://cms.isomer.gov.sg/sites/pa-moca/homepage
+      button: Purchase Here
+      url: https://www.onepa.gov.sg/events/moulmein-cairnhill-international-women-day-2024-35923950?fbclid=IwAR1_mRcLVyWL8vPyFF7K4TWLOiB9gk1H2ehhpGpUbwmnYTDQrlbnKHrU3z8
       alt: Image alt text
       subtitle: Mar 9, 2024
       description: This event is open to all ages and genders, so gather your friends
         and family for a morning of opportunity to meet new people.
-      image: /images/428649987_17947671509772703_679861821127674790_n.jpg
+      image: /images/WhatsApp_Image_2024_02_25_at_19_59_51.jpg
   - textcards:
       title: News & Notices
       id: textcards
