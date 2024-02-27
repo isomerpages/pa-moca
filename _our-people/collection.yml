@@ -2,8 +2,6 @@ collections:
   our-people:
     output: true
     order:
-      - Ms Grace Chong/.keep
-      - Ms Grace Chong/Ms Grace Ong.md
       - Mrs Chu.md
       - The Krishnans and Ngs.md
       - Ms Marlene Gwee.md
