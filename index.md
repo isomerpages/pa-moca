@@ -11,7 +11,7 @@ sections:
       subtitle: Our people, communities' contribution is what makes this town
         special,caring and warm. Come experience it and join us in making  a
         difference.
-      background: /images/Ms_Marlene_Gwee.jpg
+      background: /images/Untitled_design__25_.png
       url: /contact-us/
       key_highlights:
         - title: Get to Know Us
