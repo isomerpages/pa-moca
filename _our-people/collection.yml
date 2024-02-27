@@ -2,5 +2,6 @@ collections:
   our-people:
     output: true
     order:
+      - Mrs Chu.md
       - The Krishnans and Ngs.md
       - Mr Alvin Tan.md
