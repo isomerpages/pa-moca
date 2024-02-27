@@ -19,7 +19,7 @@ sections:
           url: /page-Our People
         - title: upgrade and plans
           description: Our Towns
-          url: https://gmail.com
+          url: /our-town/permalink
         - title: Volunteer with us
           description: Interest Group
           url: /volunteer-with-us/permalink
