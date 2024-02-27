@@ -2,7 +2,6 @@ collections:
   our-people:
     output: true
     order:
-      - Alvin Tan/.keep
       - Ms Grace Chong/.keep
       - Ms Grace Chong/Ms Grace Ong.md
       - Mrs Chu.md
