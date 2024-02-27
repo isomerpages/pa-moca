@@ -2,12 +2,12 @@ collections:
   volunteer-with-us:
     output: true
     order:
-      - Our Migrant Guests.md
       - MoCa In.md
       - MoCa Women.md
       - Tutoring and Mentoring.md
       - MoCa Harmony Circle.md
       - MoCa Sports.md
       - MoCa Well Being Circle.md
-      - Be Our Volunteer.md
       - Our Green MoCa.md
+      - Our Migrant Guests.md
+      - Be Our Volunteer.md
