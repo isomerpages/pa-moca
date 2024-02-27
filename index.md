@@ -12,7 +12,6 @@ sections:
         special,caring and warm. Come experience it and join us in making  a
         difference.
       background: /images/425288459_779888013956960_6877315452934233389_n.jpg
-      button: Contact Us
       url: /contact-us/
       key_highlights:
         - title: Get to Know Us
@@ -46,22 +45,6 @@ sections:
       url: https://cms.isomer.gov.sg/sites/pa-moca/homepage
       alt: Image alt text
   - textcards:
-      title: Our Town
-      id: textcards
-      cards:
-        - title: News
-          description: New parking spaces for private hire vehicles in Tekka
-          linktext: Learn more
-          url: https://cms.isomer.gov.sg/sites/pa-moca/homepage
-        - title: News
-          description: Going Green with our Covered Walkways
-          linktext: Learn more
-          url: https://cms.isomer.gov.sg/sites/pa-moca/homepage
-        - title: News
-          description: Improvement works on the drainage outside Spanish Village
-          linktext: Learn more
-          url: https://cms.isomer.gov.sg/sites/pa-moca/homepage
-  - textcards:
       title: News & Notices
       id: textcards
       cards:
@@ -77,4 +60,11 @@ sections:
           description: Card description
           linktext: Learn more
           url: https://cms.isomer.gov.sg/sites/pa-moca/homepage
+  - infopic:
+      title: Our People
+      id: infopic
+      button: KNOW MORE ABOUT WHAT WE DO
+      url: Our peope
+      image: /images/Adviser_Alvin.jpg
+      alt: Image alt text
 ---
