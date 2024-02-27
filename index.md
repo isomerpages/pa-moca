@@ -11,7 +11,7 @@ sections:
       subtitle: Our people, communities' contribution is what makes this town
         special,caring and warm. Come experience it and join us in making  a
         difference.
-      background: /images/Untitled_design__27_.png
+      background: /images/Untitled_design__26_.png
       url: /contact-us/
       key_highlights:
         - title: Get to Know Us
