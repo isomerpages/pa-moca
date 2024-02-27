@@ -46,7 +46,7 @@ sections:
       id: infopic
       button: Purchase Here
       url: https://go.gov.sg/pk-familyday2024
-      image: /images/428606867_789099843263407_1910321721139421482_n.jpg
+      image: /images/428649987_17947671509772703_679861821127674790_n.jpg
       alt: Image alt text
       description: Join us for a day of fun, laughter, and excitement! 🎈 There will
         be games galore, with a chance to win incredible prizes!
