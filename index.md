@@ -16,13 +16,13 @@ sections:
       key_highlights:
         - title: Get to Know Us
           description: Our People
-          url: /page-Our People
+          url: ggergre
         - title: upgrade and plans
           description: Our Towns
-          url: /our-town/permalink
+          url: sdgrdfhrhhr
         - title: Volunteer with us
           description: Interest Group
-          url: /volunteer-with-us/permalink
+          url: fsdsefegeweew
         - title: Contact us
           description: Visit Our Centres
           url: /contact-us/
