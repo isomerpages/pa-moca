@@ -4,6 +4,9 @@ permalink: /volunteer-with-us/moca-in/
 variant: tiptap
 description: ""
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MOCA_LOGOS___Moulmein_Cairnhill_Main.png">
+</div>
 <p>Welcome to MoCa IN (Integration), where we proudly showcase the incredible
 stories and initiatives that exemplify our commitment to unity, diversity,
 and community integration. At MoCa IN, we believe in the power of community
@@ -23,3 +26,4 @@ Together, let's create a brighter future for our neighborhood!</p>
 <p></p>
 <p><a href="http://go.gov.sg/beamocavolunteer" rel="noopener noreferrer nofollow" target="_blank">Link: http://go.gov.sg/beamocavolunteer</a>
 </p>
+<p></p>
