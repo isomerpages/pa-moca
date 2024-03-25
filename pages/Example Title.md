@@ -4,4 +4,5 @@ permalink: /example-title/
 variant: markdown
 description: ""
 ---
-<p>hello</p>
+<div class="test">hellooo</div>
+<style>.test {background-color: red}</style>
