@@ -20,7 +20,7 @@ sections:
         - title: Upgrade & Plans
           description: Our Town
           url: /moulmein-cairnhill/our-town/
-        - title: Volunteer with Us
+        - title: Volunteer With Us
           description: Interest Groups
           url: fsdsefegeweew
         - title: Contact Us
