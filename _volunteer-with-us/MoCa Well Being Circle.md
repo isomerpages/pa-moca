@@ -4,6 +4,9 @@ permalink: /volunteer-with-us/moca-well-being-circle/
 variant: tiptap
 description: ""
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="https://uploads-ssl.webflow.com/60f4a4872dd5b71d47df606a/6569bfff2b1262d8ec8ec2fa_MoCa%20Well-Being%20Circle.jpg">
+</div>
 <p>The Moulmein-Cairnhill Well-Being Circle is more than a collective effort;
 it's a heartfelt commitment to nurturing mental wellness within our community
 through grassroots initiatives. Our dynamic community comprises individuals
@@ -25,3 +28,5 @@ Volunteer with the Well-Being Circle and be the change you want to see.
 Sign up now at <a href="http://go.gov.sg/beamocavolunteer" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/beamocavolunteer</a> or
 email us at <a href="mailto:hello@moca.sg" rel="noopener noreferrer nofollow" target="_blank">hello@moca.sg</a>.
 Together, let's create a brighter future for our neighborhood!</p>
+<p><a href="https://facebook.com/mocaminds" rel="noopener noreferrer nofollow" target="_blank">https://facebook.com/mocaminds</a>
+</p>
