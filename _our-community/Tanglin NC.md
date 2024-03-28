@@ -9,6 +9,6 @@ description: ""
 </div>
 <p>Featuring the UNESCO Hertiage site, The Botanic Gardens, Tanglin NC actively
 promotes active citizenry and foster stronger community bonds within private
-housing estates.
-<br><a href="https://facebook.com/tanglinnc" rel="noopener noreferrer nofollow" target="_blank">https://facebook.com/tanglinnc</a>
+housing estates.</p>
+<p><a href="https://facebook.com/tanglinnc" rel="noopener noreferrer nofollow" target="_blank">https://facebook.com/tanglinnc</a>
 </p>
