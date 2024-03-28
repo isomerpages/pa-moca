@@ -75,4 +75,8 @@ sections:
           description: Card description
           linktext: Learn more
           url: https://cms.isomer.gov.sg/sites/pa-moca/homepage
+  - resources:
+      title: Resources
+      subtitle: Add a preview and link to your Resource Room
+      id: resources
 ---
