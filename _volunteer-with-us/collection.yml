@@ -3,11 +3,11 @@ collections:
     output: true
     order:
       - MoCa IN.md
-      - MoCa Women.md
-      - Tutoring and Mentoring.md
-      - MoCa Harmony Circle.md
       - MoCa Sports.md
-      - MoCa Well Being Circle.md
-      - Our Green MoCa.md
+      - MoCa Harmony Circle.md
+      - Tutoring and Mentoring.md
+      - MoCa Women.md
       - Our Migrant Guests.md
+      - Our Green MoCa.md
+      - MoCa Well Being Circle.md
       - Be Our Volunteer.md
