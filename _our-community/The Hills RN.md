@@ -13,6 +13,6 @@ Sophia and Mount Emily form our home where we live, dine, work, study,
 play and make lasting connections together as a community.</p>
 <p>The Residents' Network is here to promote neighborliness, harmony and
 cohesiveness amongst the residents and establishments within the area bounded
-by Orchard Road, Prinsep Street, Selegie Road, and Rochor Canal Road.</p>
-<p>‍<a href="https://www.facebook.com/TheHillsRN" rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/TheHillsRN</a>
+by Orchard Road, Prinsep Street, Selegie Road, and Rochor Canal Road.
+<br><a href="https://www.facebook.com/TheHillsRN" rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/TheHillsRN</a>
 </p>
