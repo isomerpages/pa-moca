@@ -2,6 +2,7 @@ collections:
   our-community:
     output: true
     order:
+      - Cairnhill Community Club (CC)/Cairnhill CC MAEC.md
       - Cairnhill Community Club (CC)/Cairnhill CC IAEC.md
       - Cairnhill Community Club (CC)/.keep
       - Moulmein Cairnhill CCC GROs/.keep
