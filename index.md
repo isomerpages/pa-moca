@@ -9,21 +9,20 @@ sections:
   - hero:
       title: We are Moulmein-Cairnhill
       subtitle: Our people, communities' contribution is what makes this town
-        special,caring and warm. Come experience it and join us in making  a
+        special,caring and warm. Come experience it and join us in making a
         difference.
-      background: /images/Untitled_design__26_.png
-      url: /contact-us/
+      background: /images/SDIM3661_copy.jpg
       key_highlights:
         - title: Get to Know Us
           description: Our People
           url: ggergre
-        - title: upgrade and plans
+        - title: Upgrade & Plans
           description: Our Towns
           url: sdgrdfhrhhr
-        - title: Volunteer with us
+        - title: Volunteer with Us
           description: Interest Group
           url: fsdsefegeweew
-        - title: Contact us
+        - title: Contact Us
           description: Visit Our Centres
           url: /contact-us/
       variant: center
