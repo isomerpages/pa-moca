@@ -11,6 +11,6 @@ description: ""
 <p>Cairnhill NC aims to encourage active citizenry and foster stronger community
 bonds within private housing estates. The NC also work with various government
 agencies to improve the social and physical environment in their private
-housing estates.
-<br><a href="https://facebook.com/CairnhillNC" rel="noopener noreferrer nofollow" target="_blank">https://facebook.com/CairnhillNC</a>
+housing estates.</p>
+<p><a href="https://facebook.com/CairnhillNC" rel="noopener noreferrer nofollow" target="_blank">https://facebook.com/CairnhillNC</a>
 </p>
