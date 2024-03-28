@@ -2,6 +2,7 @@ collections:
   our-people:
     output: true
     order:
+      - Employee of the Year & Dedicated Volunteer Mr Bobby Chan.md
       - Dr Tan Eng Liang.md
       - Meeting Residents of Pek Kio.md
       - "National Day Awards 2022: Mdm Hamida Binte Khalid, BBM, Mrs Clara Tan,
