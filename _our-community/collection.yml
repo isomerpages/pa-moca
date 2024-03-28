@@ -2,6 +2,7 @@ collections:
   our-community:
     output: true
     order:
+      - Neighbourhood Committee GROs/Tanglin NC.md
       - Neighbourhood Committee GROs/The Hills RN.md
       - Neighbourhood Committee GROs/.keep
       - Residents’ Committee (RC)/Farrer Park RC.md
