@@ -2,6 +2,7 @@ collections:
   our-people:
     output: true
     order:
+      - Meeting Residents of Pek Kio.md
       - "National Day Awards 2022: Mdm Hamida Binte Khalid, BBM, Mrs Clara Tan,
         PBM & Mr Elango, PBM.md"
       - "National Day Awards 2021: Ms Sia Peng Peng, PBM & Mr Yong Teck Ming,
