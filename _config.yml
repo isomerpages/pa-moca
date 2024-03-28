@@ -1,12 +1,12 @@
-title: Title
+title: Moulmein-Cairnhill
 url: https://moca.sg
-favicon: /images/favicon-isomer.ico
+favicon: /images/60ef2b999757da7b73ab4e6a_Favicon.png
 colors:
-  primary-color: "#d0021b"
-  secondary-color: "#4372d6"
+  primary-color: "#da1f34"
+  secondary-color: "#316b99"
   media-colors:
     - title: media-color-one
-      color: "#49759a"
+      color: "#2a2d42"
     - title: media-color-two
       color: "#d0021b"
     - title: media-color-three
@@ -15,7 +15,8 @@ colors:
       color: "#00838f"
     - title: media-color-five
       color: "#00838f"
-description: An Isomer site of the Singapore Government
+description: Moulmein-Cairnhill (affectionately known as "MoCa") is a division
+  under the Tanjong Pagar GRC, helmed by our Grassroots Advisor, Mr Alvin Tan.
 permalink: none
 baseurl: ""
 exclude:
@@ -52,7 +53,7 @@ plugins:
 staging: https://staging.d2ykz61gaxoc4q.amplifyapp.com
 prod: https://master.d2ykz61gaxoc4q.amplifyapp.com
 facebook-pixel: ""
-shareicon: /images/isomer-logo.svg
+shareicon: /images/og.jpg
 is_government: false
 google_analytics_ga4: ""
 linkedin-insights: ""
