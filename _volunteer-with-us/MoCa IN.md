@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MOCA_LOGOS___Moulmein_Cairnhill_Main.png">
+<img style="width: 100%" height="auto" width="100%" src="https://uploads-ssl.webflow.com/60f4a4872dd5b71d47df606a/6569c4183c26acb95519d9da_MoCa%20IN.jpg">
 </div>
 <p>Welcome to MoCa IN (Integration), where we proudly showcase the incredible
 stories and initiatives that exemplify our commitment to unity, diversity,
@@ -24,6 +24,6 @@ at <a href="http://go.gov.sg/beamocavolunteer" rel="noopener noreferrer nofollow
 email us at <a href="mailto:hello@moca.sg" rel="noopener noreferrer nofollow" target="_blank">hello@moca.sg</a>.
 Together, let's create a brighter future for our neighborhood!</p>
 <p></p>
-<p><a href="http://go.gov.sg/beamocavolunteer" rel="noopener noreferrer nofollow" target="_blank">Link: http://go.gov.sg/beamocavolunteer</a>
+<p><a href="http://go.gov.sg/beamocavolunteer" rel="noopener noreferrer nofollow" target="_blank">http://go.gov.sg/beamocavolunteer</a>
 </p>
 <p></p>
