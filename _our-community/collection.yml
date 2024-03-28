@@ -2,6 +2,7 @@ collections:
   our-community:
     output: true
     order:
+      - Neighbourhood Committee GROs/Newton NC.md
       - Neighbourhood Committee GROs/Tanglin NC.md
       - Neighbourhood Committee GROs/The Hills RN.md
       - Neighbourhood Committee GROs/.keep
