@@ -18,8 +18,8 @@ sections:
           description: Our People
           url: /our-people/alvin-tan/
         - title: Upgrade & Plans
-          description: Our Towns
-          url: sdgrdfhrhhr
+          description: Our Town
+          url: /moulmein-cairnhill/our-town/
         - title: Volunteer with Us
           description: Interest Group
           url: fsdsefegeweew
