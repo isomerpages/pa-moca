@@ -4,6 +4,9 @@ permalink: /volunteer-with-us/moca-women/
 variant: tiptap
 description: ""
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="6569c08908c6f80c40213eb6_MoCa Women.jpg (1186×696)" src="https://uploads-ssl.webflow.com/60f4a4872dd5b71d47df606a/6569c08908c6f80c40213eb6_MoCa%20Women.jpg">
+</div>
 <p>MoCa Women, an initiative in Moulmein-Cairnhill launched in 2021, aims
 to celebrate and support women in our community. This goes beyond commemorating
 women on a single day or a particular time period. At MoCa Women, we ‘Inspire
