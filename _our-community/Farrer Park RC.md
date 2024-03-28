@@ -10,6 +10,6 @@ description: ""
 </div>
 <p>Farrer Park was the first horse racing meet held on 23 and 25 February
 1843, and has a rich sporting hertiage over the years that has seen many
-national athletes train in Farrer Park
-<br><a href="https://facebook.com/Farrer-Park-Residents-Committee-544208985779410/" rel="noopener noreferrer nofollow" target="_blank">https://facebook.com/Farrer-Park-Residents-Committee-544208985779410/</a>
+national athletes train in Farrer Park</p>
+<p><a href="https://facebook.com/Farrer-Park-Residents-Committee-544208985779410/" rel="noopener noreferrer nofollow" target="_blank">https://facebook.com/Farrer-Park-Residents-Committee-544208985779410/</a>
 </p>
