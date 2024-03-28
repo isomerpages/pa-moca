@@ -2,6 +2,7 @@ collections:
   our-community:
     output: true
     order:
+      - Cairnhill Community Club (CC)/Cairnhill CC SCEC.md
       - Cairnhill Community Club (CC)/Cairnhill CC CCMC.md
       - Cairnhill Community Club (CC)/Cairnhill CC WEC.md
       - Cairnhill Community Club (CC)/Cairnhill CC MAEC.md
