@@ -2,6 +2,7 @@ collections:
   our-community:
     output: true
     order:
+      - Goldhill NC.md
       - Cairnhill NC.md
       - Cambridge NC.md
       - Balmoral NC.md
