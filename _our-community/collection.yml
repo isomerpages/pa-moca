@@ -2,6 +2,7 @@ collections:
   our-community:
     output: true
     order:
+      - Moulmein Cairnhill Youth Network.md
       - Moulmein Cairnhill Community Sports Club (CSC).md
       - Moulmein Cairnhill Family Life Champions (FLC).md
       - Moulmein Cairnhill Integration & Naturalisation Champions (INC).md
