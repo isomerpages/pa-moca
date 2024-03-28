@@ -1,5 +1,4 @@
 collections:
   our-community:
     output: true
-    order:
-      - Moulmein Cairnhill Citizen’s Consultative Committee (CCC) GROs.md
+    order: []
