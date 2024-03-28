@@ -21,7 +21,7 @@ sections:
           description: Our Town
           url: /moulmein-cairnhill/our-town/
         - title: Volunteer with Us
-          description: Interest Group
+          description: Interest Groups
           url: fsdsefegeweew
         - title: Contact Us
           description: Visit Our Centres
