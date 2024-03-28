@@ -14,6 +14,5 @@ play and make lasting connections together as a community.</p>
 <p>The Residents' Network is here to promote neighborliness, harmony and
 cohesiveness amongst the residents and establishments within the area bounded
 by Orchard Road, Prinsep Street, Selegie Road, and Rochor Canal Road.</p>
-<p>
-<br><a href="https://www.facebook.com/TheHillsRN" rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/TheHillsRN</a>
+<p><a href="https://www.facebook.com/TheHillsRN" rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/TheHillsRN</a>
 </p>
