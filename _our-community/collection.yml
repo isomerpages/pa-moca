@@ -2,6 +2,7 @@ collections:
   our-community:
     output: true
     order:
+      - Tekka RC.md
       - Owen RC.md
       - Farrer Road RC.md
       - Farrer Park RC.md
