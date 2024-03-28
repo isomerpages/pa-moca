@@ -10,6 +10,6 @@ description: ""
 </div>
 <p>A small but important community that fosters a deep kampong spirit amongst
 the two blocks of flats. Farrer Road RC conducts several outreach and community
-bonding events for our residents.
-<br><a href="https://facebook.com/farrerroadrc" rel="noopener noreferrer nofollow" target="_blank">https://facebook.com/farrerroadrc</a>
+bonding events for our residents.</p>
+<p><a href="https://facebook.com/farrerroadrc" rel="noopener noreferrer nofollow" target="_blank">https://facebook.com/farrerroadrc</a>
 </p>
