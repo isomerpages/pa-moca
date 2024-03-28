@@ -17,6 +17,6 @@ Executive Committee (WEC), Senior Citizens' Executive Committee (SCEC)
 and Indian Activity Executive Committee (IAEC). Through the various cultural,
 educational, recreational, sporting, social and other community-based activities
 , the CCMC aims to promote racial harmony and social cohesion amongst our
-residents.
-<br><a href="https://facebook.com/tanglincc" rel="noopener noreferrer nofollow" target="_blank">https://facebook.com/tanglincc</a>
+residents.</p>
+<p><a href="https://facebook.com/tanglincc" rel="noopener noreferrer nofollow" target="_blank">https://facebook.com/tanglincc</a>
 </p>
