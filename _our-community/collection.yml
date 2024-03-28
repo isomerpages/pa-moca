@@ -2,6 +2,7 @@ collections:
   our-community:
     output: true
     order:
+      - Neighbourhood Committee GROs/.keep
       - Residents’ Committee (RC)/Farrer Park RC.md
       - Residents’ Committee (RC)/Farrer Road RC.md
       - Residents’ Committee (RC)/Owen RC.md
