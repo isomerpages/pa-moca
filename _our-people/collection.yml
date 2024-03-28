@@ -2,6 +2,7 @@ collections:
   our-people:
     output: true
     order:
+      - "Being a Citizens On Patrol Volunteer: Mdm Hamida Binte Khalid.md"
       - Author Yousuf Rajid.md
       - Mr Alvin Tan.md
       - The Krishnans and Ngs.md
