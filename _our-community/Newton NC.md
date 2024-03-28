@@ -11,5 +11,6 @@ description: ""
 constituency under Tanjong Pagar GRC, and our Grassroot Advisor is Mr Alvin
 Tan. We aim to promote neighborliness, harmony and cohesiveness with residents
 in Newton.
+<br>
 <br><a href="https://facebook.com/newtonresidents/" rel="noopener noreferrer nofollow" target="_blank">https://facebook.com/newtonresidents/</a>
 </p>
