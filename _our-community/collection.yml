@@ -2,6 +2,7 @@ collections:
   our-community:
     output: true
     order:
+      - Cairnhill CC IAEC.md
       - Cairnhill CC MAEC.md
       - Cairnhill CC WEC.md
       - Cairnhill CC SCEC.md
