@@ -1,8 +1,9 @@
 ---
 layout: homepage
-title: Title
-description: An Isomer site of the Singapore Government
-image: /images/isomer-logo.svg
+title: Moulmein-Cairnhill
+description: Moulmein-Cairnhill (affectionately known as "MoCa") is a division
+  under the Tanjong Pagar GRC, helmed by our Grassroots Advisor, Mr Alvin Tan.
+image: /images/og.jpg
 permalink: /
 notification: ""
 sections:
