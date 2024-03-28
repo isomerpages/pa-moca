@@ -16,7 +16,7 @@ sections:
       key_highlights:
         - title: Get to Know Us
           description: Our People
-          url: ggergre
+          url: /our-people/alvin-tan/
         - title: Upgrade & Plans
           description: Our Towns
           url: sdgrdfhrhhr
