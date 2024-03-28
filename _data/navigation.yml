@@ -3,10 +3,10 @@ links:
   - title: News & Notices
     url: /moulmein-cairnhill/news-and-notices/
   - title: Our Community
-    url: /permalink
+    url: /
     sublinks:
-      - title: Moulmein-Cairnhill (CCC) GROs
-        url: /permalink
+      - title: Moulmein-Cairnhill CCC GROs
+        url: /
       - title: Pek Kio Community Centre (CC)
         url: /permalink
       - title: Tanglin Community Club (CC)
