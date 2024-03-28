@@ -10,7 +10,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="box-sizing: border-box; border: 0px; max-width: 100%; height: auto; vertical-align: top; display: block; font-family: IBMPlexSans, iAWriterEmphasis, iAWriterHiraginoSans, iAWriterEmphasisSpaced, iAWriterDuo5, -apple-system, &quot;Helvetica Neue&quot;, Arial, sans-serif;" height="auto" width="100%" alt="" src="https://uploads-ssl.webflow.com/60f4a4872dd5b71d47df606a/618b98c13eb80c3920712168_245887354_301269178485515_7115283438262335684_n.jpg">
 </div>
-<p>Our Grassroots Adviser, Mr Alvin Tan headed doen to Little India on Deepavali
+<p>Our Grassroots Adviser, Mr Alvin Tan headed down to Little India on Deepavali
 Eve to check in on our LiSHA (Little India Shopkeepers and Heritage Association)
 community, and Singapore Tourism Board and Singapore Police Force colleagues.&nbsp;</p>
 <p>COVID-19 has continued to be hard on our local businesses and our officers
