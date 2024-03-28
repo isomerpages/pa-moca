@@ -4,6 +4,9 @@ permalink: /volunteer-with-us/moca-harmony-circle/
 variant: tiptap
 description: ""
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="https://uploads-ssl.webflow.com/60f4a4872dd5b71d47df606a/6569c0d507cc429c9be09891_Harmony%20Circle.jpg">
+</div>
 <p>The Moulmein-Cairnhill Harmony Circle is a platform to promote racial
 and religious harmony in Singapore. Our circle is dedicated to creating
 an inclusive space where various religions come together to build meaningful
