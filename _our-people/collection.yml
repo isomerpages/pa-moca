@@ -2,6 +2,7 @@ collections:
   our-people:
     output: true
     order:
+      - Author Yousuf Rajid.md
       - Mr Alvin Tan.md
       - The Krishnans and Ngs.md
       - Mrs Chu.md
