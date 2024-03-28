@@ -2,6 +2,8 @@ logo: /images/60ef2c8cb42f31d7109880d5_Webclip.png
 links:
   - title: News & Notices
     url: /moulmein-cairnhill/news-and-notices/
+  - title: Our Town
+    url: /moulmein-cairnhill/our-town/
   - title: Our Community
     url: /
     sublinks:
@@ -21,9 +23,7 @@ links:
     url: /our-people/alvin-tan/
   - title: Activities
     url: /permalink
-  - title: Volunteer With Us
+  - title: Volunteer
     url: /volunteer-with-us/moca-in/
   - title: Contact Us
     url: /contact-us/
-  - title: New resource room
-    resource_room: true
