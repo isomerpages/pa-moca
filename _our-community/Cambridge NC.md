@@ -11,6 +11,6 @@ description: ""
 <p>The Cambridge Estate, of Farrer Park district, is an old housing district
 where its inner roads are mostly named after English counties, cities and
 towns. Cambridge NC serves the residents to good friendships and build
-the kampong spirit amonst our residents.
-<br><a href="https://facebook.com/MoulmeinCambridgeNC/" rel="noopener noreferrer nofollow" target="_blank">https://facebook.com/MoulmeinCambridgeNC/</a>
+the kampong spirit amonst our residents.</p>
+<p><a href="https://facebook.com/MoulmeinCambridgeNC/" rel="noopener noreferrer nofollow" target="_blank">https://facebook.com/MoulmeinCambridgeNC/</a>
 </p>
