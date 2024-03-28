@@ -2,6 +2,7 @@ collections:
   our-community:
     output: true
     order:
+      - Residents’ Committee (RC)/Owen RC.md
       - Residents’ Committee (RC)/Tekka RC.md
       - Residents’ Committee (RC)/.keep
       - Tanglin Community Club (CC)/Tanglin CC CCMC.md
