@@ -2,9 +2,9 @@ collections:
   our-people:
     output: true
     order:
-      - Lost and Found!.md
       - Mr Alvin Tan.md
       - The Krishnans and Ngs.md
       - Mrs Chu.md
       - Ms Grace Ong.md
       - Ms Marlene Gwee.md
+      - Lost and Found!.md
