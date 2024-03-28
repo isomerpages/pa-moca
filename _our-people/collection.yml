@@ -2,6 +2,8 @@ collections:
   our-people:
     output: true
     order:
+      - "National Day Awards 2021: Ms Sia Peng Peng, PBM & Mr Yong Teck Ming,
+        PBM.md"
       - "Being a Citizens On Patrol Volunteer: Mdm Hamida Binte Khalid.md"
       - Author Yousuf Rajid.md
       - Mr Alvin Tan.md
