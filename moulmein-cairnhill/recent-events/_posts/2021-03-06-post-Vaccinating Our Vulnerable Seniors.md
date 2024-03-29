@@ -8,7 +8,7 @@ image: ""
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="transition: opacity 1s ease 0s; max-width: 30%; height: auto; border-radius: 5px; margin-top: 10px; margin-right: 5px; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none;" height="auto" width="100%" alt="Event preview" src="https://uploads-ssl.webflow.com/60f4a4872dd5b71d47df606a/6107e6900b81b0eee57800bf_Vaccinating%20Our%20Vulnerable%20Seniors%201.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="Event preview" src="https://uploads-ssl.webflow.com/60f4a4872dd5b71d47df606a/6107e6900b81b0eee57800bf_Vaccinating%20Our%20Vulnerable%20Seniors%201.jpg">
 </div>
 <p>Our vaccination rates for our seniors are fairly good, but there’s room
 for improvement, particularly those above 70 years old. One way to helpmake
@@ -18,9 +18,9 @@ doctors to vaccinate them at their homes.</p>
 <p>We’re aiming to get 2/3 of our population fully vaccinated by 9Aug. Please
 help encourage your friends and family to vaccinate.</p>
 <div class="isomer-image-wrapper">
-<img style="transition: opacity 1s ease 0s; max-width: 30%; height: auto; border-radius: 5px; margin-top: 10px; margin-right: 5px; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none;" height="auto" width="100%" alt="Event link" src="https://uploads-ssl.webflow.com/60f4a4872dd5b71d47df606a/6107e6930b81b0dd8e7800ca_Vaccinating%20Our%20Vulnerable%20Seniors%202.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="Event link" src="https://uploads-ssl.webflow.com/60f4a4872dd5b71d47df606a/6107e6930b81b0dd8e7800ca_Vaccinating%20Our%20Vulnerable%20Seniors%202.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="transition: opacity 1s ease 0s; max-width: 30%; height: auto; border-radius: 5px; margin-top: 10px; margin-right: 5px; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none;" height="auto" width="100%" alt="Event link" src="https://uploads-ssl.webflow.com/60f4a4872dd5b71d47df606a/6107e6900b81b0eee57800bf_Vaccinating%20Our%20Vulnerable%20Seniors%201.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="Event link" src="https://uploads-ssl.webflow.com/60f4a4872dd5b71d47df606a/6107e6900b81b0eee57800bf_Vaccinating%20Our%20Vulnerable%20Seniors%201.jpg">
 </div>
 <p></p>
