@@ -21,7 +21,7 @@ sections:
           url: /moulmein-cairnhill/our-town/
         - title: Volunteer With Us
           description: Interest Groups
-          url: /volunteer-with-us/moca-in/
+          url: /be-our-volunteer
         - title: Contact Us
           description: Visit Our Centres
           url: /contact-us/
