@@ -2,6 +2,7 @@ collections:
   our-people:
     output: true
     order:
+      - Mrs Chu.md
       - Meeting Residents of Pek Kio.md
       - Ms Marlene Gwee.md
       - Lost and Found!.md
