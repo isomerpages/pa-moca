@@ -2,6 +2,7 @@ collections:
   our-people:
     output: true
     order:
+      - Ms Grace Ong.md
       - Mrs Chu.md
       - Meeting Residents of Pek Kio.md
       - Ms Marlene Gwee.md
