@@ -7,3 +7,4 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p>Balmoral NC's Christmas Wreath Making Workshop</p>
