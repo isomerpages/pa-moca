@@ -27,7 +27,7 @@ sections:
           url: /contact-us/
       variant: center
   - infobar:
-      title: Upcoming Activites
+      title: Upcoming Activities
       id: infobar
       url: https://cms.isomer.gov.sg/sites/pa-moca/homepage
   - infopic:
