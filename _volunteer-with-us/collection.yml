@@ -1,4 +1,5 @@
 collections:
   volunteer-with-us:
     output: true
-    order: []
+    order:
+      - Moulmein Cairnhill Harmony Circle.md
