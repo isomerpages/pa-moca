@@ -2,6 +2,7 @@ collections:
   our-people:
     output: true
     order:
+      - The Krishnans and Ngs.md
       - National Day Awards 2023 Mr Steven Koh BBM & Mr Michael Teo PBM.md
       - National Day Awards 2022 Mdm Hamida Binte Khalid BBM Mrs Clara Tan PBM &
         Mr Elango PBM.md
