@@ -40,6 +40,7 @@ sections:
         a seasoned cyclist or looking for some outdoor fun, this is perfect for
         all.
       image: /images/65e17eb498a862aa7d2369e2_Easter_Extravaganza_2024_Poster_vetted_page_0001.jpg
+      alt: Poster
   - resources:
       id: resources
       subtitle: What we have been up to
