@@ -18,7 +18,7 @@ sections:
           url: /alvin-tan
         - title: Upgrade & Plans
           description: Our Town
-          url: /moulmein-cairnhill/our-town/
+          url: /moulmein-cairnhill/our-town
         - title: Volunteer With Us
           description: Interest Groups
           url: /be-our-volunteer
