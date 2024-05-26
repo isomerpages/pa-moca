@@ -2,6 +2,7 @@ collections:
   our-people:
     output: true
     order:
+      - Ms Marlene Gwee.md
       - Lost and Found!.md
       - Employee of the Year & Dedicated Volunteer Mr Bobby Chan.md
       - Dr Tan Eng Liang.md
