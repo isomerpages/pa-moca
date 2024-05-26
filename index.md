@@ -31,15 +31,14 @@ sections:
       id: infobar
       url: https://cms.isomer.gov.sg/sites/pa-moca/homepage
   - infopic:
-      title: International Womens' Day 2024
+      title: MoCa Family Month - Cycling Fiesta
       id: infopic
       button: Purchase Here
-      url: https://go.gov.sg/easter2024
-      alt: Image alt text
-      subtitle: Mar 9, 2024, 2PM - 5PM
-      description: Join Us for an Enchanting Day at Easter Extravaganza 2024! A
-        memorable gathering for our community, filled with fun, laughter and
-        shared experiences.
+      url: https://go.gov.sg/ecp010624
+      subtitle: June 1, 2024, 8:30AM
+      description: Get ready to pedal your way through East Coast Park! Whether you're
+        a seasoned cyclist or looking for some outdoor fun, this is perfect for
+        all.
       image: /images/65e17eb498a862aa7d2369e2_Easter_Extravaganza_2024_Poster_vetted_page_0001.jpg
   - resources:
       id: resources
