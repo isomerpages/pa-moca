@@ -4,13 +4,11 @@ links:
     url: /moulmein-cairnhill/news-and-notices/
   - title: Our Town
     url: /moulmein-cairnhill/our-town/
-  - title: Our People
-    url: /our-people/alvin-tan/
+  - title: Our Community
+    collection: our-community
   - title: Activities
     url: /moulmein-cairnhill/recent-events/
   - title: Volunteer with Us
     url: /be-our-volunteer/
   - title: Contact Us
     url: /contact-us/
-  - title: Our Community
-    collection: our-community
