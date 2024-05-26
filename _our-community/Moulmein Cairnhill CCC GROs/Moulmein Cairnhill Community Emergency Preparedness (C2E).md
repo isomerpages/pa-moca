@@ -6,8 +6,9 @@ description: ""
 third_nav_title: Moulmein Cairnhill CCC GROs
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="https://uploads-ssl.webflow.com/60f4a4872dd5b71d47df606a/61539e3c8c43f554e9fb883e_Moulmein-Cairnhill%20Community%20Emergency%20Preparedness%20(C2E).jpg">
+<img style="width: 740px; color: rgb(0, 0, 0); font-family: system-ui, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, Roboto, Oxygen, Ubuntu, Cantarell, &quot;Open Sans&quot;, &quot;Helvetica Neue&quot;, sans-serif; font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;" height="auto" width="100%" src="https://moca.sgp1.cdn.digitaloceanspaces.com/Our%20Communities/61539e3c8c43f554e9fb883e_Moulmein-Cairnhill%2520Community%2520Emergency%2520Preparedness%2520(C2E).webp">
 </div>
+<p></p>
 <p>Moulmein-Cairnhill C2E serves to help strengthen community resilience
 by involving residents, grassroots leaders, educational institutions, businesses,
 civic/religious/voluntary welfare organisations and other community partners
