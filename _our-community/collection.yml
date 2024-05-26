@@ -3,37 +3,6 @@ collections:
     output: true
     order:
       - Moulmein–Cairnhill.md
-      - Neighbourhood Committee GROs/Balmoral NC.md
-      - Neighbourhood Committee GROs/Cambridge NC.md
-      - Neighbourhood Committee GROs/Cairnhill NC.md
-      - Neighbourhood Committee GROs/Goldhill NC.md
-      - Neighbourhood Committee GROs/Newton NC.md
-      - Neighbourhood Committee GROs/Tanglin NC.md
-      - Neighbourhood Committee GROs/The Hills RN.md
-      - Neighbourhood Committee GROs/.keep
-      - Residents’ Committee (RC)/Farrer Park RC.md
-      - Residents’ Committee (RC)/Farrer Road RC.md
-      - Residents’ Committee (RC)/Owen RC.md
-      - Residents’ Committee (RC)/Tekka RC.md
-      - Residents’ Committee (RC)/.keep
-      - Tanglin Community Club (CC)/Tanglin CC CCMC.md
-      - Tanglin Community Club (CC)/Tanglin CC SCEC.md
-      - Tanglin Community Club (CC)/Tanglin CC WEC.md
-      - Tanglin Community Club (CC)/Tanglin CC IAEC.md
-      - Tanglin Community Club (CC)/Tanglin CC.md
-      - Tanglin Community Club (CC)/.keep
-      - Pek Kio Community Centre (CC)/Pek Kio CC CCMC.md
-      - Pek Kio Community Centre (CC)/Pek Kio CC SCEC.md
-      - Pek Kio Community Centre (CC)/Pek Kio CC WEC.md
-      - Pek Kio Community Centre (CC)/Pek Kio CC MAEC.md
-      - Pek Kio Community Centre (CC)/Pek Kio CC IAEC.md
-      - Pek Kio Community Centre (CC)/.keep
-      - Cairnhill Community Club (CC)/.keep
-      - Cairnhill Community Club (CC)/Cairnhill CC IAEC.md
-      - Cairnhill Community Club (CC)/Cairnhill CC MAEC.md
-      - Cairnhill Community Club (CC)/Cairnhill CC WEC.md
-      - Cairnhill Community Club (CC)/Cairnhill CC SCEC.md
-      - Cairnhill Community Club (CC)/Cairnhill CC CCMC.md
       - Moulmein Cairnhill CCC GROs/.keep
       - Moulmein Cairnhill CCC GROs/Moulmein Cairnhill Youth Network.md
       - Moulmein Cairnhill CCC GROs/Moulmein Cairnhill Community Sports Club
@@ -46,3 +15,34 @@ collections:
         (AAC).md
       - Moulmein Cairnhill CCC GROs/Moulmein Cairnhill Community Emergency
         Preparedness (C2E).md
+      - Cairnhill Community Club (CC)/.keep
+      - Cairnhill Community Club (CC)/Cairnhill CC IAEC.md
+      - Cairnhill Community Club (CC)/Cairnhill CC MAEC.md
+      - Cairnhill Community Club (CC)/Cairnhill CC WEC.md
+      - Cairnhill Community Club (CC)/Cairnhill CC SCEC.md
+      - Cairnhill Community Club (CC)/Cairnhill CC CCMC.md
+      - Pek Kio Community Centre (CC)/.keep
+      - Pek Kio Community Centre (CC)/Pek Kio CC CCMC.md
+      - Pek Kio Community Centre (CC)/Pek Kio CC SCEC.md
+      - Pek Kio Community Centre (CC)/Pek Kio CC WEC.md
+      - Pek Kio Community Centre (CC)/Pek Kio CC MAEC.md
+      - Pek Kio Community Centre (CC)/Pek Kio CC IAEC.md
+      - Tanglin Community Club (CC)/.keep
+      - Tanglin Community Club (CC)/Tanglin CC CCMC.md
+      - Tanglin Community Club (CC)/Tanglin CC SCEC.md
+      - Tanglin Community Club (CC)/Tanglin CC WEC.md
+      - Tanglin Community Club (CC)/Tanglin CC IAEC.md
+      - Tanglin Community Club (CC)/Tanglin CC.md
+      - Residents’ Committee (RC)/.keep
+      - Residents’ Committee (RC)/Farrer Park RC.md
+      - Residents’ Committee (RC)/Farrer Road RC.md
+      - Residents’ Committee (RC)/Owen RC.md
+      - Residents’ Committee (RC)/Tekka RC.md
+      - Neighbourhood Committee GROs/.keep
+      - Neighbourhood Committee GROs/Balmoral NC.md
+      - Neighbourhood Committee GROs/Cambridge NC.md
+      - Neighbourhood Committee GROs/Cairnhill NC.md
+      - Neighbourhood Committee GROs/Goldhill NC.md
+      - Neighbourhood Committee GROs/Newton NC.md
+      - Neighbourhood Committee GROs/Tanglin NC.md
+      - Neighbourhood Committee GROs/The Hills RN.md
