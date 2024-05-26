@@ -2,5 +2,6 @@ collections:
   volunteer-with-us:
     output: true
     order:
+      - MoCa Sports.md
       - MoCa IN.md
       - Moulmein Cairnhill Harmony Circle.md
