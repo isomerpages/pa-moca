@@ -4,21 +4,6 @@ links:
     url: /moulmein-cairnhill/news-and-notices/
   - title: Our Town
     url: /moulmein-cairnhill/our-town/
-  - title: Our Community
-    url: /
-    sublinks:
-      - title: Moulmein-Cairnhill CCC GROs
-        url: /moulmein-cairnhill-youth-network/
-      - title: Cairnhill Community Club (CC)
-        url: /cairnhill-cc-iaec/
-      - title: Pek Kio Community Centre (CC)
-        url: /pek-kio-cc-ccmc/
-      - title: Tanglin Community Club (CC)
-        url: /pek-kio-cc-ccmc/
-      - title: Residents’ Committee (RC)
-        url: /tekka-rc/
-      - title: Neighbourhood Committee GROs
-        url: /the-hills-rn/
   - title: Our People
     url: /our-people/alvin-tan/
   - title: Activities
@@ -27,3 +12,5 @@ links:
     url: /be-our-volunteer/
   - title: Contact Us
     url: /contact-us/
+  - title: Our Community
+    collection: our-community
