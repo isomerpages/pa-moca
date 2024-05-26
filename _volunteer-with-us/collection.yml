@@ -2,6 +2,7 @@ collections:
   volunteer-with-us:
     output: true
     order:
+      - Tutoring and Mentoring.md
       - MoCa Social Media Team.md
       - Our Migrant Guests.md
       - Our Green MoCa.md
