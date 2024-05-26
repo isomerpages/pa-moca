@@ -2,4 +2,5 @@ collections:
   volunteer-with-us:
     output: true
     order:
+      - MoCa IN.md
       - Moulmein Cairnhill Harmony Circle.md
