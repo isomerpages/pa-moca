@@ -2,6 +2,7 @@ collections:
   our-community:
     output: true
     order:
+      - Moulmein–Cairnhill.md
       - Neighbourhood Committee GROs/Balmoral NC.md
       - Neighbourhood Committee GROs/Cambridge NC.md
       - Neighbourhood Committee GROs/Cairnhill NC.md
