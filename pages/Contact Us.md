@@ -17,7 +17,9 @@ description: ""
 <h5><strong>Pek Kio Community Centre</strong></h5>
 <p>21 Gloucester Road
 <br>Singapore 219458
-<br><strong><a href="https://maps.google.com/maps?q=21+Gloucester+Road+Singapore+219458+" rel="noopener noreferrer nofollow" target="_blank">VIEW MAP →</a></strong>
+<br>
+</p>
+<p><strong><a href="https://maps.google.com/maps?q=21+Gloucester+Road+Singapore+219458+" rel="noopener noreferrer nofollow" target="_blank">VIEW MAP →</a></strong>
 </p>
 <p></p>
 </td>
@@ -33,7 +35,9 @@ description: ""
 <h5><strong>Tanglin Community Club</strong></h5>
 <p>245 Whitley Road
 <br>Singapore 297829
-<br><strong><a href="https://goo.gl/maps/C8VfxphGxT2GsfcaA" rel="noopener noreferrer nofollow" target="_blank">VIEW MAP →</a></strong>
+<br>
+</p>
+<p><strong><a href="https://goo.gl/maps/C8VfxphGxT2GsfcaA" rel="noopener noreferrer nofollow" target="_blank">VIEW MAP →</a></strong>
 </p>
 <p></p>
 </td>
@@ -50,8 +54,11 @@ description: ""
 <h5><strong>Cairnhill Community Club</strong></h5>
 <p>1 Anthony Rd
 <br>Singapore 229944
-<br><strong><a href="https://maps.google.com/maps?q=1+Anthony+Rd+Singapore+229944+" rel="noopener noreferrer nofollow" target="_blank">VIEW MAP →</a></strong>
+<br>
 </p>
+<p><strong><a href="https://maps.google.com/maps?q=1+Anthony+Rd+Singapore+229944+" rel="noopener noreferrer nofollow" target="_blank">VIEW MAP →</a></strong>
+</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
