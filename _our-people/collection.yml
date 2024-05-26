@@ -2,6 +2,7 @@ collections:
   our-people:
     output: true
     order:
+      - Dr Tan Eng Liang.md
       - Being a Citizens On Patrol Volunteer Mdm Hamida Binte Khalid.md
       - Author Yousuf Rajid.md
       - Mr Alvin Tan.md
