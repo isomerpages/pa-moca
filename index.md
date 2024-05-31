@@ -149,6 +149,16 @@ sections:
       url: https://go.gov.sg/tccmanga23jun
       image: /images/66503b8c0486f274e4f1ce11_434686507_823363976495022_2136803212399476427_n.jpg
       alt: Poster
+  - infopic:
+      title: My Vadai Better Than Original Vadai at Cairnhill CC
+      subtitle: June 28 2024, 6:30PM – 9:00PM
+      id: infopic
+      description: Make the best Vadai with Chef Aneel Sharma; impress friends with
+        delicious treats.
+      button: Purchase Here
+      url: http://go.gov.sg/myvadai28june24
+      image: /images/66501eea2714e888a7eaa1b6_Poster_for_My_Vadai_Workshop_on_28_June_2024__latest__vetted__1__page_0001.jpg
+      alt: Image alt text
   - resources:
       id: resources
       subtitle: What we have been up to
