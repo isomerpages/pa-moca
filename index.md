@@ -24,7 +24,7 @@ sections:
           url: /be-our-volunteer
         - title: Contact Us
           description: Visit Our Centres
-          url: /contact-us
+          url: /contact
       variant: center
   - infobar:
       title: Upcoming Activities
