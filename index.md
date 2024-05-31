@@ -9,7 +9,7 @@ notification: ""
 sections:
   - hero:
       title: We are Moulmein-Cairnhill
-      subtitle: Our people, communities' contribution is what makes this town special,
+      subtitle: Our people, communities’ contribution is what makes this town special,
         caring and warm. Come experience it and join us in making a difference.
       background: /images/SDIM3661_copy.jpg
       key_highlights:
