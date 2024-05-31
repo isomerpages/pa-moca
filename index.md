@@ -98,7 +98,7 @@ sections:
       button: Purchase Here
       url: https://go.gov.sg/jumpfitnesskids120624
       image: /images/6656b5abba6cd4ffe51e4995_Jump_Fitness__Comms.png
-      alt: Image alt text
+      alt: Poster
   - infopic:
       title: PA Kiddies Cheesecake Shooters at Pek Kio CC
       subtitle: June 15 2024, 10:30AM – 12PM
