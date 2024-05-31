@@ -99,6 +99,16 @@ sections:
       url: https://go.gov.sg/jumpfitnesskids120624
       image: /images/6656b5abba6cd4ffe51e4995_Jump_Fitness__Comms.png
       alt: Image alt text
+  - infopic:
+      title: PA Kiddies Cheesecake Shooters at Pek Kio CC
+      subtitle: June 15 2024, 10:30AM – 12PM
+      id: infopic
+      description: Kids can learn to make cheesecake shooters and boost kitchen
+        confidence and creativity.
+      button: Purchase Here
+      url: https://go.gov.sg/onepa-pekkiocc
+      image: /images/66544534e84824b76b6fe00e_445428670_476937321354666_5444561565636381445_n.jpg
+      alt: Poster
   - resources:
       id: resources
       subtitle: What we have been up to
