@@ -49,7 +49,7 @@ sections:
       button: Purchase Tickets
       url: https://go.gov.sg/ecp010624
       image: /images/663add3eacf06287f04cd72f_440316877_833506638822727_1891808947557923255_n.jpg
-      alt: Image alt text
+      alt: Poster
   - resources:
       id: resources
       subtitle: What we have been up to
