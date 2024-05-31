@@ -178,7 +178,7 @@ sections:
       button: Purchase Here
       url: https://go.gov.sg/mocafamilycarnival29june
       image: /images/664b37fbc5df5f5ec33aba6f_Yellow_and_Green_Playful_Illustrative_Fun_Park_Promotion_Flyer__24_.png
-      alt: Image alt text
+      alt: POSTER
   - resources:
       id: resources
       subtitle: What we have been up to
