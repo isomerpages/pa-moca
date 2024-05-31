@@ -159,9 +159,6 @@ sections:
       url: http://go.gov.sg/myvadai28june24
       image: /images/66501eea2714e888a7eaa1b6_Poster_for_My_Vadai_Workshop_on_28_June_2024__latest__vetted__1__page_0001.jpg
       alt: Poster
-  - resources:
-      id: resources
-      subtitle: What we have been up to
   - infopic:
       title: Creative Bento Workshop at Cairnhill CC
       subtitle: June 29 2024, 3:00PM – 5:00PM
@@ -172,4 +169,7 @@ sections:
       url: http://go.gov.sg/creativebento29june24
       image: /images/665020c52e2cef5657b55cce_bento.jpg
       alt: Poster
+  - resources:
+      id: resources
+      subtitle: What we have been up to
 ---
