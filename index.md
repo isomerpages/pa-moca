@@ -189,6 +189,16 @@ sections:
       url: https://go.gov.sg/shinelikeastar29june2024
       image: /images/664b37fbc5df5f5ec33aba6f_Yellow_and_Green_Playful_Illustrative_Fun_Park_Promotion_Flyer__24_.png
       alt: Poster
+  - infopic:
+      title: MoCa Durian Party 2024 at Blk 50 Dorset Road
+      subtitle: June 29 2024, 5:00PM – 7:00PM
+      id: infopic
+      description: Enjoy a durian party; get your hands on the king of fruits right at
+        your doorstep!
+      button: Purchase Here
+      url: https://go.gov.sg/familydurianfiesta29june2024
+      image: /images/664b37c8b5c8ab220a642099_441881514_469502545431477_7017449421699415736_n.jpg
+      alt: Poster
   - resources:
       id: resources
       subtitle: What we have been up to
