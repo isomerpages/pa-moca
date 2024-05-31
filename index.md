@@ -129,6 +129,16 @@ sections:
       url: https://go.gov.sg/cfltraining22june2024
       image: /images/66502792f573759565485f16_442494586_818023633705709_7392616925038568831_n.jpg
       alt: Image alt text
+  - infopic:
+      title: Ink Sketching Workshop at Cairnhill CC
+      subtitle: June 23 2024, 3:00PM – 5:00PM
+      id: infopic
+      description: Adults and kids aged 12+ can bond by creating art together at a
+        holiday workshop.
+      button: Purchase Here
+      url: https://go.gov.sg/inksketching23june2024
+      image: /images/66504112b0d6241271aaa92f_sketch.jpg
+      alt: Poster
   - resources:
       id: resources
       subtitle: What we have been up to
