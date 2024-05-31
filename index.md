@@ -158,7 +158,7 @@ sections:
       button: Purchase Here
       url: http://go.gov.sg/myvadai28june24
       image: /images/66501eea2714e888a7eaa1b6_Poster_for_My_Vadai_Workshop_on_28_June_2024__latest__vetted__1__page_0001.jpg
-      alt: Image alt text
+      alt: Poster
   - resources:
       id: resources
       subtitle: What we have been up to
