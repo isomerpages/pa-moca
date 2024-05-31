@@ -70,6 +70,14 @@ sections:
       url: https://go.gov.sg/notebook090624
       image: /images/66501f6614960ccf854c5a84_4dacdd84_642c_4912_8750_3dc5bd313c88.jpg
       alt: Image alt text
+  - infopic:
+      title: Gouache Painting Workshop at Cairnhill CC
+      subtitle: June 9 2024, 3:00PM – 5:00PM
+      id: infopic
+      description: Gouache painting workshop for adults and children at Cairnhill CC.
+      button: Purchase Here
+      url: https://go.gov.sg/gouachepainting9june24
+      alt: Image alt text
   - resources:
       id: resources
       subtitle: What we have been up to
