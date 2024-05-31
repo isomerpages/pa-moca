@@ -148,7 +148,7 @@ sections:
       button: Purchase Here
       url: https://go.gov.sg/tccmanga23jun
       image: /images/66503b8c0486f274e4f1ce11_434686507_823363976495022_2136803212399476427_n.jpg
-      alt: Image alt text
+      alt: Poster
   - resources:
       id: resources
       subtitle: What we have been up to
