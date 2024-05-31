@@ -128,7 +128,7 @@ sections:
       button: Register Here
       url: https://go.gov.sg/cfltraining22june2024
       image: /images/66502792f573759565485f16_442494586_818023633705709_7392616925038568831_n.jpg
-      alt: Image alt text
+      alt: Poster
   - infopic:
       title: Ink Sketching Workshop at Cairnhill CC
       subtitle: June 23 2024, 3:00PM – 5:00PM
