@@ -119,6 +119,16 @@ sections:
       url: https://go.gov.sg/onepa-pekkiocc
       image: /images/66544165e6895900676c52c6_441883788_476937324687999_225850798534856996_n.jpg
       alt: Image alt text
+  - infopic:
+      title: Acquire Skills For Suicide Prevention at Tanglin CC
+      subtitle: June 22 2024, 2:00PM – 6:00PM
+      id: infopic
+      description: Suicide prevention training by Caring for Life; learn how to help
+        people in distress.
+      button: Register Here
+      url: https://go.gov.sg/cfltraining22june2024
+      image: /images/66502792f573759565485f16_442494586_818023633705709_7392616925038568831_n.jpg
+      alt: Image alt text
   - resources:
       id: resources
       subtitle: What we have been up to
