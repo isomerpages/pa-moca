@@ -77,6 +77,27 @@ sections:
       description: Gouache painting workshop for adults and children at Cairnhill CC.
       button: Purchase Here
       url: https://go.gov.sg/gouachepainting9june24
+      alt: Poster
+      image: /images/6656cadaf7bbd94b7d971764_paint.jpg
+  - infopic:
+      title: MoCa Mobile Vaccination Exercise at 39A Cambridge Road
+      subtitle: June 10–12 2024, 9AM – 5PM
+      id: infopic
+      description: Mobile Vaccination Exercise to stay protected amid rising COVID-19
+        cases. Get your booster now!
+      button: Register Here
+      url: https://go.gov.sg/mobilevaccination2024
+      image: /images/6656ba1b92a7be78c542bc0c_10_to_12_June_2024__1__vetted_page_0001.jpg
+      alt: Poster
+  - infopic:
+      title: Jumping Fitness for Kids at Tanglin CC
+      subtitle: June 12 2024, 2:30PM – 4:00PM
+      id: infopic
+      description: Keep kids active this June holiday with Jumping Fitness for Kids at
+        Tanglin CC.
+      button: Purchase Here
+      url: https://go.gov.sg/jumpfitnesskids120624
+      image: /images/6656b5abba6cd4ffe51e4995_Jump_Fitness__Comms.png
       alt: Image alt text
   - resources:
       id: resources
