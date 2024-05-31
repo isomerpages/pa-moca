@@ -179,6 +179,16 @@ sections:
       url: https://go.gov.sg/mocafamilycarnival29june
       image: /images/664b37fbc5df5f5ec33aba6f_Yellow_and_Green_Playful_Illustrative_Fun_Park_Promotion_Flyer__24_.png
       alt: POSTER
+  - infopic:
+      title: MOCA's Talent Competition at Pek Kio CC
+      subtitle: June 29 2024, 4:00PM – 7:00PM
+      id: infopic
+      description: Showcase your talents at the Family Month Talent Competition; shine
+        with singing, dancing, or other skills.
+      button: Register Here
+      url: https://go.gov.sg/shinelikeastar29june2024
+      image: /images/664b37fbc5df5f5ec33aba6f_Yellow_and_Green_Playful_Illustrative_Fun_Park_Promotion_Flyer__24_.png
+      alt: Image alt text
   - resources:
       id: resources
       subtitle: What we have been up to
