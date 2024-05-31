@@ -169,6 +169,16 @@ sections:
       url: http://go.gov.sg/creativebento29june24
       image: /images/665020c52e2cef5657b55cce_bento.jpg
       alt: Poster
+  - infopic:
+      title: Carnival and Talent Competiton at Pek Kio CC
+      subtitle: June 29 2024, 3:00PM – 7:00PM
+      id: infopic
+      description: Join the CARNIVAL to celebrate family month with a talent show,
+        flea market, food, and games.
+      button: Purchase Here
+      url: https://go.gov.sg/mocafamilycarnival29june
+      image: /images/664b37fbc5df5f5ec33aba6f_Yellow_and_Green_Playful_Illustrative_Fun_Park_Promotion_Flyer__24_.png
+      alt: Image alt text
   - resources:
       id: resources
       subtitle: What we have been up to
