@@ -139,6 +139,16 @@ sections:
       url: https://go.gov.sg/inksketching23june2024
       image: /images/66504112b0d6241271aaa92f_sketch.jpg
       alt: Poster
+  - infopic:
+      title: Holiday Manga Workshop! at Tanglin CC
+      subtitle: June 23 2024, 4:00PM – 6:00PM
+      id: infopic
+      description: Learn to draw in Chibi style at a HOLIDAY Manga Workshop; materials
+        provided, just bring creativity.
+      button: Purchase Here
+      url: https://go.gov.sg/tccmanga23jun
+      image: /images/66503b8c0486f274e4f1ce11_434686507_823363976495022_2136803212399476427_n.jpg
+      alt: Image alt text
   - resources:
       id: resources
       subtitle: What we have been up to
