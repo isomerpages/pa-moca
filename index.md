@@ -31,16 +31,25 @@ sections:
       id: infobar
       url: https://cms.isomer.gov.sg/sites/pa-moca/homepage
   - infopic:
-      title: MoCa Family Month - Cycling Fiesta
+      title: Coding with Robotics Workshop at Pek Kio CC
       id: infopic
       button: Purchase Here
-      url: https://go.gov.sg/ecp010624
-      subtitle: June 1, 2024, 8:30AM
-      description: Get ready to pedal your way through East Coast Park! Whether you're
-        a seasoned cyclist or looking for some outdoor fun, this is perfect for
-        all.
-      image: /images/65e17eb498a862aa7d2369e2_Easter_Extravaganza_2024_Poster_vetted_page_0001.jpg
+      url: https://go.gov.sg/onepa-pekkiocc
+      subtitle: "June 1 2024, 2:30PM – 4:30PM  "
+      description: Join our RoboKIT series to develop STEM skills for kids aged 7 to
+        11 interested in robotics and coding.
+      image: /images/66543914b25907c46f72f857_445226776_476937291354669_3369247661694697766_n.jpg
       alt: Poster
+  - infopic:
+      title: MoCa Family Month - Cycling Fiesta at East Coast Park
+      subtitle: June 1 2024, 8:30AM – 9:30AM
+      id: infopic
+      description: Enjoy a scenic cycling event at East Coast Park, suitable for all
+        ages and skill levels.
+      button: Purchase Tickets
+      url: https://go.gov.sg/ecp010624
+      image: /images/663add3eacf06287f04cd72f_440316877_833506638822727_1891808947557923255_n.jpg
+      alt: Image alt text
   - resources:
       id: resources
       subtitle: What we have been up to
