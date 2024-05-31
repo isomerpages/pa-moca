@@ -162,4 +162,14 @@ sections:
   - resources:
       id: resources
       subtitle: What we have been up to
+  - infopic:
+      title: Creative Bento Workshop at Cairnhill CC
+      subtitle: June 29 2024, 3:00PM – 5:00PM
+      id: infopic
+      description: Unleash creativity by making bento boxes with your child; craft
+        adorable and delicious creations.
+      button: Purchase Here
+      url: http://go.gov.sg/creativebento29june24
+      image: /images/665020c52e2cef5657b55cce_bento.jpg
+      alt: Poster
 ---
