@@ -19,6 +19,6 @@ to:</p>
 <h4>How to Get Involved</h4>
 <p>"Together, we can make a difference and build a stronger, more connected
 community. We look forward to welcoming you to our volunteer team!"
-<br>
 </p>
-<p></p>
+<br>
+<a style="background-color: #da1f34; color: white; padding: 15px; font-weight: bold;" href="https://form.gov.sg/618fdf02ed7a350012407db8">Be a MoCa Volunteer</a>
