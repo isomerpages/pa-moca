@@ -109,6 +109,16 @@ sections:
       url: https://go.gov.sg/onepa-pekkiocc
       image: /images/66544534e84824b76b6fe00e_445428670_476937321354666_5444561565636381445_n.jpg
       alt: Poster
+  - infopic:
+      title: Calling all young wizards and scientists at Pek Kio CC
+      subtitle: June 15 2024, 2:30PM – 4:30PM
+      id: infopic
+      description: Be a magical wizard by learning the science behind magic tricks;
+        engage curiosity and creativity.
+      button: Purchase Here
+      url: https://go.gov.sg/onepa-pekkiocc
+      image: /images/66544165e6895900676c52c6_441883788_476937324687999_225850798534856996_n.jpg
+      alt: Image alt text
   - resources:
       id: resources
       subtitle: What we have been up to
