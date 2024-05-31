@@ -19,7 +19,7 @@ description: ""
 <br>Singapore 219458
 <br>
 </p>
-<p><strong><a href="https://maps.google.com/maps?q=21+Gloucester+Road+Singapore+219458+" rel="noopener noreferrer nofollow" target="_blank">VIEW MAP →</a></strong>
+<p><strong><a href="https://maps.app.goo.gl/DfopAGFMnNfpcj219" rel="noopener noreferrer nofollow" target="_blank">VIEW MAP →</a></strong>
 </p>
 <p></p>
 </td>
@@ -37,7 +37,7 @@ description: ""
 <br>Singapore 297829
 <br>
 </p>
-<p><strong><a href="https://goo.gl/maps/C8VfxphGxT2GsfcaA" rel="noopener noreferrer nofollow" target="_blank">VIEW MAP →</a></strong>
+<p><strong><a href="https://maps.app.goo.gl/uUTgTEqH6MaXSBoQ9" rel="noopener noreferrer nofollow" target="_blank">VIEW MAP →</a></strong>
 </p>
 <p></p>
 </td>
@@ -56,7 +56,7 @@ description: ""
 <br>Singapore 229944
 <br>
 </p>
-<p><strong><a href="https://maps.google.com/maps?q=1+Anthony+Rd+Singapore+229944+" rel="noopener noreferrer nofollow" target="_blank">VIEW MAP →</a></strong>
+<p><strong><a href="https://maps.app.goo.gl/zvB3cgDKmgJg3xif9" rel="noopener noreferrer nofollow" target="_blank">VIEW MAP →</a></strong>
 </p>
 <p></p>
 </td>
