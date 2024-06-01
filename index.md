@@ -41,16 +41,6 @@ sections:
       image: /images/66543914b25907c46f72f857_445226776_476937291354669_3369247661694697766_n.jpg
       alt: Poster
   - infopic:
-      title: MoCa Family Month - Cycling Fiesta at East Coast Park
-      subtitle: June 1 2024, 8:30AM – 9:30AM
-      id: infopic
-      description: Enjoy a scenic cycling event at East Coast Park, suitable for all
-        ages and skill levels.
-      button: Purchase Tickets
-      url: https://go.gov.sg/ecp010624
-      image: /images/663add3eacf06287f04cd72f_440316877_833506638822727_1891808947557923255_n.jpg
-      alt: Poster
-  - infopic:
       title: Mummy & Me Ballet Workshop at Cairnhill CC
       subtitle: June 4 2024, 11:00AM – 12:00PM
       id: infopic
