@@ -7,6 +7,9 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/664b37e6cfb0d7bce4bdbe29_441151905_845867714241960_5720764623610433732_n.jpg">
+</div>
 <p><strong><a href="https://go.gov.sg/shinelikeastar29june2024" class="subheader dark" rel="noopener noreferrer nofollow" target="_blank">MOCA's Talent Competition</a></strong>
 </p>
 <p>Jun 29, 2024</p>
