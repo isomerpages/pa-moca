@@ -7,6 +7,10 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/664b37fbc5df5f5ec33aba6f_Yellow_and_Green_Playful_Illustrative_Fun_Park_Promotion_Flyer__24_.png">
+</div>
 <p><strong><a href="https://go.gov.sg/mocafamilycarnival29june" class="subheader dark" rel="noopener noreferrer nofollow" target="_blank">Carnival and Talent Competiton</a></strong>
 </p>
 <p>Jun 29, 2024</p>
