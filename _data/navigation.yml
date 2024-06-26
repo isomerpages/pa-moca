@@ -10,6 +10,13 @@ links:
     url: /mr-alvin-tan
   - title: Activities
     url: /moulmein-cairnhill/recent-events/
+  - title: Events
+    url: /moulmein-cairnhill/upcoming-events/
+    sublinks:
+      - title: Upcoming Events
+        url: /moulmein-cairnhill/upcoming-events/
+      - title: Recent Events
+        url: /moulmein-cairnhill/recent-events/
   - title: Volunteer
     url: /be-our-volunteer/
   - title: Contact Us
