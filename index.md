@@ -27,9 +27,10 @@ sections:
           url: /contact
       variant: center
   - infobar:
-      title: Upcoming Activities
+      title: Upcoming Events
       id: infobar
-      url: https://cms.isomer.gov.sg/sites/pa-moca/homepage
+      url: /moulmein-cairnhill/upcoming-events/
+      button: View All
   - infopic:
       title: PA Kiddies Cheesecake Shooters at Pek Kio CC
       subtitle: June 15 2024, 10:30AM – 12PM
