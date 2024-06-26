@@ -18,3 +18,6 @@ variant: tiptap
 <p>Tanglin CC</p>
 <p>Looking for a fun and healthy way to keep your kids active this June holiday?
 Join us for Jumping Fitness for Kids at Tanglin Community Club!</p>
+<p></p>
+<p><strong><a href="https://go.gov.sg/jumpfitnesskids120624" rel="noopener noreferrer nofollow" target="_blank">Purchase Here</a></strong>
+</p>
