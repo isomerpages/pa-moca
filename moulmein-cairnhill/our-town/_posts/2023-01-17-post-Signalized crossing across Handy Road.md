@@ -16,7 +16,6 @@ amenity for our residents.</p>
 <a href="https://www.facebook.com/WeKeepYourWorldMoving?__cft__[0]=AZWQRI49Y7N8AFZme8i4WTr-Xider4oPqM7dAukNePhKDnBKPbl56f_ZpHs4k7qolNB1acShuglZUxxaKekwzUy6JHacVxYocY20U-KHgv5vPeAn2lzdQbpCeYA7J-sCDnx40HcnGas1o_CXUPp3J3j4q0aTCrA3c1oUKS4FSGgGQucCCubrg9cmX8mUinyCNMw&amp;__tn__=-]K-R" rel="noopener noreferrer nofollow" target="_blank">Land Transport Authority ‚Äì We Keep Your World Moving</a>, and our residents
 from <a href="https://www.facebook.com/TheHillsRN?__cft__[0]=AZWQRI49Y7N8AFZme8i4WTr-Xider4oPqM7dAukNePhKDnBKPbl56f_ZpHs4k7qolNB1acShuglZUxxaKekwzUy6JHacVxYocY20U-KHgv5vPeAn2lzdQbpCeYA7J-sCDnx40HcnGas1o_CXUPp3J3j4q0aTCrA3c1oUKS4FSGgGQucCCubrg9cmX8mUinyCNMw&amp;__tn__=-]K-R" rel="noopener noreferrer nofollow" target="_blank">The Hills Residents' Network</a> for
 working with us to deliver this for our residents!</p>
-<p>‚Äç</p>
 <p>
 <br>
 </p>
