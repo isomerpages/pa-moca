@@ -13,7 +13,7 @@ variant: tiptap
 to use while waiting for your vehicle pick ups!</p>
 <p>Thanks to Our Tanjong Pagar People's Action Party Town Council for their
 swift actions in making this happen!</p>
-<p>‚Äç</p>
+<p></p>
 <p>
 <br>
 </p>
