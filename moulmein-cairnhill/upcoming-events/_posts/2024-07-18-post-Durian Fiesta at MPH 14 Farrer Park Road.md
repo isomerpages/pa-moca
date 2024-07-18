@@ -15,3 +15,5 @@ variant: tiptap
 <p>Jul 27 2024, 4PM</p>
 <p>Join us for Durian Fiesta! Connect with neighbors, discover common interests,
 and build harmonious relationships in our community over delicious durians.</p>
+<p><a href="https://go.gov.sg/rpdbxa" rel="noopener noreferrer nofollow" target="_blank">Purchase Here</a>
+</p>
