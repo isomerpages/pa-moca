@@ -23,7 +23,6 @@ advised to drive carefully and follow the directional signs on display.</p>
 <p></p>
 <p>For queries/clarifications, members of public may contact Mr. V Jayabaskaran
 at HP 9272 5132 or Mr. Firdaus at HP 8021 7167.</p>
-<p>‚Äç</p>
 <p>
 <br>
 </p>
