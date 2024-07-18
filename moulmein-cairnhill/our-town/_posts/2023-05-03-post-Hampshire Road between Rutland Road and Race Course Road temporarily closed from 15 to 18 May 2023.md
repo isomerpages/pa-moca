@@ -16,7 +16,6 @@ nightly from 10pm to 5am.</p>
 the upcoming Migrant Guest bus facility.</p>
 <p>For more information, please refer to the attached document.</p>
 <p>Thank you for your cooperation and understanding!</p>
-<p>‚Äç</p>
 <p>
 <br>
 </p>
