@@ -17,7 +17,7 @@ crossing in Nov 2022, to align with upcoming developments in the area.
 We will share more details in due time.</p>
 <p>Thank you for your feedback and suggestions, and also to Team for working
 hard with our team to make this happen.</p>
-<p>‚Äç</p>
+<p></p>
 <p>
 <br>
 </p>
