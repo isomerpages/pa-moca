@@ -32,104 +32,46 @@ sections:
       url: /moulmein-cairnhill/upcoming-events/
       button: View All
   - infopic:
-      title: PA Kiddies Cheesecake Shooters at Pek Kio CC
-      subtitle: June 15 2024, 10:30AM – 12PM
+      title: Durian Fiesta at MPH 14 Farrer Park Road
+      subtitle: Jul 27 2024, 4PM
       id: infopic
-      description: Kids can learn to make cheesecake shooters and boost kitchen
-        confidence and creativity.
+      description: Join us for Durian Fiesta! Connect with neighbors, discover common
+        interests, and build harmonious relationships in our community over
+        delicious durians.
       button: Purchase Here
-      url: https://go.gov.sg/onepa-pekkiocc
-      image: /images/66544534e84824b76b6fe00e_445428670_476937321354666_5444561565636381445_n.jpg
+      url: https://go.gov.sg/rpdbxa
+      image: /images/6694d98b4803bf244d800a81_DM240503_a4_FA_CO_vetted_page_0001.jpg
       alt: Poster
   - infopic:
-      title: Calling all young wizards and scientists at Pek Kio CC
-      subtitle: June 15 2024, 2:30PM – 4:30PM
+      title: Picnic & Movie at Mt. Emily Park
+      subtitle: Jul 27 2024, 5PM- 9PM
       id: infopic
-      description: Be a magical wizard by learning the science behind magic tricks;
-        engage curiosity and creativity.
-      button: Purchase Here
-      url: https://go.gov.sg/onepa-pekkiocc
-      image: /images/66544165e6895900676c52c6_441883788_476937324687999_225850798534856996_n.jpg
-      alt: Image alt text
-  - infopic:
-      title: Acquire Skills For Suicide Prevention at Tanglin CC
-      subtitle: June 22 2024, 2:00PM – 6:00PM
-      id: infopic
-      description: Suicide prevention training by Caring for Life; learn how to help
-        people in distress.
+      description: Enjoy stage performances and lawn games with family, friends, and
+        neighbors before settling in to watch the swashbuckling Puss in Boots in
+        his latest movie.
       button: Register Here
-      url: https://go.gov.sg/cfltraining22june2024
-      image: /images/66502792f573759565485f16_442494586_818023633705709_7392616925038568831_n.jpg
+      url: https://go.gov.sg/movieatthepark
+      image: /images/6694db385157b44d9ffe1668_Copy_of_For_amend_of_The_Hills_RN_Picnic___MOVIE_2024_draft_Event_Poster.png
       alt: Poster
   - infopic:
-      title: Ink Sketching Workshop at Cairnhill CC
-      subtitle: June 23 2024, 3:00PM – 5:00PM
+      title: MOCA Racial Harmony Concert! at Tanglin Community Club
+      subtitle: Aug 3 2024, 2PM
       id: infopic
-      description: Adults and kids aged 12+ can bond by creating art together at a
-        holiday workshop.
+      description: Experience a vibrant celebration of cultural diversity with
+        thrilling performances, delectable local foods, and creative PassionArts
+        booths! 🎶🍲🎨​
       button: Purchase Here
-      url: https://go.gov.sg/inksketching23june2024
-      image: /images/66504112b0d6241271aaa92f_sketch.jpg
+      url: https://go.gov.sg/passionart2024
+      image: /images/6694d1b2f9b12f513cbad0aa_450991713_874581101381947_7005616475399191630_n.jpg
       alt: Poster
   - infopic:
-      title: Holiday Manga Workshop! at Tanglin CC
-      subtitle: June 23 2024, 4:00PM – 6:00PM
+      title: National Day Celebration at Blk 50 Dorset Road, MPH
       id: infopic
-      description: Learn to draw in Chibi style at a HOLIDAY Manga Workshop; materials
-        provided, just bring creativity.
+      description: Celebrate National Day with Moulmein-Cairnhill! Enjoy live music,
+        games, food booths, a photo booth, and a lucky draw with exciting
+        prizes.
       button: Purchase Here
-      url: https://go.gov.sg/tccmanga23jun
-      image: /images/66503b8c0486f274e4f1ce11_434686507_823363976495022_2136803212399476427_n.jpg
-      alt: Poster
-  - infopic:
-      title: My Vadai Better Than Original Vadai at Cairnhill CC
-      subtitle: June 28 2024, 6:30PM – 9:00PM
-      id: infopic
-      description: Make the best Vadai with Chef Aneel Sharma; impress friends with
-        delicious treats.
-      button: Purchase Here
-      url: http://go.gov.sg/myvadai28june24
-      image: /images/66501eea2714e888a7eaa1b6_Poster_for_My_Vadai_Workshop_on_28_June_2024__latest__vetted__1__page_0001.jpg
-      alt: Poster
-  - infopic:
-      title: Creative Bento Workshop at Cairnhill CC
-      subtitle: June 29 2024, 3:00PM – 5:00PM
-      id: infopic
-      description: Unleash creativity by making bento boxes with your child; craft
-        adorable and delicious creations.
-      button: Purchase Here
-      url: http://go.gov.sg/creativebento29june24
-      image: /images/665020c52e2cef5657b55cce_bento.jpg
-      alt: Poster
-  - infopic:
-      title: Carnival and Talent Competiton at Pek Kio CC
-      subtitle: June 29 2024, 3:00PM – 7:00PM
-      id: infopic
-      description: Join the CARNIVAL to celebrate family month with a talent show,
-        flea market, food, and games.
-      button: Purchase Here
-      url: https://go.gov.sg/mocafamilycarnival29june
-      image: /images/664b37fbc5df5f5ec33aba6f_Yellow_and_Green_Playful_Illustrative_Fun_Park_Promotion_Flyer__24_.png
-      alt: POSTER
-  - infopic:
-      title: MOCA's Talent Competition at Pek Kio CC
-      subtitle: June 29 2024, 4:00PM – 7:00PM
-      id: infopic
-      description: Showcase your talents at the Family Month Talent Competition; shine
-        with singing, dancing, or other skills.
-      button: Register Here
-      url: https://go.gov.sg/shinelikeastar29june2024
-      image: /images/664b37fbc5df5f5ec33aba6f_Yellow_and_Green_Playful_Illustrative_Fun_Park_Promotion_Flyer__24_.png
-      alt: Poster
-  - infopic:
-      title: MoCa Durian Party 2024 at Blk 50 Dorset Road
-      subtitle: June 29 2024, 5:00PM – 7:00PM
-      id: infopic
-      description: Enjoy a durian party; get your hands on the king of fruits right at
-        your doorstep!
-      button: Purchase Here
-      url: https://go.gov.sg/familydurianfiesta29june2024
-      image: /images/664b37c8b5c8ab220a642099_441881514_469502545431477_7017449421699415736_n.jpg
+      url: https://go.gov.sg/moca-ndoc-2024
       alt: Poster
   - resources:
       id: resources
