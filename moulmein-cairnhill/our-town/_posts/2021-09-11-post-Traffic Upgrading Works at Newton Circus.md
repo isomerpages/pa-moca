@@ -15,7 +15,6 @@ Newton Circus, Newton Food Centre, ACS, SCGS and our Balmoral, Goldhill,
 Stevens and Chancery residential areas.</p>
 <p>Big thanks to Team, and our migrant workers for making this happen, and
 to our residents for your patience and understanding over the years.</p>
-<p>‚Äç</p>
 <p>
 <br>
 </p>
