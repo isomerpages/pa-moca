@@ -14,7 +14,7 @@ to gather, celebrate. The best place to get authentic local fare and a
 warm family of our stallkeepers.</p>
 <p>But we're not quite done yet. We have a few surprises in store which we
 will complete in a few months to add to Tekka Centre.</p>
-<p>‚Äç</p>
+<p></p>
 <p>
 <br>
 </p>
