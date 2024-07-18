@@ -14,9 +14,7 @@ building this accessibility ramp at Tekka Market.</p>
 especially our seniors, persons with disabilities and caregivers with strollers.
 The work took a while to complete due to COVID delays. But we're all so
 thankful it is finally completed.</p>
-<p>You'll see their hand prints on the banner we put up next to the ramp</p>
-<p>‚Äç</p>
-<p>
+<p>You'll see their hand prints on the banner we put up next to the ramp
 <br>
 </p>
 <div class="isomer-image-wrapper">
