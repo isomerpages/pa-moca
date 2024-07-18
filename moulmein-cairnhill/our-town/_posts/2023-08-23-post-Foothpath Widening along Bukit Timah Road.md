@@ -15,7 +15,6 @@ Timah Rd.</p>
 teams have worked hard to widen the footpath.</p>
 <p>It can now comfortably fit 2 adults walking side by side!</p>
 <p>Big thanks to LTA for working with me and my team to make this happen</p>
-<p>‚Äç</p>
 <p>
 <br>
 </p>
