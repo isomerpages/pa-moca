@@ -15,7 +15,6 @@ Traditional Charm, <a href="https://www.facebook.com/tekkagoldjewel/?__cft__%5b0
 <a href="https://www.facebook.com/AAB-Sweets-Snacks-Pte-Ltd-220850651323889/?__cft__%5b0%5d=AZVJ22z6Vp3qCNKQJRygC9r2gVCTyQwzG15adpFXyVsyUxd9Orwv4Di2XRSBg4ssyKm0QFMUXSRlVK-LhTLVSZKf3wnheeyJOmZgyZt3uyTwNmCqu-yLecd3W5ddwIHCyOV7s_KYHcSx5sGWEnjqkLYWo8vKrOY8xBFM_W_1Ez_SZQ&amp;__tn__=kK-R" rel="noopener noreferrer nofollow" target="_blank">AAB Sweets &amp; Snacks Pte Ltd</a>.</p>
 <p>Big thanks to our <a href="https://www.facebook.com/tptckakis/?__cft__%5b0%5d=AZVJ22z6Vp3qCNKQJRygC9r2gVCTyQwzG15adpFXyVsyUxd9Orwv4Di2XRSBg4ssyKm0QFMUXSRlVK-LhTLVSZKf3wnheeyJOmZgyZt3uyTwNmCqu-yLecd3W5ddwIHCyOV7s_KYHcSx5sGWEnjqkLYWo8vKrOY8xBFM_W_1Ez_SZQ&amp;__tn__=kK-R" rel="noopener noreferrer nofollow" target="_blank">Tanjong Pagar Town Council</a> team
 for your making this happen amid the challenges due to the pandemic.</p>
-<p>‚Äç</p>
 <p>
 <br>
 </p>
