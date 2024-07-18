@@ -11,7 +11,6 @@ variant: tiptap
 Farrer Park Fields &amp; Arena to light up the walkway towards Racecourse
 Rd.</p>
 <p>Thank you to Ramya, our Blk 49 resident for providing the feedback.</p>
-<p>‚Äç</p>
 <p>
 <br>
 </p>
