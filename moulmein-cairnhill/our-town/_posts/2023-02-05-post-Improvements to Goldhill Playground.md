@@ -14,7 +14,6 @@ Increased the brightness of the court with new lights</p>
 <p>Enjoy the playground with your family and friends! Please continue to
 keep it clean for our community to enjoy.</p>
 <p>Thanks to NParks colleagues for the work and partnership.</p>
-<p>‚Äç</p>
 <p>
 <br>
 </p>
