@@ -73,6 +73,8 @@ sections:
       button: Purchase Here
       url: https://go.gov.sg/moca-ndoc-2024
       alt: Poster
+      subtitle: Aug 9 2024, 10AM - 12 PM
+      image: /images/6694dbc5bda3d2f05550ae0a_450368237_872602534913137_185038051845153023_n.jpg
   - resources:
       id: resources
       subtitle: What we have been up to
