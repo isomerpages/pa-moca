@@ -18,5 +18,5 @@ readiness and EP activities to help the community be prepared for emergenciesRes
 to times of emergency by coordinating community resources and lead the
 grassroots emergency response efforts to assist affected residentsIf you
 are keen or feel that you have what it takes, join us now!</p>
-<p><a href="https://facebook.com/moulmeincairnhillc2e" rel="noopener noreferrer nofollow" target="_blank">https://facebook.com/moulmeincairnhillc2e</a>
+<p>Connect with us at: <a href="https://facebook.com/moulmeincairnhillc2e" rel="noopener noreferrer nofollow" target="_blank">https://facebook.com/moulmeincairnhillc2e</a>
 </p>
