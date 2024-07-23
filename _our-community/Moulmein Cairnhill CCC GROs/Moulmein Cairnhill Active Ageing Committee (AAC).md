@@ -15,5 +15,5 @@ to flourish in grassroots programmes. The functions of the committee include
 promoting community bonding through active ageing programmes in collaboration
 with the Senior Citizens' Executive Committees and other grassroots organisations
 and community partners.</p>
-<p><a href="https://facebook.com/activeagers.moulmein" rel="noopener noreferrer nofollow" target="_blank">https://facebook.com/activeagers.moulmein</a>
+<p>Connect with us at: <a href="https://facebook.com/activeagers.moulmein" rel="noopener noreferrer nofollow" target="_blank">https://facebook.com/activeagers.moulmein</a>
 </p>
