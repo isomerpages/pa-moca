@@ -17,7 +17,7 @@ support groups, and awareness campaigns, are tailored to address local
 needs.</p>
 <p>Join us as a volunteer to help make a positive impact. Together, let's
 build a brighter future for our neighborhood!</p>
-<p>For more updates, visit us at: <a href="https://facebook.com/mocaminds" rel="noopener noreferrer nofollow" target="_blank">https://facebook.com/mocawbc</a>
+<p>Connect with us at: <a href="https://facebook.com/mocaminds" rel="noopener noreferrer nofollow" target="_blank">https://facebook.com/mocawbc</a>
 </p>
 <p></p>
 <p></p>
