@@ -16,5 +16,7 @@ and the desire to bridge the gap between them and local residents. Through
 our various activities and initiatives, we strive to build a more inclusive
 and cohesive community for all.</p>
 <p>Join us in our mission to make a difference and celebrate the diverse
-contributions of our migrant guests. Follow us on Instagram at <a href="https://www.instagram.com/ourmigrantguests/" rel="noreferrer" target="_new">@ourmigrantguests</a> and
-join us as a volunteer!</p>
+contributions of our migrant guests.</p>
+<p>Connect with us at Our Migrant Guests Instagram Page</p>
+<p>Follow us on Instagram at <a href="https://www.instagram.com/ourmigrantguests/" rel="noreferrer" target="_new">@ourmigrantguests</a> 
+</p>
