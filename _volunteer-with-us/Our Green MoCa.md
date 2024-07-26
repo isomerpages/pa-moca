@@ -23,9 +23,9 @@ community is better equipped to face challenges and embrace positive change.
 Become an active participant in our sustainable initiatives. Whether you
 have a green thumb, a passion for conservation, or simply a willingness
 to make a positive impact, there's a place for you in Our Green MoCa. Together,
-we can implement real change, one eco-friendly initiative at a time. Volunteer
-with Our Green MoCa and be the change you want to see. Sign up now at
-<a href="https://facebook.com/OurGreenMoCa" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/beamocavolunteer</a>or email us at <a href="https://facebook.com/OurGreenMoCa" rel="noopener noreferrer nofollow" target="_blank">hello@moca.sg</a>. Together, let's
-create a brighter future for our neighborhood!</p>
+we can implement real change, one eco-friendly initiative at a time. Together,
+let's create a brighter future for our neighborhood!</p>
+<p></p>
+<p>Connect with us at Our Green MoCa Facebook Page</p>
 <p><a href="https://facebook.com/OurGreenMoCa" rel="noopener noreferrer nofollow" target="_blank">https://facebook.com/OurGreenMoCa</a>
 </p>
