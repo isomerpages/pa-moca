@@ -18,8 +18,7 @@ in the shared experience. Whether you're a seasoned athlete or a newcomer,
 there's a place for you in our inclusive space. The network acts as a bridge,
 connecting individuals who might have otherwise never crossed paths, fostering
 unity through the universal language of sports. Volunteer with MoCa Sports
-and be the change you want to see. Sign up now at <a href="https://facebook.com/moulmein.csc" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/beamocavolunteer</a> or
-email us at <a href="https://facebook.com/moulmein.csc" rel="noopener noreferrer nofollow" target="_blank">hello@moca.sg</a>.
-Together, let's create a brighter future for our neighborhood!</p>
-<p><a href="https://facebook.com/moulmein.csc" rel="noopener noreferrer nofollow" target="_blank">https://facebook.com/moulmein.csc</a>
+and be the change you want to see.</p>
+<p>Connect with us on the MoCa Sports Facebook Page</p>
+<p><a href="https://www.facebook.com/profile.php?id=100063897858666" rel="noopener noreferrer nofollow" target="_blank">(2) Facebook</a>
 </p>
