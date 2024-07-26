@@ -18,8 +18,5 @@ unique religious heritage. Become an active member of the Moulmein-Cairnhill
 Harmony Circle and be part of a community that values unity and diversity.
 Connect with neighbours, make new friends, and contribute to create a harmonious
 community. Volunteer with Moulmein-Cairnhill Harmony Circle and be the
-change you want to see. Sign up now at <a href="http://go.gov.sg/beamocavolunteer" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/beamocavolunteer</a> or
-email us at <a href="http://go.gov.sg/beamocavolunteer" rel="noopener noreferrer nofollow" target="_blank">hello@moca.sg</a>.
-Together, let's create a brighter future for our neighborhood!</p>
-<p><a href="http://go.gov.sg/beamocavolunteer" rel="noopener noreferrer nofollow" target="_blank">http://go.gov.sg/beamocavolunteer</a>
-</p>
+change you want to see.</p>
+<p></p>
