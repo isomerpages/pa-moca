@@ -11,8 +11,4 @@ description: ""
 you believe in the power of online platforms to drive change and inspire
 communities? If so, we invite you to become a Social Media Volunteer for
 MoCa and help us create positive change together! Volunteer with Our MoCa
-Social Media Team and be the change you want to see. Sign up now at <a href="http://go.gov.sg/beamocavolunteer" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/beamocavolunteer</a> or
-email us at <a href="http://go.gov.sg/beamocavolunteer" rel="noopener noreferrer nofollow" target="_blank">hello@moca.sg</a>.
-Together, let's create a brighter future for our neighborhood!</p>
-<p><a href="http://go.gov.sg/beamocavolunteer" rel="noopener noreferrer nofollow" target="_blank">http://go.gov.sg/beamocavolunteer</a>
-</p>
+Social Media Team and be the change you want to see.</p>
