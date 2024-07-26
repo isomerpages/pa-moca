@@ -19,8 +19,4 @@ regardless of background, feels valued and appreciated. Take an active
 role in community-driven projects and initiatives. Connect with like-minded
 individuals and organisations to contribute to the collective effort of
 making Moulmein-Cairnhill a vibrant and inclusive community. Volunteer
-with MoCa IN and be the change you want to see. Sign up now at <a href="http://go.gov.sg/beamocavolunteer" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/beamocavolunteer</a> or
-email us at <a href="http://go.gov.sg/beamocavolunteer" rel="noopener noreferrer nofollow" target="_blank">hello@moca.sg</a>.
-Together, let's create a brighter future for our neighborhood!</p>
-<p><a href="http://go.gov.sg/beamocavolunteer" rel="noopener noreferrer nofollow" target="_blank">http://go.gov.sg/beamocavolunteer</a>
-</p>
+with MoCa IN and be the change you want to see.</p>
