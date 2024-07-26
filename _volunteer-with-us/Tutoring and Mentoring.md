@@ -20,8 +20,7 @@ each child's specific needs. Join the YN Programme not only as a tutor
 but as a mentor and friend. Forge lasting connections with the children
 you support, creating an environment where they feel valued, understood,
 and inspired to reach their full potential. Volunteer with Moulmein-Cairnhill
-YN and be the change you want to see. Sign up now at <a href="https://facebook.com/MoCaYN" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/beamocavolunteer</a> or
-email us at <a href="https://facebook.com/MoCaYN" rel="noopener noreferrer nofollow" target="_blank">hello@moca.sg</a>.
-Together, let's create a brighter future for our neighborhood!</p>
+YN and be the change you want to see.</p>
+<p>Connect with us at Moulmein-Cairnhill Youth Network Facebook Page</p>
 <p><a href="https://facebook.com/MoCaYN" rel="noopener noreferrer nofollow" target="_blank">https://facebook.com/MoCaYN</a>
 </p>
