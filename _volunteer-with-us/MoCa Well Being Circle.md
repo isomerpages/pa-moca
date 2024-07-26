@@ -18,7 +18,7 @@ needs.</p>
 <p>Join us as a volunteer to help make a positive impact. Together, let's
 build a brighter future for our neighborhood!</p>
 <p></p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">Connect with us at MoCa Wellbeing Facebook Page</a>
+<p><a href="https://www.facebook.com/mocawbc" rel="noopener noreferrer nofollow" target="_blank">Connect with us at MoCa Wellbeing Facebook Page</a>
 </p>
 <p></p>
 <p></p>
