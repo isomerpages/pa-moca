@@ -1,0 +1,14 @@
+collections:
+  volunteer-with-us:
+    output: true
+    order:
+      - Be Our Volunteer.md
+      - MoCa Well Being Circle.md
+      - Our Green MoCa.md
+      - Our Migrant Guests.md
+      - MoCa Women.md
+      - Tutoring and Mentoring.md
+      - Moulmein Cairnhill Harmony Circle.md
+      - MoCa Sports.md
+      - MoCa Social Media Team.md
+      - MoCa IN.md
