@@ -13,8 +13,11 @@ description: ""
 for phase 2B and active service in the above committees can apply for Primary
 One registration for their children under Phase 2B in schools within a
 2km radius from their registered address</p>
-<p>To apply to serve in the committees, do email us at <a href="mailto:hello@moca.sg" rel="noopener noreferrer nofollow" target="_blank">hello@moca.sg</a>
-</p>
+<p>To apply to serve in the committees, do reach us at:</p>
+<p>&lt;a href="<a href="https://form.gov.sg/641528d4868d8100123251f2" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/641528d4868d8100123251f2</a>"
+style="background-color: #da1f34; color: white; padding: 15px; font-weight:
+bold;"&gt;Be a MoCa Volunteer&lt;/a&gt;</p>
+<p></p>
 <p>There would be a observership period of about 6 months before joining
 the committee.</p>
 <p></p>
