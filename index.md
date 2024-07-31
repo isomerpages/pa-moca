@@ -42,15 +42,15 @@ sections:
       image: /images/452867647_829856059239248_60897442615317534_n.jpg
       alt: Poster
   - infopic:
-      title: Picnic & Movie at Mt. Emily Park
-      subtitle: Jul 27 2024, 5PM- 9PM
+      title: Together As One United People
+      subtitle: Friday, 9 August 2024, 10am
       id: infopic
-      description: Enjoy stage performances and lawn games with family, friends, and
-        neighbors before settling in to watch the swashbuckling Puss in Boots in
-        his latest movie.
-      button: Register Here
-      url: https://go.gov.sg/movieatthepark
-      image: /images/6694db385157b44d9ffe1668_Copy_of_For_amend_of_The_Hills_RN_Picnic___MOVIE_2024_draft_Event_Poster.png
+      description: Celebrate Singapore National Day with Moulmein-Cairnhill! Join us
+        for a fun-filled morning of activities and a lucky draw with exciting
+        prizes!
+      button: Purchase Here
+      url: https://go.gov.sg/moca-ndoc-2024
+      image: /images/450368237_872602534913137_185038051845153023_n.jpg
       alt: Poster
   - infopic:
       title: MOCA Racial Harmony Concert! at Tanglin Community Club
