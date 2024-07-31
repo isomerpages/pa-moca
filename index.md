@@ -93,12 +93,9 @@ sections:
       url: https://www.facebook.com/centralsgndc
       image: /images/451396439_876484277858296_6379260865857275210_n.jpg
       alt: Image alt text
-  - resources:
-      id: resources
-      subtitle: What we have been up to
   - infopic:
       title: Tree Palnting Event
-      subtitle: Aug 15 2024, 9.30AM
+      subtitle: Aug 17 2024, 9.30AM
       id: infopic
       description: Be part of NParks’ ‘Plant a Million Trees’ movment – now in
         Goldhill! Join us to plant 100 trees on that day to Green our
@@ -107,4 +104,7 @@ sections:
       url: https://go.gov.sg/goldhilltreeplanting24
       image: /images/448923407_909886777837710_6889909964125387336_n.jpg
       alt: Image alt text
+  - resources:
+      id: resources
+      subtitle: What we have been up to
 ---
