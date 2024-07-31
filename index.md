@@ -78,7 +78,9 @@ sections:
       title: National Day Heartland Celebrations 2022 @ Central SG
       subtitle: Aug 10 2024, 4pm
       id: infopic
-      description: Infopic description
+      description: This year’s theme “Unity in Diversity” celebrates the unity,
+        inclusivity, and the rich diversity of cultures and traditions within
+        the nation.
       button: Free Entry
       url: https://www.facebook.com/centralsgndc
       image: /images/451396439_876484277858296_6379260865857275210_n.jpg
