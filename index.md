@@ -74,6 +74,16 @@ sections:
       alt: Poster
       subtitle: Aug 3 2024, 4pm
       image: /images/451538555_866544828832260_2110769640238070703_n.jpg
+  - infopic:
+      title: "MoCa parent support network event: No Perfect Parents Here!"
+      subtitle: September 14 2024, 10.30AM
+      id: infopic
+      description: "Exciting News for Parents! Join us for the launch of our MoCa
+        parent support network event: No Perfect Parents Here!"
+      button: Register Here
+      url: https://go.gov.sg/parentsupporteventon14sep2024
+      image: /images/453240186_865090762332329_7595047142250024766_n.jpg
+      alt: Image alt text
   - resources:
       id: resources
       subtitle: What we have been up to
