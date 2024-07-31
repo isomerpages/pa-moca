@@ -32,15 +32,14 @@ sections:
       url: /moulmein-cairnhill/upcoming-events/
       button: View All
   - infopic:
-      title: Durian Fiesta at MPH 14 Farrer Park Road
-      subtitle: Jul 27 2024, 4PM
+      title: Tekka Health Carnival is Back!🎉
+      subtitle: Saturday, 3 August 2024
       id: infopic
-      description: Join us for Durian Fiesta! Connect with neighbors, discover common
-        interests, and build harmonious relationships in our community over
-        delicious durians.
+      description: Come join us for a fun-filled morning with activities. Let's make
+        our community healthier and happier together! See you there!
       button: Purchase Here
-      url: https://go.gov.sg/rpdbxa
-      image: /images/6694d98b4803bf244d800a81_DM240503_a4_FA_CO_vetted_page_0001.jpg
+      url: https://go.gov.sg/tekkahealth24
+      image: /images/452867647_829856059239248_60897442615317534_n.jpg
       alt: Poster
   - infopic:
       title: Picnic & Movie at Mt. Emily Park
