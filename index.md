@@ -42,7 +42,7 @@ sections:
       image: /images/452867647_829856059239248_60897442615317534_n.jpg
       alt: Poster
   - infopic:
-      title: Together As One United People
+      title: National Day Celebration at Blk 50 Dorset Road, MPH
       subtitle: Friday, 9 August 2024, 10am
       id: infopic
       description: Celebrate Singapore National Day with Moulmein-Cairnhill! Join us
@@ -64,16 +64,16 @@ sections:
       image: /images/6694d1b2f9b12f513cbad0aa_450991713_874581101381947_7005616475399191630_n.jpg
       alt: Poster
   - infopic:
-      title: National Day Celebration at Blk 50 Dorset Road, MPH
+      title: Qixi Street Party @ Keong Saik
       id: infopic
-      description: Celebrate National Day with Moulmein-Cairnhill! Enjoy live music,
-        games, food booths, a photo booth, and a lucky draw with exciting
-        prizes.
+      description: Join our Qixi Street Party @ Keong Saik (closed road between Jiak
+        Chuan Road & Teck Lim Road) as we celebrate the occasion with crafts ,
+        music , and mastery.
       button: Purchase Here
-      url: https://go.gov.sg/moca-ndoc-2024
+      url: go.gov.sg/qixifest3aug24
       alt: Poster
-      subtitle: Aug 9 2024, 10AM - 12 PM
-      image: /images/6694dbc5bda3d2f05550ae0a_450368237_872602534913137_185038051845153023_n.jpg
+      subtitle: Aug 3 2024, 4pm
+      image: /images/451538555_866544828832260_2110769640238070703_n.jpg
   - resources:
       id: resources
       subtitle: What we have been up to
