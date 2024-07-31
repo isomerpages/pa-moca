@@ -76,13 +76,22 @@ sections:
       image: /images/451538555_866544828832260_2110769640238070703_n.jpg
   - infopic:
       title: "MoCa parent support network event: No Perfect Parents Here!"
-      subtitle: September 14 2024, 10.30AM
+      subtitle: Sep 14 2024, 10.30AM
       id: infopic
       description: "Exciting News for Parents! Join us for the launch of our MoCa
         parent support network event: No Perfect Parents Here!"
       button: Register Here
       url: https://go.gov.sg/parentsupporteventon14sep2024
       image: /images/453240186_865090762332329_7595047142250024766_n.jpg
+      alt: Image alt text
+  - infopic:
+      title: National Day Heartland Celebrations 2022 @ Central SG
+      subtitle: Aug 10 2024, 4pm
+      id: infopic
+      description: Infopic description
+      button: Free Entry
+      url: https://www.facebook.com/centralsgndc
+      image: /images/451396439_876484277858296_6379260865857275210_n.jpg
       alt: Image alt text
   - resources:
       id: resources
