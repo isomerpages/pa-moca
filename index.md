@@ -42,16 +42,16 @@ sections:
       image: /images/452867647_829856059239248_60897442615317534_n.jpg
       alt: Poster
   - infopic:
-      title: National Day Celebration at Blk 50 Dorset Road, MPH
-      subtitle: Friday, 9 August 2024, 10am
+      title: Qixi Street Party @ Keong Saik
       id: infopic
-      description: Celebrate Singapore National Day with Moulmein-Cairnhill! Join us
-        for a fun-filled morning of activities and a lucky draw with exciting
-        prizes!
+      description: Join our Qixi Street Party @ Keong Saik (closed road between Jiak
+        Chuan Road & Teck Lim Road) as we celebrate the occasion with crafts ,
+        music , and mastery.
       button: Purchase Here
-      url: https://go.gov.sg/moca-ndoc-2024
-      image: /images/450368237_872602534913137_185038051845153023_n.jpg
+      url: go.gov.sg/qixifest3aug24
       alt: Poster
+      subtitle: Aug 3 2024, 4pm
+      image: /images/451538555_866544828832260_2110769640238070703_n.jpg
   - infopic:
       title: MOCA Racial Harmony Concert! at Tanglin Community Club
       subtitle: Aug 3 2024, 2PM
@@ -64,26 +64,16 @@ sections:
       image: /images/6694d1b2f9b12f513cbad0aa_450991713_874581101381947_7005616475399191630_n.jpg
       alt: Poster
   - infopic:
-      title: Qixi Street Party @ Keong Saik
+      title: National Day Celebration at Blk 50 Dorset Road, MPH
+      subtitle: Friday, 9 August 2024, 10am
       id: infopic
-      description: Join our Qixi Street Party @ Keong Saik (closed road between Jiak
-        Chuan Road & Teck Lim Road) as we celebrate the occasion with crafts ,
-        music , and mastery.
+      description: Celebrate Singapore National Day with Moulmein-Cairnhill! Join us
+        for a fun-filled morning of activities and a lucky draw with exciting
+        prizes!
       button: Purchase Here
-      url: go.gov.sg/qixifest3aug24
+      url: https://go.gov.sg/moca-ndoc-2024
+      image: /images/450368237_872602534913137_185038051845153023_n.jpg
       alt: Poster
-      subtitle: Aug 3 2024, 4pm
-      image: /images/451538555_866544828832260_2110769640238070703_n.jpg
-  - infopic:
-      title: "MoCa parent support network event: No Perfect Parents Here!"
-      subtitle: Sep 14 2024, 10.30AM
-      id: infopic
-      description: "Exciting News for Parents! Join us for the launch of our MoCa
-        parent support network event: No Perfect Parents Here!"
-      button: Register Here
-      url: https://go.gov.sg/parentsupporteventon14sep2024
-      image: /images/453240186_865090762332329_7595047142250024766_n.jpg
-      alt: Image alt text
   - infopic:
       title: National Day Heartland Celebrations 2022 @ Central SG
       subtitle: Aug 10 2024, 4pm
@@ -103,6 +93,26 @@ sections:
       button: Register Here
       url: https://go.gov.sg/goldhilltreeplanting24
       image: /images/448923407_909886777837710_6889909964125387336_n.jpg
+      alt: Image alt text
+  - infopic:
+      title: Moulmein-Cairnhill National Day Dinner 2024!
+      subtitle: Aug 24 2024, 6pm
+      id: infopic
+      description: 🎉 Join us for an unforgettable evening at Moulmein-Cairnhill
+        National Day Dinner 2024!🎉
+      button: Purchase Here
+      url: https://go.gov.sg/2024ndd
+      image: /images/452288075_879674450872612_5795424994746646957_n.jpg
+      alt: Image alt text
+  - infopic:
+      title: "MoCa parent support network event: No Perfect Parents Here!"
+      subtitle: Sep 14 2024, 10.30AM
+      id: infopic
+      description: "Exciting News for Parents! Join us for the launch of our MoCa
+        parent support network event: No Perfect Parents Here!"
+      button: Register Here
+      url: https://go.gov.sg/parentsupporteventon14sep2024
+      image: /images/453240186_865090762332329_7595047142250024766_n.jpg
       alt: Image alt text
   - resources:
       id: resources
