@@ -17,5 +17,5 @@ and organizations, CCMC plays a crucial role in making Cairnhill Community
 Club a welcoming and dynamic hub for residents to gather, engage, and grow
 together.
 <br>
-<br>Follow us: <a href="https://facebook.com/CairnhillCommunityClub" rel="noopener noreferrer nofollow" target="_blank">https://facebook.com/CairnhillCommunityClu</a>
+<br><a href="https://www.facebook.com/CairnhillCommunityClub" rel="noopener noreferrer nofollow" target="_blank">Connect with us at Our Cairnhill CCMC Facebook Page</a>
 </p>
