@@ -16,5 +16,5 @@ with opportunities to network, share experiences, and support each other,
 enhancing their confidence and capabilities. WEC aims to create a supportive
 environment where women can thrive and contribute actively to the community.</p>
 <p>
-<br><a href="https://www.facebook.com/cairnhill.wec" rel="noopener noreferrer nofollow" target="_blank">Connect with us at Women’s Executive Committee (WEC) Facebook Page</a>
+<br><a href="https://www.facebook.com/cairnhill.wec" rel="noopener noreferrer nofollow" target="_blank">Connect with us at our Cairnhill CC (WEC) Facebook Page</a>
 </p>
