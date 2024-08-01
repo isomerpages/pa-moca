@@ -48,7 +48,7 @@ sections:
         Chuan Road & Teck Lim Road) as we celebrate the occasion with crafts ,
         music , and mastery.
       button: Purchase Here
-      url: go.gov.sg/qixifest3aug24
+      url: https://www.onepa.gov.sg/events/qixi-street-party-keong-saik-51712590
       alt: Poster
       subtitle: Aug 3 2024, 4pm
       image: /images/451538555_866544828832260_2110769640238070703_n.jpg
