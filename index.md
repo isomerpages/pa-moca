@@ -86,7 +86,7 @@ sections:
       image: /images/451396439_876484277858296_6379260865857275210_n.jpg
       alt: Image alt text
   - infopic:
-      title: Tree Palnting Event
+      title: Tree Planting Event
       subtitle: Aug 17 2024, 9.30AM
       id: infopic
       description: Be part of NParks’ ‘Plant a Million Trees’ movment – now in
