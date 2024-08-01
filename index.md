@@ -32,7 +32,7 @@ sections:
       url: /moulmein-cairnhill/upcoming-events/
       button: View All
   - infopic:
-      title: Tekka Health Carnival is Back!🎉
+      title: Tekka Health Carnival is Back!
       subtitle: Saturday, 3 August 2024, 9am
       id: infopic
       description: Come join us for a fun-filled morning with activities. Let's make
