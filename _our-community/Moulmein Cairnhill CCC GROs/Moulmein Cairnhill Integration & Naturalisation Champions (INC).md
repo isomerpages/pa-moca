@@ -10,9 +10,9 @@ third_nav_title: Moulmein Cairnhill CCC GROs
 </div>
 <p><strong>Promoting Harmony, Building Community</strong>
 </p>
-<p><strong>Moulmein-Cairnhill INC</strong> aims to foster community bonding
-and integration among residents, including new citizens, through various
-activities and initiatives.</p>
+<p><strong>Moulmein-Cairnhill Integration Network (IN)</strong> aims to foster
+community bonding and integration among residents, including new citizens,
+through various activities and initiatives.</p>
 <p>At MoCa IN, we believe in the power of community and the strength that
 comes from embracing diversity. Our mission is to highlight and celebrate
 the efforts of individuals and groups who champion integration, fostering
