@@ -14,9 +14,10 @@ and maintain Pek Kio Community Club. The CCMC convenes regularly to plan
 and organize innovative programs designed to bring residents together,
 fostering interaction and building friendships. To focus on specific areas,
 various executive committees are established, including the Women's Executive
-Committee (WEC), Senior Citizens' Executive Committee (SCEC), and Malay
-Activity Executive Committee (MAEC). Through a range of cultural, educational,
-recreational, sporting, social, and other community-based activities, the
-CCMC strives to promote racial harmony and social cohesion among our residents.</p>
-<p><a href="https://www.facebook.com/Pekkio.CC" rel="noopener noreferrer nofollow" target="_blank">Connect with us at our Pek Kio CCMC Facebook Page </a>
+Committee (WEC), Senior Citizens' Executive Committee (SCEC), Indian Activity
+Executive Committee (IAEC).and Malay Activity Executive Committee (MAEC).
+Through a range of cultural, educational, recreational, sporting, social,
+and other community-based activities, the CCMC strives to promote racial
+harmony and social cohesion among our residents.</p>
+<p><a href="https://www.facebook.com/Pekkio.CC" rel="noopener noreferrer nofollow" target="_blank">Connect with us at our Pek Kio CCMC Facebook Page</a>
 </p>
