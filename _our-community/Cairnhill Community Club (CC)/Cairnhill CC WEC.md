@@ -14,7 +14,7 @@ WEC offers workshops, seminars, and social events focused on personal developmen
 health and wellness, and skill-building. These initiatives provide women
 with opportunities to network, share experiences, and support each other,
 enhancing their confidence and capabilities. WEC aims to create a supportive
-environment where women can thrive and contribute actively to the community.
-<br>
-<br>Follow us at: <a href="https://facebook.com/cairnhill.wec" rel="noopener noreferrer nofollow" target="_blank">https://facebook.com/cairnhill.wec</a>
+environment where women can thrive and contribute actively to the community.</p>
+<p>
+<br><a href="https://www.facebook.com/cairnhill.wec" rel="noopener noreferrer nofollow" target="_blank">Connect with us at Women’s Executive Committee (WEC) Facebook Page</a>
 </p>
