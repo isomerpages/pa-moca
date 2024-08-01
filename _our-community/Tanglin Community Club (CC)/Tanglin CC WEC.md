@@ -15,6 +15,7 @@ focus on personal development, health and wellness, and skill-building.
 These initiatives provide women with opportunities to network, share experiences,
 and support one another, thereby enhancing their confidence and capabilities.
 WEC strives to create a nurturing environment where women can flourish
-and contribute actively to the community.
+and contribute actively to the community.</p>
+<p>
 <br><a href="https://www.facebook.com/tanglinwec" rel="noopener noreferrer nofollow" target="_blank">Connect with us at our Tanglin WEC Facebook Page</a>
 </p>
