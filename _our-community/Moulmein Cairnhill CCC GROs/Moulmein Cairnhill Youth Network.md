@@ -10,8 +10,8 @@ third_nav_title: Moulmein Cairnhill CCC GROs
 </div>
 <p><strong>Empower Our Youth, Build Our Future</strong>
 </p>
-<p>Moulmein-Cairnhill Youth Network aims to engage and empower young residents
-through various activities and programs designed to develop their potential
-and foster community spirit.</p>
-<p>Connect with us at: <a href="https://facebook.com/MoCaYN" rel="noopener noreferrer nofollow" target="_blank">https://facebook.com/MoCaYN</a>
+<p><strong>Moulmein-Cairnhill Youth Network</strong> aims to engage and empower
+young residents through various activities and programs designed to develop
+their potential and foster community spirit.</p>
+<p><a href="https://www.facebook.com/MoCaYN" rel="noopener noreferrer nofollow" target="_blank">Connect with us at our MoCa Youth Network Facebook Page</a>
 </p>
