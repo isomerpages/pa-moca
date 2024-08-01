@@ -75,7 +75,7 @@ sections:
       image: /images/450368237_872602534913137_185038051845153023_n.jpg
       alt: Poster
   - infopic:
-      title: National Day Heartland Celebrations 2022 @ Central SG
+      title: National Day Heartland Celebrations 2024 @ Central SG
       subtitle: Aug 10 2024, 4pm
       id: infopic
       description: This year’s theme “Unity in Diversity” celebrates the unity,
