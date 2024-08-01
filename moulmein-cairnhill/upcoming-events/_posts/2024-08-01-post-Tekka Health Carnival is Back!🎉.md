@@ -32,3 +32,6 @@ Blk 672A</p>
 <p>(*Terms and Conditions Apply)</p>
 <p></p>
 <p>Let's make our community healthier and happier together! See you there!</p>
+<p></p>
+<p><strong><a href="https://go.gov.sg/tekkahealth24" class="py-4 link-button remove-after is-flex flex-start is-vh-centered" rel="noreferrer" target="_blank">Purchase Here</a></strong>
+</p>
