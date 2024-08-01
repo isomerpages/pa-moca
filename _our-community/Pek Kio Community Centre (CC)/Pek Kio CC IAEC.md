@@ -13,5 +13,5 @@ and promotes Indian culture through various events such as festivals, cultural
 performances, and workshops. It aims to enhance community engagement and
 cultural appreciation among residents, fostering a deeper understanding
 and connection within the diverse Pek Kio community.</p>
-<p><a href="https://www.facebook.com/PekkioIAEC" rel="noopener noreferrer nofollow" target="_blank">Connect with us on the Pek Kio IAEC Facebook Page</a>
+<p><a href="https://www.facebook.com/PekkioIAEC" rel="noopener noreferrer nofollow" target="_blank">Connect with us at our Pek Kio IAEC Facebook Page</a>
 </p>
