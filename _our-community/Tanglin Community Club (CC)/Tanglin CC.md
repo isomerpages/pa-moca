@@ -30,8 +30,6 @@ lovers of all ages.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="https://moca.sgp1.cdn.digitaloceanspaces.com/Our%20Communities/621bf1a0e1115029c4c281a7_Facilities.webp">
 </div>
-<p></p>
-<p>‍</p>
 <p>• Badminton Courts</p>
 <p>• Basketball Court</p>
 <p>• Dance Studio</p>
@@ -51,7 +49,7 @@ lovers of all ages.</p>
 <p>‍‍</p>
 <p><strong><em>Tanglin CC</em></strong>
 </p>
-<p>‍</p>
+<p></p>
 <p>‍<strong>Dance Courses</strong>
 </p>
 <p>• Bhangra Dance Club [<a href="https://www.onepa.gov.sg/interest-groups/bhangra-dance-club-i000005248" rel="noopener noreferrer nofollow" target="_blank">Register on OnePA]</a>
@@ -62,25 +60,21 @@ lovers of all ages.</p>
 </p>
 <p>• Pop Jam <a href="https://www.onepa.gov.sg/interest-groups/pop-jam-ig-i000013385" rel="noopener noreferrer nofollow" target="_blank">[Register on OnePA]</a>
 </p>
-<p>‍</p>
+<p></p>
 <p><strong>Art &amp; Music Courses</strong>
 </p>
-<p>‍</p>
+<p></p>
 <p>• Tamil Singing Group <a href="https://www.onepa.gov.sg/interest-groups/tamil-singing-interest-group-i000010379" rel="noopener noreferrer nofollow" target="_blank">[Register on OnePA]</a> 
 <br>• Music Club Jam <a href="https://www.onepa.gov.sg/interest-groups/tanglin-cc-music-club-jam-i000010597" rel="noopener noreferrer nofollow" target="_blank">[Register on OnePA]</a>
 </p>
 <p>‍</p>
 <p><strong><em>Tanglin CC WEC</em></strong>
 </p>
-<p>‍</p>
 <p>‍<strong>Dance Courses</strong>
 </p>
 <p>• K-Pop Dance <a href="https://www.onepa.gov.sg/interest-groups/wec-k-pop-dance-interest-group-i000023525" rel="noopener noreferrer nofollow" target="_blank">[Register on OnePA]</a>
 </p>
-<p>‍</p>
 <p>‍<strong>Art &amp; Music Courses</strong>
 </p>
 <p>• Brick Building Group (Active but currently suspended)</p>
 <p></p>
-<p><a href="https://www.facebook.com/tanglincc/" rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/tanglincc/</a>
-</p>

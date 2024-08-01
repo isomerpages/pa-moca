@@ -1,7 +1,7 @@
 ---
 title: Our Migrant Guests
 permalink: /our-migrant-guests/
-variant: tiptap
+variant: markdown
 description: ""
 ---
 <p></p>
@@ -19,4 +19,6 @@ and cohesive community for all.</p>
 contributions of our migrant guests.</p>
 <p><a href="https://www.instagram.com/ourmigrantguests/" rel="noopener noreferrer nofollow" target="_blank">Connect with us at Our Migrant Guests Instagram Page</a>
 </p>
+<p>To apply to serve in the committee, do reach us at:</p>
 <p></p>
+<a style="background-color: #da1f34; color: white; padding: 15px; font-weight: bold; text-decoration: none;" href="https://form.gov.sg/641528d4868d8100123251f2">Be a MoCa Volunteer</a>

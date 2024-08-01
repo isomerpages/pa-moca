@@ -1,7 +1,7 @@
 ---
 title: MoCa Women
 permalink: /moca-women/
-variant: tiptap
+variant: markdown
 description: ""
 ---
 <div class="isomer-image-wrapper">
@@ -14,3 +14,7 @@ to Aspire'. We look for everyday heroines to inspire women to aspire for
 more and we champion key women's issues in our community. We welcome women
 and men alike who believe in equality and equity to join us! Together,
 let's create a brighter future for our neighborhood!</p>
+
+<p>To apply to serve in the committee, do reach us at:</p>
+<p></p>
+<a style="background-color: #da1f34; color: white; padding: 15px; font-weight: bold; text-decoration: none;" href="https://form.gov.sg/641528d4868d8100123251f2">Be a MoCa Volunteer</a>

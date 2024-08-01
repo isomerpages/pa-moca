@@ -1,7 +1,7 @@
 ---
 title: MoCa Social Media Team
 permalink: /moca-social-media-team/
-variant: tiptap
+variant: markdown
 description: ""
 ---
 <div class="isomer-image-wrapper">
@@ -12,3 +12,7 @@ you believe in the power of online platforms to drive change and inspire
 communities? If so, we invite you to become a Social Media Volunteer for
 MoCa and help us create positive change together! Volunteer with Our MoCa
 Social Media Team and be the change you want to see.</p>
+
+<p>To apply to serve in the committee, do reach us at:</p>
+<p></p>
+<a style="background-color: #da1f34; color: white; padding: 15px; font-weight: bold; text-decoration: none;" href="https://form.gov.sg/641528d4868d8100123251f2">Be a MoCa Volunteer</a>
