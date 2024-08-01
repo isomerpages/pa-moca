@@ -20,5 +20,5 @@ the occasion with crafts , music , and mastery .</p>
 <p></p>
 <p>Don't miss out on this unique opportunity to celebrate diversity and experience
 the vibrant traditions of the Qixi Festival!</p>
-<p><strong><a href="go.gov.sg/qixifest3aug24" class="py-4 link-button remove-after is-flex flex-start is-vh-centered" rel="noopener noreferrer nofollow" target="_blank">Purchase Here</a></strong>
+<p><strong><a href="https://www.onepa.gov.sg/events/qixi-street-party-keong-saik-51712590" class="py-4 link-button remove-after is-flex flex-start is-vh-centered" rel="noopener noreferrer nofollow" target="_blank">Purchase Here</a></strong>
 </p>
