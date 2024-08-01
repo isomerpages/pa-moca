@@ -20,6 +20,6 @@ readiness. They also conduct EP activities to help the community prepare
 for emergencies. During times of emergency, the C2E coordinates community
 resources and leads the grassroots emergency response efforts to assist
 affected residents.</p>
-<p><a href="https://www.facebook.com/moulmeincairnhillc2e" rel="noopener noreferrer nofollow" target="_blank">Connect with us at MoCa C2E Facebook Page</a>
+<p><a href="https://www.facebook.com/moulmeincairnhillc2e" rel="noopener noreferrer nofollow" target="_blank">Connect with us at our MoCa C2E Facebook Page</a>
 </p>
 <p></p>
