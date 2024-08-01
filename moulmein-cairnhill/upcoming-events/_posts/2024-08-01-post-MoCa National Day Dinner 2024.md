@@ -11,7 +11,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/452288075_879674450872612_5795424994746646957_n.jpg">
 </div>
-<p>oin us for an unforgettable evening at Moulmein-Cairnhill National Day
+<p>Join us for an unforgettable evening at Moulmein-Cairnhill National Day
 Dinner 2024!
 <br>
 <br>Date: 24 August 2024, Saturday
