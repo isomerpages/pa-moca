@@ -18,5 +18,5 @@ Executive Committee (SCEC) and Indian Activity Executive Committee (IAEC).
 Through the various cultural, educational, recreational, sporting, social
 and other community-based activities , the CCMC aims to promote racial
 harmony and social cohesion amongst our residents.</p>
-<p><a href="https://www.facebook.com/tanglincc" rel="noopener noreferrer nofollow" target="_blank">Connect with us at Our Tanglin CCMC Facebook Page</a>
+<p><a href="https://www.facebook.com/tanglincc" rel="noopener noreferrer nofollow" target="_blank">Connect with us at our Tanglin CCMC Facebook Page</a>
 </p>
