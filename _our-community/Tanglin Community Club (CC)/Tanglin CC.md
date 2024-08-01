@@ -78,5 +78,3 @@ lovers of all ages.</p>
 </p>
 <p>• Brick Building Group (Active but currently suspended)</p>
 <p></p>
-<p><a href="https://www.facebook.com/tanglincc/" rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/tanglincc/</a>
-</p>
