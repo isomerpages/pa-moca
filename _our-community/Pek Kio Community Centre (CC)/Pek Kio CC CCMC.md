@@ -15,7 +15,7 @@ and organize innovative programs designed to bring residents together,
 fostering interaction and building friendships. To focus on specific areas,
 various executive committees are established, including the Women's Executive
 Committee (WEC), Senior Citizens' Executive Committee (SCEC), Indian Activity
-Executive Committee (IAEC).and Malay Activity Executive Committee (MAEC).
+Executive Committee (IAEC) and Malay Activity Executive Committee (MAEC).
 Through a range of cultural, educational, recreational, sporting, social,
 and other community-based activities, the CCMC strives to promote racial
 harmony and social cohesion among our residents.</p>
