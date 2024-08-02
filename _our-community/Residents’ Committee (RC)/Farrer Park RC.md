@@ -14,7 +14,7 @@ enhance the quality of life for all residents. We focus on community building
 through regular social events, workshops, and forums that encourage interaction
 and mutual support among neighbors.</p>
 <p>Farrer Park was the first horse racing meet held on 23 and 25 February
-1843, and has a rich sporting hertiage over the years that has seen many
-national athletes train in Farrer Park</p>
+1843, and has a rich sporting heritage over the years that has seen many
+national athletes train in Farrer Park.</p>
 <p><a href="https://facebook.com/Farrer-Park-Residents-Committee-544208985779410/" rel="noopener noreferrer nofollow" target="_blank">https://facebook.com/Farrer-Park-Residents-Committee-544208985779410/</a>
 </p>
