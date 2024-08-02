@@ -16,5 +16,4 @@ and recreational activities. Our goal is to create a connected and supportive
 environment for all residents.</p>
 <p><a href="https://www.facebook.com/BalmoralRN/" rel="noopener noreferrer nofollow" target="_blank">Connect with us at our Balmoral RN Facebook Page</a>
 </p>
-<p><a href="https://facebook.com/BalmoralNC/" rel="noopener noreferrer nofollow" target="_blank">https://facebook.com/BalmoralNC/</a>
-</p>
+<p></p>
