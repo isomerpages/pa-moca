@@ -26,7 +26,7 @@ to make a positive impact, there's a place for you in Our Green MoCa. Together,
 we can implement real change, one eco-friendly initiative at a time. Together,
 let's create a brighter future for our neighborhood!</p>
 <p></p>
-<p><a href="https://facebook.com/OurGreenMoCa" rel="noopener noreferrer nofollow" target="_blank">Connect with us at Our Green MoCa Facebook Page</a>
+<p><a href="https://facebook.com/OurGreenMoCa" rel="noopener noreferrer nofollow" target="_blank">Connect with us at our Green MoCa Facebook Page</a>
 </p>
 <p>To apply to serve in the committee, do reach us at:</p>
 <p></p>
