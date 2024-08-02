@@ -19,6 +19,6 @@ there's a place for you in our inclusive space. The network acts as a bridge,
 connecting individuals who might have otherwise never crossed paths, fostering
 unity through the universal language of sports. Volunteer with MoCa Sports
 and be the change you want to see.</p>
-<p><a href="https://www.facebook.com/profile.php?id=100063897858666" rel="noopener noreferrer nofollow" target="_blank">Connect with us on the MoCa Sports Facebook Page</a>
+<p><a href="https://www.facebook.com/profile.php?id=100063897858666" rel="noopener noreferrer nofollow" target="_blank">Connect with us at our MoCa Sports Facebook Page</a>
 </p>
 <p></p>
