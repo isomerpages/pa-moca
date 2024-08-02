@@ -72,7 +72,7 @@ sections:
         prizes!
       button: Purchase Here
       url: https://go.gov.sg/moca-ndoc-2024
-      image: /images/450368237_872602534913137_185038051845153023_n.jpg
+      image: /images/NDOC_Updated.png
       alt: Poster
   - infopic:
       title: National Day Heartland Celebrations 2024 @ Central SG
