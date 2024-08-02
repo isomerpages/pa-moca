@@ -1,6 +1,6 @@
 ---
-title: Tree Palnting Event
-permalink: /tree-palnting-event/
+title: Tree Planting Event
+permalink: /tree-planting-event/
 date: 2024-08-01
 layout: post
 description: ""

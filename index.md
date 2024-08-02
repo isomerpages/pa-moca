@@ -32,7 +32,7 @@ sections:
       url: /moulmein-cairnhill/upcoming-events/
       button: View All
   - infopic:
-      title: Tekka Health Carnival is Back!🎉
+      title: Tekka Health Carnival is Back!
       subtitle: Saturday, 3 August 2024, 9am
       id: infopic
       description: Come join us for a fun-filled morning with activities. Let's make
@@ -75,7 +75,7 @@ sections:
       image: /images/450368237_872602534913137_185038051845153023_n.jpg
       alt: Poster
   - infopic:
-      title: National Day Heartland Celebrations 2022 @ Central SG
+      title: National Day Heartland Celebrations 2024 @ Central SG
       subtitle: Aug 10 2024, 4pm
       id: infopic
       description: This year’s theme “Unity in Diversity” celebrates the unity,
@@ -86,7 +86,7 @@ sections:
       image: /images/451396439_876484277858296_6379260865857275210_n.jpg
       alt: Image alt text
   - infopic:
-      title: Tree Palnting Event
+      title: Tree Planting Event
       subtitle: Aug 17 2024, 9.30AM
       id: infopic
       description: Be part of NParks’ ‘Plant a Million Trees’ movment – now in
