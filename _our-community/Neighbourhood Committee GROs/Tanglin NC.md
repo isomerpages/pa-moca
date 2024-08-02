@@ -15,6 +15,6 @@ residents, promoting a strong sense of belonging and community spirit.</p>
 <p>Featuring the UNESCO Hertiage site, The Botanic Gardens, Tanglin NC actively
 promotes active citizenry and foster stronger community bonds within private
 housing estates</p>
-<p><a href="https://www.facebook.com/tanglinnc" rel="noopener noreferrer nofollow" target="_blank">Connect with us at Tanglin NC Facebook Page</a>
+<p><a href="https://www.facebook.com/tanglinnc" rel="noopener noreferrer nofollow" target="_blank">Connect with us at our Tanglin NC Facebook Page</a>
 </p>
 <p></p>
