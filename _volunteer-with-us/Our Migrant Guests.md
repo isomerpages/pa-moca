@@ -17,7 +17,7 @@ our various activities and initiatives, we strive to build a more inclusive
 and cohesive community for all.</p>
 <p>Join us in our mission to make a difference and celebrate the diverse
 contributions of our migrant guests.</p>
-<p><a href="https://www.instagram.com/ourmigrantguests/" rel="noopener noreferrer nofollow" target="_blank">Connect with us at Our Migrant Guests Instagram Page</a>
+<p><a href="https://www.instagram.com/ourmigrantguests/" rel="noopener noreferrer nofollow" target="_blank">Connect with us at our Migrant Guests Instagram Page</a>
 </p>
 <p>To apply to serve in the committee, do reach us at:</p>
 <p></p>
