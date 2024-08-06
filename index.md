@@ -32,27 +32,6 @@ sections:
       url: /moulmein-cairnhill/upcoming-events/
       button: View All
   - infopic:
-      title: Tekka Health Carnival is Back!
-      subtitle: Saturday, 3 August 2024, 9am
-      id: infopic
-      description: Come join us for a fun-filled morning with activities. Let's make
-        our community healthier and happier together! See you there!
-      button: Purchase Here
-      url: https://go.gov.sg/tekkahealth24
-      image: /images/452867647_829856059239248_60897442615317534_n.jpg
-      alt: Poster
-  - infopic:
-      title: Qixi Street Party @ Keong Saik
-      id: infopic
-      description: Join our Qixi Street Party @ Keong Saik (closed road between Jiak
-        Chuan Road & Teck Lim Road) as we celebrate the occasion with crafts ,
-        music , and mastery.
-      button: Purchase Here
-      url: https://www.onepa.gov.sg/events/qixi-street-party-keong-saik-51712590
-      alt: Poster
-      subtitle: Aug 3 2024, 4pm
-      image: /images/451538555_866544828832260_2110769640238070703_n.jpg
-  - infopic:
       title: MOCA Racial Harmony Concert! at Tanglin Community Club
       subtitle: Aug 3 2024, 2PM
       id: infopic
