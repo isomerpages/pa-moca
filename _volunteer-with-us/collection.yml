@@ -2,7 +2,6 @@ collections:
   volunteer-with-us:
     output: true
     order:
-      - CSP Trial in staging.md
       - Phase 2B (Applying as a Grassroots Leader).md
       - Be Our Volunteer.md
       - MoCa Well Being Circle.md
