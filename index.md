@@ -32,17 +32,6 @@ sections:
       url: /moulmein-cairnhill/upcoming-events/
       button: View All
   - infopic:
-      title: Tree Planting Event
-      subtitle: Aug 17 2024, 9.30AM
-      id: infopic
-      description: Be part of NParks’ ‘Plant a Million Trees’ movment – now in
-        Goldhill! Join us to plant 100 trees on that day to Green our
-        neighbourhood.
-      button: Register Here
-      url: https://go.gov.sg/goldhilltreeplanting24
-      image: /images/448923407_909886777837710_6889909964125387336_n.jpg
-      alt: Image alt text
-  - infopic:
       title: Moulmein-Cairnhill National Day Dinner 2024!
       subtitle: Aug 24 2024, 6pm
       id: infopic
