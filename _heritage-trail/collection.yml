@@ -1,4 +1,5 @@
 collections:
   heritage-trail:
     output: true
-    order: []
+    order:
+      - Example Title.md
