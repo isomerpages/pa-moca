@@ -22,8 +22,27 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Capture45.jpg">
 </div>
-</th>
+	</th>
 </tr>
 </tbody>
 </table>
-<p></p>
+<div style="font-family:Arial,sans-serif;max-width:600px;margin:0 auto;padding:20px;">
+  <div style="font-size:24px;font-weight:bold;margin-bottom:20px;">CSS-only List Filter</div>
+  <div>
+    <input style="display:none;" checked="" name="filter" id="all" type="radio">
+    <label style="display:inline-block;padding:5px 10px;border:1px solid #ddd;border-radius:4px;cursor:pointer;margin-right:10px;" for="all">All</label>
+    <input style="display:none;" name="filter" id="fruit" type="radio">
+    <label style="display:inline-block;padding:5px 10px;border:1px solid #ddd;border-radius:4px;cursor:pointer;margin-right:10px;" for="fruit">Fruits</label>
+    <input style="display:none;" name="filter" id="vegetable" type="radio">
+    <label style="display:inline-block;padding:5px 10px;border:1px solid #ddd;border-radius:4px;cursor:pointer;" for="vegetable">Vegetables</label>
+  </div>
+  <div style="margin-top:20px;" id="list">
+    <div style="margin-bottom:10px;padding:10px;border:1px solid #ddd;border-radius:4px;" class="item fruit">Apple</div>
+    <div style="margin-bottom:10px;padding:10px;border:1px solid #ddd;border-radius:4px;" class="item fruit">Banana</div>
+    <div style="margin-bottom:10px;padding:10px;border:1px solid #ddd;border-radius:4px;" class="item vegetable">Carrot</div>
+    <div style="margin-bottom:10px;padding:10px;border:1px solid #ddd;border-radius:4px;" class="item fruit">Orange</div>
+    <div style="margin-bottom:10px;padding:10px;border:1px solid #ddd;border-radius:4px;" class="item vegetable">Broccoli</div>
+    <div style="margin-bottom:10px;padding:10px;border:1px solid #ddd;border-radius:4px;" class="item vegetable">Spinach</div>
+    <div style="margin-bottom:10px;padding:10px;border:1px solid #ddd;border-radius:4px;" class="item fruit">Strawberry</div>
+  </div>
+</div>
