@@ -26,29 +26,9 @@ description: ""
 </tr>
 </tbody>
 </table>
-<div style="font-family:Arial,sans-serif;max-width:600px;margin:0 auto;padding:20px;">
-  <div style="font-size:24px;font-weight:bold;margin-bottom:20px;">CSS-only List Filter</div>
-  <div style="margin-bottom:20px;">
-    <label style="display:inline-block;padding:5px 10px;border:1px solid #ddd;border-radius:4px;cursor:pointer;margin-right:10px;">
-      <input style="display:none;" checked="" name="filter" type="radio">
-      All
-    </label>
-    <label style="display:inline-block;padding:5px 10px;border:1px solid #ddd;border-radius:4px;cursor:pointer;margin-right:10px;">
-      <input style="display:none;" name="filter" type="radio">
-      Fruits
-    </label>
-    <label style="display:inline-block;padding:5px 10px;border:1px solid #ddd;border-radius:4px;cursor:pointer;">
-      <input style="display:none;" name="filter" type="radio">
-      Vegetables
-    </label>
+  <div style="width: calc(33.333% - 20px);
+      padding: 20px;
+      background-color: #f9f9f9;
+      border: 1px solid #ddd;" class="vegetable">
+    Spinach
   </div>
-  <div style="margin-top:20px;">
-    <div style="margin-bottom:10px;padding:10px;border:1px solid #ddd;border-radius:4px;" class="item fruit">Apple</div>
-    <div style="margin-bottom:10px;padding:10px;border:1px solid #ddd;border-radius:4px;" class="item fruit">Banana</div>
-    <div style="margin-bottom:10px;padding:10px;border:1px solid #ddd;border-radius:4px;" class="item vegetable">Carrot</div>
-    <div style="margin-bottom:10px;padding:10px;border:1px solid #ddd;border-radius:4px;" class="item fruit">Orange</div>
-    <div style="margin-bottom:10px;padding:10px;border:1px solid #ddd;border-radius:4px;" class="item vegetable">Broccoli</div>
-    <div style="margin-bottom:10px;padding:10px;border:1px solid #ddd;border-radius:4px;" class="item vegetable">Spinach</div>
-    <div style="margin-bottom:10px;padding:10px;border:1px solid #ddd;border-radius:4px;" class="item fruit">Strawberry</div>
-  </div>
-</div>
