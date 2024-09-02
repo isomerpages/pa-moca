@@ -29,14 +29,14 @@ description: ""
 <div style="font-family:Arial,sans-serif;max-width:600px;margin:0 auto;padding:20px;">
   <div style="font-size:24px;font-weight:bold;margin-bottom:20px;">CSS-only List Filter</div>
   <div>
-    <input style="display:none;" checked="" name="filter" id="all" type="radio">
+    <input style="display:none;" checked="" name="filter" type="radio">
     <label style="display:inline-block;padding:5px 10px;border:1px solid #ddd;border-radius:4px;cursor:pointer;margin-right:10px;" for="all">All</label>
-    <input style="display:none;" name="filter" id="fruit" type="radio">
+    <input style="display:none;" name="filter" type="radio">
     <label style="display:inline-block;padding:5px 10px;border:1px solid #ddd;border-radius:4px;cursor:pointer;margin-right:10px;" for="fruit">Fruits</label>
-    <input style="display:none;" name="filter" id="vegetable" type="radio">
+    <input style="display:none;" name="filter" type="radio">
     <label style="display:inline-block;padding:5px 10px;border:1px solid #ddd;border-radius:4px;cursor:pointer;" for="vegetable">Vegetables</label>
   </div>
-  <div style="margin-top:20px;" id="list">
+  <div style="margin-top:20px;">
     <div style="margin-bottom:10px;padding:10px;border:1px solid #ddd;border-radius:4px;" class="item fruit">Apple</div>
     <div style="margin-bottom:10px;padding:10px;border:1px solid #ddd;border-radius:4px;" class="item fruit">Banana</div>
     <div style="margin-bottom:10px;padding:10px;border:1px solid #ddd;border-radius:4px;" class="item vegetable">Carrot</div>
