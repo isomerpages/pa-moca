@@ -32,6 +32,16 @@ sections:
       url: /moulmein-cairnhill/upcoming-events/
       button: View All
   - infopic:
+      title: "MoCa parent support network event: No Perfect Parents Here!"
+      subtitle: 14 Sep 2024,Saturday,10.30am
+      id: infopic
+      description: "Exciting News for Parents! Join us for the launch of our MoCa
+        parent support network event: No Perfect Parents Here!"
+      button: Register Here
+      url: https://go.gov.sg/parentsupporteventon14sep2024
+      image: /images/453240186_865090762332329_7595047142250024766_n.jpg
+      alt: Image alt text
+  - infopic:
       title: September Holiday Outdoor Games
       subtitle: 7 Aug  2024, Saturday, 11.30pm
       id: infopic
@@ -42,15 +52,14 @@ sections:
       image: /images/456204835_912748497561619_9198851966105388743_n.jpg
       alt: Image alt text
   - infopic:
-      title: "MoCa parent support network event: No Perfect Parents Here!"
-      subtitle: 14 Sep 2024,Saturday,10.30am
+      title: Healthy Family Lifestyle
+      subtitle: 7 September 2024, Saturday
       id: infopic
-      description: "Exciting News for Parents! Join us for the launch of our MoCa
-        parent support network event: No Perfect Parents Here!"
-      button: Register Here
-      url: https://go.gov.sg/parentsupporteventon14sep2024
-      image: /images/453240186_865090762332329_7595047142250024766_n.jpg
+      description: Celebrate the Mid Autumn Festival with a unique and enriching experience!
+      button: Purchase Here
+      image: /images/453501140_891983046291323_9083597023945332292_n.jpg
       alt: Image alt text
+      url: https://go.gov.sg/sisdrm
   - infopic:
       title: Mid-Autumn Festival at Pek Kio!
       subtitle: 14 Sep 2024, Saturday, 7pm
@@ -72,20 +81,12 @@ sections:
       alt: Image alt text
       url: https://go.gov.sg/newtonrn-mid-autumn24
   - infopic:
-      title: Healthy Family Lifestyle
-      subtitle: 7 September 2024, Saturday
+      title: Donation Drive
+      subtitle: 29 August to 18 October
       id: infopic
-      description: Celebrate the Mid Autumn Festival with a unique and enriching experience!
-      button: Purchase Here
-      image: /images/453501140_891983046291323_9083597023945332292_n.jpg
-      alt: Image alt text
-      url: https://go.gov.sg/sisdrm
-  - infopic:
-      title: Infopic
-      subtitle: Add an image and text
-      id: infopic
-      description: Infopic description
-      button: Button Text
+      description: Got school bags and stationery that your kids have outgrown? Drop
+        off your pre-loved items at Tanglin Community Club and make a difference
+        in someone’s life!
       image: /images/457449936_903748911798499_8596988827143070964_n.jpg
       alt: Image alt text
   - infopic:
