@@ -99,6 +99,16 @@ sections:
         in someone’s life!
       image: /images/457449936_903748911798499_8596988827143070964_n.jpg
       alt: Image alt text
+  - infopic:
+      title: Moon fest @ Goldhill
+      subtitle: 14 Sep 2024, Saturday, 4.30pm
+      id: infopic
+      description: Celebrate a festival filled with cultural richness and joy with
+        your loved ones and neighbours.
+      button: Purchase Here
+      url: https://go.gov.sg/moonfest2024
+      image: /images/456684308_953052233521164_1899051630261254525_n.jpg
+      alt: Image alt text
   - resources:
       id: resources
       subtitle: What we have been up to
