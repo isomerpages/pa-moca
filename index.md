@@ -73,7 +73,7 @@ sections:
       url: https://go.gov.sg/newtonrn-mid-autumn24
   - infopic:
       title: Healthy Family Lifestyle
-      subtitle: 7 September 2024,Sat,8.30am
+      subtitle: 7 September 2024, Saturday
       id: infopic
       description: Celebrate the Mid Autumn Festival with a unique and enriching experience!
       button: Purchase Here
