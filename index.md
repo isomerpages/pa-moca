@@ -90,12 +90,15 @@ sections:
       image: /images/457449936_903748911798499_8596988827143070964_n.jpg
       alt: Image alt text
   - infopic:
-      title: Infopic
+      title: 𝐇𝐞𝐚𝐥𝐭𝐡 𝐖𝐨𝐫𝐤𝐬𝐡𝐨𝐩
       subtitle: Add an image and text
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: Brought to you by Moulmein-Cairnhill Active Ageing Committee and PA
+        Family Life Champion.
+      button: Purchase Here
       alt: Image alt text
+      url: https://go.gov.sg/flchealth8sept24
+      image: /images/455137578_945184307641290_4182960501694181044_n.jpg
   - resources:
       id: resources
       subtitle: What we have been up to
