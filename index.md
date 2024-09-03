@@ -57,26 +57,29 @@ sections:
       id: infopic
       description: Enjoy tea appreciation, test your knowledge with a lantern quiz,
         unleash your creativity with DIY Chinese fan activities
-      button: Button Text
+      button: Purchase Here
       image: /images/456281213_528903062824758_7376999945062482277_n.jpg
       alt: Image alt text
       url: https://go.gov.sg/pekkio-midautumn-2024
   - infopic:
-      title: Infopic
+      title: Mid-Autumn Festival 2024
       subtitle: Add an image and text
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: Expect lots of fun, food, and activities booths this round for your
+        entire family.
+      button: Purchase Here
       image: /images/456104116_903068175194480_4157253907536894974_n.jpg
       alt: Image alt text
+      url: https://go.gov.sg/newtonrn-mid-autumn24
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: Healthy Family Lifestyle
+      subtitle: 7 September 2024,Sat,8.30am
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: Celebrate the Mid Autumn Festival with a unique and enriching experience!
+      button: Purchase Here
       image: /images/453501140_891983046291323_9083597023945332292_n.jpg
       alt: Image alt text
+      url: https://go.gov.sg/sisdrm
   - infopic:
       title: Infopic
       subtitle: Add an image and text
