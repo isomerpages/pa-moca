@@ -32,6 +32,25 @@ sections:
       url: /moulmein-cairnhill/upcoming-events/
       button: View All
   - infopic:
+      title: Healthy Family Lifestyle
+      subtitle: 7 Sept 2024, Saturday, 8.30am
+      id: infopic
+      description: Celebrate the Mid Autumn Festival with a unique and enriching experience!
+      button: Purchase Here
+      image: /images/453501140_891983046291323_9083597023945332292_n.jpg
+      alt: Image alt text
+      url: https://go.gov.sg/sisdrm
+  - infopic:
+      title: Button ART Wokshop
+      subtitle: 7 Sept 2024, Saturday, 5pm
+      id: infopic
+      description: Unleash your child's creativity and bring your ideas to life at our
+        Muzart's Parent and Child workshop.
+      button: Purchase Here
+      url: https://go.gov.sg/buttonart
+      image: /images/455845163_912615540903198_8577118038237980768_n.jpg
+      alt: Image alt text
+  - infopic:
       title: September Holiday Outdoor Games
       subtitle: 7 Sept 2024, Saturday, 11.30pm
       id: infopic
@@ -51,15 +70,6 @@ sections:
       alt: Image alt text
       url: https://go.gov.sg/flchealth8sept24
       image: /images/455137578_945184307641290_4182960501694181044_n.jpg
-  - infopic:
-      title: Healthy Family Lifestyle
-      subtitle: 7 Sept 2024, Saturday, 8.30am
-      id: infopic
-      description: Celebrate the Mid Autumn Festival with a unique and enriching experience!
-      button: Purchase Here
-      image: /images/453501140_891983046291323_9083597023945332292_n.jpg
-      alt: Image alt text
-      url: https://go.gov.sg/sisdrm
   - infopic:
       title: "MoCa parent support network event: No Perfect Parents Here!"
       subtitle: 14 Sep 2024,Saturday,10.30am
@@ -91,15 +101,6 @@ sections:
       alt: Image alt text
       url: https://go.gov.sg/newtonrn-mid-autumn24
   - infopic:
-      title: Donation Drive
-      subtitle: 29 August to 18 October
-      id: infopic
-      description: Got school bags and stationery that your kids have outgrown? Drop
-        off your pre-loved items at Tanglin Community Club and make a difference
-        in someone’s life!
-      image: /images/457449936_903748911798499_8596988827143070964_n.jpg
-      alt: Image alt text
-  - infopic:
       title: Moon fest @ Goldhill
       subtitle: 14 Sep 2024, Saturday, 4.30pm
       id: infopic
@@ -109,24 +110,16 @@ sections:
       url: https://go.gov.sg/moonfest2024
       image: /images/456684308_953052233521164_1899051630261254525_n.jpg
       alt: Image alt text
+  - infopic:
+      title: Donation Drive
+      subtitle: 29 August to 18 October
+      id: infopic
+      description: Got school bags and stationery that your kids have outgrown? Drop
+        off your pre-loved items at Tanglin Community Club and make a difference
+        in someone’s life!
+      image: /images/457449936_903748911798499_8596988827143070964_n.jpg
+      alt: Image alt text
   - resources:
       id: resources
       subtitle: What we have been up to
-  - infopic:
-      title: Button ART Wokshop
-      subtitle: 7 Sept 2024, Saturday, 5pm
-      id: infopic
-      description: Unleash your child's creativity and bring your ideas to life at our
-        Muzart's Parent and Child workshop.
-      button: Purchase Here
-      url: https://go.gov.sg/buttonart
-      image: /images/455845163_912615540903198_8577118038237980768_n.jpg
-      alt: Image alt text
-  - infopic:
-      title: Infopic
-      subtitle: Add an image and text
-      id: infopic
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
 ---
