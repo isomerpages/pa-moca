@@ -112,4 +112,21 @@ sections:
   - resources:
       id: resources
       subtitle: What we have been up to
+  - infopic:
+      title: Button ART Wokshop
+      subtitle: 7 Sept 2024, Saturday, 5pm
+      id: infopic
+      description: Unleash your child's creativity and bring your ideas to life at our
+        Muzart's Parent and Child workshop.
+      button: Purchase Here
+      url: https://go.gov.sg/buttonart
+      image: /images/455845163_912615540903198_8577118038237980768_n.jpg
+      alt: Image alt text
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
