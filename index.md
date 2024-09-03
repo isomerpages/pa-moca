@@ -32,6 +32,35 @@ sections:
       url: /moulmein-cairnhill/upcoming-events/
       button: View All
   - infopic:
+      title: September Holiday Outdoor Games
+      subtitle: 7 Sept 2024, Saturday, 11.30pm
+      id: infopic
+      description: Looking for a break from screen time for your kids? Outdoor play is
+        essential for their emotional well-being.
+      button: Purchase Here
+      url: https://go.gov.sg/mocamonopolydeal
+      image: /images/456204835_912748497561619_9198851966105388743_n.jpg
+      alt: Image alt text
+  - infopic:
+      title: 𝐇𝐞𝐚𝐥𝐭𝐡 𝐖𝐨𝐫𝐤𝐬𝐡𝐨𝐩
+      subtitle: 8 Sept 2024, Saturday, 3pm
+      id: infopic
+      description: Brought to you by Moulmein-Cairnhill Active Ageing Committee and PA
+        Family Life Champion.
+      button: Purchase Here
+      alt: Image alt text
+      url: https://go.gov.sg/flchealth8sept24
+      image: /images/455137578_945184307641290_4182960501694181044_n.jpg
+  - infopic:
+      title: Healthy Family Lifestyle
+      subtitle: 7 Sept 2024, Saturday, 8.30am
+      id: infopic
+      description: Celebrate the Mid Autumn Festival with a unique and enriching experience!
+      button: Purchase Here
+      image: /images/453501140_891983046291323_9083597023945332292_n.jpg
+      alt: Image alt text
+      url: https://go.gov.sg/sisdrm
+  - infopic:
       title: "MoCa parent support network event: No Perfect Parents Here!"
       subtitle: 14 Sep 2024,Saturday,10.30am
       id: infopic
@@ -41,25 +70,6 @@ sections:
       url: https://go.gov.sg/parentsupporteventon14sep2024
       image: /images/453240186_865090762332329_7595047142250024766_n.jpg
       alt: Image alt text
-  - infopic:
-      title: September Holiday Outdoor Games
-      subtitle: 7 Aug  2024, Saturday, 11.30pm
-      id: infopic
-      description: Looking for a break from screen time for your kids? Outdoor play is
-        essential for their emotional well-being.
-      button: Purchase Here
-      url: https://go.gov.sg/mocamonopolydeal
-      image: /images/456204835_912748497561619_9198851966105388743_n.jpg
-      alt: Image alt text
-  - infopic:
-      title: Healthy Family Lifestyle
-      subtitle: 7 September 2024, Saturday
-      id: infopic
-      description: Celebrate the Mid Autumn Festival with a unique and enriching experience!
-      button: Purchase Here
-      image: /images/453501140_891983046291323_9083597023945332292_n.jpg
-      alt: Image alt text
-      url: https://go.gov.sg/sisdrm
   - infopic:
       title: Mid-Autumn Festival at Pek Kio!
       subtitle: 14 Sep 2024, Saturday, 7pm
@@ -72,7 +82,7 @@ sections:
       url: https://go.gov.sg/pekkio-midautumn-2024
   - infopic:
       title: Mid-Autumn Festival 2024
-      subtitle: Add an image and text
+      subtitle: 14 Sep 2024, Saturday, 4.30pm
       id: infopic
       description: Expect lots of fun, food, and activities booths this round for your
         entire family.
@@ -89,16 +99,6 @@ sections:
         in someone’s life!
       image: /images/457449936_903748911798499_8596988827143070964_n.jpg
       alt: Image alt text
-  - infopic:
-      title: 𝐇𝐞𝐚𝐥𝐭𝐡 𝐖𝐨𝐫𝐤𝐬𝐡𝐨𝐩
-      subtitle: Add an image and text
-      id: infopic
-      description: Brought to you by Moulmein-Cairnhill Active Ageing Committee and PA
-        Family Life Champion.
-      button: Purchase Here
-      alt: Image alt text
-      url: https://go.gov.sg/flchealth8sept24
-      image: /images/455137578_945184307641290_4182960501694181044_n.jpg
   - resources:
       id: resources
       subtitle: What we have been up to
