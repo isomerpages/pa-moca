@@ -75,9 +75,6 @@ sections:
       button: Button Text
       image: /images/453501140_891983046291323_9083597023945332292_n.jpg
       alt: Image alt text
-  - resources:
-      id: resources
-      subtitle: What we have been up to
   - infopic:
       title: Infopic
       subtitle: Add an image and text
@@ -93,4 +90,7 @@ sections:
       description: Infopic description
       button: Button Text
       alt: Image alt text
+  - resources:
+      id: resources
+      subtitle: What we have been up to
 ---
