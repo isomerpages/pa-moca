@@ -53,12 +53,14 @@ sections:
       alt: Image alt text
   - infopic:
       title: Mid-Autumn Festival at Pek Kio!
-      subtitle: 14 Sep 2024, Saturday
+      subtitle: 14 Sep 2024, Saturday, 7pm
       id: infopic
-      description: Infopic description
+      description: Enjoy tea appreciation, test your knowledge with a lantern quiz,
+        unleash your creativity with DIY Chinese fan activities
       button: Button Text
       image: /images/456281213_528903062824758_7376999945062482277_n.jpg
       alt: Image alt text
+      url: https://go.gov.sg/pekkio-midautumn-2024
   - infopic:
       title: Infopic
       subtitle: Add an image and text
