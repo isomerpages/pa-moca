@@ -11,7 +11,7 @@ sections:
       title: We are Moulmein-Cairnhill
       subtitle: Our people, communities’ contribution is what makes this town special,
         caring and warm. Come experience it and join us in making a difference.
-      background: /images/Capture45.jpg
+      background: /images/WhatsApp_Image_2024_08_03_at_20_49_36.jpg
       key_highlights:
         - title: Get to Know Us
           description: Our People
