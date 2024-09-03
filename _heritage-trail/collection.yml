@@ -1,5 +1,0 @@
-collections:
-  heritage-trail:
-    output: true
-    order:
-      - Example Title.md
