@@ -19,10 +19,9 @@ ones and neighbours, paint lanterns together and parade under the super
 moonlight at the playground and our secret garden!
 <br>
 <br>Prizes to win for those entering the lantern painting contest as a family!
-<br>
-<br>: 14 September 2024, Saturday
-<br>: 4:30pm - 7:30pm
-<br>: Goldhill Avenue Playground
+<br>14 September 2024, Saturday
+<br>4:30pm - 7:30pm
+<br>Goldhill Avenue Playground
 <br>
 <br>At just $5 a ticket, participants can enjoy:
 <br>1. Lantern Parade in Goldhill’s own Secret Garden
