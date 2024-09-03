@@ -32,7 +32,7 @@ sections:
       url: /moulmein-cairnhill/upcoming-events/
       button: View All
   - infopic:
-      title: September holiday Outdoor Games
+      title: September Holiday Outdoor Games
       subtitle: Aug 7 2024, 11.30pm
       id: infopic
       description: Looking for a break from screen time for your kids? Outdoor play is
