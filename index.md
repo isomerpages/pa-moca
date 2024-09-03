@@ -33,7 +33,7 @@ sections:
       button: View All
   - infopic:
       title: September Holiday Outdoor Games
-      subtitle: Aug 7 2024, 11.30pm
+      subtitle: 7 Aug  2024, Saturday, 11.30pm
       id: infopic
       description: Looking for a break from screen time for your kids? Outdoor play is
         essential for their emotional well-being.
@@ -43,7 +43,7 @@ sections:
       alt: Image alt text
   - infopic:
       title: "MoCa parent support network event: No Perfect Parents Here!"
-      subtitle: Sep 14 2024, 10.30AM
+      subtitle: 14 Sep 2024,Saturday,10.30am
       id: infopic
       description: "Exciting News for Parents! Join us for the launch of our MoCa
         parent support network event: No Perfect Parents Here!"
@@ -52,8 +52,8 @@ sections:
       image: /images/453240186_865090762332329_7595047142250024766_n.jpg
       alt: Image alt text
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: Mid-Autumn Festival at Pek Kio!
+      subtitle: 14 Sep 2024, Saturday
       id: infopic
       description: Infopic description
       button: Button Text
