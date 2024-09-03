@@ -32,14 +32,14 @@ sections:
       url: /moulmein-cairnhill/upcoming-events/
       button: View All
   - infopic:
-      title: Moulmein-Cairnhill National Day Dinner 2024!
-      subtitle: Aug 24 2024, 6pm
+      title: September holiday Outdoor Games
+      subtitle: Aug 7 2024, 11.30pm
       id: infopic
-      description: 🎉 Join us for an unforgettable evening at Moulmein-Cairnhill
-        National Day Dinner 2024!🎉
+      description: Looking for a break from screen time for your kids? Outdoor play is
+        essential for their emotional well-being.
       button: Purchase Here
-      url: https://go.gov.sg/2024ndd
-      image: /images/452288075_879674450872612_5795424994746646957_n.jpg
+      url: https://go.gov.sg/mocamonopolydeal
+      image: /images/456204835_912748497561619_9198851966105388743_n.jpg
       alt: Image alt text
   - infopic:
       title: "MoCa parent support network event: No Perfect Parents Here!"
