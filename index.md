@@ -51,7 +51,46 @@ sections:
       url: https://go.gov.sg/parentsupporteventon14sep2024
       image: /images/453240186_865090762332329_7595047142250024766_n.jpg
       alt: Image alt text
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      image: /images/456281213_528903062824758_7376999945062482277_n.jpg
+      alt: Image alt text
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      image: /images/456104116_903068175194480_4157253907536894974_n.jpg
+      alt: Image alt text
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      image: /images/453501140_891983046291323_9083597023945332292_n.jpg
+      alt: Image alt text
   - resources:
       id: resources
       subtitle: What we have been up to
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      image: /images/457449936_903748911798499_8596988827143070964_n.jpg
+      alt: Image alt text
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
