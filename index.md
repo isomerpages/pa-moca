@@ -32,45 +32,6 @@ sections:
       url: /moulmein-cairnhill/upcoming-events/
       button: View All
   - infopic:
-      title: Healthy Family Lifestyle
-      subtitle: 7 Sept 2024, Saturday, 8.30am
-      id: infopic
-      description: Celebrate the Mid Autumn Festival with a unique and enriching experience!
-      button: Purchase Here
-      image: /images/453501140_891983046291323_9083597023945332292_n.jpg
-      alt: Image alt text
-      url: https://go.gov.sg/sisdrm
-  - infopic:
-      title: Button ART Wokshop
-      subtitle: 7 Sept 2024, Saturday, 5pm
-      id: infopic
-      description: Unleash your child's creativity and bring your ideas to life at our
-        Muzart's Parent and Child workshop.
-      button: Purchase Here
-      url: https://go.gov.sg/buttonart
-      image: /images/455845163_912615540903198_8577118038237980768_n.jpg
-      alt: Image alt text
-  - infopic:
-      title: September Holiday Outdoor Games
-      subtitle: 7 Sept 2024, Saturday, 11.30pm
-      id: infopic
-      description: Looking for a break from screen time for your kids? Outdoor play is
-        essential for their emotional well-being.
-      button: Purchase Here
-      url: https://go.gov.sg/mocamonopolydeal
-      image: /images/456204835_912748497561619_9198851966105388743_n.jpg
-      alt: Image alt text
-  - infopic:
-      title: 𝐇𝐞𝐚𝐥𝐭𝐡 𝐖𝐨𝐫𝐤𝐬𝐡𝐨𝐩
-      subtitle: 8 Sept 2024, Saturday, 3pm
-      id: infopic
-      description: Brought to you by Moulmein-Cairnhill Active Ageing Committee and PA
-        Family Life Champion.
-      button: Purchase Here
-      alt: Image alt text
-      url: https://go.gov.sg/flchealth8sept24
-      image: /images/455137578_945184307641290_4182960501694181044_n.jpg
-  - infopic:
       title: "MoCa parent support network event: No Perfect Parents Here!"
       subtitle: 14 Sep 2024,Saturday,10.30am
       id: infopic
