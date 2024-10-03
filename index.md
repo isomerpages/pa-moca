@@ -90,6 +90,17 @@ sections:
       alt: Image alt text
       url: https://go.gov.sg/museumpk2024
       image: /images/461828108_17976119741772703_8495469210873400529_n.jpg
+  - infopic:
+      title: Marble Coaster Workshop
+      subtitle: 16 Nover 2024, Saturday
+      id: infopic
+      description: Join us for an exciting parent-child bonding activity at PKCC!
+        Parents and children will work together to design and build their very
+        own marble coaster.
+      button: Purchase Here
+      url: https://go.gov.sg/16nov24coastering
+      image: /images/461555581_553012473747150_6696395351497324094_n.jpg
+      alt: Image alt text
   - resources:
       id: resources
       subtitle: What we have been up to
