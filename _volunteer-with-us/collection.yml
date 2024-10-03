@@ -2,12 +2,12 @@ collections:
   volunteer-with-us:
     output: true
     order:
-      - Moulmein Cairnhill Integration Network (IN).md
       - Phase 2B (Applying as a Grassroots Leader).md
       - Be Our Volunteer.md
       - MoCa Well Being Circle.md
       - Our Green MoCa.md
       - Our Migrant Guests.md
+      - Moulmein Cairnhill Integration Network (IN).md
       - MoCa Women.md
       - Tutoring and Mentoring.md
       - Moulmein Cairnhill Harmony Circle.md
