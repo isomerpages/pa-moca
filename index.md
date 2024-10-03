@@ -80,12 +80,16 @@ sections:
       url: https://go.gov.sg/ittakesavillageon26october2024
       image: /images/460959178_899503005557771_7938578167736641577_n.jpg
   - infopic:
-      title: Infopic
-      subtitle: 26 October 2024, Saturday
+      title: Visit to National Museum of Singapore
+      subtitle: 16 Nover 2024, Saturday
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: Join us for a visit to the National Museum of Singapore and
+        discover the rich history of Singapore’s development from ancient
+        settlement to modern city.
+      button: Purchase Here
       alt: Image alt text
+      url: https://go.gov.sg/museumpk2024
+      image: /images/461828108_17976119741772703_8495469210873400529_n.jpg
   - resources:
       id: resources
       subtitle: What we have been up to
