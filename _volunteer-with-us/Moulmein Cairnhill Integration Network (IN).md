@@ -16,3 +16,7 @@ the efforts of individuals and groups who champion integration, fostering
 a sense of belonging and mutual understanding among diverse communities.
 We aim to create a welcoming environment where everyone, regardless of
 background, feels valued and appreciated.</p>
+
+<p>To apply to serve in the committee, do reach us at:</p>
+<p></p>
+<a style="background-color: #da1f34; color: white; padding: 15px; font-weight: bold; text-decoration: none;" href="https://form.gov.sg/641528d4868d8100123251f2">Be a MoCa Volunteer</a>
