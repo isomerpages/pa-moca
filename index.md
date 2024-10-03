@@ -71,12 +71,14 @@ sections:
       url: https://go.gov.sg/tccoktoberfest2024
       image: /images/461270730_938474751650610_1842087098072663026_n.jpg
   - infopic:
-      title: Infopic
+      title: IT TAKES A VILLAGE
       subtitle: 26 October 2024, Saturday
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: We aim to amplifying understanding, foster open discussions about
+        mental health at our upcoming festival.
       alt: Image alt text
+      url: https://go.gov.sg/ittakesavillageon26october2024
+      image: /images/460959178_899503005557771_7938578167736641577_n.jpg
   - infopic:
       title: Infopic
       subtitle: 26 October 2024, Saturday
