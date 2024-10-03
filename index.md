@@ -51,11 +51,15 @@ sections:
       image: /images/461593458_937207385107992_8447235660021211784_n.jpg
       alt: Image alt text
   - infopic:
-      subtitle: 26 October 2024, Saturday
+      subtitle: 12 October 2024, Saturday
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: Join us for an informative session on Will & Lasting Power of
+        Attorney (LPA)
+      button: Purchase Here
       alt: Image alt text
+      title: Will & Lasting Power of Attorney (LPA)
+      url: https://go.gov.sg/8zwpw6
+      image: /images/458268126_914913730664921_8454652389323294667_n.jpg
   - infopic:
       title: Infopic
       subtitle: 26 October 2024, Saturday
