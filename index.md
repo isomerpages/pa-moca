@@ -61,12 +61,15 @@ sections:
       url: https://go.gov.sg/8zwpw6
       image: /images/458268126_914913730664921_8454652389323294667_n.jpg
   - infopic:
-      title: Infopic
-      subtitle: 26 October 2024, Saturday
+      title: Tanglin CC Oktoberfest 2024
+      subtitle: 19 October 2024, Saturday
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: Get ready for an unforgettable evening at the Tanglin Community
+        Club's highly anticipated Oktoberfest 2024!
+      button: Purchase Here
       alt: Image alt text
+      url: https://go.gov.sg/tccoktoberfest2024
+      image: /images/461270730_938474751650610_1842087098072663026_n.jpg
   - infopic:
       title: Infopic
       subtitle: 26 October 2024, Saturday
