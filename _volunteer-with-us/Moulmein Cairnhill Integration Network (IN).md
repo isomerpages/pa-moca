@@ -17,6 +17,8 @@ a sense of belonging and mutual understanding among diverse communities.
 We aim to create a welcoming environment where everyone, regardless of
 background, feels valued and appreciated.</p>
 
+[Connect with us at Moulmein Cairnhill Integration Network (IN)](https://www.facebook.com/profile.php?id=61563838351945)
+
 <p>To apply to serve in the committee, do reach us at:</p>
 <p></p>
 <a style="background-color: #da1f34; color: white; padding: 15px; font-weight: bold; text-decoration: none;" href="https://form.gov.sg/641528d4868d8100123251f2">Be a MoCa Volunteer</a>
