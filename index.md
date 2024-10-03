@@ -79,6 +79,7 @@ sections:
       alt: Image alt text
       url: https://go.gov.sg/ittakesavillageon26october2024
       image: /images/460959178_899503005557771_7938578167736641577_n.jpg
+      button: Register Here
   - infopic:
       title: Visit to National Museum of Singapore
       subtitle: 16 November 2024, Saturday
