@@ -11,9 +11,9 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/460959178_899503005557771_7938578167736641577_n.jpg">
 </div>
-<p>oin us on 26 Oct 2024, Saturday, 1.30pm at Tanglin Community Club as we
-aim to amplifying understanding, foster open discussions about mental health
-at our upcoming festival.
+<p>Join us on 26 Oct 2024, Saturday, 1.30pm at Tanglin Community Club as
+we aim to amplifying understanding, foster open discussions about mental
+health at our upcoming festival.
 <br>
 <br>Things to look forward to:
 <br>- An array of mental health films
