@@ -40,6 +40,43 @@ sections:
         in someone’s life!
       image: /images/457449936_903748911798499_8596988827143070964_n.jpg
       alt: Image alt text
+  - infopic:
+      title: TPRM Enchanted Halloween Night
+      subtitle: 26 October 2024, Saturday
+      id: infopic
+      description: Where Fairytales get Frightfully Fun!  Get ready for an evening of
+        magic and adventure!
+      button: Purchase Here
+      url: go.gov.sg/tprmhalloween24
+      image: /images/461593458_937207385107992_8447235660021211784_n.jpg
+      alt: Image alt text
+  - infopic:
+      subtitle: 26 October 2024, Saturday
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
+  - infopic:
+      title: Infopic
+      subtitle: 26 October 2024, Saturday
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
+  - infopic:
+      title: Infopic
+      subtitle: 26 October 2024, Saturday
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
+  - infopic:
+      title: Infopic
+      subtitle: 26 October 2024, Saturday
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
   - resources:
       id: resources
       subtitle: What we have been up to
