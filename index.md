@@ -81,7 +81,7 @@ sections:
       image: /images/460959178_899503005557771_7938578167736641577_n.jpg
   - infopic:
       title: Visit to National Museum of Singapore
-      subtitle: 16 Nover 2024, Saturday
+      subtitle: 16 November 2024, Saturday
       id: infopic
       description: Join us for a visit to the National Museum of Singapore and
         discover the rich history of Singapore’s development from ancient
@@ -92,7 +92,7 @@ sections:
       image: /images/461828108_17976119741772703_8495469210873400529_n.jpg
   - infopic:
       title: Marble Coaster Workshop
-      subtitle: 16 Nover 2024, Saturday
+      subtitle: 16 November 2024, Saturday
       id: infopic
       description: Join us for an exciting parent-child bonding activity at PKCC!
         Parents and children will work together to design and build their very
