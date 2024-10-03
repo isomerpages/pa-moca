@@ -13,8 +13,9 @@ committed to fostering a vibrant and inclusive community within the Tanglin
 area. We organize diverse programs and events that cater to the interests
 and needs of our residents, promoting a strong sense of belonging and community
 spirit.</p>
-<p>Featuring the UNESCO Hertiage site, The Botanic Gardens, Tanglin NC actively
-promotes active citizenry and foster stronger community bonds within private
-housing estates</p>
+<p>Featuring the UNESCO Hertiage site, The Botanic Gardens, Botanic Gardens
+RN actively promotes active citizenry and foster stronger community bonds
+within private housing estates</p>
+<p></p>
 <p><a href="https://www.facebook.com/botanicgardensrn" rel="noopener nofollow" target="_blank">Connect with us at our Botanic Gardens RN Facebook Page</a>
 </p>
