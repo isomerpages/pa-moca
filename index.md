@@ -16,7 +16,7 @@ sections:
         - title: Get to Know Us
           description: Our People
           url: /mr-alvin-tan/
-        - title: Upgrade & Plans
+        - title: Upgrades & Plans
           description: Our Town
           url: /moulmein-cairnhill/our-town
         - title: Volunteer With Us
