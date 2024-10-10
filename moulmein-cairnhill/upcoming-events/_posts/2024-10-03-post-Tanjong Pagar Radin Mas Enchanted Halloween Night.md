@@ -1,5 +1,5 @@
 ---
-title: TanjongPagarRadinMas Enchanted Halloween Night
+title: Tanjong Pagar Radin Mas Enchanted Halloween Night
 permalink: /tanjongpagarradinmas-enchanted-halloween-night/
 date: 2024-10-03
 layout: post
