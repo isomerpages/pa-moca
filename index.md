@@ -32,15 +32,6 @@ sections:
       url: /moulmein-cairnhill/upcoming-events/
       button: View All
   - infopic:
-      title: Donation Drive
-      subtitle: 29 August to 18 October
-      id: infopic
-      description: Got school bags and stationery that your kids have outgrown? Drop
-        off your pre-loved items at Tanglin Community Club and make a difference
-        in someone’s life!
-      image: /images/457449936_903748911798499_8596988827143070964_n.jpg
-      alt: Image alt text
-  - infopic:
       title: TPRM Enchanted Halloween Night
       subtitle: 26 October 2024, Saturday
       id: infopic
@@ -50,16 +41,6 @@ sections:
       url: go.gov.sg/tprmhalloween24
       image: /images/461593458_937207385107992_8447235660021211784_n.jpg
       alt: Image alt text
-  - infopic:
-      title: Tanglin CC Oktoberfest 2024
-      subtitle: 19 October 2024, Saturday
-      id: infopic
-      description: Get ready for an unforgettable evening at the Tanglin Community
-        Club's highly anticipated Oktoberfest 2024!
-      button: Purchase Here
-      alt: Image alt text
-      url: https://go.gov.sg/tccoktoberfest2024
-      image: /images/461270730_938474751650610_1842087098072663026_n.jpg
   - infopic:
       title: IT TAKES A VILLAGE
       subtitle: 26 October 2024, Saturday
