@@ -87,7 +87,7 @@ sections:
       image: /images/462428282_122147257964281923_1494869747275900582_n.jpg
       alt: Image alt text
   - infopic:
-      title: Infopic
+      title: Healthy Family Lifestyle
       subtitle: 2 NOVEMBER 2024, SATURDAY
       id: infopic
       description: Watch as we prepare a delicious pot of traditional Foochow Red Rice
