@@ -90,9 +90,13 @@ sections:
       title: Infopic
       subtitle: 2 NOVEMBER 2024, SATURDAY
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: Watch as we prepare a delicious pot of traditional Foochow Red Rice
+        Wine Chicken Mee Sua. Stay healthy, discover a new recipe while enjoying
+        the experience!
+      button: Purchase Here
       alt: Image alt text
+      image: /images/464187513_950850420404585_1376616976286149012_n.jpg
+      url: https://go.gov.sg/qmj5hl
   - infopic:
       title: Infopic
       subtitle: 2 NOVEMBER 2024, SATURDAY
