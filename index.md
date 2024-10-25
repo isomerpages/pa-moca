@@ -76,4 +76,35 @@ sections:
   - resources:
       id: resources
       subtitle: What we have been up to
+  - infopic:
+      title: MoCa Silver “Age Without Limits”!
+      subtitle: 2 NOVEMBER 2024, SATURDAY
+      id: infopic
+      description: Discover the latest bike spinning sensation and enjoy activities
+        promoting health, safety, and community engagement.
+      button: Register Here
+      url: go.gov.sg/mocasilver2nov24
+      image: /images/462428282_122147257964281923_1494869747275900582_n.jpg
+      alt: Image alt text
+  - infopic:
+      title: Infopic
+      subtitle: 2 NOVEMBER 2024, SATURDAY
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
+  - infopic:
+      title: Infopic
+      subtitle: 2 NOVEMBER 2024, SATURDAY
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
+  - infopic:
+      title: Infopic
+      subtitle: 2 NOVEMBER 2024, SATURDAY
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
