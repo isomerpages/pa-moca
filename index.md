@@ -114,9 +114,6 @@ sections:
       url: https://go.gov.sg/16nov24coastering
       image: /images/461555581_553012473747150_6696395351497324094_n.jpg
       alt: Image alt text
-  - resources:
-      id: resources
-      subtitle: What we have been up to
   - infopic:
       title: Art Jam 2024
       subtitle: 23 November 2024, Saturday
@@ -148,4 +145,7 @@ sections:
       url: https://go.gov.sg/onepa-pekkiocc
       image: /images/464466784_17979349154772703_4265388157597941397_n.jpg
       alt: Image alt text
+  - resources:
+      id: resources
+      subtitle: What we have been up to
 ---
