@@ -128,10 +128,24 @@ sections:
       image: /images/464194380_953938190091519_598415075257683675_n.jpg
       alt: Image alt text
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: Moulmein-Cairnhill CCC Bursary Awards
+      subtitle: now Till 30 November 2024
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: Applications are NOW OPEN! Apply before 30 November 2024 to be
+        considered! Eligibility conditions apply.
+      button: Email Us
+      alt: Image alt text
+      url: hello@moca.sg
+      image: /images/463890764_967746038719908_7424778117781383970_n.jpg
+  - infopic:
+      title: Art of the Brick Tour
+      subtitle: 7 December 2024, Saturday
+      id: infopic
+      description: The Art of the Brick is now in Singapore! Dive into a world where
+        LEGO meets creativity. Don’t miss out – join us now for an unforgettable
+        experience!
+      button: Purchase Here
+      url: https://go.gov.sg/onepa-pekkiocc
+      image: /images/464466784_17979349154772703_4265388157597941397_n.jpg
       alt: Image alt text
 ---
