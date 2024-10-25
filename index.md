@@ -98,12 +98,16 @@ sections:
       image: /images/464187513_950850420404585_1376616976286149012_n.jpg
       url: https://go.gov.sg/qmj5hl
   - infopic:
-      title: Infopic
-      subtitle: 2 NOVEMBER 2024, SATURDAY
+      title: Tanjong Pagar GRC & Radin Mas SMC Tree Planting Day 2024!
+      subtitle: 3 NOVEMBER 2024, SUNDAY
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: "Looking for a way to make a positive impact? Join us at the
+        #TanjongPagar_RadinMas Tree Planting Day 2024 to help create a greener,
+        more sustainable future!"
+      button: Register Here
       alt: Image alt text
+      url: https://go.gov.sg/tpgrcrmsmctreeplanting24
+      image: /images/463397521_937620198411370_5947522693774528241_n.jpg
   - infopic:
       title: Infopic
       subtitle: 2 NOVEMBER 2024, SATURDAY
