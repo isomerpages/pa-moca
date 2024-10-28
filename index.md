@@ -98,8 +98,8 @@ sections:
       title: MoCa Top Gun Race
       subtitle: 17 November 2024, Sunday
       id: infopic
-      description: Combine speed, precision, and control in the MoCa CSN Top Gun laser
-        run!  U9, U11, U13, U18, Adult and Masters race categories now open for
+      description: Combine speed, precision, and control in the MoCa CSN Top Gun
+        Race!  U9, U11, U13, U18, Adult and Masters race categories now open for
         registration
       button: Purchase Here
       url: https://go.gov.sg/mocatopgun2024
