@@ -32,26 +32,6 @@ sections:
       url: /moulmein-cairnhill/upcoming-events/
       button: View All
   - infopic:
-      title: TPRM Enchanted Halloween Night
-      subtitle: 26 October 2024, Saturday
-      id: infopic
-      description: Where Fairytales get Frightfully Fun!  Get ready for an evening of
-        magic and adventure!
-      button: Purchase Here
-      url: go.gov.sg/tprmhalloween24
-      image: /images/461593458_937207385107992_8447235660021211784_n.jpg
-      alt: Image alt text
-  - infopic:
-      title: IT TAKES A VILLAGE
-      subtitle: 26 October 2024, Saturday
-      id: infopic
-      description: We aim to amplifying understanding, foster open discussions about
-        mental health at our upcoming festival.
-      alt: Image alt text
-      url: https://go.gov.sg/ittakesavillageon26october2024
-      image: /images/460959178_899503005557771_7938578167736641577_n.jpg
-      button: Register Here
-  - infopic:
       title: MoCa Silver “Age Without Limits”!
       subtitle: 2 NOVEMBER 2024, SATURDAY
       id: infopic
@@ -148,4 +128,15 @@ sections:
   - resources:
       id: resources
       subtitle: What we have been up to
+  - infopic:
+      title: MoCa Top Gun Race
+      subtitle: 17 November 2024, Sunday
+      id: infopic
+      description: Combine speed, precision, and control in the MoCa CSN Top Gun laser
+        run!  U9, U11, U13, U18, Adult and Masters race categories now open for
+        registration
+      button: Purchase Here
+      url: https://go.gov.sg/mocatopgun2024
+      image: /images/464861912_518859777728465_3205861444929863153_n.jpg
+      alt: Image alt text
 ---
