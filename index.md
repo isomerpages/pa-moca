@@ -95,6 +95,17 @@ sections:
       image: /images/461555581_553012473747150_6696395351497324094_n.jpg
       alt: Image alt text
   - infopic:
+      title: MoCa Top Gun Race
+      subtitle: 17 November 2024, Sunday
+      id: infopic
+      description: Combine speed, precision, and control in the MoCa CSN Top Gun laser
+        run!  U9, U11, U13, U18, Adult and Masters race categories now open for
+        registration
+      button: Purchase Here
+      url: https://go.gov.sg/mocatopgun2024
+      image: /images/464861912_518859777728465_3205861444929863153_n.jpg
+      alt: Image alt text
+  - infopic:
       title: Art Jam 2024
       subtitle: 23 November 2024, Saturday
       id: infopic
@@ -128,15 +139,4 @@ sections:
   - resources:
       id: resources
       subtitle: What we have been up to
-  - infopic:
-      title: MoCa Top Gun Race
-      subtitle: 17 November 2024, Sunday
-      id: infopic
-      description: Combine speed, precision, and control in the MoCa CSN Top Gun laser
-        run!  U9, U11, U13, U18, Adult and Masters race categories now open for
-        registration
-      button: Purchase Here
-      url: https://go.gov.sg/mocatopgun2024
-      image: /images/464861912_518859777728465_3205861444929863153_n.jpg
-      alt: Image alt text
 ---
