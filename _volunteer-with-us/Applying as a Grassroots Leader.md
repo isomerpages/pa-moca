@@ -4,8 +4,6 @@ permalink: /phase-2b-applying-as-a-grassroots-leader/
 variant: markdown
 description: ""
 ---
-
-
 <h1><strong>How do I register in Phase 2B as a Grassroots Leader?</strong></h1>
 <p>Eligible GRLs with two years of continuous before the date of registration
 for phase 2B and active service in the above committees can apply for Primary
