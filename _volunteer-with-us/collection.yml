@@ -2,7 +2,7 @@ collections:
   volunteer-with-us:
     output: true
     order:
-      - Phase 2B (Applying as a Grassroots Leader).md
+      - Applying as a Grassroots Leader.md
       - Be Our Volunteer.md
       - MoCa Well Being Circle.md
       - Our Green MoCa.md
