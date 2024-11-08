@@ -32,38 +32,6 @@ sections:
       url: /moulmein-cairnhill/upcoming-events/
       button: View All
   - infopic:
-      title: MoCa Silver “Age Without Limits”!
-      subtitle: 2 NOVEMBER 2024, SATURDAY
-      id: infopic
-      description: Discover the latest bike spinning sensation and enjoy activities
-        promoting health, safety, and community engagement.
-      button: Register Here
-      url: go.gov.sg/mocasilver2nov24
-      image: /images/462428282_122147257964281923_1494869747275900582_n.jpg
-      alt: Image alt text
-  - infopic:
-      title: Healthy Family Lifestyle
-      subtitle: 2 NOVEMBER 2024, SATURDAY
-      id: infopic
-      description: Watch as we prepare a delicious pot of traditional Foochow Red Rice
-        Wine Chicken Mee Sua. Stay healthy, discover a new recipe while enjoying
-        the experience!
-      button: Purchase Here
-      alt: Image alt text
-      image: /images/464187513_950850420404585_1376616976286149012_n.jpg
-      url: https://go.gov.sg/qmj5hl
-  - infopic:
-      title: Tanjong Pagar GRC & Radin Mas SMC Tree Planting Day 2024!
-      subtitle: 3 NOVEMBER 2024, SUNDAY
-      id: infopic
-      description: "Looking for a way to make a positive impact? Join us at the
-        #TanjongPagar_RadinMas Tree Planting Day 2024 to help create a greener,
-        more sustainable future!"
-      button: Register Here
-      alt: Image alt text
-      url: https://go.gov.sg/tpgrcrmsmctreeplanting24
-      image: /images/463397521_937620198411370_5947522693774528241_n.jpg
-  - infopic:
       title: MoCa Olirum Deepavali 2024
       subtitle: 9 NOVEMBER 2024, SATURDAY
       id: infopic
@@ -114,6 +82,16 @@ sections:
       button: Purchase Here
       url: https://www.onepa.gov.sg/events/arts-jam-2024-25821211
       image: /images/464194380_953938190091519_598415075257683675_n.jpg
+      alt: Image alt text
+  - infopic:
+      title: Kayak, Clean & Explore
+      subtitle: 30 November 2024, Saturday
+      id: infopic
+      description: Paddle alongside friends and neighbors, and let’s work together to
+        protect our environment, one stroke at a time!
+      button: Purchase here
+      url: https://go.gov.sg/ogmkayakcleanexplore2024
+      image: /images/465035784_848614160815990_3645261958110209299_n.jpg
       alt: Image alt text
   - infopic:
       title: Moulmein-Cairnhill CCC Bursary Awards
