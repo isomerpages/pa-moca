@@ -107,4 +107,14 @@ sections:
   - resources:
       id: resources
       subtitle: What we have been up to
+  - infopic:
+      title: Kayak, Clean & Explore
+      subtitle: 16 November 2024, Saturday
+      id: infopic
+      description: Paddle alongside friends and neighbors, and let’s work together to
+        protect our environment, one stroke at a time!
+      button: Purchase here
+      url: https://go.gov.sg/ogmkayakcleanexplore2024
+      image: /images/465035784_848614160815990_3645261958110209299_n.jpg
+      alt: Image alt text
 ---
