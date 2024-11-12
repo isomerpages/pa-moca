@@ -32,15 +32,6 @@ sections:
       url: /moulmein-cairnhill/upcoming-events/
       button: View All
   - infopic:
-      title: MoCa Olirum Deepavali 2024
-      subtitle: 9 NOVEMBER 2024, SATURDAY
-      id: infopic
-      description: Join us for a vibrant celebration of the Festival of Lights!
-      button: Purchase Here
-      alt: Image alt text
-      image: /images/462512788_867220555596557_2906047083397500428_n.jpg
-      url: https://go.gov.sg/mocadeepavalicelebrations2024
-  - infopic:
       title: Visit to National Museum of Singapore
       subtitle: 16 November 2024, Saturday
       id: infopic
