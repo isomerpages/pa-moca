@@ -26,53 +26,6 @@ sections:
           description: Visit Our Centres
           url: /contact
       variant: center
-  - infobar:
-      title: Upcoming Events
-      id: infobar
-      url: /moulmein-cairnhill/upcoming-events/
-      button: View All
-  - infopic:
-      title: MoCa Olirum Deepavali 2024
-      subtitle: 9 NOVEMBER 2024, SATURDAY
-      id: infopic
-      description: Join us for a vibrant celebration of the Festival of Lights!
-      button: Purchase Here
-      alt: Image alt text
-      image: /images/462512788_867220555596557_2906047083397500428_n.jpg
-      url: https://go.gov.sg/mocadeepavalicelebrations2024
-  - infopic:
-      title: Visit to National Museum of Singapore
-      subtitle: 16 November 2024, Saturday
-      id: infopic
-      description: Join us for a visit to the National Museum of Singapore and
-        discover the rich history of Singapore’s development from ancient
-        settlement to modern city.
-      button: Purchase Here
-      alt: Image alt text
-      url: https://go.gov.sg/museumpk2024
-      image: /images/461828108_17976119741772703_8495469210873400529_n.jpg
-  - infopic:
-      title: Marble Coaster Workshop
-      subtitle: 16 November 2024, Saturday
-      id: infopic
-      description: Join us for an exciting parent-child bonding activity at PKCC!
-        Parents and children will work together to design and build their very
-        own marble coaster.
-      button: Purchase Here
-      url: https://go.gov.sg/16nov24coastering
-      image: /images/461555581_553012473747150_6696395351497324094_n.jpg
-      alt: Image alt text
-  - infopic:
-      title: MoCa Top Gun Race
-      subtitle: 17 November 2024, Sunday
-      id: infopic
-      description: Combine speed, precision, and control in the MoCa CSN Top Gun
-        Race!  U9, U11, U13, U18, Adult and Masters race categories now open for
-        registration
-      button: Purchase Here
-      url: https://go.gov.sg/mocatopgun2024
-      image: /images/464861912_518859777728465_3205861444929863153_n.jpg
-      alt: Image alt text
   - infopic:
       title: Art Jam 2024
       subtitle: 23 November 2024, Saturday
