@@ -27,16 +27,6 @@ sections:
           url: /contact
       variant: center
   - infopic:
-      title: Art Jam 2024
-      subtitle: 23 November 2024, Saturday
-      id: infopic
-      description: Let your creativity flow with fun, hands-on projects that you can
-        bring home!
-      button: Purchase Here
-      url: https://www.onepa.gov.sg/events/arts-jam-2024-25821211
-      image: /images/464194380_953938190091519_598415075257683675_n.jpg
-      alt: Image alt text
-  - infopic:
       title: Kayak, Clean & Explore
       subtitle: 30 November 2024, Saturday
       id: infopic
