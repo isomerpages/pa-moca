@@ -37,15 +37,47 @@ sections:
       image: /images/465035784_848614160815990_3645261958110209299_n.jpg
       alt: Image alt text
   - infopic:
-      title: Moulmein-Cairnhill CCC Bursary Awards
-      subtitle: now Till 30 November 2024
+      title: Let's Kick!
+      subtitle: 7 December 2024, Saturday
       id: infopic
-      description: Applications are NOW OPEN! Apply before 30 November 2024 to be
-        considered! Eligibility conditions apply.
-      button: Email Us
+      description: "Join us at the #TanjongPagar_RadinMas Let's Kick! 5-a-side Futsal
+        Tournament! 🌟"
+      button: Purchase Here
+      url: https://go.gov.sg/letskick
+      image: /images/461997516_931527179020672_3983946213444787945_n.jpg
       alt: Image alt text
-      url: hello@moca.sg
-      image: /images/463890764_967746038719908_7424778117781383970_n.jpg
+  - infopic:
+      title: Paws & Furs 2024
+      subtitle: 7 December 2024, Saturday
+      id: infopic
+      description: Calling all Pet Lovers! Join us for a fun-filled day at PAWS & FURS 2024!
+      button: Purchase Here
+      url: https://go.gov.sg/tpgrcrmsmcpawsandfurs
+      image: /images/467496431_963352075838182_9030009842870658040_n.jpg
+      alt: Image alt text
+  - infopic:
+      title: Infopic
+      subtitle: 7 December 2024, Saturday
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      image: /images/413ded2f_e382_4f12_80fe_ea49fc076fb6.jpg
+      alt: Image alt text
+  - infopic:
+      title: Infopic
+      subtitle: 7 December 2024, Saturday
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      image: /images/addea2df_1bed_41a0_8898_78a35abce10a.jpg
+      alt: Image alt text
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
   - infopic:
       title: Art of the Brick Tour
       subtitle: 7 December 2024, Saturday
