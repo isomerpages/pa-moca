@@ -27,16 +27,6 @@ sections:
           url: /contact
       variant: center
   - infopic:
-      title: Kayak, Clean & Explore
-      subtitle: 30 November 2024, Saturday
-      id: infopic
-      description: Paddle alongside friends and neighbors, and let’s work together to
-        protect our environment, one stroke at a time!
-      button: Purchase here
-      url: https://go.gov.sg/ogmkayakcleanexplore2024
-      image: /images/465035784_848614160815990_3645261958110209299_n.jpg
-      alt: Image alt text
-  - infopic:
       title: Let's Kick!
       subtitle: 7 December 2024, Saturday
       id: infopic
@@ -54,6 +44,17 @@ sections:
       button: Purchase Here
       url: https://go.gov.sg/tpgrcrmsmcpawsandfurs
       image: /images/467496431_963352075838182_9030009842870658040_n.jpg
+      alt: Image alt text
+  - infopic:
+      title: Art of the Brick Tour
+      subtitle: 7 December 2024, Saturday
+      id: infopic
+      description: The Art of the Brick is now in Singapore! Dive into a world where
+        LEGO meets creativity. Don’t miss out – join us now for an unforgettable
+        experience!
+      button: Purchase Here
+      url: https://go.gov.sg/onepa-pekkiocc
+      image: /images/464466784_17979349154772703_4265388157597941397_n.jpg
       alt: Image alt text
   - infopic:
       title: Plasticine Craft workshop!
@@ -77,7 +78,7 @@ sections:
       url: https://go.gov.sg/pkccroblox
   - infopic:
       title: Moulmein-Cairnhill's Annual Christmas Event!
-      subtitle: 15 December 2024, Sunday
+      subtitle: 21 December 2024, Saturday
       id: infopic
       description: Get ready for a fun-filled morning with games, food, and festive
         cheer! Join our Chocolate House-Making Workshop
@@ -86,15 +87,14 @@ sections:
       image: /images/de06acbc_894e_4f2a_8c1c_afbead08f4e4.jpg
       url: https://go.gov.sg/christmaseventon21dec2024
   - infopic:
-      title: Art of the Brick Tour
-      subtitle: 7 December 2024, Saturday
+      title: Durian Fiesta
+      subtitle: 11 January 2024, Saturday
       id: infopic
-      description: The Art of the Brick is now in Singapore! Dive into a world where
-        LEGO meets creativity. Don’t miss out – join us now for an unforgettable
-        experience!
+      description: Calling all durian lovers! Join us for a delicious evening of fun
+        and feasting at our Durian Fiesta!
       button: Purchase Here
-      url: https://go.gov.sg/onepa-pekkiocc
-      image: /images/464466784_17979349154772703_4265388157597941397_n.jpg
+      url: https://go.gov.sg/durianfiesta11jan
+      image: /images/f0107b6e_64c6_49ec_a079_ca972a8502e6.jpg
       alt: Image alt text
   - resources:
       id: resources
