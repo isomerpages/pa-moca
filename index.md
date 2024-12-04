@@ -76,12 +76,15 @@ sections:
       alt: Image alt text
       url: https://go.gov.sg/pkccroblox
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: Moulmein-Cairnhill's Annual Christmas Event!
+      subtitle: 15 December 2024, Sunday
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: Get ready for a fun-filled morning with games, food, and festive
+        cheer! Join our Chocolate House-Making Workshop
+      button: Purchase Here
       alt: Image alt text
+      image: /images/de06acbc_894e_4f2a_8c1c_afbead08f4e4.jpg
+      url: https://go.gov.sg/christmaseventon21dec2024
   - infopic:
       title: Art of the Brick Tour
       subtitle: 7 December 2024, Saturday
