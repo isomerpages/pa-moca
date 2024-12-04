@@ -56,21 +56,25 @@ sections:
       image: /images/467496431_963352075838182_9030009842870658040_n.jpg
       alt: Image alt text
   - infopic:
-      title: Infopic
-      subtitle: 7 December 2024, Saturday
+      title: Plasticine Craft workshop!
+      subtitle: 16 December 2024, Monday
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: Get Creative with Clay!  Join us for a fun-filled Plasticine Craft
+        Workshop!
+      button: Purchase Here
       image: /images/413ded2f_e382_4f12_80fe_ea49fc076fb6.jpg
       alt: Image alt text
+      url: https://go.gov.sg/pkccplasticine
   - infopic:
-      title: Infopic
-      subtitle: 7 December 2024, Saturday
+      title: Learn2Code with Roblox & Minecraft!
+      subtitle: 15 December 2024, Sunday
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: Looking to spark creativity and coding skills in your kids? Join
+        our fun and educational Learn2Code Workshops at Pek Kio CC!
+      button: Purchase here
       image: /images/addea2df_1bed_41a0_8898_78a35abce10a.jpg
       alt: Image alt text
+      url: https://go.gov.sg/pkccroblox
   - infopic:
       title: Infopic
       subtitle: Add an image and text
