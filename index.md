@@ -27,25 +27,6 @@ sections:
           url: /contact
       variant: center
   - infopic:
-      title: Let's Kick!
-      subtitle: 7 December 2024, Saturday
-      id: infopic
-      description: "Join us at the #TanjongPagar_RadinMas Let's Kick! 5-a-side Futsal
-        Tournament! 🌟"
-      button: Purchase Here
-      url: https://go.gov.sg/letskick
-      image: /images/461997516_931527179020672_3983946213444787945_n.jpg
-      alt: Image alt text
-  - infopic:
-      title: Paws & Furs 2024
-      subtitle: 7 December 2024, Saturday
-      id: infopic
-      description: Calling all Pet Lovers! Join us for a fun-filled day at PAWS & FURS 2024!
-      button: Purchase Here
-      url: https://go.gov.sg/tpgrcrmsmcpawsandfurs
-      image: /images/467496431_963352075838182_9030009842870658040_n.jpg
-      alt: Image alt text
-  - infopic:
       title: Art of the Brick Tour
       subtitle: 7 December 2024, Saturday
       id: infopic
