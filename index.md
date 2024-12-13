@@ -27,36 +27,6 @@ sections:
           url: /contact
       variant: center
   - infopic:
-      title: Art Jam 2024
-      subtitle: 23 November 2024, Saturday
-      id: infopic
-      description: Let your creativity flow with fun, hands-on projects that you can
-        bring home!
-      button: Purchase Here
-      url: https://www.onepa.gov.sg/events/arts-jam-2024-25821211
-      image: /images/464194380_953938190091519_598415075257683675_n.jpg
-      alt: Image alt text
-  - infopic:
-      title: Kayak, Clean & Explore
-      subtitle: 30 November 2024, Saturday
-      id: infopic
-      description: Paddle alongside friends and neighbors, and let’s work together to
-        protect our environment, one stroke at a time!
-      button: Purchase here
-      url: https://go.gov.sg/ogmkayakcleanexplore2024
-      image: /images/465035784_848614160815990_3645261958110209299_n.jpg
-      alt: Image alt text
-  - infopic:
-      title: Moulmein-Cairnhill CCC Bursary Awards
-      subtitle: now Till 30 November 2024
-      id: infopic
-      description: Applications are NOW OPEN! Apply before 30 November 2024 to be
-        considered! Eligibility conditions apply.
-      button: Email Us
-      alt: Image alt text
-      url: hello@moca.sg
-      image: /images/463890764_967746038719908_7424778117781383970_n.jpg
-  - infopic:
       title: Art of the Brick Tour
       subtitle: 7 December 2024, Saturday
       id: infopic
@@ -66,6 +36,46 @@ sections:
       button: Purchase Here
       url: https://go.gov.sg/onepa-pekkiocc
       image: /images/464466784_17979349154772703_4265388157597941397_n.jpg
+      alt: Image alt text
+  - infopic:
+      title: Plasticine Craft workshop!
+      subtitle: 16 December 2024, Monday
+      id: infopic
+      description: Get Creative with Clay!  Join us for a fun-filled Plasticine Craft
+        Workshop!
+      button: Purchase Here
+      image: /images/413ded2f_e382_4f12_80fe_ea49fc076fb6.jpg
+      alt: Image alt text
+      url: https://go.gov.sg/pkccplasticine
+  - infopic:
+      title: Learn2Code with Roblox & Minecraft!
+      subtitle: 15 December 2024, Sunday
+      id: infopic
+      description: Looking to spark creativity and coding skills in your kids? Join
+        our fun and educational Learn2Code Workshops at Pek Kio CC!
+      button: Purchase here
+      image: /images/addea2df_1bed_41a0_8898_78a35abce10a.jpg
+      alt: Image alt text
+      url: https://go.gov.sg/pkccroblox
+  - infopic:
+      title: Moulmein-Cairnhill's Annual Christmas Event!
+      subtitle: 21 December 2024, Saturday
+      id: infopic
+      description: Get ready for a fun-filled morning with games, food, and festive
+        cheer! Join our Chocolate House-Making Workshop
+      button: Purchase Here
+      alt: Image alt text
+      image: /images/de06acbc_894e_4f2a_8c1c_afbead08f4e4.jpg
+      url: https://go.gov.sg/christmaseventon21dec2024
+  - infopic:
+      title: Durian Fiesta
+      subtitle: 11 January 2024, Saturday
+      id: infopic
+      description: Calling all durian lovers! Join us for a delicious evening of fun
+        and feasting at our Durian Fiesta!
+      button: Purchase Here
+      url: https://go.gov.sg/durianfiesta11jan
+      image: /images/f0107b6e_64c6_49ec_a079_ca972a8502e6.jpg
       alt: Image alt text
   - resources:
       id: resources
