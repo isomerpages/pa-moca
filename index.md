@@ -37,8 +37,18 @@ sections:
       image: /images/de06acbc_894e_4f2a_8c1c_afbead08f4e4.jpg
       url: https://go.gov.sg/christmaseventon21dec2024
   - infopic:
+      title: Celebrate Farrer Park's Sporting Heritage!
+      subtitle: 4 January 2025, Saturday
+      id: infopic
+      description: Enjoy a Morning Workout, try out different Sports, and catch a
+        Documentary Screening showcasing Farrer Park’s rich sporting history!
+      button: Purchase here
+      url: https://go.gov.sg/fpheritage
+      image: /images/Not_to_use.png
+      alt: Image alt text
+  - infopic:
       title: Durian Fiesta
-      subtitle: 11 January 2024, Saturday
+      subtitle: 11 January 2025, Saturday
       id: infopic
       description: Calling all durian lovers! Join us for a delicious evening of fun
         and feasting at our Durian Fiesta!
