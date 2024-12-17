@@ -27,37 +27,6 @@ sections:
           url: /contact
       variant: center
   - infopic:
-      title: Art of the Brick Tour
-      subtitle: 7 December 2024, Saturday
-      id: infopic
-      description: The Art of the Brick is now in Singapore! Dive into a world where
-        LEGO meets creativity. Don’t miss out – join us now for an unforgettable
-        experience!
-      button: Purchase Here
-      url: https://go.gov.sg/onepa-pekkiocc
-      image: /images/464466784_17979349154772703_4265388157597941397_n.jpg
-      alt: Image alt text
-  - infopic:
-      title: Plasticine Craft workshop!
-      subtitle: 16 December 2024, Monday
-      id: infopic
-      description: Get Creative with Clay!  Join us for a fun-filled Plasticine Craft
-        Workshop!
-      button: Purchase Here
-      image: /images/413ded2f_e382_4f12_80fe_ea49fc076fb6.jpg
-      alt: Image alt text
-      url: https://go.gov.sg/pkccplasticine
-  - infopic:
-      title: Learn2Code with Roblox & Minecraft!
-      subtitle: 15 December 2024, Sunday
-      id: infopic
-      description: Looking to spark creativity and coding skills in your kids? Join
-        our fun and educational Learn2Code Workshops at Pek Kio CC!
-      button: Purchase here
-      image: /images/addea2df_1bed_41a0_8898_78a35abce10a.jpg
-      alt: Image alt text
-      url: https://go.gov.sg/pkccroblox
-  - infopic:
       title: Moulmein-Cairnhill's Annual Christmas Event!
       subtitle: 21 December 2024, Saturday
       id: infopic
@@ -68,8 +37,18 @@ sections:
       image: /images/de06acbc_894e_4f2a_8c1c_afbead08f4e4.jpg
       url: https://go.gov.sg/christmaseventon21dec2024
   - infopic:
+      title: Celebrate Farrer Park's Sporting Heritage!
+      subtitle: 4 January 2025, Saturday
+      id: infopic
+      description: Enjoy a Morning Workout, try out different Sports, and catch a
+        Documentary Screening showcasing Farrer Park’s rich sporting history!
+      button: Purchase here
+      url: https://go.gov.sg/fpheritage
+      image: /images/Not_to_use.png
+      alt: Image alt text
+  - infopic:
       title: Durian Fiesta
-      subtitle: 11 January 2024, Saturday
+      subtitle: 11 January 2025, Saturday
       id: infopic
       description: Calling all durian lovers! Join us for a delicious evening of fun
         and feasting at our Durian Fiesta!

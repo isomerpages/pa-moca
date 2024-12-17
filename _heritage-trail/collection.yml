@@ -1,0 +1,5 @@
+collections:
+  heritage-trail:
+    output: true
+    order:
+      - MoCa Heritage Trail.md
