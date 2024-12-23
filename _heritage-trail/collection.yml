@@ -2,6 +2,7 @@ collections:
   heritage-trail:
     output: true
     order:
+      - Goldhill NC.md
       - Farrer Park RC.md
       - Cambridge NC.md
       - MoCa Heritage Trail.md
