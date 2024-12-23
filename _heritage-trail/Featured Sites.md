@@ -31,7 +31,7 @@ description: ""
     </div>
     <div class="featured-grid w-dyn-items" role="list">
       <div role="listitem">
-        <a class="highlights-item w-inline-block" href="#"><img class="highlights-image w-dyn-bind-empty" alt="Highlight item thumbnail" loading="lazy" src="/images/century_old_lychee_tree.jpg">
+        <a class="highlights-item w-inline-block" href="/heritage-trail/century_old_lychee_tree"><img class="highlights-image w-dyn-bind-empty" alt="Highlight item thumbnail" loading="lazy" src="/images/century_old_lychee_tree.jpg">
           <div class="highlight-info">
             <p class="highlight-name">Century-old Lychee Tree</p>
             <p class="highlight-subheader">Cairnhill NC</p>
@@ -39,7 +39,7 @@ description: ""
         </a>
       </div>
       <div role="listitem">
-        <a class="highlights-item w-inline-block" href="#"><img class="highlights-image w-dyn-bind-empty" alt="Highlight item thumbnail" loading="lazy" src="/images/black_white_bungalows.jpg">
+        <a class="highlights-item w-inline-block" href="/heritage-trail/black_white_bungalows"><img class="highlights-image w-dyn-bind-empty" alt="Highlight item thumbnail" loading="lazy" src="/images/black_white_bungalows.jpg">
           <div class="highlight-info">
             <p class="highlight-name">Black &amp; White Bungalows</p>
             <p class="highlight-subheader">Goldhill NC</p>
@@ -47,7 +47,7 @@ description: ""
         </a>
       </div>
       <div role="listitem">
-        <a class="highlights-item w-inline-block" href="#"><img class="highlights-image" alt="Highlight item thumbnail" loading="lazy" src="/images/singapore_botanic_gardens.jpg">
+        <a class="highlights-item w-inline-block" href="/heritage-trail/singapore_botanic_gardens"><img class="highlights-image" alt="Highlight item thumbnail" loading="lazy" src="/images/singapore_botanic_gardens.jpg">
           <div class="highlight-info">
             <p class="highlight-name">Singapore Botanic Gardens</p>
             <p class="highlight-subheader">Tanglin NC</p>
