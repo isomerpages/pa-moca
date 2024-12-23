@@ -2,5 +2,5 @@ collections:
   heritage-trail:
     output: true
     order:
-      - Featured Sites.md
       - MoCa Heritage Trail.md
+      - Featured Sites.md
