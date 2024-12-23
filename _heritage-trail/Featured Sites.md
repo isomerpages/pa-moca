@@ -78,25 +78,25 @@ description: ""
         </a>
       </div>
       <div role="listitem">
-        <a class="area-badge" data-src="" href="goldhill-nc">
+        <a class="area-badge" data-src="" href="#goldhill-nc">
           <p class="area-badge-name">Goldhill NC</p>
           <div class="area-count">8</div>
         </a>
       </div>
       <div role="listitem">
-        <a class="area-badge" data-src="" href="newton-nc">
+        <a class="area-badge" data-src="" href="#newton-nc">
           <p class="area-badge-name">Newton NC</p>
           <div class="area-count">10</div>
         </a>
       </div>
       <div role="listitem">
-        <a class="area-badge" data-src="" href="tanglin-nc">
+        <a class="area-badge" data-src="" href="#tanglin-nc">
           <p class="area-badge-name">Tanglin NC</p>
           <div class="area-count">4</div>
         </a>
       </div>
       <div role="listitem">
-        <a class="area-badge" data-src="" href="the-hills-rn">
+        <a class="area-badge" data-src="" href="#the-hills-rn">
           <p class="area-badge-name">The Hills RN</p>
           <div class="area-count">1</div>
         </a>
@@ -306,11 +306,11 @@ description: ""
                 <div>→</div></a>
             </div>
             <p class="site-description">
-              Opened in 1929 as Singapore‚Äôs first public pool, Mount Emily
+              Opened in 1929 as Singapore's first public pool, Mount Emily
               Swimming Pool was once a popular destination for local swimmers.
               Originally a reservoir, it closed in 1981 due to low attendance.
               The site is now Mount Emily Park, featuring the Singapore
-              Municipal Commission‚Äôs Coat of Arms, granted in 1948.
+              Municipal Commission's Coat of Arms, granted in 1948.
             </p>
           </div>
         </div>
