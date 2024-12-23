@@ -163,7 +163,7 @@ description: ""
             <div>→</div></a>
         </div>
         <p class="site-description">
-          Built in 1927, ‚ÄúWestbourne‚Äù at 25 Gilstead Road is a conserved
+          Built in 1927, "Westbourne" at 25 Gilstead Road is a conserved
           mansion initially home to Dr. Yin Suat Chuan. Over the years, it
           served as a residence, medical charity, and now houses a kindergarten.
         </p>
