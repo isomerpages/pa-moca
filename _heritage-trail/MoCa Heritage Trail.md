@@ -19,7 +19,7 @@ description: ""
     connect with our community's past and present.
   </p>
 
-  <a class="cta-button" href="#">
+  <a class="cta-button" href="/featured-sites">
     <strong>Let's go!</strong>
     <span class="arrow">→</span>
   </a>
