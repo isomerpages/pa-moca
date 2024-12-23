@@ -18,7 +18,7 @@ description: ""
       Moulmein-Cairnhill. The heritage trail offers a unique way to explore and
       connect with our community's past and present.
     </p>
-    <a class="cta-button" href="heritage-trail/featured-sites">
+    <a class="cta-button" href="/heritage-trail/featured-sites">
       <strong>Let's go!</strong>
       <span class="arrow">→</span>
     </a>
