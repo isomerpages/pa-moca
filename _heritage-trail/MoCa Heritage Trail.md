@@ -107,7 +107,7 @@ description: ""
   .card-grid {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    gap: 28px;
+    gap: 14px;
   }
 
   .card {
