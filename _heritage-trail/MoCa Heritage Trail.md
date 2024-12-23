@@ -45,7 +45,7 @@ description: ""
       <p>
         <span class="small"><strong>Local institutions</strong></span>
       </p>
-    </div></a><a class="card w-inline-block" href="/heritage-sites/farrer-park-rc-fields-old-race-course" id="w-node-_2c4c6b00-56ee-89f9-7ede-0aad0491d07b-98cdc95a"><img class="card-image" alt="" src="/images/Community_Stories.jpg">
+    </div></a><a class="card w-inline-block" href="/heritage-sites/farrer-park-rc-fields-old-race-course"><img class="card-image" alt="" src="/images/Community_Stories.jpg">
     <div class="card-bottom">
       <p>
         <strong>Community stories</strong>
