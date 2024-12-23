@@ -49,7 +49,7 @@ description: ""
             clinic, was purchased by Life Bible-Presbyterian Church in 1990.
             Gazetted for conservation in 2003, it retains its earthy tones,
             contrasting with nearby high-rise buildings, marking Gilstead
-            Road‚Äôs entrance.
+            Road's entrance.
           </p>
         </div>
       </div>
@@ -94,9 +94,9 @@ description: ""
               <div>→</div></a>
           </div>
           <p class="site-description">
-            Singapore‚Äôs only Heritage lychee tree, standing 18 meters tall,
+            Singapore's only Heritage lychee tree, standing 18 meters tall,
             has been safeguarded by a steel structure since 2017. Over 100 years
-            old, it resides in the Novena neighborhood‚Äôs Mount Rosie.
+            old, it resides in the Novena neighborhood's Mount Rosie.
           </p>
         </div>
       </div>
