@@ -33,7 +33,7 @@ description: ""
       <div role="listitem">
         <a class="highlights-item w-inline-block" href="#"><img class="highlights-image w-dyn-bind-empty" alt="Highlight item thumbnail" loading="lazy" src="images/Placeholder.svg">
           <div class="highlight-info">
-            <p class="highlight-name">Highlight Name</p>
+            <p class="highlight-name">Century-old Lychee Tree</p>
             <p class="highlight-subheader">Cairnhill NC</p>
           </div>
         </a>
@@ -41,16 +41,16 @@ description: ""
       <div role="listitem">
         <a class="highlights-item w-inline-block" href="#"><img class="highlights-image w-dyn-bind-empty" alt="Highlight item thumbnail" loading="lazy" src="images/Placeholder.svg">
           <div class="highlight-info">
-            <p class="highlight-name">Highlight Name</p>
-            <p class="highlight-subheader">Cairnhill NC</p>
+            <p class="highlight-name">Black &amp; White Bungalows</p>
+            <p class="highlight-subheader">Goldhill NC</p>
           </div>
         </a>
       </div>
       <div role="listitem">
         <a class="highlights-item w-inline-block" href="#"><img class="highlights-image" alt="Highlight item thumbnail" loading="lazy" src="images/Placeholder.svg">
           <div class="highlight-info">
-            <p class="highlight-name">Highlight Name</p>
-            <p class="highlight-subheader">Cairnhill NC</p>
+            <p class="highlight-name">Singapore Botanic Gardens</p>
+            <p class="highlight-subheader">Tanglin NC</p>
           </div>
         </a>
       </div>
