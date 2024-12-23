@@ -137,7 +137,7 @@ description: ""
     }
   
     .card-bottom {
-      padding: 8px 28px;
+      padding: 14px 28px;
       background-color: #fff;
       line-height: 20px;
     }
