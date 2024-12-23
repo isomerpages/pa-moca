@@ -2,6 +2,6 @@ collections:
   heritage-trail:
     output: true
     order:
-      - Cambridge Nc.md
+      - Cambridge NC.md
       - MoCa Heritage Trail.md
       - Featured Sites.md
