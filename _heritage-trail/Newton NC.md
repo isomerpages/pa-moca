@@ -47,7 +47,7 @@ description: ""
         </div>
         <p class="site-description">
           Founded in 1845, Chui Huay Lim Club, initially the Teochew
-          Gentlemen‚Äôs Club, is one of Singapore‚Äôs oldest clubs. It served as
+          Gentlemen's Club, is one of Singapore's oldest clubs. It served as
           a central hub for the Teochew community, promoting unity and strength.
         </p>
       </div>
@@ -137,7 +137,7 @@ description: ""
           </div>
           <p class="site-description">
             Lincoln Road hosts diverse residential buildings, including the
-            historic Lincoln Road bungalow, exemplifying Singapore‚Äôs early
+            historic Lincoln Road bungalow, exemplifying Singapore's early
             architectural styles.
           </p>
         </div>
@@ -160,8 +160,8 @@ description: ""
           </div>
           <p class="site-description">
             Makepeace Road, named after journalist Walter Makepeace, reflects
-            Singapore‚Äôs early cultural and social history. It‚Äôs known for
-            its diverse residents and role in the community‚Äôs development.
+            Singapore's early cultural and social history. It's known for
+            its diverse residents and role in the community's development.
           </p>
         </div>
       </div>
@@ -182,7 +182,7 @@ description: ""
               <div>→</div></a>
           </div>
           <p class="site-description">
-            Established in 1992, Newton Life Church‚Äôs Newton Kindergarten
+            Established in 1992, Newton Life Church's Newton Kindergarten
             features a distinctive arched porch with timber-louvred windows. It
             now has a modern fa√ßade and remains active in the community.
           </p>
@@ -206,7 +206,7 @@ description: ""
           </div>
           <p class="site-description">
             Originally known as Goldhill Plaza, United Square was rebranded in
-            2002 as the Kids‚Äô Learning Mall, providing educational
+            2002 as the Kids' Learning Mall, providing educational
             opportunities for children.
           </p>
         </div>
