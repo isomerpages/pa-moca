@@ -2,11 +2,11 @@ collections:
   heritage-trail:
     output: true
     order:
-      - The Hills RN.md
-      - Tanglin NC.md
-      - Newton NC.md
-      - Goldhill NC.md
-      - Farrer Park RC.md
-      - Cambridge NC.md
       - MoCa Heritage Trail.md
       - Featured Sites.md
+      - Cambridge NC.md
+      - Farrer Park RC.md
+      - Goldhill NC.md
+      - Newton NC.md
+      - Tanglin NC.md
+      - The Hills RN.md
