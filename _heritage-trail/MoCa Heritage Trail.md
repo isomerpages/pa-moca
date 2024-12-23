@@ -30,39 +30,37 @@ description: ""
     <a class="card" href="/heritage-sites/tan-chin-tuan-mansion">
       <img class="card-image" alt="Historic Buildings" src="/images/Historic_Buildings.jpg">
       <div class="card-bottom">
-        <p><strong>Historic buildings</strong></p>
+        <strong>Historic buildings</strong>
       </div>
     </a>
     <a class="card" href="/heritage-sites/flood-level-gauge">
       <img class="card-image" alt="Hidden Gems" src="/images/Hidden_Gems.jpg">
       <div class="card-bottom">
-        <p><strong>Hidden gems</strong></p>
+        <strong>Hidden gems</strong>
       </div>
     </a>
     <a class="card" href="/heritage-sites/masjid-abdul-gaffoor">
       <img class="card-image" alt="Cultural Sites" src="/images/Cultural_Sites.jpg">
       <div class="card-bottom">
-        <p class="small"><strong>Cultural sites</strong></p>
+        <strong>Cultural sites</strong>
       </div>
     </a>
     <a class="card" href="/heritage-sites/singapore-botanic-gardens">
       <img class="card-image" alt="Green Spaces" src="/images/Green_Spaces.jpg">
       <div class="card-bottom">
-        <p><strong>Green spaces</strong></p>
+        <strong>Green spaces</strong>
       </div>
     </a>
     <a class="card" href="/heritage-sites/kk-womens-and-childrens-hospital">
       <img class="card-image" alt="Local Institutions" src="/images/Local_Institutions.jpg">
       <div class="card-bottom">
-        <p>
-          <span class="small"><strong>Local institutions</strong></span>
-        </p>
+        <strong>Local institutions</strong>
       </div>
     </a>
     <a class="card" href="/heritage-sites/farrer-park-rc-fields-old-race-course">
       <img class="card-image" alt="Community Stories" src="/images/Community_Stories.jpg">
       <div class="card-bottom">
-        <p><strong>Community stories</strong></p>
+        <strong>Community stories</strong>
       </div>
     </a>
   </div>
@@ -105,8 +103,14 @@ description: ""
   /* Card grid layout - updated */
   .card-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+    grid-template-columns: repeat(2, 1fr);
     gap: 14px;
+  }
+
+  @media screen and (max-width: 375px) {
+    .card-grid {
+      grid-template-columns: 1fr;  /* Switch to single column */
+    }
   }
 
   .card {
