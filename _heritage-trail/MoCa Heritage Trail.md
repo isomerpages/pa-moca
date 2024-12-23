@@ -25,12 +25,12 @@ description: ""
   <a class="card w-inline-block" href="/heritage-sites/tan-chin-tuan-mansion"><img class="card-image" alt="" src="/images/Historic_Buildings.jpg">
     <div class="card-bottom">
       <p>
-        <span class="small"><strong>Historic buildings</strong></span>
+        <strong>Historic buildings</strong>
       </p>
     </div></a><a class="card w-inline-block" href="/heritage-sites/flood-level-gauge"><img class="card-image" alt="" src="/images/Hidden_Gems.jpg">
     <div class="card-bottom">
       <p>
-        <span class="small"><strong>Hidden gems</strong></span>
+        <strong>Hidden gems</strong>
       </p>
     </div></a><a class="card w-inline-block" href="/heritage-sites/masjid-abdul-gaffoor"><img class="card-image" alt="" src="/images/Cultural_Sites.jpg">
     <div class="card-bottom">
@@ -38,7 +38,7 @@ description: ""
     </div></a><a class="card w-inline-block" href="/heritage-sites/singapore-botanic-gardens"><img class="card-image" alt="" src="/images/Green_Spaces.jpg">
     <div class="card-bottom">
       <p>
-        <span class="small"><strong>Green spaces</strong></span>
+        <strong>Green spaces</strong>
       </p>
     </div></a><a class="card w-inline-block" target="_blank" href="/heritage-sites/kk-womens-and-childrens-hospital"><img class="card-image" alt="" src="/images/Local_Institutions.jpg">
     <div class="card-bottom">
@@ -48,29 +48,28 @@ description: ""
     </div></a><a class="card w-inline-block" href="/heritage-sites/farrer-park-rc-fields-old-race-course" id="w-node-_2c4c6b00-56ee-89f9-7ede-0aad0491d07b-98cdc95a"><img class="card-image" alt="" src="/images/Community_Stories.jpg">
     <div class="card-bottom">
       <p>
-        <span class="small"><strong>Community stories</strong></span>
+        <strong>Community stories</strong>
       </p>
     </div></a>
 </div>
 
 <style>
   .button {
-  	  background-color: #da1f34;
-      border-radius: 12px;
-      padding: 14px 28px;
-      font-weight: 700;
-      transition: opacity .2s;
-  		color: white !important;
-  		text-decoration: none !important;
+    background-color: #da1f34;
+    border-radius: 12px;
+    padding: 14px 28px;
+    font-weight: 700;
+    transition: opacity 0.2s;
+    color: white !important;
+    text-decoration: none !important;
   }
 
   .card-wrapper {
-      grid-column-gap: 28px;
-      grid-row-gap: 28px;
-      grid-template-rows: auto auto;
-      grid-template-columns: 1fr 1fr;
-      grid-auto-columns: 1fr;
-      display: grid;
+    grid-column-gap: 28px;
+    grid-template-rows: auto auto;
+    grid-template-columns: 1fr 1fr;
+    grid-auto-columns: 1fr;
+    display: grid;
   }
 
   .card {
@@ -78,13 +77,14 @@ description: ""
     border: 1px solid #98a2b3;
     border-radius: 6px;
     text-decoration: none;
-    transition: opacity .2s;
+    transition: opacity 0.2s;
     overflow: hidden;
-   		text-decoration: none !important;
+    text-decoration: none !important;
   }
 
-  .button:hover, .card:hover {
-    opacity: .8;
+  .button:hover,
+  .card:hover {
+    opacity: 0.8;
   }
 
   .card-image {
@@ -103,5 +103,6 @@ description: ""
     .card-wrapper {
       flex-flow: column;
       display: flex;
-   }
+    }
+  }
 </style>
