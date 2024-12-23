@@ -66,26 +66,38 @@ description: ""
     </div>
     <div class="area-wrapper" role="list">
       <div role="listitem">
-        <a class="area-badge" data-src="" href="#">
-          <p class="area-badge-name">Test</p>
+        <a class="area-badge" data-src="" href="#cambridge-nc">
+          <p class="area-badge-name">Cambridge NC</p>
+          <div class="area-count">3</div>
+        </a>
+      </div>
+      <div role="listitem">
+        <a class="area-badge" data-src="" href="#farrer-park-rc">
+          <p class="area-badge-name">Farrer Park RC</p>
           <div class="area-count">1</div>
         </a>
       </div>
       <div role="listitem">
-        <a class="area-badge" data-src="" href="#">
-          <p class="area-badge-name">Test</p>
-          <div class="area-count">1</div>
+        <a class="area-badge" data-src="" href="goldhill-nc">
+          <p class="area-badge-name">Goldhill NC</p>
+          <div class="area-count">8</div>
         </a>
       </div>
       <div role="listitem">
-        <a class="area-badge" data-src="" href="#">
-          <p class="area-badge-name">Test</p>
-          <div class="area-count">1</div>
+        <a class="area-badge" data-src="" href="newton-nc">
+          <p class="area-badge-name">Newton NC</p>
+          <div class="area-count">10</div>
         </a>
       </div>
       <div role="listitem">
-        <a class="area-badge" data-src="" href="#">
-          <p class="area-badge-name">Test</p>
+        <a class="area-badge" data-src="" href="tanglin-nc">
+          <p class="area-badge-name">Tanglin NC</p>
+          <div class="area-count">4</div>
+        </a>
+      </div>
+      <div role="listitem">
+        <a class="area-badge" data-src="" href="the-hills-rn">
+          <p class="area-badge-name">The Hills RN</p>
           <div class="area-count">1</div>
         </a>
       </div>
