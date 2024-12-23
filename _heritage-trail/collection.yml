@@ -2,6 +2,7 @@ collections:
   heritage-trail:
     output: true
     order:
+      - Tanglin NC.md
       - Newton NC.md
       - Goldhill NC.md
       - Farrer Park RC.md
