@@ -19,8 +19,8 @@ description: ""
       connect with our community's past and present.
     </p>
     <a class="cta-button" href="/heritage-trail/featured-sites">
-      <strong>Let's go!</strong>
-      <span class="arrow">→</span>
+      <p class="button-text"><strong>Let's go!</strong></p>
+			<p class="button-text"><span class="arrow">→</span></p>
     </a>
   </div>
   <p class="section-title">
@@ -143,4 +143,9 @@ description: ""
   .card-bottom > p {
     line-height: 28px !important;
   }
+	
+	.button-text, .button-text > strong {
+		color: #fff !important;
+		margin: 0 !important;
+	}
 </style>
