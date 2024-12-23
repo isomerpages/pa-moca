@@ -408,8 +408,8 @@ description: ""
   }
 
   .area-button {
+    display: flex;
     color: #fff !important;
-		padding: 15px 28px;
   }
 
   .area-button strong {
@@ -443,10 +443,6 @@ description: ""
     .site-buttons {
       display: flex;
       flex-flow: column;
-    }
-
-    .site-button.area-button {
-      font-size: 19px;
     }
   }
 </style>
