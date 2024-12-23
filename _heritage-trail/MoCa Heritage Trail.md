@@ -40,7 +40,7 @@ description: ""
       <p>
         <strong>Green spaces</strong>
       </p>
-    </div></a><a class="card w-inline-block" target="_blank" href="/heritage-sites/kk-womens-and-childrens-hospital"><img class="card-image" alt="" src="/images/Local_Institutions.jpg">
+    </div></a><a class="card w-inline-block" href="/heritage-sites/kk-womens-and-childrens-hospital"><img class="card-image" alt="" src="/images/Local_Institutions.jpg">
     <div class="card-bottom">
       <p>
         <span class="small"><strong>Local institutions</strong></span>
