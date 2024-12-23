@@ -5,147 +5,147 @@ variant: markdown
 description: ""
 ---
 <div class="content-container">
-  <div class="hero">
-    <div class="isomer-image-wrapper">
-      <img width="100%" alt="Moulmein-Cairnhill Heritage Trail" src="/images/Header_Image.jpg">
+    <div class="hero">
+      <div class="isomer-image-wrapper">
+        <img width="100%" alt="Moulmein-Cairnhill Heritage Trail" src="/images/Header_Image.jpg">
+      </div>
+      <h4>
+        <strong>Explore the rich history and culture of Moulmein-Cairnhill</strong>
+      </h4>
+      <p>
+        This interactive guide takes you through significant landmarks and sites,
+        revealing the rich history and diverse culture of our town,
+        Moulmein-Cairnhill. The heritage trail offers a unique way to explore and
+        connect with our community's past and present.
+      </p>
+      <a class="cta-button" href="/heritage-trail/featured-sites">
+        <p class="button-text"><strong>Let's go!</strong></p>
+              <p class="button-text"><span class="arrow">→</span></p>
+      </a>
     </div>
-    <h4>
-      <strong>Explore the rich history and culture of Moulmein-Cairnhill</strong>
-    </h4>
-    <p>
-      This interactive guide takes you through significant landmarks and sites,
-      revealing the rich history and diverse culture of our town,
-      Moulmein-Cairnhill. The heritage trail offers a unique way to explore and
-      connect with our community's past and present.
+    <p class="section-title">
+      <strong>As you navigate through the trail, you'll discover:</strong>
     </p>
-    <a class="cta-button" href="/heritage-trail/featured-sites">
-      <p class="button-text"><strong>Let's go!</strong></p>
-			<p class="button-text"><span class="arrow">→</span></p>
-    </a>
+    <div class="card-grid">
+      <a class="card" href="/heritage-sites/tan-chin-tuan-mansion">
+        <img class="card-image" alt="Historic Buildings" src="/images/Historic_Buildings.jpg">
+        <div class="card-bottom">
+          <strong>Historic buildings</strong>
+        </div>
+      </a>
+      <a class="card" href="/heritage-sites/flood-level-gauge">
+        <img class="card-image" alt="Hidden Gems" src="/images/Hidden_Gems.jpg">
+        <div class="card-bottom">
+          <strong>Hidden gems</strong>
+        </div>
+      </a>
+      <a class="card" href="/heritage-sites/masjid-abdul-gaffoor">
+        <img class="card-image" alt="Cultural Sites" src="/images/Cultural_Sites.jpg">
+        <div class="card-bottom">
+          <strong>Cultural sites</strong>
+        </div>
+      </a>
+      <a class="card" href="/heritage-sites/singapore-botanic-gardens">
+        <img class="card-image" alt="Green Spaces" src="/images/Green_Spaces.jpg">
+        <div class="card-bottom">
+          <strong>Green spaces</strong>
+        </div>
+      </a>
+      <a class="card" href="/heritage-sites/kk-womens-and-childrens-hospital">
+        <img class="card-image" alt="Local Institutions" src="/images/Local_Institutions.jpg">
+        <div class="card-bottom">
+          <strong>Local institutions</strong>
+        </div>
+      </a>
+      <a class="card" href="/heritage-sites/farrer-park-rc-fields-old-race-course">
+        <img class="card-image" alt="Community Stories" src="/images/Community_Stories.jpg">
+        <div class="card-bottom">
+          <strong>Community stories</strong>
+        </div>
+      </a>
+    </div>
   </div>
-  <p class="section-title">
-    <strong>As you navigate through the trail, you'll discover:</strong>
-  </p>
-  <div class="card-grid">
-    <a class="card" href="/heritage-sites/tan-chin-tuan-mansion">
-      <img class="card-image" alt="Historic Buildings" src="/images/Historic_Buildings.jpg">
-      <div class="card-bottom">
-        <strong>Historic buildings</strong>
-      </div>
-    </a>
-    <a class="card" href="/heritage-sites/flood-level-gauge">
-      <img class="card-image" alt="Hidden Gems" src="/images/Hidden_Gems.jpg">
-      <div class="card-bottom">
-        <strong>Hidden gems</strong>
-      </div>
-    </a>
-    <a class="card" href="/heritage-sites/masjid-abdul-gaffoor">
-      <img class="card-image" alt="Cultural Sites" src="/images/Cultural_Sites.jpg">
-      <div class="card-bottom">
-        <strong>Cultural sites</strong>
-      </div>
-    </a>
-    <a class="card" href="/heritage-sites/singapore-botanic-gardens">
-      <img class="card-image" alt="Green Spaces" src="/images/Green_Spaces.jpg">
-      <div class="card-bottom">
-        <strong>Green spaces</strong>
-      </div>
-    </a>
-    <a class="card" href="/heritage-sites/kk-womens-and-childrens-hospital">
-      <img class="card-image" alt="Local Institutions" src="/images/Local_Institutions.jpg">
-      <div class="card-bottom">
-        <strong>Local institutions</strong>
-      </div>
-    </a>
-    <a class="card" href="/heritage-sites/farrer-park-rc-fields-old-race-course">
-      <img class="card-image" alt="Community Stories" src="/images/Community_Stories.jpg">
-      <div class="card-bottom">
-        <strong>Community stories</strong>
-      </div>
-    </a>
-  </div>
-</div>
-
-<style>
-  /* Base styles */
-  .content-container {
-    display: flex;
-    flex-direction: column;
-  }
-
-  .hero {
-    display: flex;
-    flex-direction: column;
-  }
-
-  /* Button styles */
-  .cta-button {
-    display: flex;
-    justify-content: space-between;
-    padding: 14px 28px;
-    background-color: #da1f34;
-    color: #fff !important;
-    border-radius: 12px;
-    text-decoration: none !important;
-    transition: opacity 0.2s;
-    cursor: pointer;
-    margin-top: 28px;
-  }
-
-  .cta-button > strong {
-    color: #fff !important;
-  }
-
-  .cta-button:hover {
-    opacity: 0.8;
-  }
-
-  /* Card grid layout - updated */
-  .card-grid {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 14px;
-  }
-
-  @media screen and (max-width: 375px) {
-    .card-grid {
-      grid-template-columns: 1fr;  /* Switch to single column */
+  
+  <style>
+    /* Layout containers */
+    .content-container {
+      display: flex;
+      flex-direction: column;
     }
-  }
-
-  .card {
-    color: #484848;
-    text-decoration: none !important;
-    border: 1px solid #98a2b3;
-    border-radius: 6px;
-    overflow: hidden;
-    transition: opacity 0.2s;
-    margin: 0 !important;
-  }
-
-  .card:hover {
-    opacity: 0.8;
-  }
-
-  .card-image {
-    width: 100%;
-    aspect-ratio: 2.39;
-    object-fit: cover;
-  }
-
-  .card-bottom {
-    background-color: #fff;
-    padding: 8px 28px;
-    line-height: 20px;
-  }
-
-  .section-title,
-  .card-bottom > p {
-    line-height: 28px !important;
-  }
-	
-	.button-text, .button-text > strong {
-		color: #fff !important;
-		margin: 0 !important;
-	}
-</style>
+  
+    .hero {
+      display: flex;
+      flex-direction: column;
+    }
+  
+    /* Typography */
+    .section-title,
+    .card-bottom > p {
+      line-height: 28px !important;
+    }
+  
+    /* CTA Button */
+    .cta-button {
+      display: flex;
+      justify-content: space-between;
+      margin-top: 28px;
+      padding: 14px 28px;
+      background-color: #da1f34;
+      border-radius: 12px;
+      color: #fff !important;
+      text-decoration: none !important;
+      cursor: pointer;
+      transition: opacity 0.2s;
+    }
+  
+    .cta-button:hover {
+      opacity: 0.8;
+    }
+  
+    .button-text, 
+    .button-text > strong,
+    .cta-button > strong {
+      color: #fff !important;
+      margin: 0 !important;
+    }
+  
+    /* Card Grid */
+    .card-grid {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 14px;
+    }
+  
+    .card {
+      margin: 0 !important;
+      color: #484848;
+      text-decoration: none !important;
+      border: 1px solid #98a2b3;
+      border-radius: 6px;
+      overflow: hidden;
+      transition: opacity 0.2s;
+    }
+  
+    .card:hover {
+      opacity: 0.8;
+    }
+  
+    .card-image {
+      width: 100%;
+      aspect-ratio: 2.39;
+      object-fit: cover;
+    }
+  
+    .card-bottom {
+      padding: 8px 28px;
+      background-color: #fff;
+      line-height: 20px;
+    }
+  
+    /* Responsive */
+    @media screen and (max-width: 375px) {
+      .card-grid {
+        grid-template-columns: 1fr;  /* Switch to single column */
+      }
+    }
+  </style>
