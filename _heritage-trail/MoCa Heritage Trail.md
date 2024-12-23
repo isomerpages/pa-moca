@@ -69,87 +69,74 @@ description: ""
 </div>
 
 <style>
-     /* Base styles */
-  	h4, p, a {
-  	margin: 0 !important; 0 !important
+  /* Base styles */
+  .content-container {
+    display: flex;
+    flex-direction: column;
   }
 
-     .content-container {
-       display: flex;
-       flex-direction: column;
-       gap: 42px;
-     }
+  .hero {
+    display: flex;
+    flex-direction: column;
+  }
 
-     .hero {
-       display: flex;
-       flex-direction: column;
-       gap: 24px;
-     }
+  /* Button styles */
+  .cta-button {
+    display: flex;
+    justify-content: space-between;
+    padding: 14px 28px;
+    background-color: #da1f34;
+    color: #fff !important;
+    border-radius: 12px;
+    text-decoration: none !important;
+    transition: opacity 0.2s;
+    cursor: pointer;
+    margin-top: 28px;
+  }
 
-     /* Button styles */
-     .cta-button {
-       display: flex;
-       justify-content: space-between;
-       padding: 14px 28px;
-       background-color: #da1f34;
-       color: #fff !important;
-       border-radius: 12px;
-       text-decoration: none !important;
-       transition: opacity 0.2s;
-       cursor: pointer;
-     }
+  .cta-button > strong {
+    color: #fff !important;
+  }
 
-     .cta-button > strong {
-       color: #fff !important;
-     }
+  .cta-button:hover {
+    opacity: 0.8;
+  }
 
-     .cta-button:hover {
-       opacity: 0.8;
-     }
+  /* Card grid layout - updated */
+  .card-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+    gap: 14px;
+  }
 
-     /* Card grid layout - updated to use flexbox */
-     .card-grid {
-       display: flex;
-       flex-wrap: wrap;
-       gap: 14px;
-     }
+  .card {
+    color: #484848;
+    text-decoration: none !important;
+    border: 1px solid #98a2b3;
+    border-radius: 6px;
+    overflow: hidden;
+    transition: opacity 0.2s;
+    margin: 0 !important;
+  }
 
-     .card {
-       flex: 1 1 calc(50% - 7px); /* 50% width minus half of the gap */
-       min-width: 250px;
-       color: #484848;
-       text-decoration: none !important;
-       border: 1px solid #98a2b3;
-       border-radius: 6px;
-       overflow: hidden;
-       transition: opacity 0.2s;
-     }
+  .card:hover {
+    opacity: 0.8;
+  }
 
-     .card:hover {
-       opacity: 0.8;
-     }
+  .card-image {
+    width: 100%;
+    aspect-ratio: 2.39;
+    object-fit: cover;
+  }
 
-     .card-image {
-       width: 100%;
-       aspect-ratio: 2.39;
-       object-fit: cover;
-     }
+  .card-bottom {
+    background-color: #fff;
+    padding: 8px 28px;
+    line-height: 20px;
+  }
 
-     .card-bottom {
-       background-color: #fff;
-       padding: 8px 28px;
-       line-height: 20px;
-     }
-
-     .section-title,
-     .card-bottom > p {
-       line-height: 28px !important;
-     }
-
-     /* Mobile responsiveness - updated */
-     @media screen and (max-width: 479px) {
-       .card {
-         flex: 1 1 100%;
-       }
-     }
+  .section-title,
+  .card-bottom > p {
+    line-height: 28px !important;
+  }
 </style>
