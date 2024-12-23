@@ -95,7 +95,7 @@ description: ""
 
   .card-bottom {
     background-color: #fff;
-    padding: 8px 28px;
+    padding: 8px 28px !important;
     line-height: 20px;
   }
 
