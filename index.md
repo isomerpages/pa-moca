@@ -59,4 +59,14 @@ sections:
   - resources:
       id: resources
       subtitle: What we have been up to
+  - infopic:
+      title: Moulmein-Cairnhill CNY Lunch 2025
+      subtitle: 9 February 2025, Sunday
+      id: infopic
+      description: We warmly invite you to our Moulmein-Cairnhill CNY Lunch 2025!
+        Let’s come together to welcome the Year of the Snake!
+      button: Purchase Here
+      url: https://go.gov.sg/mocacny2025
+      image: /images/Moulmein_Cairnhill_CNY_2025__POSTER___5_.png
+      alt: Image alt text
 ---
