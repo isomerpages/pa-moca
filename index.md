@@ -27,7 +27,7 @@ sections:
           url: /contact
       variant: center
   - infopic:
-      title: Moulmein-Cairnhill's Annual Christmas Event!
+      title: Official Opening of Pek Kio Park!
       subtitle: 18 January 2025, Saturday
       id: infopic
       description: Join us for a fun-filled morning as we celebrate the Official
