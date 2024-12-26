@@ -56,9 +56,6 @@ sections:
       url: https://go.gov.sg/durianfiesta11jan
       image: /images/f0107b6e_64c6_49ec_a079_ca972a8502e6.jpg
       alt: Image alt text
-  - resources:
-      id: resources
-      subtitle: What we have been up to
   - infopic:
       title: Moulmein-Cairnhill CNY Lunch 2025
       subtitle: 9 February 2025, Sunday
@@ -69,4 +66,7 @@ sections:
       url: https://go.gov.sg/mocacny2025
       image: /images/Moulmein_Cairnhill_CNY_2025__POSTER___5_.png
       alt: Image alt text
+  - resources:
+      id: resources
+      subtitle: What we have been up to
 ---
