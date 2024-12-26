@@ -28,14 +28,14 @@ sections:
       variant: center
   - infopic:
       title: Moulmein-Cairnhill's Annual Christmas Event!
-      subtitle: 21 December 2024, Saturday
+      subtitle: 18 January 2025, Saturday
       id: infopic
-      description: Get ready for a fun-filled morning with games, food, and festive
-        cheer! Join our Chocolate House-Making Workshop
-      button: Purchase Here
+      description: Join us for a fun-filled morning as we celebrate the Official
+        Opening of Pek Kio Park!
+      button: Register Here
       alt: Image alt text
-      image: /images/de06acbc_894e_4f2a_8c1c_afbead08f4e4.jpg
-      url: https://go.gov.sg/christmaseventon21dec2024
+      image: /images/Pek_Kio_Park_Poster__A4_.png
+      url: https://go.gov.sg/pekkiopark
   - infopic:
       title: Celebrate Farrer Park's Sporting Heritage!
       subtitle: 4 January 2025, Saturday
