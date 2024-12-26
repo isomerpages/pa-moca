@@ -27,16 +27,6 @@ sections:
           url: /contact
       variant: center
   - infopic:
-      title: Official Opening of Pek Kio Park!
-      subtitle: 18 January 2025, Saturday
-      id: infopic
-      description: Join us for a fun-filled morning as we celebrate the Official
-        Opening of Pek Kio Park!
-      button: Register Here
-      alt: Image alt text
-      image: /images/Pek_Kio_Park_Poster__A4_.png
-      url: https://go.gov.sg/pekkiopark
-  - infopic:
       title: Celebrate Farrer Park's Sporting Heritage!
       subtitle: 4 January 2025, Saturday
       id: infopic
@@ -56,6 +46,16 @@ sections:
       url: https://go.gov.sg/durianfiesta11jan
       image: /images/f0107b6e_64c6_49ec_a079_ca972a8502e6.jpg
       alt: Image alt text
+  - infopic:
+      title: Official Opening of Pek Kio Park!
+      subtitle: 18 January 2025, Saturday
+      id: infopic
+      description: Join us for a fun-filled morning as we celebrate the Official
+        Opening of Pek Kio Park!
+      button: Register Here
+      alt: Image alt text
+      image: /images/Pek_Kio_Park_Poster__A4_.png
+      url: https://go.gov.sg/pekkiopark
   - infopic:
       title: Moulmein-Cairnhill CNY Lunch 2025
       subtitle: 9 February 2025, Sunday
