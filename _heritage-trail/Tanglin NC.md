@@ -220,14 +220,14 @@ description: ""
     transition: opacity 0.2s;
     cursor: pointer;
     justify-content: space-between;
-    background-color: #da1f34;
+    background-color: #d0021b;
     color: #fff !important;
     position: relative;
     margin: 0 !important;
   }
 
   .site-button:hover {
-    opacity: 0.8;
+    background-color: #9d0214;
   }
 
   .site-button.directions {
@@ -238,6 +238,11 @@ description: ""
     border: 1px solid #767676;
   }
 
+  .site-button.directions:hover {
+    color: #fff !important;
+    background-color: #767676;
+  }
+
   .site-description {
     margin: 0 !important;
   }
@@ -246,6 +251,11 @@ description: ""
     display: flex;
     color: #fff !important;
     padding: 18px 28px;
+    background-color: #1d4575;
+  }
+
+  .area-button:hover {
+    background-color: #132d4c;
   }
 
   .area-button strong {
