@@ -6,9 +6,7 @@ description: ""
 ---
 <div class="content-container">
   <div class="hero">
-    <div class="isomer-image-wrapper">
-      <img width="100%" alt="Moulmein-Cairnhill Heritage Trail" src="/images/Header_Image.jpg">
-    </div>
+    <img width="100%" alt="Moulmein-Cairnhill Heritage Trail" src="/images/Header_Image.jpg">
     <h4>
       <strong>Explore the rich history and culture of Moulmein-Cairnhill</strong>
     </h4>
@@ -90,16 +88,17 @@ description: ""
     justify-content: space-between;
     margin-top: 28px;
     padding: 14px 28px;
-    background-color: #da1f34;
+    background-color: #d0021b;
     border-radius: 12px;
     color: #fff !important;
     text-decoration: none !important;
     cursor: pointer;
-    transition: opacity 0.2s;
+    width: fit-content;
+    gap: 14px;
   }
 
   .cta-button:hover {
-    opacity: 0.8;
+    background-color: #9d0214;
   }
 
   .button-text,
