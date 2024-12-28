@@ -108,18 +108,11 @@ description: ""
     line-height: 15px;
   }
 
-  .highlights-section,
   .area-section {
     display: flex;
     flex-flow: column;
     grid-column-gap: 28px;
     grid-row-gap: 28px;
-  }
-
-  /* Icons */
-  #highlights-icon {
-    width: 22px;
-    height: 22px;
   }
 
   #area-icon,
@@ -129,124 +122,12 @@ description: ""
     height: 21px;
   }
 
-  /* Highlights Section */
-  .featured-grid {
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-    grid-auto-columns: 1fr;
-    grid-template-rows: auto;
+  /* Site Components */
+  .site-item {
+    display: flex;
+    flex-flow: column;
     grid-column-gap: 28px;
     grid-row-gap: 28px;
-  }
-
-  .highlights-item {
-    display: flex;
-    flex-flow: column;
-    grid-column-gap: 14px;
-    grid-row-gap: 14px;
-    color: #484848 !important;
-    text-decoration: none !important;
-    transition: opacity 0.2s;
-    margin: 0 !important;
-  }
-
-  .highlights-item:hover {
-    opacity: 0.8;
-  }
-
-  .highlights-image {
-    width: 100%;
-    aspect-ratio: 3 / 2;
-    object-fit: cover;
-    border-radius: 6px;
-  }
-
-  .highlight-info {
-    display: flex;
-    flex-flow: column;
-    grid-column-gap: 4px;
-    grid-row-gap: 4px;
-    margin: 0 !important;
-  }
-
-  .highlight-name {
-    font-size: 17px;
-    font-weight: 700;
-    line-height: 24px !important;
-    margin: 0 !important;
-  }
-
-  .highlight-subheader {
-    color: #767676;
-    font-size: 15px;
-    font-weight: 700;
-    line-height: 15px !important;
-    margin: 0 !important;
-  }
-
-  /* Area Section */
-  .area-wrapper {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    grid-column-gap: 14px;
-    grid-row-gap: 14px;
-    width: 100% !important;
-  }
-
-  .area-badge {
-    grid-column-gap: 14px;
-    grid-row-gap: 14px;
-    color: #fff !important;
-    cursor: pointer;
-    background-color: #d0021b;
-    border-radius: 12px;
-    justify-content: space-between;
-    align-items: center !important;
-    padding: 7px 14px;
-    line-height: 24px !important;
-    text-decoration: none;
-    display: flex;
-    position: relative;
-    text-decoration: none !important;
-    margin: 0 !important;
-  }
-
-  .area-badge:hover {
-    background-color: #9d0214;
-  }
-
-  .area-badge-name {
-    line-height: 0;
-    margin: 0 !important;
-  }
-
-  .area-count {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-color: #fff;
-    border-radius: 6px;
-    color: #484848;
-    font-size: 12px;
-    line-height: 12px;
-    padding: 3px 6px;
-    height: 100%;
-  }
-
-  .area-heading {
-    display: flex;
-    width: 100%;
-    margin: 0 !important;
-    color: #484848 !important;
-    font-weight: 700 !important;
-  }
-
-  .area-item {
-    display: flex;
-    flex-flow: column;
-    grid-column-gap: 42px;
-    grid-row-gap: 42px;
     border-bottom: 1px solid rgba(118, 118, 118, 0.5);
     padding-bottom: 42px;
   }
@@ -256,14 +137,6 @@ description: ""
     flex-flow: column;
     grid-column-gap: 42px;
     grid-row-gap: 42px;
-  }
-
-  /* Site Components */
-  .site-item {
-    display: flex;
-    flex-flow: column;
-    grid-column-gap: 28px;
-    grid-row-gap: 28px;
   }
 
   .site-item.area-view {
