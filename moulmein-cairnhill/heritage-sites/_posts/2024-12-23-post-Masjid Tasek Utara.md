@@ -53,9 +53,7 @@ variant: markdown
       <div class="section-header">Address</div>
     </div>
     <a href="https://maps.app.goo.gl/8ozBDq2aWD4d7rKR9">46 Bristol Road, Singapore 219852</a>
-    <div class="larger-map">
-      <iframe loading="lazy" allowfullscreen="" style="border: 0" height="100%" width="100%" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.7708972316123!2d103.8466314768067!3d1.3128999986746617!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da19c3dc998f8b%3A0x8aafa1095fec1f34!2sMasjid%20Tasek%20Utara!5e0!3m2!1sen!2sjp!4v1729892546456!5m2!1sen!2sjp"></iframe>
-    </div>
+    <iframe class="site-map" loading="lazy" allowfullscreen="" style="border: 0" height="100%" width="100%" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.7708972316123!2d103.8466314768067!3d1.3128999986746617!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da19c3dc998f8b%3A0x8aafa1095fec1f34!2sMasjid%20Tasek%20Utara!5e0!3m2!1sen!2sjp!4v1729892546456!5m2!1sen!2sjp" data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.7708972316123!2d103.8466314768067!3d1.3128999986746617!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da19c3dc998f8b%3A0x8aafa1095fec1f34!2sMasjid%20Tasek%20Utara!5e0!3m2!1sen!2sjp!4v1729892546456!5m2!1sen!2sjp"></iframe>
   </div>
   <div class="separator"></div>
   <div class="detail-section">
@@ -99,159 +97,13 @@ variant: markdown
     line-height: 15px;
   }
 
-  .highlights-section,
-  .area-section {
-    display: flex;
-    flex-flow: column;
-    grid-column-gap: 28px;
-    grid-row-gap: 28px;
-  }
-
-  #area-icon,
-  #highlights-icon,
   .directions-icon,
   .featured-icon {
     width: 21px;
     height: 21px;
   }
 
-  /* Highlights Section */
-  .featured-grid {
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-    grid-auto-columns: 1fr;
-    grid-template-rows: auto;
-    grid-column-gap: 28px;
-    grid-row-gap: 28px;
-  }
-
-  .highlights-item {
-    display: flex;
-    flex-flow: column;
-    grid-column-gap: 14px;
-    grid-row-gap: 14px;
-    color: #484848 !important;
-    text-decoration: none !important;
-    transition: opacity 0.2s;
-    margin: 0 !important;
-  }
-
-  .highlights-item:hover {
-    opacity: 0.8;
-  }
-
-  .highlights-image {
-    width: 100%;
-    aspect-ratio: 3 / 2;
-    object-fit: cover;
-    border-radius: 6px;
-  }
-
-  .highlight-info {
-    display: flex;
-    flex-flow: column;
-    grid-column-gap: 4px;
-    grid-row-gap: 4px;
-    margin: 0 !important;
-  }
-
-  .highlight-name {
-    font-size: 17px;
-    font-weight: 700;
-    line-height: 24px !important;
-    margin: 0 !important;
-  }
-
-  .highlight-subheader {
-    color: #767676;
-    font-size: 15px;
-    font-weight: 700;
-    line-height: 15px !important;
-    margin: 0 !important;
-  }
-
-  /* Area Section */
-  .area-wrapper {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    grid-column-gap: 14px;
-    grid-row-gap: 14px;
-    width: 100% !important;
-  }
-
-  .area-badge {
-    grid-column-gap: 14px;
-    grid-row-gap: 14px;
-    color: #fff !important;
-    cursor: pointer;
-    background-color: #d0021b;
-    border-radius: 12px;
-    justify-content: space-between;
-    align-items: center !important;
-    padding: 7px 14px;
-    line-height: 24px !important;
-    text-decoration: none;
-    display: flex;
-    position: relative;
-    text-decoration: none !important;
-    margin: 0 !important;
-  }
-
-  .area-badge:hover {
-    background-color: #9d0214;
-  }
-
-  .area-badge-name {
-    line-height: 0;
-    margin: 0 !important;
-  }
-
-  .area-count {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-color: #fff;
-    border-radius: 6px;
-    color: #484848;
-    font-size: 12px;
-    line-height: 12px;
-    padding: 3px 6px;
-    height: 100%;
-  }
-
-  .area-heading {
-    display: flex;
-    width: 100%;
-    margin: 0 !important;
-    color: #484848 !important;
-    font-weight: 700 !important;
-  }
-
-  .area-item {
-    display: flex;
-    flex-flow: column;
-    grid-column-gap: 42px;
-    grid-row-gap: 42px;
-    border-bottom: 1px solid rgba(118, 118, 118, 0.5);
-    padding-bottom: 42px;
-  }
-
-  .area-list {
-    display: flex;
-    flex-flow: column;
-    grid-column-gap: 42px;
-    grid-row-gap: 42px;
-  }
-
   /* Site Components */
-  .site-item {
-    display: flex;
-    flex-flow: column;
-    grid-column-gap: 28px;
-    grid-row-gap: 28px;
-  }
-
   .site-media {
     display: flex;
     flex-flow: column;
@@ -268,26 +120,9 @@ variant: markdown
   }
 
   .site-map {
-    height: 140px;
+    height: 420px;
     border-radius: 12px;
     overflow: hidden;
-  }
-
-  .site-name {
-    margin: 0 !important;
-    font-size: 28px;
-    font-weight: 700;
-    line-height: 36px;
-    text-decoration: none !important;
-    color: #484848 !important;
-  }
-
-  .site-buttons {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    grid-template-rows: auto;
-    grid-column-gap: 14px;
-    grid-row-gap: 14px;
   }
 
   .site-button {
@@ -317,48 +152,11 @@ variant: markdown
     padding: 18px 28px;
   }
 
-  .site-description {
-    margin: 0 !important;
-  }
-
-  .area-button {
-    display: flex;
-    color: #fff !important;
-    padding: 18px 28px;
-    background-color: #1d4575;
-  }
-
-  .area-button:hover {
-    background-color: #132d4c;
-  }
-
-  .area-button strong {
-    color: #fff !important;
-  }
-
   /* Utilities */
   .separator {
     height: 1px;
     background-color: #767676;
     opacity: 0.5;
-  }
-
-  /* Media Queries */
-  @media (max-width: 768px) {
-    .featured-grid {
-      grid-template-columns: 1fr 1fr;
-    }
-  }
-
-  @media (max-width: 480px) {
-    .featured-grid {
-      grid-template-columns: 1fr;
-    }
-
-    .site-buttons {
-      display: flex;
-      flex-flow: column;
-    }
   }
 
   .detail-buttons {
@@ -368,17 +166,6 @@ variant: markdown
     justify-content: space-between;
   }
 
-  @media (max-width: 480px) {
-    .detail-buttons {
-      display: flex;
-      flex-flow: column;
-    }
-
-    .detail-buttons {
-      display: flex;
-      flex-flow: column;
-    }
-  }
   .site-button.back {
     background-color: #1d4575;
   }
@@ -398,5 +185,24 @@ variant: markdown
   .site-button.featured:hover {
     color: #fff !important;
     background-color: #767676;
+  }
+
+  .detail-section {
+    grid-column-gap: 28px;
+    grid-row-gap: 28px;
+    flex-flow: column;
+    display: flex;
+  }
+
+  .detail-section a {
+    margin: 0 !important;
+  }
+
+  /* Media Queries */
+  @media (max-width: 480px) {
+    .detail-buttons {
+      display: flex;
+      flex-flow: column;
+    }
   }
 </style>
