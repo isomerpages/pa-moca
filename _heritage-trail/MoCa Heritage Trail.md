@@ -25,37 +25,37 @@ description: ""
     <strong>As you navigate through the trail, you'll discover:</strong>
   </p>
   <div class="card-grid">
-    <a class="card" href="/heritage-trail/black-white-bungalows">
+    <a class="card" href="/heritage-sites/black-white-bungalows">
       <img class="card-image" alt="Historic Buildings" src="/images/Historic_Buildings.jpg">
       <div class="card-bottom">
         <strong>Historic buildings</strong>
       </div>
     </a>
-    <a class="card" href="/heritage-trail/mount-emily-swimming-pool-and-coat-of-arms">
+    <a class="card" href="/heritage-sites/mount-emily-swimming-pool-and-coat-of-arms">
       <img class="card-image" alt="Hidden Gems" src="/images/Hidden_Gems.jpg">
       <div class="card-bottom">
         <strong>Hidden gems</strong>
       </div>
     </a>
-    <a class="card" href="/heritage-trail/masjid-tasek-utara">
+    <a class="card" href="/heritage-sites/masjid-tasek-utara">
       <img class="card-image" alt="Cultural Sites" src="/images/Cultural_Sites.jpg">
       <div class="card-bottom">
         <strong>Cultural sites</strong>
       </div>
     </a>
-    <a class="card" href="/heritage-trail/singapore-botanic-gardens">
+    <a class="card" href="/heritage-sites/singapore-botanic-gardens">
       <img class="card-image" alt="Green Spaces" src="/images/Green_Spaces.jpg">
       <div class="card-bottom">
         <strong>Green spaces</strong>
       </div>
     </a>
-    <a class="card" href="/heritage-trail/kk-womens-and-childrens-hospital">
+    <a class="card" href="/heritage-sites/kk-womens-and-childrens-hospital">
       <img class="card-image" alt="Local Institutions" src="/images/Local_Institutions.jpg">
       <div class="card-bottom">
         <strong>Local institutions</strong>
       </div>
     </a>
-    <a class="card" href="/heritage-trail/birthplace-of-lee-kuan-yew">
+    <a class="card" href="/heritage-sites/birthplace-of-lee-kuan-yew">
       <img class="card-image" alt="Community Stories" src="/images/Community_Stories.jpg">
       <div class="card-bottom">
         <strong>Community stories</strong>
