@@ -6,9 +6,7 @@ description: ""
 ---
 <div class="content-container">
   <div class="hero">
-    <div class="isomer-image-wrapper">
-      <img width="100%" alt="Moulmein-Cairnhill Heritage Trail" src="/images/Header_Image.jpg">
-    </div>
+    <img width="100%" alt="Moulmein-Cairnhill Heritage Trail" src="/images/Header_Image.jpg">
     <h4>
       <strong>Explore the rich history and culture of Moulmein-Cairnhill</strong>
     </h4>
@@ -27,37 +25,37 @@ description: ""
     <strong>As you navigate through the trail, you'll discover:</strong>
   </p>
   <div class="card-grid">
-    <a class="card" href="/heritage-trail/black-white-bungalows">
+    <a class="card" href="/heritage-sites/black-white-bungalows">
       <img class="card-image" alt="Historic Buildings" src="/images/Historic_Buildings.jpg">
       <div class="card-bottom">
         <strong>Historic buildings</strong>
       </div>
     </a>
-    <a class="card" href="/heritage-trail/mount_emily_swimming_pool_and_coat_of_arms">
+    <a class="card" href="/heritage-sites/mount-emily-swimming-pool-and-coat-of-arms">
       <img class="card-image" alt="Hidden Gems" src="/images/Hidden_Gems.jpg">
       <div class="card-bottom">
         <strong>Hidden gems</strong>
       </div>
     </a>
-    <a class="card" href="/heritage-trail/masjid-tasek-utara">
+    <a class="card" href="/heritage-sites/masjid-tasek-utara">
       <img class="card-image" alt="Cultural Sites" src="/images/Cultural_Sites.jpg">
       <div class="card-bottom">
         <strong>Cultural sites</strong>
       </div>
     </a>
-    <a class="card" href="/heritage-trail/singapore-botanic-gardens">
+    <a class="card" href="/heritage-sites/singapore-botanic-gardens">
       <img class="card-image" alt="Green Spaces" src="/images/Green_Spaces.jpg">
       <div class="card-bottom">
         <strong>Green spaces</strong>
       </div>
     </a>
-    <a class="card" href="/heritage-trail/kk-womens-and-childrens-hospital">
+    <a class="card" href="/heritage-sites/kk-womens-and-childrens-hospital">
       <img class="card-image" alt="Local Institutions" src="/images/Local_Institutions.jpg">
       <div class="card-bottom">
         <strong>Local institutions</strong>
       </div>
     </a>
-    <a class="card" href="/heritage-trail/birthplace_of_lee_kuan_yew">
+    <a class="card" href="/heritage-sites/birthplace-of-lee-kuan-yew">
       <img class="card-image" alt="Community Stories" src="/images/Community_Stories.jpg">
       <div class="card-bottom">
         <strong>Community stories</strong>
@@ -79,8 +77,7 @@ description: ""
   }
 
   /* Typography */
-  .section-title,
-  .card-bottom > p {
+  .section-title {
     line-height: 28px !important;
   }
 
@@ -90,16 +87,17 @@ description: ""
     justify-content: space-between;
     margin-top: 28px;
     padding: 14px 28px;
-    background-color: #da1f34;
+    background-color: #d0021b;
     border-radius: 12px;
     color: #fff !important;
     text-decoration: none !important;
     cursor: pointer;
-    transition: opacity 0.2s;
+    width: fit-content;
+    gap: 14px;
   }
 
   .cta-button:hover {
-    opacity: 0.8;
+    background-color: #9d0214;
   }
 
   .button-text,
