@@ -7,6 +7,8 @@ description: ""
 image: ""
 variant: markdown
 ---
+
+
 <div class="content-container">
   <div class="detail-buttons">
     <a class="site-button back" href="/heritage-trail/goldhill-nc">
@@ -36,14 +38,29 @@ variant: markdown
     <div class="site-description"><p>House No. 9 of Buckley road is a gazetted preservation bungalow as it is one of few Singapore's remaining houses built on raised footings. The symmetrical bungalow has a giant tall porch that to welcomes its guests. Completed in the early 1900-s, it was designed as a mixture of Baroque and Classical styles, which were popular before the Art Deco and Modern designs of the 1930s and later. It was given the URA conservation status in 2008.</p></div>
   </div>
   <div class="separator"></div>
-  
-    <div class="reference-links">
-      <p>
-        <a rel="noopener noreferrer" target="_blank" href="{reference}">{reference}</a><br>
-      </p>
+  <div class="detail-section">
+    <div class="section-header-wrapper">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="icon">
+        <path d="M20,10c0,5-5.5,10.2-7.4,11.8c-0.4,0.3-0.8,0.3-1.2,0C9.5,20.2,4,15,4,10c0-4.4,3.6-8,8-8S20,5.6,20,10" stroke-linejoin="round" stroke-linecap="round" stroke-width="2" stroke="currentColor" fill="none"></path>
+        <circle r="3" cy="10" cx="12" stroke-linejoin="round" stroke-linecap="round" stroke-width="2" stroke="currentColor" fill="none"></circle>
+      </svg>
+      <div class="section-header">Address</div>
     </div>
+    <a href="https://maps.app.goo.gl/DNsFmR6Zes5iRPQy8">9 Buckley Rd, Singapore 309765</a>
+    <iframe class="site-map" loading="lazy" allowfullscreen="" style="border: 0" height="100%" width="100%" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.763031137432!2d103.8399673!3d1.3178208999999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da19e61099a659%3A0xa5f01f8020f1c306!2s9%20Buckley%20Rd%2C%20Singapore%20309765!5e0!3m2!1sen!2sjp!4v1729926700878!5m2!1sen!2sjp" data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.763031137432!2d103.8399673!3d1.3178208999999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da19e61099a659%3A0xa5f01f8020f1c306!2s9%20Buckley%20Rd%2C%20Singapore%20309765!5e0!3m2!1sen!2sjp!4v1729926700878!5m2!1sen!2sjp"></iframe>
   </div>
-
+  <div class="separator"></div>
+  <div class="detail-section">
+    <div class="section-header-wrapper">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="icon">
+        <path d="M10,2v8l3-3l3,3V2" stroke-linejoin="round" stroke-linecap="round" stroke-width="2" stroke="currentColor" fill="none"></path>
+        <path d="M4,19.5v-15C4,3.1,5.1,2,6.5,2H19c0.6,0,1,0.4,1,1v18c0,0.6-0.4,1-1,1H6.5C5.1,22,4,20.9,4,19.5S5.1,17,6.5,17H20" stroke-linejoin="round" stroke-linecap="round" stroke-width="2" stroke="currentColor" fill="none"></path>
+      </svg>
+      <div class="section-header">References</div>
+    </div>
+    <div class="reference-links">-</div>
+  </div>
+</div>
 
 <style>
   /* Base Layout */
