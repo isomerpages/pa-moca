@@ -31,7 +31,7 @@ description: ""
         <strong>Historic buildings</strong>
       </div>
     </a>
-    <a class="card" href="/heritage-trail/mount_emily_swimming_pool_and_coat_of_arms">
+    <a class="card" href="/heritage-trail/mount-emily-swimming-pool-and-coat-of-arms">
       <img class="card-image" alt="Hidden Gems" src="/images/Hidden_Gems.jpg">
       <div class="card-bottom">
         <strong>Hidden gems</strong>
@@ -55,7 +55,7 @@ description: ""
         <strong>Local institutions</strong>
       </div>
     </a>
-    <a class="card" href="/heritage-trail/birthplace_of_lee_kuan_yew">
+    <a class="card" href="/heritage-trail/birthplace-of-lee-kuan-yew">
       <img class="card-image" alt="Community Stories" src="/images/Community_Stories.jpg">
       <div class="card-bottom">
         <strong>Community stories</strong>
