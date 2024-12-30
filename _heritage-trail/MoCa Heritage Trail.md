@@ -77,8 +77,7 @@ description: ""
   }
 
   /* Typography */
-  .section-title,
-  .card-bottom > p {
+  .section-title {
     line-height: 28px !important;
   }
 
