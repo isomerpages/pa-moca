@@ -209,35 +209,6 @@ description: ""
     grid-row-gap: 42px;
   }
 
-  /* Common Section Styles */
-  .section-header-wrapper {
-    display: flex;
-    align-items: center;
-    grid-column-gap: 14px;
-    grid-row-gap: 14px;
-  }
-
-  .section-header {
-    color: #767676;
-    font-size: 15px;
-    font-weight: 700;
-    line-height: 15px;
-  }
-
-  .area-section {
-    display: flex;
-    flex-flow: column;
-    grid-column-gap: 28px;
-    grid-row-gap: 28px;
-  }
-
-  #area-icon,
-  .icon,
-  .directions-icon {
-    width: 21px;
-    height: 21px;
-  }
-
   /* Site Components */
   .site-item {
     display: flex;
@@ -253,11 +224,6 @@ description: ""
     flex-flow: column;
     grid-column-gap: 42px;
     grid-row-gap: 42px;
-  }
-
-  .site-item.area-view {
-    border-bottom: 1px solid rgba(118, 118, 118, 0.5);
-    padding-bottom: 42px;
   }
 
   .site-media {
@@ -288,11 +254,6 @@ description: ""
     line-height: 36px;
     text-decoration: none !important;
     color: #484848 !important;
-  }
-
-  .site-link {
-    color: #484848;
-    text-decoration: none;
   }
 
   .site-buttons {
@@ -353,16 +314,9 @@ description: ""
     color: #fff !important;
   }
 
-  /* Utilities */
-  .separator {
-    height: 1px;
-    background-color: #767676;
-    opacity: 0.5;
-  }
-
-  .arrow {
-    position: absolute;
-    right: 28px;
+  .directions-icon {
+    width: 21px;
+    height: 21px;
   }
 
   /* Media Queries */
