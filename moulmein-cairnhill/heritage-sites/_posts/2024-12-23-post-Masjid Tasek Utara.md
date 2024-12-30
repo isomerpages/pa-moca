@@ -24,7 +24,7 @@ variant: markdown
     </a>
   </div>
   <div class="site-media">
-    <img class="site-image" alt="" loading="lazy" src="/images/masjid_tasek_utara.jpg">
+    <img class="site-image" alt="Masjid Tasek Utara" loading="lazy" src="/images/masjid_tasek_utara.jpg">
     <a class="site-button directions" href="https://maps.app.goo.gl/8ozBDq2aWD4d7rKR9">
       <div>Directions</div>
       <svg class="directions-icon" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 655 655" height="655" width="655">
@@ -33,15 +33,7 @@ variant: markdown
     </a>
   </div>
   <div>
-    <p>
-      Tucked in a corner at the junction of Bristol Road and Carlisle Road,
-      Masjid Tasek Utara is a quiet, single-storey mosque with a village-styled
-      exterior, contrasting with other Saracenic-style or avant-garde religious
-      structures in Singapore. Built in 1907, it started as a surau (prayer
-      hall) for the Tasek Utara area, later expanding to serve the Cambridge and
-      Pek Kio estates. It underwent refurbishment in 2016 and reopened in 2017,
-      now serving local employees and residents.
-    </p>
+    <div class="site-description"><p>Tucked in a corner at the junction of Bristol Road and Carlisle Road, Masjid Tasek Utara is a quiet, single-storey mosque with a village-styled exterior, contrasting with other Saracenic-style or avant-garde religious structures in Singapore. Built in 1907, it started as a surau (prayer hall) for the Tasek Utara area, later expanding to serve the Cambridge and Pek Kio estates. It underwent refurbishment in 2016 and reopened in 2017, now serving local employees and residents.</p></div>
   </div>
   <div class="separator"></div>
   <div class="detail-section">
@@ -65,9 +57,9 @@ variant: markdown
       <div class="section-header">References</div>
     </div>
     <div class="reference-links">
-      <p>
-        <a rel="noopener noreferrer" target="_blank" href="https://www.roots.gov.sg/places/places-landing/Places/surveyed-sites/Masjid-Tasek-Utara">https://www.roots.gov.sg/places/places-landing/Places/surveyed-sites/Masjid-Tasek-Utara</a><br><a rel="noopener noreferrer" target="_blank" href="https://www.muis.gov.sg/mosque/Our-Mosques/Mosque-Directory/Tasek-Utara">https://www.muis.gov.sg/mosque/Our-Mosques/Mosque-Directory/Tasek-Utara</a>
-      </p>
+        <a rel="noopener noreferrer" target="_blank" href="https://www.roots.gov.sg/places/places-landing/Places/surveyed-sites/Masjid-Tasek-Utara">https://www.roots.gov.sg/places/places-landing/Places/surveyed-sites/Masjid-Tasek-Utara</a><br>
+        <a rel="noopener noreferrer" target="_blank" href="https://www.muis.gov.sg/mosque/Our-Mosques/Mosque-Directory/Tasek-Utara">https://www.muis.gov.sg/mosque/Our-Mosques/Mosque-Directory/Tasek-Utara</a><br>
+      <p></p>
     </div>
   </div>
 </div>
@@ -82,88 +74,33 @@ variant: markdown
     grid-row-gap: 42px;
   }
 
-  /* Common Section Styles */
-  .section-header-wrapper {
+  /* Navigation Buttons */
+  .detail-buttons {
     display: flex;
-    align-items: center;
     grid-column-gap: 14px;
     grid-row-gap: 14px;
-    color: #767676;
-  }
-
-  .section-header {
-    font-size: 15px;
-    font-weight: 700;
-    line-height: 15px;
-  }
-
-  .directions-icon,
-  .featured-icon {
-    width: 21px;
-    height: 21px;
-  }
-
-  /* Site Components */
-  .site-media {
-    display: flex;
-    flex-flow: column;
-    grid-column-gap: 16px;
-    grid-row-gap: 16px;
-    justify-content: center;
-  }
-
-  .site-image {
-    width: 100%;
-    aspect-ratio: 16 / 9;
-    object-fit: cover;
-    border-radius: 12px !important;
-  }
-
-  .site-map {
-    height: 420px;
-    border-radius: 12px;
-    overflow: hidden;
+    justify-content: space-between;
   }
 
   .site-button {
     display: inline-flex;
     width: fit-content;
     padding: 14px 28px;
-    border-radius: 12px;
-    text-decoration: none !important;
-    transition: opacity 0.2s;
-    cursor: pointer;
-    justify-content: space-between;
-    background-color: #d0021b;
-    color: #fff !important;
-    position: relative;
     margin: 0 !important;
     grid-column-gap: 14px;
     grid-row-gap: 14px;
+    justify-content: space-between;
+    background-color: #d0021b;
+    border-radius: 12px;
+    color: #fff !important;
+    text-decoration: none !important;
+    cursor: pointer;
+    position: relative;
+    transition: opacity 0.2s;
   }
 
   .site-button:hover {
     background-color: #9d0214;
-  }
-
-  .site-button.directions {
-    width: 100%;
-    display: flex;
-    padding: 18px 28px;
-  }
-
-  /* Utilities */
-  .separator {
-    height: 1px;
-    background-color: #767676;
-    opacity: 0.5;
-  }
-
-  .detail-buttons {
-    display: flex;
-    grid-column-gap: 14px;
-    grid-row-gap: 14px;
-    justify-content: space-between;
   }
 
   .site-button.back {
@@ -187,15 +124,80 @@ variant: markdown
     background-color: #767676;
   }
 
+  .site-button.directions {
+    width: 100%;
+    display: flex;
+    padding: 18px 28px;
+  }
+
+  /* Media & Images */
+  .site-media {
+    display: flex;
+    flex-flow: column;
+    grid-column-gap: 16px;
+    grid-row-gap: 16px;
+    justify-content: center;
+  }
+
+  .site-image {
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    object-fit: cover;
+    border-radius: 12px !important;
+  }
+
+  .site-map {
+    height: 420px;
+    border-radius: 12px;
+    overflow: hidden;
+  }
+
+  /* Icons */
+  .directions-icon,
+  .featured-icon {
+    width: 21px;
+    height: 21px;
+  }
+
+  /* Content Sections */
   .detail-section {
+    display: flex;
+    flex-flow: column;
     grid-column-gap: 28px;
     grid-row-gap: 28px;
-    flex-flow: column;
-    display: flex;
   }
 
   .detail-section a {
     margin: 0 !important;
+  }
+
+  .section-header-wrapper {
+    display: flex;
+    align-items: center;
+    grid-column-gap: 14px;
+    grid-row-gap: 14px;
+    color: #767676;
+  }
+
+  .section-header {
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 15px;
+  }
+
+  .site-description {
+    margin: 0 !important;
+  }
+
+  .site-description > p {
+    margin: 0 !important;
+  }
+
+  /* Utilities */
+  .separator {
+    height: 1px;
+    background-color: #767676;
+    opacity: 0.5;
   }
 
   /* Media Queries */
