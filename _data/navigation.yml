@@ -1,6 +1,6 @@
 logo: /images/image_4.jpg
 links:
-  - title: News & Notices
+  - title: News
     url: /moulmein-cairnhill/news-and-notices/
   - title: Our Town
     url: /moulmein-cairnhill/our-town/
@@ -14,5 +14,5 @@ links:
     url: /be-our-volunteer/
   - title: Heritage Trail
     url: /heritage-trail
-  - title: Contact Us
+  - title: Contact
     url: /contact
