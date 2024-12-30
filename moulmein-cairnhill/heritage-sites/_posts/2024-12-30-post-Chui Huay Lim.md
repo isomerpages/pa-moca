@@ -7,6 +7,8 @@ description: ""
 image: ""
 variant: markdown
 ---
+
+
 <div class="content-container">
   <div class="detail-buttons">
     <a class="site-button back" href="/heritage-trail/newton-nc">
@@ -33,7 +35,7 @@ variant: markdown
     </a>
   </div>
   <div>
-    <div class="site-description"><p>Founded in 1845, Chui Huay Lim Club is one of Singapore's oldest clubs. Initially known as the Teochew Gentlemen's Club, it played a significant role for the Teochew community in colonial Singapore. The club's motto, ‚ÄúSpeech from United Hearts,‚Äù emphasizes unity and strength within the community.</p></div>
+    <div class="site-description"><p>Founded in 1845, Chui Huay Lim Club is one of Singapore's oldest clubs. Initially known as the Teochew Gentlemen's Club, it played a significant role for the Teochew community in colonial Singapore. The club's motto, 'Speech from United Hearts' emphasizes unity and strength within the community.</p></div>
   </div>
   <div class="separator"></div>
   <div class="detail-section">
