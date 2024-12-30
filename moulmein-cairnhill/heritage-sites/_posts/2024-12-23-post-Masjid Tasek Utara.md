@@ -9,7 +9,7 @@ variant: markdown
 ---
 <div class="content-container">
   <div class="detail-buttons">
-    <a class="back-button" href="/areas/cambridge-nc"><p><span class="back-arrow">←</span>Back to Area</p></a><a class="featured-buttons"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="icon">
+    <a class="back-button" href="/heritage-trail/cambridge-nc"><p><span class="back-arrow">←</span>Back to Area</p></a><a class="featured-buttons"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="icon">
         <path d="M4,16v-2.4c0-2.1-1-3.1-1-5.6c0-2.7,1.5-6,4.5-6C9.4,2,10,3.8,10,5.5c0,3.1-2,5.7-2,8.7V16c0,1.1-0.9,2-2,2S4,17.1,4,16z" stroke-linejoin="round" stroke-linecap="round" stroke-width="2" stroke="currentColor" fill="none"></path>
         <path d="M20,20v-2.4c0-2.1,1-3.1,1-5.6c0-2.7-1.5-6-4.5-6C14.6,6,14,7.8,14,9.5c0,3.1,2,5.7,2,8.7V20c0,1.1,0.9,2,2,2S20,21.1,20,20z" stroke-linejoin="round" stroke-linecap="round" stroke-width="2" stroke="currentColor" fill="none"></path>
         <path d="M16,17h4" stroke-linejoin="round" stroke-linecap="round" stroke-width="2" stroke="currentColor" fill="none"></path>
