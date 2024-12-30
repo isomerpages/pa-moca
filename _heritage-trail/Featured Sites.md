@@ -360,7 +360,6 @@ description: ""
   }
 
   #area-icon,
-  .icon,
   .directions-icon {
     width: 21px;
     height: 21px;
@@ -503,11 +502,6 @@ description: ""
     grid-row-gap: 28px;
   }
 
-  .site-item.area-view {
-    border-bottom: 1px solid rgba(118, 118, 118, 0.5);
-    padding-bottom: 42px;
-  }
-
   .site-media {
     display: flex;
     flex-flow: column;
@@ -536,11 +530,6 @@ description: ""
     line-height: 36px;
     text-decoration: none !important;
     color: #484848 !important;
-  }
-
-  .site-link {
-    color: #484848;
-    text-decoration: none;
   }
 
   .site-buttons {
@@ -606,11 +595,6 @@ description: ""
     height: 1px;
     background-color: #767676;
     opacity: 0.5;
-  }
-
-  .arrow {
-    position: absolute;
-    right: 28px;
   }
 
   /* Media Queries */
