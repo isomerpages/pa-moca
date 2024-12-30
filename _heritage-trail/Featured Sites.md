@@ -336,10 +336,10 @@ description: ""
     align-items: center;
     grid-column-gap: 14px;
     grid-row-gap: 14px;
+    color: #767676;
   }
 
   .section-header {
-    color: #767676;
     font-size: 15px;
     font-weight: 700;
     line-height: 15px;
