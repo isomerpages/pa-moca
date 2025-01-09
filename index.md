@@ -27,16 +27,6 @@ sections:
           url: /contact
       variant: center
   - infopic:
-      title: Celebrate Farrer Park's Sporting Heritage!
-      subtitle: 4 January 2025, Saturday
-      id: infopic
-      description: Enjoy a Morning Workout, try out different Sports, and catch a
-        Documentary Screening showcasing Farrer Park’s rich sporting history!
-      button: Purchase here
-      url: https://go.gov.sg/fpheritage
-      image: /images/Not_to_use.png
-      alt: Image alt text
-  - infopic:
       title: Durian Fiesta
       subtitle: 11 January 2025, Saturday
       id: infopic
