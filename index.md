@@ -52,7 +52,7 @@ sections:
       id: infopic
       description: Don’t miss this opportunity to shop sustainably while having fun
         with your family and friends!
-      button: Register Here
+      button: Visit Us
       url: go.gov.sg/central-singapore-market
       image: /images/Pek_Kio_DDP_3_Jan__2_.png
       alt: Image alt text
