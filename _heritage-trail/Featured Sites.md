@@ -211,7 +211,7 @@ description: ""
     </div>
     <div role="listitem">
       <div class="area-item">
-        <h3 class="area-heading" id="newton-nc">Newton NC</h3>
+        <h3 class="area-heading" id="newton-nc">Newton RN</h3>
         <div id="newton-nc">
           <div class="site-item">
             <div class="site-media">
