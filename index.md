@@ -47,6 +47,16 @@ sections:
       image: /images/Pek_Kio_Park_Poster__A4_.png
       url: https://go.gov.sg/pekkiopark
   - infopic:
+      title: Central Singapore Market!
+      subtitle: 25 January 2025, Saturday
+      id: infopic
+      description: Don’t miss this opportunity to shop sustainably while having fun
+        with your family and friends!
+      button: Regsiter Here
+      url: go.gov.sg/central-singapore-market
+      image: /images/Pek_Kio_DDP_3_Jan__2_.png
+      alt: Image alt text
+  - infopic:
       title: Moulmein-Cairnhill CNY Lunch 2025
       subtitle: 9 February 2025, Sunday
       id: infopic
