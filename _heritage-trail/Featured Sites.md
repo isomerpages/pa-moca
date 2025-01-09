@@ -34,7 +34,7 @@ description: ""
         <a class="highlights-item w-inline-block" href="/heritage-sites/century-old-lychee-tree"><img class="highlights-image w-dyn-bind-empty" alt="Highlight item thumbnail" loading="lazy" src="/images/century_old_lychee_tree.jpg">
           <div class="highlight-info">
             <p class="highlight-name">Century-old Lychee Tree</p>
-            <p class="highlight-subheader">Cairnhill NC</p>
+            <p class="highlight-subheader">Cairnhill RN</p>
           </div>
         </a>
       </div>
@@ -50,7 +50,7 @@ description: ""
         <a class="highlights-item w-inline-block" href="/heritage-sites/singapore-botanic-gardens"><img class="highlights-image" alt="Highlight item thumbnail" loading="lazy" src="/images/singapore_botanic_gardens.jpg">
           <div class="highlight-info">
             <p class="highlight-name">Singapore Botanic Gardens</p>
-            <p class="highlight-subheader">Tanglin NC</p>
+            <p class="highlight-subheader">Botanic Gardens RN</p>
           </div>
         </a>
       </div>
@@ -67,7 +67,7 @@ description: ""
     <div class="area-wrapper" role="list">
       <div role="listitem">
         <a class="area-badge" data-src="" href="#cambridge-nc">
-          <p class="area-badge-name">Cambridge NC</p>
+          <p class="area-badge-name">Cambridge RN</p>
           <div class="area-count">3</div>
         </a>
       </div>
@@ -85,13 +85,13 @@ description: ""
       </div>
       <div role="listitem">
         <a class="area-badge" data-src="" href="#newton-nc">
-          <p class="area-badge-name">Newton NC</p>
+          <p class="area-badge-name">Newton RN</p>
           <div class="area-count">10</div>
         </a>
       </div>
       <div role="listitem">
         <a class="area-badge" data-src="" href="#tanglin-nc">
-          <p class="area-badge-name">Tanglin NC</p>
+          <p class="area-badge-name">Botanic Gardens RN</p>
           <div class="area-count">4</div>
         </a>
       </div>
@@ -134,7 +134,7 @@ description: ""
         <a class="site-button area-button" href="/heritage-trail/cambridge-nc">
           <div>
             Explore all <strong>3</strong> sites in
-            <strong>Cambridge NC</strong>
+            <strong>Cambridge RN</strong>
           </div>
           <div>→</div>
         </a>
@@ -238,7 +238,7 @@ description: ""
         <a class="site-button area-button" href="/heritage-trail/newton-nc">
           <div>
             Explore all <strong>10</strong> sites in
-            <strong>Newton NC</strong>
+            <strong>Newton RN</strong>
           </div>
           <div>→</div>
         </a>
@@ -246,7 +246,7 @@ description: ""
     </div>
     <div role="listitem">
       <div class="area-item">
-        <h3 class="area-heading" id="tanglin-nc">Tanglin NC</h3>
+        <h3 class="area-heading" id="tanglin-nc">Botanic Gardens RN</h3>
         <div id="tanglin-nc">
           <div class="site-item">
             <div class="site-media">
@@ -274,7 +274,7 @@ description: ""
         <a class="site-button area-button" href="/heritage-trail/tanglin-nc">
           <div>
             Explore all <strong>4</strong> sites in
-            <strong>Tanglin NC</strong>
+            <strong>Botanic Gardens RN</strong>
           </div>
           <div>→</div>
         </a>
