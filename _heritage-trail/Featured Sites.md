@@ -80,7 +80,7 @@ description: ""
       <div role="listitem">
         <a class="area-badge" data-src="" href="#newton-rn">
           <p class="area-badge-name">Newton RN</p>
-          <div class="area-count">11</div>
+          <div class="area-count">10</div>
         </a>
       </div>
       <div role="listitem">
@@ -196,7 +196,7 @@ description: ""
         </div>
         <a class="site-button area-button" href="/heritage-trail/newton-rn">
           <div>
-            Explore all <strong>11</strong> sites in
+            Explore all <strong>10</strong> sites in
             <strong>Newton RN</strong>
           </div>
           <div>→</div>
