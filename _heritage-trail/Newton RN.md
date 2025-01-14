@@ -51,7 +51,6 @@ description: ""
           for the Teochew community, promoting unity and strength.
         </p>
       </div>
-		</div>
       <div role="listitem">
         <div class="site-item">
           <div class="site-media">
@@ -97,7 +96,6 @@ description: ""
           </p>
         </div>
       </div>
-		</div>
       <div role="listitem">
         <div class="site-item">
           <div class="site-media">
@@ -121,7 +119,6 @@ description: ""
           </p>
         </div>
       </div>
-		</div>
       <div role="listitem">
         <div class="site-item">
           <div class="site-media">
@@ -145,7 +142,6 @@ description: ""
           </p>
         </div>
       </div>
-		
       <div role="listitem">
         <div class="site-item">
           <div class="site-media">
@@ -169,7 +165,6 @@ description: ""
           </p>
         </div>
       </div>
-		
       <div role="listitem">
         <div class="site-item">
           <div class="site-media">
@@ -189,11 +184,10 @@ description: ""
           <p class="site-description">
             Established in 1992, Newton Life Church's Newton Kindergarten
             features a distinctive arched porch with timber-louvred windows. It
-            now has a modern facade and remains active in the community.
+            now has a modern fa√ßade and remains active in the community.
           </p>
         </div>
       </div>
-			      
       <div role="listitem">
         <div class="site-item">
           <div class="site-media">
@@ -217,13 +211,13 @@ description: ""
           </p>
         </div>
       </div>
-   
-  
+    </div>
+  </div>
   <a class="site-button area-button" href="/heritage-trail/featured-sites">
     <div>Explore more <strong>Featured Sites</strong></div>
     <div>→</div>
   </a>
-
+</div>
 
 <style>
   /* Base Layout */
