@@ -51,6 +51,7 @@ description: ""
           for the Teochew community, promoting unity and strength.
         </p>
       </div>
+		</div>
       <div role="listitem">
         <div class="site-item">
           <div class="site-media">
@@ -212,7 +213,6 @@ description: ""
         </div>
       </div>
     </div>
-  </div>
   <a class="site-button area-button" href="/heritage-trail/featured-sites">
     <div>Explore more <strong>Featured Sites</strong></div>
     <div>→</div>
