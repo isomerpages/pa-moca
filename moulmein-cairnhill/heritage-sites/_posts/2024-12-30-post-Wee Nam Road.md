@@ -7,11 +7,9 @@ description: ""
 image: ""
 variant: markdown
 ---
-
-
 <div class="content-container">
   <div class="detail-buttons">
-    <a class="site-button back" href="/heritage-trail/newton-nc">
+    <a class="site-button back" href="/heritage-trail/newton-rn">
       <div>←</div>
       <div>Back</div>
     </a>
