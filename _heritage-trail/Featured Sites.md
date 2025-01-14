@@ -131,7 +131,7 @@ description: ""
             </p>
           </div>
         </div>
-        <a class="site-button area-button" href="/heritage-trail/cambridge-nc">
+        <a class="site-button area-button" href="/heritage-trail/cambridge-rn">
           <div>
             Explore all <strong>3</strong> sites in
             <strong>Cambridge RN</strong>
@@ -235,7 +235,7 @@ description: ""
             </p>
           </div>
         </div>
-        <a class="site-button area-button" href="/heritage-trail/newton-nc">
+        <a class="site-button area-button" href="/heritage-trail/newton-rn">
           <div>
             Explore all <strong>10</strong> sites in
             <strong>Newton RN</strong>
@@ -271,7 +271,7 @@ description: ""
             </p>
           </div>
         </div>
-        <a class="site-button area-button" href="/heritage-trail/tanglin-nc">
+        <a class="site-button area-button" href="/heritage-trail/botanic-gardens-rn">
           <div>
             Explore all <strong>4</strong> sites in
             <strong>Botanic Gardens RN</strong>
