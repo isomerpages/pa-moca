@@ -9,7 +9,7 @@ variant: markdown
 ---
 <div class="content-container">
   <div class="detail-buttons">
-    <a class="site-button back" href="/heritage-trail/farrer-park-rc">
+    <a class="site-button back" href="/heritage-trail/newton-rn">
       <div>←</div>
       <div>Back</div>
     </a>
