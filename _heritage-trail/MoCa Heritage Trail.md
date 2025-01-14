@@ -2,7 +2,10 @@
 title: MoCa Heritage Trail
 permalink: /heritage-trail/
 variant: markdown
-description: ""
+description: Discover Moulmein-Cairnhill's heritage trail featuring historic
+  landmarks and cultural sites. Experience the vibrant community's past and
+  present through this interactive local guide.
+image: /images/Header_Image.jpg
 ---
 <div class="content-container">
   <div class="hero">
