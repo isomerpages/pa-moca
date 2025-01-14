@@ -27,16 +27,6 @@ sections:
           url: /contact
       variant: center
   - infopic:
-      title: Durian Fiesta
-      subtitle: 11 January 2025, Saturday
-      id: infopic
-      description: Calling all durian lovers! Join us for a delicious evening of fun
-        and feasting at our Durian Fiesta!
-      button: Purchase Here
-      url: https://go.gov.sg/durianfiesta11jan
-      image: /images/f0107b6e_64c6_49ec_a079_ca972a8502e6.jpg
-      alt: Image alt text
-  - infopic:
       title: Official Opening of Pek Kio Park!
       subtitle: 18 January 2025, Saturday
       id: infopic

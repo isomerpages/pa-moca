@@ -1,6 +1,6 @@
 ---
 title: Botanic Gardens RN
-permalink: /heritage-trail/botanicgardensrn/
+permalink: /heritage-trail/botanic-gardens-rn/
 variant: markdown
 description: ""
 ---
