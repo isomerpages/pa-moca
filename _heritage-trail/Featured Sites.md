@@ -34,7 +34,7 @@ description: ""
         <a class="highlights-item w-inline-block" href="/heritage-sites/century-old-lychee-tree"><img class="highlights-image w-dyn-bind-empty" alt="Highlight item thumbnail" loading="lazy" src="/images/century_old_lychee_tree.jpg">
           <div class="highlight-info">
             <p class="highlight-name">Century-old Lychee Tree</p>
-            <p class="highlight-subheader">Cairnhill RN</p>
+            <p class="highlight-subheader">Goldhill NC</p>
           </div>
         </a>
       </div>
