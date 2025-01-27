@@ -37,6 +37,16 @@ sections:
       image: /images/473610255_932065515695239_2605368205362744937_n__1_.jpg
       url: http://go.gov.sg/pawty
   - infopic:
+      title: Flower Workshop
+      subtitle: 8 February 2025, Saturday
+      id: infopic
+      description: Looking for a unique Valentine’s surprise or a fun bonding activity
+        with your child?
+      button: purchase here
+      url: https://go.gov.sg/valentine8feb
+      image: /images/473571605_1015843810567623_3564966031887689563_n.jpg
+      alt: Image alt text
+  - infopic:
       title: Community Flea Market 2025
       subtitle: 22,23 February 2025, Sat & Sun
       id: infopic
