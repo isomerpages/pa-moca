@@ -37,6 +37,16 @@ sections:
       image: /images/473610255_932065515695239_2605368205362744937_n__1_.jpg
       url: http://go.gov.sg/pawty
   - infopic:
+      title: Community Flea Market 2025
+      subtitle: 22,23 February 2025, Sat & Sun
+      id: infopic
+      description: Looking to declutter or simply experience being a stall holder at a
+        Flea Market?
+      button: Register Here
+      url: https://go.gov.sg/communityfleamarket25
+      image: /images/475248672_1074916241334762_4978510463184192774_n.jpg
+      alt: Image alt text
+  - infopic:
       title: Moulmein-Cairnhill CNY Lunch 2025
       subtitle: 9 February 2025, Sunday
       id: infopic
