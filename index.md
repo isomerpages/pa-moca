@@ -27,25 +27,15 @@ sections:
           url: /contact
       variant: center
   - infopic:
-      title: Official Opening of Pek Kio Park!
-      subtitle: 18 January 2025, Saturday
+      title: Valentine’s Paw-ty
+      subtitle: 15 February 2025, Saturday
       id: infopic
-      description: Join us for a fun-filled morning as we celebrate the Official
-        Opening of Pek Kio Park!
+      description: Let’s Make This Valentine’s Paw-ty the Biggest Fur-tastic
+        Celebration Yet!
       button: Register Here
       alt: Image alt text
-      image: /images/Pek_Kio_Park_Poster__A4_.png
-      url: https://go.gov.sg/pekkiopark
-  - infopic:
-      title: Central Singapore Market!
-      subtitle: 25 January 2025, Saturday
-      id: infopic
-      description: Don’t miss this opportunity to shop sustainably while having fun
-        with your family and friends!
-      button: Visit Us
-      url: go.gov.sg/central-singapore-market
-      image: /images/Pek_Kio_DDP_3_Jan__2_.png
-      alt: Image alt text
+      image: /images/473610255_932065515695239_2605368205362744937_n__1_.jpg
+      url: http://go.gov.sg/pawty
   - infopic:
       title: Moulmein-Cairnhill CNY Lunch 2025
       subtitle: 9 February 2025, Sunday
