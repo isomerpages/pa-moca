@@ -32,7 +32,7 @@ sections:
       id: infopic
       description: Let’s Make This Valentine’s Paw-ty the Biggest Fur-tastic
         Celebration Yet!
-      button: Register Here
+      button: PURCHASE HERE
       alt: Image alt text
       image: /images/473610255_932065515695239_2605368205362744937_n__1_.jpg
       url: http://go.gov.sg/pawty
