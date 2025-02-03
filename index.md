@@ -27,24 +27,34 @@ sections:
           url: /contact
       variant: center
   - infopic:
-      title: Official Opening of Pek Kio Park!
-      subtitle: 18 January 2025, Saturday
+      title: Valentine’s Paw-ty
+      subtitle: 15 February 2025, Saturday
       id: infopic
-      description: Join us for a fun-filled morning as we celebrate the Official
-        Opening of Pek Kio Park!
-      button: Register Here
+      description: Let’s Make This Valentine’s Paw-ty the Biggest Fur-tastic
+        Celebration Yet!
+      button: PURCHASE HERE
       alt: Image alt text
-      image: /images/Pek_Kio_Park_Poster__A4_.png
-      url: https://go.gov.sg/pekkiopark
+      image: /images/473610255_932065515695239_2605368205362744937_n__1_.jpg
+      url: http://go.gov.sg/pawty
   - infopic:
-      title: Central Singapore Market!
-      subtitle: 25 January 2025, Saturday
+      title: Flower Workshop
+      subtitle: 8 February 2025, Saturday
       id: infopic
-      description: Don’t miss this opportunity to shop sustainably while having fun
-        with your family and friends!
-      button: Visit Us
-      url: go.gov.sg/central-singapore-market
-      image: /images/Pek_Kio_DDP_3_Jan__2_.png
+      description: Looking for a unique Valentine’s surprise or a fun bonding activity
+        with your child?
+      button: purchase here
+      url: https://go.gov.sg/valentine8feb
+      image: /images/473571605_1015843810567623_3564966031887689563_n.jpg
+      alt: Image alt text
+  - infopic:
+      title: Community Flea Market 2025
+      subtitle: 22,23 February 2025, Sat & Sun
+      id: infopic
+      description: Looking to declutter or simply experience being a stall holder at a
+        Flea Market?
+      button: Register Here
+      url: https://go.gov.sg/communityfleamarket25
+      image: /images/475248672_1074916241334762_4978510463184192774_n.jpg
       alt: Image alt text
   - infopic:
       title: Moulmein-Cairnhill CNY Lunch 2025
