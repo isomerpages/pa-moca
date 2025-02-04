@@ -57,7 +57,7 @@ variant: markdown
       <div class="section-header">References</div>
     </div>
     <div class="reference-links">
-        <a rel="noopener noreferrer" target="_blank" href="http://singaporebaptistchurch.sg/pages/7/our-history">http://singaporebaptistchurch.sg/pages/7/our-history</a><br>
+        -
       <p></p>
     </div>
   </div>
