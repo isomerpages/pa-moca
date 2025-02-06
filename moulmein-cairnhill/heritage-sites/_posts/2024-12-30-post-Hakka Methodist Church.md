@@ -47,17 +47,6 @@ variant: markdown
     <a href="https://maps.app.goo.gl/BkSGs3KCjB4MBMbs6">1B Evelyn Road, Singapore 309298</a>
     <iframe class="site-map" loading="lazy" allowfullscreen="" style="border: 0" height="100%" width="100%" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.788055424017!2d103.84624761237265!3d1.3021015986800648!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da19e8e818535b%3A0x994209184a90325d!2s1B%20Evelyn%20Rd%2C%20Singapore%20309298!5e0!3m2!1sen!2sjp!4v1729889516569!5m2!1sen!2sjp" data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.788055424017!2d103.84624761237265!3d1.3021015986800648!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da19e8e818535b%3A0x994209184a90325d!2s1B%20Evelyn%20Rd%2C%20Singapore%20309298!5e0!3m2!1sen!2sjp!4v1729889516569!5m2!1sen!2sjp"></iframe>
   </div>
-  <div class="separator"></div>
-  <div class="detail-section">
-    <div class="section-header-wrapper">
-      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="icon">
-        <path d="M10,2v8l3-3l3,3V2" stroke-linejoin="round" stroke-linecap="round" stroke-width="2" stroke="currentColor" fill="none"></path>
-        <path d="M4,19.5v-15C4,3.1,5.1,2,6.5,2H19c0.6,0,1,0.4,1,1v18c0,0.6-0.4,1-1,1H6.5C5.1,22,4,20.9,4,19.5S5.1,17,6.5,17H20" stroke-linejoin="round" stroke-linecap="round" stroke-width="2" stroke="currentColor" fill="none"></path>
-      </svg>
-      <div class="section-header">References</div>
-    </div>
-    <div class="reference-links">-</div>
-  </div>
 </div>
 
 <style>
