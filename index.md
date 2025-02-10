@@ -37,16 +37,6 @@ sections:
       image: /images/473610255_932065515695239_2605368205362744937_n__1_.jpg
       url: http://go.gov.sg/pawty
   - infopic:
-      title: Flower Workshop
-      subtitle: 8 February 2025, Saturday
-      id: infopic
-      description: Looking for a unique Valentine’s surprise or a fun bonding activity
-        with your child?
-      button: purchase here
-      url: https://go.gov.sg/valentine8feb
-      image: /images/473571605_1015843810567623_3564966031887689563_n.jpg
-      alt: Image alt text
-  - infopic:
       title: Community Flea Market 2025
       subtitle: 22,23 February 2025, Sat & Sun
       id: infopic
@@ -55,16 +45,6 @@ sections:
       button: Register Here
       url: https://go.gov.sg/communityfleamarket25
       image: /images/475248672_1074916241334762_4978510463184192774_n.jpg
-      alt: Image alt text
-  - infopic:
-      title: Moulmein-Cairnhill CNY Lunch 2025
-      subtitle: 9 February 2025, Sunday
-      id: infopic
-      description: We warmly invite you to our Moulmein-Cairnhill CNY Lunch 2025!
-        Let’s come together to welcome the Year of the Snake!
-      button: Purchase Here
-      url: https://go.gov.sg/mocacny2025
-      image: /images/Moulmein_Cairnhill_CNY_2025__POSTER___5_.png
       alt: Image alt text
   - resources:
       id: resources
