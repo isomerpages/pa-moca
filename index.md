@@ -37,6 +37,16 @@ sections:
       image: /images/473610255_932065515695239_2605368205362744937_n__1_.jpg
       url: http://go.gov.sg/pawty
   - infopic:
+      title: Community Flea Market 2025
+      subtitle: 22,23 February 2025, Sat & Sun
+      id: infopic
+      description: Looking to declutter or simply experience being a stall holder at a
+        Flea Market?
+      button: Register Here
+      url: https://go.gov.sg/communityfleamarket25
+      image: /images/475248672_1074916241334762_4978510463184192774_n.jpg
+      alt: Image alt text
+  - infopic:
       title: Lip Balm, Lip Scrub, and Soap Making Workshop
       subtitle: 8 March 2025, Saturday
       id: infopic
@@ -48,28 +58,21 @@ sections:
       image: /images/WhatsApp_Image_2025_02_11_at_16_09_18.jpg
       alt: Image alt text
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: "MoCa Women's Day Celebration: Medical Talk"
+      subtitle: 8 March 2025, Saturday
       id: infopic
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
-  - infopic:
-      title: Infopic
-      subtitle: Add an image and text
-      id: infopic
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
-  - infopic:
-      title: Community Flea Market 2025
-      subtitle: 22,23 February 2025, Sat & Sun
-      id: infopic
-      description: Looking to declutter or simply experience being a stall holder at a
-        Flea Market?
+      description: Cairnhill CCMC & IAEC and MoCa Women are excited to invite you to a
+        special event to commemorate International Women’s Day 2025.
       button: Register Here
-      url: https://go.gov.sg/communityfleamarket25
-      image: /images/475248672_1074916241334762_4978510463184192774_n.jpg
+      alt: Image alt text
+      url: https://go.gov.sg/mocacelebrateswomenday25
+      image: /images/f1b67e06_6d57_41ae_8b8b_af9840f28544.jpg
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
       alt: Image alt text
   - resources:
       id: resources
