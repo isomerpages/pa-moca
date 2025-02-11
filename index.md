@@ -37,6 +37,31 @@ sections:
       image: /images/473610255_932065515695239_2605368205362744937_n__1_.jpg
       url: http://go.gov.sg/pawty
   - infopic:
+      title: Lip Balm, Lip Scrub, and Soap Making Workshop
+      subtitle: 8 March 2025, Saturday
+      id: infopic
+      description: Whether you're looking to make your own natural skincare products
+        or simply want to unwind, this workshop is the perfect way to pamper
+        yourself.
+      button: Purchase Here
+      url: https://go.gov.sg/iwdlip080325
+      image: /images/WhatsApp_Image_2025_02_11_at_16_09_18.jpg
+      alt: Image alt text
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
+  - infopic:
       title: Community Flea Market 2025
       subtitle: 22,23 February 2025, Sat & Sun
       id: infopic
