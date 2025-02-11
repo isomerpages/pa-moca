@@ -68,12 +68,14 @@ sections:
       image: /images/WhatsApp_Image_2025_02_11_at_16_09_18.jpg
       alt: Image alt text
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: MoCa Movie Nite
+      subtitle: 8 March 2025, Saturday
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: Grab your family and friends for a fun evening watching Sing 2! Movie
+      button: Purchase Here
       alt: Image alt text
+      url: https://go.gov.sg/moviescreening8mar
+      image: /images/475782937_1025947576233972_4744348380092936937_n.jpg
   - resources:
       id: resources
       subtitle: What we have been up to
