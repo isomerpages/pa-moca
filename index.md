@@ -37,16 +37,6 @@ sections:
       image: /images/473610255_932065515695239_2605368205362744937_n__1_.jpg
       url: http://go.gov.sg/pawty
   - infopic:
-      title: Flower Workshop
-      subtitle: 8 February 2025, Saturday
-      id: infopic
-      description: Looking for a unique Valentine’s surprise or a fun bonding activity
-        with your child?
-      button: purchase here
-      url: https://go.gov.sg/valentine8feb
-      image: /images/473571605_1015843810567623_3564966031887689563_n.jpg
-      alt: Image alt text
-  - infopic:
       title: Community Flea Market 2025
       subtitle: 22,23 February 2025, Sat & Sun
       id: infopic
@@ -57,15 +47,35 @@ sections:
       image: /images/475248672_1074916241334762_4978510463184192774_n.jpg
       alt: Image alt text
   - infopic:
-      title: Moulmein-Cairnhill CNY Lunch 2025
-      subtitle: 9 February 2025, Sunday
+      title: "MoCa Women's Day Celebration: Medical Talk"
+      subtitle: 8 March 2025, Saturday
       id: infopic
-      description: We warmly invite you to our Moulmein-Cairnhill CNY Lunch 2025!
-        Let’s come together to welcome the Year of the Snake!
-      button: Purchase Here
-      url: https://go.gov.sg/mocacny2025
-      image: /images/Moulmein_Cairnhill_CNY_2025__POSTER___5_.png
+      description: Cairnhill CCMC & IAEC and MoCa Women are excited to invite you to a
+        special event to commemorate International Women’s Day 2025.
+      button: Register Here
       alt: Image alt text
+      url: https://go.gov.sg/mocacelebrateswomenday25
+      image: /images/f1b67e06_6d57_41ae_8b8b_af9840f28544.jpg
+  - infopic:
+      title: Lip Balm, Lip Scrub, and Soap Making Workshop
+      subtitle: 8 March 2025, Saturday
+      id: infopic
+      description: Whether you're looking to make your own natural skincare products
+        or simply want to unwind, this workshop is the perfect way to pamper
+        yourself.
+      button: Purchase Here
+      url: https://go.gov.sg/iwdlip080325
+      image: /images/WhatsApp_Image_2025_02_11_at_16_09_18.jpg
+      alt: Image alt text
+  - infopic:
+      title: MoCa Movie Nite
+      subtitle: 8 March 2025, Saturday
+      id: infopic
+      description: Grab your family and friends for a fun evening watching Sing 2! Movie
+      button: Purchase Here
+      alt: Image alt text
+      url: https://go.gov.sg/moviescreening8mar
+      image: /images/475782937_1025947576233972_4744348380092936937_n.jpg
   - resources:
       id: resources
       subtitle: What we have been up to
