@@ -67,16 +67,6 @@ sections:
       url: https://go.gov.sg/moviescreening8mar
       image: /images/475782937_1025947576233972_4744348380092936937_n.jpg
   - infopic:
-      title: Buka Puasa Together!
-      subtitle: 9 March 2025, Sunday
-      id: infopic
-      description: Let's come together to celebrate unity, appreciation, and the
-        spirit of community!
-      button: Register Here
-      alt: Image alt text
-      image: /images/Event_1.jpg
-      url: https://go.gov.sg/mocabukapuasa
-  - infopic:
       title: Kampong Newton Party 2025
       subtitle: 8 March 2025, Saturday
       id: infopic
@@ -87,6 +77,16 @@ sections:
       url: https://go.gov.sg/kampongnewtonparty25
       image: /images/WhatsApp_Image_2025_02_14_at_22_22_06.jpg
       alt: Image alt text
+  - infopic:
+      title: Buka Puasa Together!
+      subtitle: 9 March 2025, Sunday
+      id: infopic
+      description: Let's come together to celebrate unity, appreciation, and the
+        spirit of community!
+      button: Register Here
+      alt: Image alt text
+      image: /images/Event_1.jpg
+      url: https://go.gov.sg/mocabukapuasa
   - resources:
       id: resources
       subtitle: What we have been up to
