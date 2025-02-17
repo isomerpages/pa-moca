@@ -110,7 +110,7 @@ sections:
       subtitle: 1 March 2025, Saturday
       id: infopic
       description: Join us for a fun-filled event celebrating the pillars of Total Defence.
-      button: Register Here
+      button: Purchase Here
       url: https://go.gov.sg/pkrntotaldence
       image: /images/480201407_1045260567643744_2338962457203973915_n.jpg
       alt: Image alt text
