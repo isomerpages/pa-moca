@@ -98,13 +98,16 @@ sections:
       image: /images/df63a3c8_6412_4875_8615_89f19c2421fa.jpg
       url: go.gov.sg/tccbracelet
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: Science Centre Outing
+      subtitle: 15 March 2025, Saturday
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: Join us for an exciting day at the Science Centre Omni-Theatre as
+        we watch "Kitz the Cat’s Supermoon Adventure"! Perfect for kids and the
+        young at heart!
+      button: Purchase Here
       alt: Image alt text
       image: /images/476456154_17992488917772703_5653621686434456762_n.jpg
+      url: https://go.gov.sg/pkcc-sciencecentre-2025
   - infopic:
       title: Stand United, Stay Prepared!
       subtitle: 1 March 2025, Saturday
