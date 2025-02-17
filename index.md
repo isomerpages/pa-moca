@@ -37,6 +37,15 @@ sections:
       image: /images/479517353_122180659958266635_8886611728891843836_n.jpg
       alt: Image alt text
   - infopic:
+      title: Stand United, Stay Prepared!
+      subtitle: 1 March 2025, Saturday
+      id: infopic
+      description: Join us for a fun-filled event celebrating the pillars of Total Defence.
+      button: Purchase Here
+      url: https://go.gov.sg/pkrntotaldence
+      image: /images/480201407_1045260567643744_2338962457203973915_n.jpg
+      alt: Image alt text
+  - infopic:
       title: "MoCa Women's Day Celebration: Medical Talk"
       subtitle: 8 March 2025, Saturday
       id: infopic
@@ -88,16 +97,6 @@ sections:
       image: /images/Event_1.jpg
       url: https://go.gov.sg/mocabukapuasa
   - infopic:
-      title: "Create & Connect: Bracelet Making Workshop!"
-      subtitle: 16 March 2025, Sunday
-      id: infopic
-      description: Parents and children, come together for a fun-filled afternoon
-        designing your own colorful friendship bracelets!
-      button: Purchase Here
-      alt: Image alt text
-      image: /images/df63a3c8_6412_4875_8615_89f19c2421fa.jpg
-      url: go.gov.sg/tccbracelet
-  - infopic:
       title: Science Centre Outing
       subtitle: 15 March 2025, Saturday
       id: infopic
@@ -109,14 +108,15 @@ sections:
       image: /images/476456154_17992488917772703_5653621686434456762_n.jpg
       url: https://go.gov.sg/pkcc-sciencecentre-2025
   - infopic:
-      title: Stand United, Stay Prepared!
-      subtitle: 1 March 2025, Saturday
+      title: "Create & Connect: Bracelet Making Workshop!"
+      subtitle: 16 March 2025, Sunday
       id: infopic
-      description: Join us for a fun-filled event celebrating the pillars of Total Defence.
+      description: Parents and children, come together for a fun-filled afternoon
+        designing your own colorful friendship bracelets!
       button: Purchase Here
-      url: https://go.gov.sg/pkrntotaldence
-      image: /images/480201407_1045260567643744_2338962457203973915_n.jpg
       alt: Image alt text
+      image: /images/df63a3c8_6412_4875_8615_89f19c2421fa.jpg
+      url: go.gov.sg/tccbracelet
   - resources:
       id: resources
       subtitle: What we have been up to
