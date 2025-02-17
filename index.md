@@ -27,24 +27,14 @@ sections:
           url: /contact
       variant: center
   - infopic:
-      title: Valentine’s Paw-ty
-      subtitle: 15 February 2025, Saturday
+      title: Movie Night @ Shaw Lido
+      subtitle: 22 February 2025, Saturday
       id: infopic
-      description: Let’s Make This Valentine’s Paw-ty the Biggest Fur-tastic
-        Celebration Yet!
-      button: PURCHASE HERE
-      alt: Image alt text
-      image: /images/473610255_932065515695239_2605368205362744937_n__1_.jpg
-      url: http://go.gov.sg/pawty
-  - infopic:
-      title: Community Flea Market 2025
-      subtitle: 22,23 February 2025, Sat & Sun
-      id: infopic
-      description: Looking to declutter or simply experience being a stall holder at a
-        Flea Market?
-      button: Register Here
-      url: https://go.gov.sg/communityfleamarket25
-      image: /images/475248672_1074916241334762_4978510463184192774_n.jpg
+      description: Looking for a fun evening with family and friends? Come join us at
+        Shaw Theatres Lido
+      button: Purchase Here
+      url: http://go.gov.sg/stevensrnmovienight
+      image: /images/479517353_122180659958266635_8886611728891843836_n.jpg
       alt: Image alt text
   - infopic:
       title: "MoCa Women's Day Celebration: Medical Talk"
@@ -76,7 +66,42 @@ sections:
       alt: Image alt text
       url: https://go.gov.sg/moviescreening8mar
       image: /images/475782937_1025947576233972_4744348380092936937_n.jpg
+  - infopic:
+      title: Buka Puasa Together!
+      subtitle: 9 March 2025, Sunday
+      id: infopic
+      description: Let's come together to celebrate unity, appreciation, and the
+        spirit of community!
+      button: Register Here
+      alt: Image alt text
+      image: /images/Event_1.jpg
+      url: https://go.gov.sg/mocabukapuasa
+  - infopic:
+      title: Kampong Newton Party 2025
+      subtitle: 8 March 2025, Saturday
+      id: infopic
+      description: Kampong Newton Party is back again and this time we will be
+        celebrating the opening of our Kampong's new and refreshed Hooper Road
+        Playground!
+      button: Register Here
+      url: https://go.gov.sg/kampongnewtonparty25
+      image: /images/WhatsApp_Image_2025_02_14_at_22_22_06.jpg
+      alt: Image alt text
   - resources:
       id: resources
       subtitle: What we have been up to
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
