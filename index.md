@@ -87,21 +87,24 @@ sections:
       alt: Image alt text
       image: /images/Event_1.jpg
       url: https://go.gov.sg/mocabukapuasa
+  - infopic:
+      title: "Create & Connect: Bracelet Making Workshop!"
+      subtitle: 16 March 2025, Sunday
+      id: infopic
+      description: Parents and children, come together for a fun-filled afternoon
+        designing your own colorful friendship bracelets!
+      button: Purchae Here
+      alt: Image alt text
+      image: /images/df63a3c8_6412_4875_8615_89f19c2421fa.jpg
+      url: go.gov.sg/tccbracelet
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
   - resources:
       id: resources
       subtitle: What we have been up to
-  - infopic:
-      title: Infopic
-      subtitle: Add an image and text
-      id: infopic
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
-  - infopic:
-      title: Infopic
-      subtitle: Add an image and text
-      id: infopic
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
 ---
