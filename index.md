@@ -93,7 +93,7 @@ sections:
       id: infopic
       description: Parents and children, come together for a fun-filled afternoon
         designing your own colorful friendship bracelets!
-      button: Purchae Here
+      button: Purchase Here
       alt: Image alt text
       image: /images/df63a3c8_6412_4875_8615_89f19c2421fa.jpg
       url: go.gov.sg/tccbracelet
