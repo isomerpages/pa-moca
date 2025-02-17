@@ -104,6 +104,16 @@ sections:
       description: Infopic description
       button: Button Text
       alt: Image alt text
+      image: /images/476456154_17992488917772703_5653621686434456762_n.jpg
+  - infopic:
+      title: Stand United, Stay Prepared!
+      subtitle: 1 March 2025, Saturday
+      id: infopic
+      description: Join us for a fun-filled event celebrating the pillars of Total Defence.
+      button: Register Here
+      url: https://go.gov.sg/pkrntotaldence
+      image: /images/480201407_1045260567643744_2338962457203973915_n.jpg
+      alt: Image alt text
   - resources:
       id: resources
       subtitle: What we have been up to
