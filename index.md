@@ -27,24 +27,23 @@ sections:
           url: /contact
       variant: center
   - infopic:
-      title: Valentine’s Paw-ty
-      subtitle: 15 February 2025, Saturday
+      title: Movie Night @ Shaw Lido
+      subtitle: 22 February 2025, Saturday
       id: infopic
-      description: Let’s Make This Valentine’s Paw-ty the Biggest Fur-tastic
-        Celebration Yet!
-      button: PURCHASE HERE
+      description: Looking for a fun evening with family and friends? Come join us at
+        Shaw Theatres Lido
+      button: Purchase Here
+      url: http://go.gov.sg/stevensrnmovienight
+      image: /images/479517353_122180659958266635_8886611728891843836_n.jpg
       alt: Image alt text
-      image: /images/473610255_932065515695239_2605368205362744937_n__1_.jpg
-      url: http://go.gov.sg/pawty
   - infopic:
-      title: Community Flea Market 2025
-      subtitle: 22,23 February 2025, Sat & Sun
+      title: Stand United, Stay Prepared!
+      subtitle: 1 March 2025, Saturday
       id: infopic
-      description: Looking to declutter or simply experience being a stall holder at a
-        Flea Market?
-      button: Register Here
-      url: https://go.gov.sg/communityfleamarket25
-      image: /images/475248672_1074916241334762_4978510463184192774_n.jpg
+      description: Join us for a fun-filled event celebrating the pillars of Total Defence.
+      button: Purchase Here
+      url: https://go.gov.sg/pkrntotaldence
+      image: /images/480201407_1045260567643744_2338962457203973915_n.jpg
       alt: Image alt text
   - infopic:
       title: "MoCa Women's Day Celebration: Medical Talk"
@@ -76,6 +75,48 @@ sections:
       alt: Image alt text
       url: https://go.gov.sg/moviescreening8mar
       image: /images/475782937_1025947576233972_4744348380092936937_n.jpg
+  - infopic:
+      title: Kampong Newton Party 2025
+      subtitle: 8 March 2025, Saturday
+      id: infopic
+      description: Kampong Newton Party is back again and this time we will be
+        celebrating the opening of our Kampong's new and refreshed Hooper Road
+        Playground!
+      button: Register Here
+      url: https://go.gov.sg/kampongnewtonparty25
+      image: /images/WhatsApp_Image_2025_02_14_at_22_22_06.jpg
+      alt: Image alt text
+  - infopic:
+      title: Buka Puasa Together!
+      subtitle: 9 March 2025, Sunday
+      id: infopic
+      description: Let's come together to celebrate unity, appreciation, and the
+        spirit of community!
+      button: Register Here
+      alt: Image alt text
+      image: /images/Event_1.jpg
+      url: https://go.gov.sg/mocabukapuasa
+  - infopic:
+      title: Science Centre Outing
+      subtitle: 15 March 2025, Saturday
+      id: infopic
+      description: Join us for an exciting day at the Science Centre Omni-Theatre as
+        we watch "Kitz the Cat’s Supermoon Adventure"! Perfect for kids and the
+        young at heart!
+      button: Purchase Here
+      alt: Image alt text
+      image: /images/476456154_17992488917772703_5653621686434456762_n.jpg
+      url: https://go.gov.sg/pkcc-sciencecentre-2025
+  - infopic:
+      title: "Create & Connect: Bracelet Making Workshop!"
+      subtitle: 16 March 2025, Sunday
+      id: infopic
+      description: Parents and children, come together for a fun-filled afternoon
+        designing your own colorful friendship bracelets!
+      button: Purchase Here
+      alt: Image alt text
+      image: /images/df63a3c8_6412_4875_8615_89f19c2421fa.jpg
+      url: go.gov.sg/tccbracelet
   - resources:
       id: resources
       subtitle: What we have been up to
