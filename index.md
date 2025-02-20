@@ -118,6 +118,16 @@ sections:
       image: /images/476456154_17992488917772703_5653621686434456762_n.jpg
       url: https://go.gov.sg/pkcc-sciencecentre-2025
   - infopic:
+      title: Infopic
+      subtitle: 15 March 2025, Saturday
+      id: infopic
+      description: Have you wished you were better equipped to help people around you
+        in distress?
+      button: Register Here
+      url: https://go.gov.sg/cfltraining15march2025
+      image: /images/481019372_1007429628098441_1926918245993201003_n.jpg
+      alt: Image alt text
+  - infopic:
       title: "Create & Connect: Bracelet Making Workshop!"
       subtitle: 16 March 2025, Sunday
       id: infopic
