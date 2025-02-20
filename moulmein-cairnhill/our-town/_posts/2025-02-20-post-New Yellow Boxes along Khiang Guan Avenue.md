@@ -7,7 +7,6 @@ description: ""
 image: /images/480517802_1010559724223120_6224642060302968011_n.jpg
 variant: tiptap
 ---
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/480517802_1010559724223120_6224642060302968011_n.jpg">
 </div>
