@@ -46,6 +46,16 @@ sections:
       image: /images/480201407_1045260567643744_2338962457203973915_n.jpg
       alt: Image alt text
   - infopic:
+      title: Kopi COINversations
+      subtitle: 1 March 2025, Saturday
+      id: infopic
+      description: Gain valuable insights into financial well-being while engaging
+        with the community and building meaningful connections.
+      button: Register Here
+      url: https://go.gov.sg/kopicoinversation
+      image: /images/66fd2c5e_0a1d_48d5_9a07_3baa8fc77ead.jpg
+      alt: Image alt text
+  - infopic:
       title: "MoCa Women's Day Celebration: Medical Talk"
       subtitle: 8 March 2025, Saturday
       id: infopic
@@ -107,6 +117,16 @@ sections:
       alt: Image alt text
       image: /images/476456154_17992488917772703_5653621686434456762_n.jpg
       url: https://go.gov.sg/pkcc-sciencecentre-2025
+  - infopic:
+      title: Be A Lifeline For A Friend
+      subtitle: 15 March 2025, Saturday
+      id: infopic
+      description: Have you wished you were better equipped to help people around you
+        in distress?
+      button: Register Here
+      url: https://go.gov.sg/cfltraining15march2025
+      image: /images/481019372_1007429628098441_1926918245993201003_n.jpg
+      alt: Image alt text
   - infopic:
       title: "Create & Connect: Bracelet Making Workshop!"
       subtitle: 16 March 2025, Sunday
