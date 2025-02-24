@@ -27,16 +27,6 @@ sections:
           url: /contact
       variant: center
   - infopic:
-      title: Movie Night @ Shaw Lido
-      subtitle: 22 February 2025, Saturday
-      id: infopic
-      description: Looking for a fun evening with family and friends? Come join us at
-        Shaw Theatres Lido
-      button: Purchase Here
-      url: http://go.gov.sg/stevensrnmovienight
-      image: /images/479517353_122180659958266635_8886611728891843836_n.jpg
-      alt: Image alt text
-  - infopic:
       title: Stand United, Stay Prepared!
       subtitle: 1 March 2025, Saturday
       id: infopic
