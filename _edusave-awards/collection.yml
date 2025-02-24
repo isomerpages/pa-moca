@@ -2,4 +2,5 @@ collections:
   edusave-awards:
     output: true
     order:
+      - Pek Kio CC Session 2.md
       - Pek Kio CC Session 1.md
