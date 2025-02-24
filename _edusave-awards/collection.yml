@@ -1,0 +1,4 @@
+collections:
+  edusave-awards:
+    output: true
+    order: []
