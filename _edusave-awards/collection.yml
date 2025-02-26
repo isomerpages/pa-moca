@@ -2,6 +2,7 @@ collections:
   edusave-awards:
     output: true
     order:
+      - Tanglin CC (Sun) Session 3.md
       - Tanglin CC (Sun) Session 2.md
       - Tanglin CC (Sun) Session 1.md
       - Tanglin CC (Sat) Session 4.md
