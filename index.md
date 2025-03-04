@@ -27,25 +27,6 @@ sections:
           url: /contact
       variant: center
   - infopic:
-      title: Stand United, Stay Prepared!
-      subtitle: 1 March 2025, Saturday
-      id: infopic
-      description: Join us for a fun-filled event celebrating the pillars of Total Defence.
-      button: Purchase Here
-      url: https://go.gov.sg/pkrntotaldence
-      image: /images/480201407_1045260567643744_2338962457203973915_n.jpg
-      alt: Image alt text
-  - infopic:
-      title: Kopi COINversations
-      subtitle: 1 March 2025, Saturday
-      id: infopic
-      description: Gain valuable insights into financial well-being while engaging
-        with the community and building meaningful connections.
-      button: Register Here
-      url: https://go.gov.sg/kopicoinversation
-      image: /images/66fd2c5e_0a1d_48d5_9a07_3baa8fc77ead.jpg
-      alt: Image alt text
-  - infopic:
       title: "MoCa Women's Day Celebration: Medical Talk"
       subtitle: 8 March 2025, Saturday
       id: infopic
