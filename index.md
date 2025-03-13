@@ -27,57 +27,6 @@ sections:
           url: /contact
       variant: center
   - infopic:
-      title: "MoCa Women's Day Celebration: Medical Talk"
-      subtitle: 8 March 2025, Saturday
-      id: infopic
-      description: Cairnhill CCMC & IAEC and MoCa Women are excited to invite you to a
-        special event to commemorate International Women’s Day 2025.
-      button: Register Here
-      alt: Image alt text
-      url: https://go.gov.sg/mocacelebrateswomenday25
-      image: /images/f1b67e06_6d57_41ae_8b8b_af9840f28544.jpg
-  - infopic:
-      title: Lip Balm, Lip Scrub, and Soap Making Workshop
-      subtitle: 8 March 2025, Saturday
-      id: infopic
-      description: Whether you're looking to make your own natural skincare products
-        or simply want to unwind, this workshop is the perfect way to pamper
-        yourself.
-      button: Purchase Here
-      url: https://go.gov.sg/iwdlip080325
-      image: /images/WhatsApp_Image_2025_02_11_at_16_09_18.jpg
-      alt: Image alt text
-  - infopic:
-      title: MoCa Movie Nite
-      subtitle: 8 March 2025, Saturday
-      id: infopic
-      description: Grab your family and friends for a fun evening watching Sing 2! Movie
-      button: Purchase Here
-      alt: Image alt text
-      url: https://go.gov.sg/moviescreening8mar
-      image: /images/475782937_1025947576233972_4744348380092936937_n.jpg
-  - infopic:
-      title: Kampong Newton Party 2025
-      subtitle: 8 March 2025, Saturday
-      id: infopic
-      description: Kampong Newton Party is back again and this time we will be
-        celebrating the opening of our Kampong's new and refreshed Hooper Road
-        Playground!
-      button: Register Here
-      url: https://go.gov.sg/kampongnewtonparty25
-      image: /images/WhatsApp_Image_2025_02_14_at_22_22_06.jpg
-      alt: Image alt text
-  - infopic:
-      title: Buka Puasa Together!
-      subtitle: 9 March 2025, Sunday
-      id: infopic
-      description: Let's come together to celebrate unity, appreciation, and the
-        spirit of community!
-      button: Register Here
-      alt: Image alt text
-      image: /images/Event_1.jpg
-      url: https://go.gov.sg/mocabukapuasa
-  - infopic:
       title: Science Centre Outing
       subtitle: 15 March 2025, Saturday
       id: infopic
