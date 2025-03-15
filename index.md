@@ -57,7 +57,24 @@ sections:
       alt: Image alt text
       image: /images/df63a3c8_6412_4875_8615_89f19c2421fa.jpg
       url: go.gov.sg/tccbracelet
+  - infopic:
+      title: Celebrate your 21st or 60th Birthday with MoCa
+      subtitle: 13 April 2025, Sunday
+      id: infopic
+      description: We’re throwing a double celebration for our MOCA residents turning
+        21 (born in 2004) and 60 (born in 1965) in SG60 year!
+      button: Register Here
+      url: https://form.gov.sg/67b44b3e49e15cf94937ba6a
+      image: /images/480285241_1030869239086465_6522928047057805426_n.jpg
+      alt: Image alt text
   - resources:
       id: resources
       subtitle: What we have been up to
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
