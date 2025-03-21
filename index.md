@@ -96,6 +96,16 @@ sections:
       image: /images/WhatsApp_Image_2025_03_20_at_16_15_07.jpg
       alt: Image alt text
   - infopic:
+      title: Easter Extravaganza 2025
+      subtitle: 12 April 2025, Saturday
+      id: infopic
+      description: Looking for an unforgettable day of family fun this April? Join us
+        for Easter Extravaganza 2025!
+      button: Purchase here
+      alt: Image alt text
+      image: /images/485402738_1063904049094932_5094410924269288597_n.jpg
+      url: https://go.gov.sg/easterextravaganza2025
+  - infopic:
       title: Picnic & Easter Egg Hunt
       subtitle: 12 April 2025, Saturday
       id: infopic
@@ -110,13 +120,12 @@ sections:
       id: resources
       subtitle: What we have been up to
   - infopic:
-      title: Easter Extravaganza 2025
+      title: Treeplanting @ Dalvey
       subtitle: 12 April 2025, Saturday
       id: infopic
-      description: Looking for an unforgettable day of family fun this April? Join us
-        for Easter Extravaganza 2025!
-      button: Purchase here
+      description: Let's Plant the Future Together!
+      button: Register Here
+      url: go.gov.sg/stevensrntreeplanting
+      image: /images/Tree_Planting_Stevens_RN_Apr_2025__A4___4_.png
       alt: Image alt text
-      image: /images/485402738_1063904049094932_5094410924269288597_n.jpg
-      url: https://go.gov.sg/easterextravaganza2025
 ---
