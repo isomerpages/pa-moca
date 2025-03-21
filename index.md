@@ -31,7 +31,7 @@ sections:
       description: Check out our 4 year improvement works done around Moulmein-Cairnhill
       button: Download Here
       alt: It has been a fruitful 5 years
-      url: https://cms.isomer.gov.sg/files/25_J11426_MocaConstituencyBrochure_Single_20_03.pdf
+      url: https://cms.isomer.gov.sg/sites/pa-moca/media/files/mediaDirectory/files%2FMocaConstituencyBrochure/editMediaSettings/25_J11426_MocaConstituencyBrochure_Single_21_03_compressed.pdf
       image: /images/moca_brochure_2.jpg
       title: Moulmein-Cairnhill Brochure
   - infopic:
