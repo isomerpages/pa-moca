@@ -33,6 +33,7 @@ sections:
       alt: It has been a fruitful 5 years
       url: https://cms.isomer.gov.sg/files/25_J11426_MocaConstituencyBrochure_Single_20_03.pdf
       image: /images/25_J11426_MocaConstituencyBrochure_Single_20_03.jpg
+      title: Moulmein-Cairnhill Brochure
   - infopic:
       title: Science Centre Outing
       subtitle: 15 March 2025, Saturday
