@@ -35,6 +35,16 @@ sections:
       image: /images/moca_brochure_2.jpg
       title: Moulmein-Cairnhill Brochure
   - infopic:
+      title: Help Shape Newton Neighbourhood
+      subtitle: 11 April 2025, Friday
+      id: infopic
+      description: Join URA and help to shape Newton neighbourhood during their
+        upcoming discussion session.
+      button: Register Here
+      url: https://go.gov.sg/newtonfgd
+      image: /images/7a25dd32_6b8d_47bf_8a60_07d3e72071a1.jpg
+      alt: Image alt text
+  - infopic:
       title: Celebrate your 21st or 60th Birthday with MoCa
       subtitle: 13 April 2025, Sunday
       id: infopic
