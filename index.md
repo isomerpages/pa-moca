@@ -88,4 +88,14 @@ sections:
       alt: Image alt text
       image: /images/76dee4d2_4bb4_43a0_a441_915895f0a7b9.jpg
       url: https://go.gov.sg/cprworkshopforinfantsandtoddlers05april2025
+  - infopic:
+      title: Healthier SG, A Healthier You!
+      subtitle: 19 April 2025, Saturday
+      id: infopic
+      description: Want to find out more about activities that can keep you active and
+        achieve a healthy lifestyle?
+      button: Register here
+      url: https://go.gov.sg/mocasilver19apr
+      image: /images/WhatsApp_Image_2025_03_20_at_16_15_07.jpg
+      alt: Image alt text
 ---
