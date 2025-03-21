@@ -45,16 +45,6 @@ sections:
       image: /images/c85a3d03_12e9_41fc_b833_b965bc6fc0e3.jpg
       alt: Image alt text
   - infopic:
-      title: Help Shape Newton Neighbourhood
-      subtitle: 11 April 2025, Friday
-      id: infopic
-      description: Join URA and help to shape Newton neighbourhood during their
-        upcoming discussion session.
-      button: Register Here
-      url: https://go.gov.sg/newtonfgd
-      image: /images/7a25dd32_6b8d_47bf_8a60_07d3e72071a1.jpg
-      alt: Image alt text
-  - infopic:
       title: Paediatric Emergencies for Busy Parents
       subtitle: 5 April 2025, Saturday
       id: infopic
@@ -66,14 +56,14 @@ sections:
       image: /images/76dee4d2_4bb4_43a0_a441_915895f0a7b9.jpg
       url: https://go.gov.sg/cprworkshopforinfantsandtoddlers05april2025
   - infopic:
-      title: Pek Kio Keeps Rocking!
-      subtitle: 12 April 2025, Saturday
+      title: Help Shape Newton Neighbourhood
+      subtitle: 11 April 2025, Friday
       id: infopic
-      description: Get ready for a night of electrifying music and good vibes!
-        Featuring Jerry & the Neufaces, Soul Asia, and The Rangers!
-      button: Purchase Here
-      url: https://go.gov.sg/pk-keepsrocking-april2025
-      image: /images/484988169_672553765126353_6670849327408799858_n.jpg
+      description: Join URA and help to shape Newton neighbourhood during their
+        upcoming discussion session.
+      button: Register Here
+      url: https://go.gov.sg/newtonfgd
+      image: /images/7a25dd32_6b8d_47bf_8a60_07d3e72071a1.jpg
       alt: Image alt text
   - infopic:
       title: Treeplanting & Easter Hunt @ Dalvey
@@ -84,6 +74,16 @@ sections:
       url: go.gov.sg/stevensrntreeplanting
       image: /images/Tree_Planting_Stevens_RN_Apr_2025__A4___4_.png
       alt: Image alt text
+  - infopic:
+      title: Easter Extravaganza 2025
+      subtitle: 12 April 2025, Saturday
+      id: infopic
+      description: Looking for an unforgettable day of family fun this April? Join us
+        for Easter Extravaganza 2025!
+      button: Purchase here
+      alt: Image alt text
+      image: /images/485402738_1063904049094932_5094410924269288597_n.jpg
+      url: https://go.gov.sg/easterextravaganza2025
   - infopic:
       title: Picnic & Easter Egg Hunt
       subtitle: 12 April 2025, Saturday
@@ -96,15 +96,15 @@ sections:
       image: /images/484902779_622450970702678_3506989719716751260_n.jpg
       alt: Image alt text
   - infopic:
-      title: Easter Extravaganza 2025
+      title: Pek Kio Keeps Rocking!
       subtitle: 12 April 2025, Saturday
       id: infopic
-      description: Looking for an unforgettable day of family fun this April? Join us
-        for Easter Extravaganza 2025!
-      button: Purchase here
+      description: Get ready for a night of electrifying music and good vibes!
+        Featuring Jerry & the Neufaces, Soul Asia, and The Rangers!
+      button: Purchase Here
+      url: https://go.gov.sg/pk-keepsrocking-april2025
+      image: /images/484988169_672553765126353_6670849327408799858_n.jpg
       alt: Image alt text
-      image: /images/485402738_1063904049094932_5094410924269288597_n.jpg
-      url: https://go.gov.sg/easterextravaganza2025
   - infopic:
       title: Celebrate your 21st or 60th Birthday with MoCa
       subtitle: 13 April 2025, Sunday
