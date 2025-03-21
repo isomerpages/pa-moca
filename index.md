@@ -74,7 +74,7 @@ sections:
       id: infopic
       description: Check out our 4 year improvement works done around Moulmein-Cairnhill
       button: Download Here
-      alt: Image alt text
+      alt: It has been a fruitful 5 years
       url: https://cms.isomer.gov.sg/files/25_J11426_MocaConstituencyBrochure_Single_20_03.pdf
       image: /images/25_J11426_MocaConstituencyBrochure_Single_20_03.jpg
 ---
