@@ -120,7 +120,7 @@ sections:
       id: resources
       subtitle: What we have been up to
   - infopic:
-      title: Treeplanting @ Dalvey
+      title: Treeplanting & Easter Hunt @ Dalvey
       subtitle: 12 April 2025, Saturday
       id: infopic
       description: Let's Plant the Future Together!
