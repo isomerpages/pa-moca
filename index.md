@@ -109,4 +109,11 @@ sections:
       url: https://go.gov.sg/easteregghunt2025
       image: /images/484902779_622450970702678_3506989719716751260_n.jpg
       alt: Image alt text
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
