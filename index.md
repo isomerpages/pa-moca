@@ -45,6 +45,16 @@ sections:
       image: /images/c85a3d03_12e9_41fc_b833_b965bc6fc0e3.jpg
       alt: Image alt text
   - infopic:
+      title: LET’S GET BAKING AT CAIRNHILL CC!
+      subtitle: 29 March 2025, Saturday
+      id: infopic
+      description: Ready for some fun in the kitchen? Grab your little one and join us
+        for a Parent & Child Baking Session – perfect for kiddos 3 years and up!
+      button: Purchase Here
+      url: https://padlet.com/wearemoca/events-board-7fiv77ht3n5qqz0y
+      image: /images/Basic_Baking_29_Mar_25_png.png
+      alt: Image alt text
+  - infopic:
       title: Paediatric Emergencies for Busy Parents
       subtitle: 5 April 2025, Saturday
       id: infopic
