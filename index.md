@@ -45,6 +45,16 @@ sections:
       image: /images/7a25dd32_6b8d_47bf_8a60_07d3e72071a1.jpg
       alt: Image alt text
   - infopic:
+      title: Pek Kio Keeps Rocking!
+      subtitle: 12 April 2025, Saturday
+      id: infopic
+      description: Get ready for a night of electrifying music and good vibes!
+        Featuring Jerry & the Neufaces, Soul Asia, and The Rangers!
+      button: Purchase Here
+      url: https://go.gov.sg/pk-keepsrocking-april2025
+      image: /images/484988169_672553765126353_6670849327408799858_n.jpg
+      alt: Image alt text
+  - infopic:
       title: Celebrate your 21st or 60th Birthday with MoCa
       subtitle: 13 April 2025, Sunday
       id: infopic
