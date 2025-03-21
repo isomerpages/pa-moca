@@ -78,10 +78,14 @@ sections:
       image: /images/c85a3d03_12e9_41fc_b833_b965bc6fc0e3.jpg
       alt: Image alt text
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: Paediatric Emergencies for Busy Parents
+      subtitle: 5 April 2025, Saturday
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: Join doctors with extensive paediatric experience as they guide
+        parents and caregivers on the basics of emergency care including CPR and
+        first aid.
+      button: Register Here
       alt: Image alt text
+      image: /images/76dee4d2_4bb4_43a0_a441_915895f0a7b9.jpg
+      url: https://go.gov.sg/cprworkshopforinfantsandtoddlers05april2025
 ---
