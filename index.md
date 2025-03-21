@@ -32,39 +32,79 @@ sections:
       button: Download Here
       alt: It has been a fruitful 5 years
       url: https://cms.isomer.gov.sg/files/25_J11426_MocaConstituencyBrochure_Single_20_03.pdf
-      image: /images/25_J11426_MocaConstituencyBrochure_Single_20_03.jpg
+      image: /images/moca_brochure_2.jpg
       title: Moulmein-Cairnhill Brochure
   - infopic:
-      title: Science Centre Outing
-      subtitle: 15 March 2025, Saturday
+      title: Living History SG60 @ Pek Kio
+      subtitle: 29 March 2025, Saturday
       id: infopic
-      description: Join us for an exciting day at the Science Centre Omni-Theatre as
-        we watch "Kitz the Cat’s Supermoon Adventure"! Perfect for kids and the
-        young at heart!
+      description: Join us as we usher in Singapore's diamond jubilee through the lens
+        of Pek Kio's heritage and development.
       button: Purchase Here
+      url: https://go.gov.sg/20250329sg60
+      image: /images/c85a3d03_12e9_41fc_b833_b965bc6fc0e3.jpg
       alt: Image alt text
-      image: /images/476456154_17992488917772703_5653621686434456762_n.jpg
-      url: https://go.gov.sg/pkcc-sciencecentre-2025
   - infopic:
-      title: Be A Lifeline For A Friend
-      subtitle: 15 March 2025, Saturday
+      title: Paediatric Emergencies for Busy Parents
+      subtitle: 5 April 2025, Saturday
       id: infopic
-      description: Have you wished you were better equipped to help people around you
-        in distress?
+      description: Join doctors with extensive paediatric experience as they guide
+        parents and caregivers on the basics of emergency care including CPR and
+        first aid.
       button: Register Here
-      url: https://go.gov.sg/cfltraining15march2025
-      image: /images/481019372_1007429628098441_1926918245993201003_n.jpg
+      alt: Image alt text
+      image: /images/76dee4d2_4bb4_43a0_a441_915895f0a7b9.jpg
+      url: https://go.gov.sg/cprworkshopforinfantsandtoddlers05april2025
+  - infopic:
+      title: Help Shape Newton Neighbourhood
+      subtitle: 11 April 2025, Friday
+      id: infopic
+      description: Join URA and help to shape Newton neighbourhood during their
+        upcoming discussion session.
+      button: Register Here
+      url: https://go.gov.sg/newtonfgd
+      image: /images/7a25dd32_6b8d_47bf_8a60_07d3e72071a1.jpg
       alt: Image alt text
   - infopic:
-      title: "Create & Connect: Bracelet Making Workshop!"
-      subtitle: 16 March 2025, Sunday
+      title: Treeplanting & Easter Hunt @ Dalvey
+      subtitle: 12 April 2025, Saturday
       id: infopic
-      description: Parents and children, come together for a fun-filled afternoon
-        designing your own colorful friendship bracelets!
-      button: Purchase Here
+      description: Let's Plant the Future Together!
+      button: Register Here
+      url: go.gov.sg/stevensrntreeplanting
+      image: /images/Tree_Planting_Stevens_RN_Apr_2025__A4___4_.png
       alt: Image alt text
-      image: /images/df63a3c8_6412_4875_8615_89f19c2421fa.jpg
-      url: go.gov.sg/tccbracelet
+  - infopic:
+      title: Easter Extravaganza 2025
+      subtitle: 12 April 2025, Saturday
+      id: infopic
+      description: Looking for an unforgettable day of family fun this April? Join us
+        for Easter Extravaganza 2025!
+      button: Purchase here
+      alt: Image alt text
+      image: /images/485402738_1063904049094932_5094410924269288597_n.jpg
+      url: https://go.gov.sg/easterextravaganza2025
+  - infopic:
+      title: Picnic & Easter Egg Hunt
+      subtitle: 12 April 2025, Saturday
+      id: infopic
+      description: We're going on an Easter Egg Hunt! Gather your family, friends and
+        neighbours for a casual afternoon at Mount Emily Park with fun, games
+        and candy!
+      button: Register Here
+      url: https://go.gov.sg/easteregghunt2025
+      image: /images/484902779_622450970702678_3506989719716751260_n.jpg
+      alt: Image alt text
+  - infopic:
+      title: Pek Kio Keeps Rocking!
+      subtitle: 12 April 2025, Saturday
+      id: infopic
+      description: Get ready for a night of electrifying music and good vibes!
+        Featuring Jerry & the Neufaces, Soul Asia, and The Rangers!
+      button: Purchase Here
+      url: https://go.gov.sg/pk-keepsrocking-april2025
+      image: /images/484988169_672553765126353_6670849327408799858_n.jpg
+      alt: Image alt text
   - infopic:
       title: Celebrate your 21st or 60th Birthday with MoCa
       subtitle: 13 April 2025, Sunday
@@ -74,6 +114,16 @@ sections:
       button: Register Here
       url: https://form.gov.sg/67b44b3e49e15cf94937ba6a
       image: /images/480285241_1030869239086465_6522928047057805426_n.jpg
+      alt: Image alt text
+  - infopic:
+      title: Healthier SG, A Healthier You!
+      subtitle: 19 April 2025, Saturday
+      id: infopic
+      description: Want to find out more about activities that can keep you active and
+        achieve a healthy lifestyle?
+      button: Register here
+      url: https://go.gov.sg/mocasilver19apr
+      image: /images/WhatsApp_Image_2025_03_20_at_16_15_07.jpg
       alt: Image alt text
   - resources:
       id: resources
