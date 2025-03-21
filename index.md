@@ -35,36 +35,6 @@ sections:
       image: /images/moca_brochure_2.jpg
       title: Moulmein-Cairnhill Brochure
   - infopic:
-      title: Help Shape Newton Neighbourhood
-      subtitle: 11 April 2025, Friday
-      id: infopic
-      description: Join URA and help to shape Newton neighbourhood during their
-        upcoming discussion session.
-      button: Register Here
-      url: https://go.gov.sg/newtonfgd
-      image: /images/7a25dd32_6b8d_47bf_8a60_07d3e72071a1.jpg
-      alt: Image alt text
-  - infopic:
-      title: Pek Kio Keeps Rocking!
-      subtitle: 12 April 2025, Saturday
-      id: infopic
-      description: Get ready for a night of electrifying music and good vibes!
-        Featuring Jerry & the Neufaces, Soul Asia, and The Rangers!
-      button: Purchase Here
-      url: https://go.gov.sg/pk-keepsrocking-april2025
-      image: /images/484988169_672553765126353_6670849327408799858_n.jpg
-      alt: Image alt text
-  - infopic:
-      title: Celebrate your 21st or 60th Birthday with MoCa
-      subtitle: 13 April 2025, Sunday
-      id: infopic
-      description: We’re throwing a double celebration for our MOCA residents turning
-        21 (born in 2004) and 60 (born in 1965) in SG60 year!
-      button: Register Here
-      url: https://form.gov.sg/67b44b3e49e15cf94937ba6a
-      image: /images/480285241_1030869239086465_6522928047057805426_n.jpg
-      alt: Image alt text
-  - infopic:
       title: Living History SG60 @ Pek Kio
       subtitle: 29 March 2025, Saturday
       id: infopic
@@ -73,6 +43,16 @@ sections:
       button: Purchase Here
       url: https://go.gov.sg/20250329sg60
       image: /images/c85a3d03_12e9_41fc_b833_b965bc6fc0e3.jpg
+      alt: Image alt text
+  - infopic:
+      title: Help Shape Newton Neighbourhood
+      subtitle: 11 April 2025, Friday
+      id: infopic
+      description: Join URA and help to shape Newton neighbourhood during their
+        upcoming discussion session.
+      button: Register Here
+      url: https://go.gov.sg/newtonfgd
+      image: /images/7a25dd32_6b8d_47bf_8a60_07d3e72071a1.jpg
       alt: Image alt text
   - infopic:
       title: Paediatric Emergencies for Busy Parents
@@ -86,14 +66,34 @@ sections:
       image: /images/76dee4d2_4bb4_43a0_a441_915895f0a7b9.jpg
       url: https://go.gov.sg/cprworkshopforinfantsandtoddlers05april2025
   - infopic:
-      title: Healthier SG, A Healthier You!
-      subtitle: 19 April 2025, Saturday
+      title: Pek Kio Keeps Rocking!
+      subtitle: 12 April 2025, Saturday
       id: infopic
-      description: Want to find out more about activities that can keep you active and
-        achieve a healthy lifestyle?
-      button: Register here
-      url: https://go.gov.sg/mocasilver19apr
-      image: /images/WhatsApp_Image_2025_03_20_at_16_15_07.jpg
+      description: Get ready for a night of electrifying music and good vibes!
+        Featuring Jerry & the Neufaces, Soul Asia, and The Rangers!
+      button: Purchase Here
+      url: https://go.gov.sg/pk-keepsrocking-april2025
+      image: /images/484988169_672553765126353_6670849327408799858_n.jpg
+      alt: Image alt text
+  - infopic:
+      title: Treeplanting & Easter Hunt @ Dalvey
+      subtitle: 12 April 2025, Saturday
+      id: infopic
+      description: Let's Plant the Future Together!
+      button: Register Here
+      url: go.gov.sg/stevensrntreeplanting
+      image: /images/Tree_Planting_Stevens_RN_Apr_2025__A4___4_.png
+      alt: Image alt text
+  - infopic:
+      title: Picnic & Easter Egg Hunt
+      subtitle: 12 April 2025, Saturday
+      id: infopic
+      description: We're going on an Easter Egg Hunt! Gather your family, friends and
+        neighbours for a casual afternoon at Mount Emily Park with fun, games
+        and candy!
+      button: Register Here
+      url: https://go.gov.sg/easteregghunt2025
+      image: /images/484902779_622450970702678_3506989719716751260_n.jpg
       alt: Image alt text
   - infopic:
       title: Easter Extravaganza 2025
@@ -106,26 +106,26 @@ sections:
       image: /images/485402738_1063904049094932_5094410924269288597_n.jpg
       url: https://go.gov.sg/easterextravaganza2025
   - infopic:
-      title: Picnic & Easter Egg Hunt
-      subtitle: 12 April 2025, Saturday
+      title: Celebrate your 21st or 60th Birthday with MoCa
+      subtitle: 13 April 2025, Sunday
       id: infopic
-      description: We're going on an Easter Egg Hunt! Gather your family, friends and
-        neighbours for a casual afternoon at Mount Emily Park with fun, games
-        and candy!
+      description: We’re throwing a double celebration for our MOCA residents turning
+        21 (born in 2004) and 60 (born in 1965) in SG60 year!
       button: Register Here
-      url: https://go.gov.sg/easteregghunt2025
-      image: /images/484902779_622450970702678_3506989719716751260_n.jpg
+      url: https://form.gov.sg/67b44b3e49e15cf94937ba6a
+      image: /images/480285241_1030869239086465_6522928047057805426_n.jpg
+      alt: Image alt text
+  - infopic:
+      title: Healthier SG, A Healthier You!
+      subtitle: 19 April 2025, Saturday
+      id: infopic
+      description: Want to find out more about activities that can keep you active and
+        achieve a healthy lifestyle?
+      button: Register here
+      url: https://go.gov.sg/mocasilver19apr
+      image: /images/WhatsApp_Image_2025_03_20_at_16_15_07.jpg
       alt: Image alt text
   - resources:
       id: resources
       subtitle: What we have been up to
-  - infopic:
-      title: Treeplanting & Easter Hunt @ Dalvey
-      subtitle: 12 April 2025, Saturday
-      id: infopic
-      description: Let's Plant the Future Together!
-      button: Register Here
-      url: go.gov.sg/stevensrntreeplanting
-      image: /images/Tree_Planting_Stevens_RN_Apr_2025__A4___4_.png
-      alt: Image alt text
 ---
