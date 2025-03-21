@@ -64,9 +64,6 @@ sections:
       url: https://form.gov.sg/67b44b3e49e15cf94937ba6a
       image: /images/480285241_1030869239086465_6522928047057805426_n.jpg
       alt: Image alt text
-  - resources:
-      id: resources
-      subtitle: What we have been up to
   - infopic:
       title: Living History SG60 @ Pek Kio
       subtitle: 29 March 2025, Saturday
@@ -97,5 +94,19 @@ sections:
       button: Register here
       url: https://go.gov.sg/mocasilver19apr
       image: /images/WhatsApp_Image_2025_03_20_at_16_15_07.jpg
+      alt: Image alt text
+  - resources:
+      id: resources
+      subtitle: What we have been up to
+  - infopic:
+      title: Picnic & Easter Egg Hunt
+      subtitle: 12 April 2025, Saturday
+      id: infopic
+      description: We're going on an Easter Egg Hunt! Gather your family, friends and
+        neighbours for a casual afternoon at Mount Emily Park with fun, games
+        and candy!
+      button: Register Here
+      url: https://go.gov.sg/easteregghunt2025
+      image: /images/484902779_622450970702678_3506989719716751260_n.jpg
       alt: Image alt text
 ---
