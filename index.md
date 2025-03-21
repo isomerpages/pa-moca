@@ -69,7 +69,7 @@ sections:
       subtitle: What we have been up to
   - infopic:
       title: Living History SG60 @ Pek Kio
-      subtitle: 29 April 2025, Saturday
+      subtitle: 29 March 2025, Saturday
       id: infopic
       description: Join us as we usher in Singapore's diamond jubilee through the lens
         of Pek Kio's heritage and development.
