@@ -35,37 +35,6 @@ sections:
       image: /images/25_J11426_MocaConstituencyBrochure_Single_20_03.jpg
       title: Moulmein-Cairnhill Brochure
   - infopic:
-      title: Science Centre Outing
-      subtitle: 15 March 2025, Saturday
-      id: infopic
-      description: Join us for an exciting day at the Science Centre Omni-Theatre as
-        we watch "Kitz the Cat’s Supermoon Adventure"! Perfect for kids and the
-        young at heart!
-      button: Purchase Here
-      alt: Image alt text
-      image: /images/476456154_17992488917772703_5653621686434456762_n.jpg
-      url: https://go.gov.sg/pkcc-sciencecentre-2025
-  - infopic:
-      title: Be A Lifeline For A Friend
-      subtitle: 15 March 2025, Saturday
-      id: infopic
-      description: Have you wished you were better equipped to help people around you
-        in distress?
-      button: Register Here
-      url: https://go.gov.sg/cfltraining15march2025
-      image: /images/481019372_1007429628098441_1926918245993201003_n.jpg
-      alt: Image alt text
-  - infopic:
-      title: "Create & Connect: Bracelet Making Workshop!"
-      subtitle: 16 March 2025, Sunday
-      id: infopic
-      description: Parents and children, come together for a fun-filled afternoon
-        designing your own colorful friendship bracelets!
-      button: Purchase Here
-      alt: Image alt text
-      image: /images/df63a3c8_6412_4875_8615_89f19c2421fa.jpg
-      url: go.gov.sg/tccbracelet
-  - infopic:
       title: Celebrate your 21st or 60th Birthday with MoCa
       subtitle: 13 April 2025, Sunday
       id: infopic
