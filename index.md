@@ -95,9 +95,6 @@ sections:
       url: https://go.gov.sg/mocasilver19apr
       image: /images/WhatsApp_Image_2025_03_20_at_16_15_07.jpg
       alt: Image alt text
-  - resources:
-      id: resources
-      subtitle: What we have been up to
   - infopic:
       title: Picnic & Easter Egg Hunt
       subtitle: 12 April 2025, Saturday
@@ -109,11 +106,17 @@ sections:
       url: https://go.gov.sg/easteregghunt2025
       image: /images/484902779_622450970702678_3506989719716751260_n.jpg
       alt: Image alt text
+  - resources:
+      id: resources
+      subtitle: What we have been up to
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: Easter Extravaganza 2025
+      subtitle: 12 April 2025, Saturday
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: Looking for an unforgettable day of family fun this April? Join us
+        for Easter Extravaganza 2025!
+      button: Purchase here
       alt: Image alt text
+      image: /images/485402738_1063904049094932_5094410924269288597_n.jpg
+      url: https://go.gov.sg/easterextravaganza2025
 ---
