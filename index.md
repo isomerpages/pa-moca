@@ -71,7 +71,7 @@ sections:
       id: infopic
       description: Let's Plant the Future Together!
       button: Register Here
-      url: go.gov.sg/stevensrntreeplanting
+      url: https://form.gov.sg/67d2f3ab332a9318c68bb74e
       image: /images/Tree_Planting_Stevens_RN_Apr_2025__A4___4_.png
       alt: Image alt text
   - infopic:
