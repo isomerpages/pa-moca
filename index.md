@@ -31,7 +31,7 @@ sections:
       description: Check out our 4 year improvement works done around Moulmein-Cairnhill
       button: Download Here
       alt: It has been a fruitful 5 years
-      url: https://cms.isomer.gov.sg/sites/pa-moca/media/files/mediaDirectory/files%2FMocaConstituencyBrochure/editMediaSettings/25_J11426_MocaConstituencyBrochure_Single_21_03_compressed.pdf
+      url: https://moca.sgp1.cdn.digitaloceanspaces.com/Files/25_J11426_MocaConstituencyBrochure_Single_20_03.pdf
       image: /images/moca_brochure_2.jpg
       title: Moulmein-Cairnhill Brochure
   - infopic:
@@ -43,6 +43,16 @@ sections:
       button: Purchase Here
       url: https://go.gov.sg/20250329sg60
       image: /images/c85a3d03_12e9_41fc_b833_b965bc6fc0e3.jpg
+      alt: Image alt text
+  - infopic:
+      title: LET’S GET BAKING AT CAIRNHILL CC!
+      subtitle: 29 March 2025, Saturday
+      id: infopic
+      description: Ready for some fun in the kitchen? Grab your little one and join us
+        for a Parent & Child Baking Session – perfect for kiddos 3 years and up!
+      button: Purchase Here
+      url: https://padlet.com/wearemoca/events-board-7fiv77ht3n5qqz0y
+      image: /images/Basic_Baking_29_Mar_25_png.png
       alt: Image alt text
   - infopic:
       title: Paediatric Emergencies for Busy Parents
@@ -71,7 +81,7 @@ sections:
       id: infopic
       description: Let's Plant the Future Together!
       button: Register Here
-      url: go.gov.sg/stevensrntreeplanting
+      url: https://form.gov.sg/67d2f3ab332a9318c68bb74e
       image: /images/Tree_Planting_Stevens_RN_Apr_2025__A4___4_.png
       alt: Image alt text
   - infopic:
