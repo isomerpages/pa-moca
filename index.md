@@ -30,7 +30,7 @@ sections:
       id: infopic
       description: We’ve had such an amazing journey together, from refreshing our
         spaces to bringing our community together through programmes and
-        ground-up initiatives
+        ground-up initiatives.
       button: Download Here
       alt: It has been a fruitful 5 years
       url: https://moca.sgp1.cdn.digitaloceanspaces.com/Files/25_J11426_MocaConstituencyBrochure_Single_20_03.pdf
