@@ -28,12 +28,15 @@ sections:
       variant: center
   - infopic:
       id: infopic
-      description: Check out our 4 year improvement works done around Moulmein-Cairnhill
+      description: We've had such an amazing journey together, from refreshing our
+        spaces to fantastic programs. Download our newsletter to read what we've
+        achieved.
       button: Download Here
       alt: It has been a fruitful 5 years
       url: https://moca.sgp1.cdn.digitaloceanspaces.com/Files/25_J11426_MocaConstituencyBrochure_Single_20_03.pdf
       image: /images/moca_brochure_2.jpg
-      title: Moulmein-Cairnhill Brochure
+      title: 🎉 4 Years of Amazing MoCa! 🎉
+      subtitle: Moulmein-Cairnhill Brochure
   - infopic:
       title: Living History SG60 @ Pek Kio
       subtitle: 29 March 2025, Saturday
