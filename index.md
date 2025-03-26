@@ -34,7 +34,7 @@ sections:
       button: Download Here
       alt: It has been a fruitful 5 years
       url: https://moca.sgp1.cdn.digitaloceanspaces.com/Files/25_J11426_MocaConstituencyBrochure_Single_20_03.pdf
-      image: /images/moca_brochure_2.jpg
+      image: /images/25_J11426_MocaConstituencyBrochure_Single_20_03_new.jpg
       title: 5 Years of Amazing MoCa!
       subtitle: Moulmein-Cairnhill Brochure
   - infopic:
