@@ -38,26 +38,6 @@ sections:
       title: 5 Years of Amazing MoCa!
       subtitle: Moulmein-Cairnhill Brochure
   - infopic:
-      title: Living History SG60 @ Pek Kio
-      subtitle: 29 March 2025, Saturday
-      id: infopic
-      description: Join us as we usher in Singapore's diamond jubilee through the lens
-        of Pek Kio's heritage and development.
-      button: Purchase Here
-      url: https://go.gov.sg/20250329sg60
-      image: /images/c85a3d03_12e9_41fc_b833_b965bc6fc0e3.jpg
-      alt: Image alt text
-  - infopic:
-      title: LET’S GET BAKING AT CAIRNHILL CC!
-      subtitle: 29 March 2025, Saturday
-      id: infopic
-      description: Ready for some fun in the kitchen? Grab your little one and join us
-        for a Parent & Child Baking Session – perfect for kiddos 3 years and up!
-      button: Purchase Here
-      url: https://padlet.com/wearemoca/events-board-7fiv77ht3n5qqz0y
-      image: /images/Basic_Baking_29_Mar_25_png.png
-      alt: Image alt text
-  - infopic:
       title: Paediatric Emergencies for Busy Parents
       subtitle: 5 April 2025, Saturday
       id: infopic
@@ -123,10 +103,10 @@ sections:
       subtitle: 13 April 2025, Sunday
       id: infopic
       description: We’re throwing a double celebration for our MOCA residents turning
-        21 (born in 2004) and 60 (born in 1965) in SG60 year!
+        21 (born in 2004) and 60 (born in 1965) and above in SG60 year!
       button: Register Here
       url: https://form.gov.sg/67b44b3e49e15cf94937ba6a
-      image: /images/480285241_1030869239086465_6522928047057805426_n.jpg
+      image: /images/Blue_and_Red_Illustrative_Happy_Birthday_Flyer__16_.png
       alt: Image alt text
   - infopic:
       title: Healthier SG, A Healthier You!
