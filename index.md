@@ -121,4 +121,20 @@ sections:
   - resources:
       id: resources
       subtitle: What we have been up to
+  - infopic:
+      title: Rose Mantou Making Workshop
+      subtitle: 24 May 2025, Saturday
+      id: infopic
+      description: Celebrate Mother’s Day with a Fun & Tasty Workshop!
+      button: Purchase Here
+      url: https://go.gov.sg/wecmumday8may25
+      image: /images/Poster_Mantou_Making_A4.png
+      alt: Image alt text
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
