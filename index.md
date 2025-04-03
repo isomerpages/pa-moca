@@ -131,10 +131,13 @@ sections:
       image: /images/Poster_Mantou_Making_A4.png
       alt: Image alt text
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: Speak, Actually!
+      subtitle: 2-4 June 2025
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: Boost your child’s confidence with our "Speak, Actually" public
+        speaking workshop!
+      button: Puchase Here
       alt: Image alt text
+      url: https://go.gov.sg/onepa-pekkiocc
+      image: /images/Speak_Actually_Publicity_Poster_2025___Pek_Kio_CC___A4_V1.png
 ---
