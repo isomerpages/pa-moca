@@ -118,9 +118,6 @@ sections:
       url: https://go.gov.sg/mocasilver19apr
       image: /images/WhatsApp_Image_2025_03_20_at_16_15_07.jpg
       alt: Image alt text
-  - resources:
-      id: resources
-      subtitle: What we have been up to
   - infopic:
       title: Rose Mantou Making Workshop
       subtitle: 24 May 2025, Saturday
@@ -140,4 +137,7 @@ sections:
       alt: Image alt text
       url: https://go.gov.sg/onepa-pekkiocc
       image: /images/Speak_Actually_Publicity_Poster_2025___Pek_Kio_CC___A4_V1.png
+  - resources:
+      id: resources
+      subtitle: What we have been up to
 ---
