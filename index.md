@@ -38,17 +38,6 @@ sections:
       title: 5 Years of Amazing MoCa!
       subtitle: Moulmein-Cairnhill Brochure
   - infopic:
-      title: Paediatric Emergencies for Busy Parents
-      subtitle: 5 April 2025, Saturday
-      id: infopic
-      description: Join doctors with extensive paediatric experience as they guide
-        parents and caregivers on the basics of emergency care including CPR and
-        first aid.
-      button: Register Here
-      alt: Image alt text
-      image: /images/76dee4d2_4bb4_43a0_a441_915895f0a7b9.jpg
-      url: https://go.gov.sg/cprworkshopforinfantsandtoddlers05april2025
-  - infopic:
       title: Help Shape Newton Neighbourhood
       subtitle: 11 April 2025, Friday
       id: infopic
