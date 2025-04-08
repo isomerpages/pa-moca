@@ -1,6 +1,6 @@
 ---
 title: Pek Kio CC Session 2
-permalink: /pek-kio-cc-session-2/
+permalink: /edusave-awards-feb-2025/pek-kio-cc-session-2/
 variant: markdown
 description: ""
 ---

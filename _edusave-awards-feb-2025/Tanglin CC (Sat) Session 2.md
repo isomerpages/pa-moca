@@ -1,6 +1,6 @@
 ---
 title: Tanglin CC (Sat) Session 2
-permalink: /tanglin-cc-sat-session-2/
+permalink: /edusave-awards-feb-2025/tanglin-cc-sat-session-2/
 variant: markdown
 description: ""
 ---

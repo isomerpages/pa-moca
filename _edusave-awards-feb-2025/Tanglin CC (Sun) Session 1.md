@@ -1,6 +1,6 @@
 ---
 title: Tanglin CC (Sun) Session 1
-permalink: /tanglin-cc-sun-session-1/
+permalink: /edusave-awards-feb-2025/tanglin-cc-sun-session-1/
 variant: markdown
 description: ""
 ---
@@ -345,4 +345,3 @@ description: ""
 ![](https://moca.sgp1.cdn.digitaloceanspaces.com/Edusave_Awards/tanglin-sun-s01/tanglin-sun-s01-170.webp)
 
 ![](https://moca.sgp1.cdn.digitaloceanspaces.com/Edusave_Awards/tanglin-sun-s01/tanglin-sun-s01-171.webp)
-

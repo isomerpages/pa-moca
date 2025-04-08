@@ -1,0 +1,14 @@
+collections:
+  edusave-awards-feb-2025:
+    output: true
+    order:
+      - Pek Kio CC Session 1.md
+      - Pek Kio CC Session 2.md
+      - Tanglin CC (Sat) Session 1.md
+      - Tanglin CC (Sat) Session 2.md
+      - Tanglin CC (Sat) Session 3.md
+      - Tanglin CC (Sat) Session 4.md
+      - Tanglin CC (Sun) Session 1.md
+      - Tanglin CC (Sun) Session 2.md
+      - Tanglin CC (Sun) Session 3.md
+      - Tanglin CC (Sun) Session 4.md
