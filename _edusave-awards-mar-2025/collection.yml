@@ -1,4 +1,5 @@
 collections:
   edusave-awards-mar-2025:
     output: true
-    order: []
+    order:
+      - Tanglin CC (Sat) Session 1.md
