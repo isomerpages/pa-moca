@@ -67,6 +67,15 @@ sections:
       image: /images/WhatsApp_Image_2025_04_16_at_12_14_38.jpg
       alt: Image alt text
   - infopic:
+      title: Dragon Boat Festival with Pek Kio Residents’ Network!
+      subtitle: 24 May 2025, Saturday
+      id: infopic
+      description: Join us for a fun-filled day of tradition, culture & community bonding!
+      button: Purchase Here
+      alt: Image alt text
+      url: go.gov.sg/pkrndragonboat
+      image: /images/WhatsApp_Image_2025_04_24_at_15_27_53.jpg
+  - infopic:
       title: Speak, Actually!
       subtitle: 2-4 June 2025
       id: infopic
@@ -85,15 +94,6 @@ sections:
       url: https://go.gov.sg/pkdurianfiesta
       image: /images/PKCC___Durian_Fiesta_poster_edited_by_jeremy_page_0001.jpg
       alt: Image alt text
-  - infopic:
-      title: Dragon Boat Festival with Pek Kio Residents’ Network!
-      subtitle: 24 May 2025, Saturday
-      id: infopic
-      description: Join us for a fun-filled day of tradition, culture & community bonding!
-      button: Purchase Here
-      alt: Image alt text
-      url: go.gov.sg/pkrndragonboat
-      image: /images/WhatsApp_Image_2025_04_24_at_15_27_53.jpg
   - resources:
       id: resources
       subtitle: What we have been up to
