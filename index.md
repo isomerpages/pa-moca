@@ -66,6 +66,32 @@ sections:
       alt: Image alt text
       url: https://go.gov.sg/onepa-pekkiocc
       image: /images/Speak_Actually_Publicity_Poster_2025___Pek_Kio_CC___A4_V1.png
+  - infopic:
+      title: Pek Kio Durian Fiesta
+      subtitle: 26 July 2025, Saturday
+      id: infopic
+      description: Get ready for a durian-filled evening with friends and neighbors!
+      button: Purchase Here
+      url: https://go.gov.sg/pkdurianfiesta
+      image: /images/PKCC___Durian_Fiesta_poster_edited_by_jeremy_page_0001.jpg
+      alt: Image alt text
+  - infopic:
+      title: A Parenting Workshop on Gaming
+      subtitle: 24 May 2025, Saturday
+      id: infopic
+      description: Learn how to connect with your child through gaming, set healthy
+        boundaries, and guide them toward digital well-being.
+      button: Register Here
+      url: https://go.gov.sg/aparentingworkshopongaming24may2025
+      image: /images/WhatsApp_Image_2025_04_16_at_12_14_38.jpg
+      alt: Image alt text
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
   - resources:
       id: resources
       subtitle: What we have been up to
