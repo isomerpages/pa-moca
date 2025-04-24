@@ -38,16 +38,6 @@ sections:
       title: 5 Years of Amazing MoCa!
       subtitle: Moulmein-Cairnhill Brochure
   - infopic:
-      title: Healthier SG, A Healthier You!
-      subtitle: 19 April 2025, Saturday
-      id: infopic
-      description: Want to find out more about activities that can keep you active and
-        achieve a healthy lifestyle?
-      button: Register here
-      url: https://go.gov.sg/mocasilver19apr
-      image: /images/WhatsApp_Image_2025_03_20_at_16_15_07.jpg
-      alt: Image alt text
-  - infopic:
       title: Rose Mantou Making Workshop
       subtitle: 24 May 2025, Saturday
       id: infopic
@@ -56,6 +46,25 @@ sections:
       url: https://go.gov.sg/wecmumday8may25
       image: /images/Poster_Mantou_Making_A4.png
       alt: Image alt text
+  - infopic:
+      title: A Parenting Workshop on Gaming
+      subtitle: 24 May 2025, Saturday
+      id: infopic
+      description: Learn how to connect with your child through gaming, set healthy
+        boundaries, and guide them toward digital well-being.
+      button: Register Here
+      url: https://go.gov.sg/aparentingworkshopongaming24may2025
+      image: /images/WhatsApp_Image_2025_04_16_at_12_14_38.jpg
+      alt: Image alt text
+  - infopic:
+      title: Dragon Boat Festival with Pek Kio Residents’ Network!
+      subtitle: 24 May 2025, Saturday
+      id: infopic
+      description: Join us for a fun-filled day of tradition, culture & community bonding!
+      button: Purchase Here
+      alt: Image alt text
+      url: go.gov.sg/pkrndragonboat
+      image: /images/WhatsApp_Image_2025_04_24_at_15_27_53.jpg
   - infopic:
       title: Speak, Actually!
       subtitle: 2-4 June 2025
@@ -66,6 +75,15 @@ sections:
       alt: Image alt text
       url: https://go.gov.sg/onepa-pekkiocc
       image: /images/Speak_Actually_Publicity_Poster_2025___Pek_Kio_CC___A4_V1.png
+  - infopic:
+      title: Pek Kio Durian Fiesta
+      subtitle: 26 July 2025, Saturday
+      id: infopic
+      description: Get ready for a durian-filled evening with friends and neighbors!
+      button: Purchase Here
+      url: https://go.gov.sg/pkdurianfiesta
+      image: /images/PKCC___Durian_Fiesta_poster_edited_by_jeremy_page_0001.jpg
+      alt: Image alt text
   - resources:
       id: resources
       subtitle: What we have been up to
