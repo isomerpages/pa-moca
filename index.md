@@ -57,6 +57,16 @@ sections:
       image: /images/Poster_Mantou_Making_A4.png
       alt: Image alt text
   - infopic:
+      title: A Parenting Workshop on Gaming
+      subtitle: 24 May 2025, Saturday
+      id: infopic
+      description: Learn how to connect with your child through gaming, set healthy
+        boundaries, and guide them toward digital well-being.
+      button: Register Here
+      url: https://go.gov.sg/aparentingworkshopongaming24may2025
+      image: /images/WhatsApp_Image_2025_04_16_at_12_14_38.jpg
+      alt: Image alt text
+  - infopic:
       title: Speak, Actually!
       subtitle: 2-4 June 2025
       id: infopic
@@ -76,22 +86,14 @@ sections:
       image: /images/PKCC___Durian_Fiesta_poster_edited_by_jeremy_page_0001.jpg
       alt: Image alt text
   - infopic:
-      title: A Parenting Workshop on Gaming
+      title: Dragon Boat Festival with Pek Kio Residents’ Network!
       subtitle: 24 May 2025, Saturday
       id: infopic
-      description: Learn how to connect with your child through gaming, set healthy
-        boundaries, and guide them toward digital well-being.
-      button: Register Here
-      url: https://go.gov.sg/aparentingworkshopongaming24may2025
-      image: /images/WhatsApp_Image_2025_04_16_at_12_14_38.jpg
+      description: Join us for a fun-filled day of tradition, culture & community bonding!
+      button: Purchase Here
       alt: Image alt text
-  - infopic:
-      title: Infopic
-      subtitle: Add an image and text
-      id: infopic
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
+      url: go.gov.sg/pkrndragonboat
+      image: /images/WhatsApp_Image_2025_04_24_at_15_27_53.jpg
   - resources:
       id: resources
       subtitle: What we have been up to
