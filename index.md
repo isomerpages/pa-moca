@@ -5,7 +5,9 @@ description: Moulmein-Cairnhill (affectionately known as "MoCa") is a division
   under the Tanjong Pagar GRC, helmed by our Grassroots Advisor, Mr Alvin Tan.
 image: /images/og.jpg
 permalink: /
-notification: ""
+notification: Government officials will never ask you to transfer money or
+  disclose bank log-in details over a phone call. Call the 24/7 ScamShield
+  Helpline at 1799 if you are unsure if something is a scam.
 sections:
   - hero:
       title: We are Moulmein-Cairnhill
