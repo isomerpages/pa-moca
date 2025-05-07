@@ -7,7 +7,8 @@ image: /images/og.jpg
 permalink: /
 notification: Government officials will never ask you to transfer money or
   disclose bank log-in details over a phone call. Call the 24/7 ScamShield
-  Helpline at 1799 if you are unsure if something is a scam.
+  Helpline at 1799 if you are unsure if something is a scam. <a
+  href="https://www.scamshield.gov.sg/">Click here for more information</a>
 sections:
   - hero:
       title: We are Moulmein-Cairnhill
@@ -47,6 +48,15 @@ sections:
       button: Purchase Here
       url: https://go.gov.sg/wecmumday8may25
       image: /images/Poster_Mantou_Making_A4.png
+      alt: Image alt text
+  - infopic:
+      title: TANGLIN CC CARNIVAL 2025
+      subtitle: 24 May 2025, Saturday
+      id: infopic
+      description: Get ready for an afternoon of FUN for the whole family!
+      button: Purchase Here
+      url: https://go.gov.sg/tanglincarnival2025
+      image: /images/Colorful_Bold_Summer_Carnival_Event_Flyer__6_.png
       alt: Image alt text
   - infopic:
       title: A Parenting Workshop on Gaming
