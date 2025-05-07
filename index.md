@@ -50,6 +50,15 @@ sections:
       image: /images/Poster_Mantou_Making_A4.png
       alt: Image alt text
   - infopic:
+      title: TANGLIN CC CARNIVAL 2025
+      subtitle: 24 May 2025, Saturday
+      id: infopic
+      description: Get ready for an afternoon of FUN for the whole family!
+      button: Purchase Here
+      url: https://go.gov.sg/tanglincarnival2025
+      image: /images/Colorful_Bold_Summer_Carnival_Event_Flyer__6_.png
+      alt: Image alt text
+  - infopic:
       title: A Parenting Workshop on Gaming
       subtitle: 24 May 2025, Saturday
       id: infopic
