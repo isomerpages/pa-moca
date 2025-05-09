@@ -14,6 +14,6 @@ cohesion through various cultural and recreational activities that celebrate
 the unique heritage of our area. Our events range from festive celebrations
 to community clean-up drives, ensuring that Little India remains a welcoming
 and lively place for everyone.</p>
-<p><a href="https://www.facebook.com/TekkaRCSG" rel="noopener noreferrer nofollow" target="_blank">Connect with us at our Tekka RC Facebook Page</a>
+<p><a href="https://www.facebook.com/TekkaRCSG" rel="noopener noreferrer nofollow" target="_blank">Connect with us at our Tekka RN Facebook Page</a>
 </p>
 <p></p>
