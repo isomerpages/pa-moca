@@ -98,6 +98,17 @@ sections:
       url: https://go.gov.sg/onepa-pekkiocc
       image: /images/Speak_Actually_Publicity_Poster_2025___Pek_Kio_CC___A4_V1.png
   - infopic:
+      title: Plushie Workshop
+      subtitle: 8 June 2025, Sunday
+      id: infopic
+      description: Calling all craft lovers and soft toy fans! Join us for a Plushie
+        Workshop where you'll get hands-on and learn to make your very own
+        adorable soft toy!
+      button: Purchase Here
+      url: https://go.gov.sg/plushie2025
+      image: /images/Light_Brown_and_Pink_Playful_Soft_Toys_Crafting_Class_Instagram_Story__A4___2_.png
+      alt: Image alt text
+  - infopic:
       title: Pek Kio Durian Fiesta
       subtitle: 26 July 2025, Saturday
       id: infopic
