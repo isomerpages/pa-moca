@@ -50,6 +50,16 @@ sections:
       image: /images/Poster_Mantou_Making_A4.png
       alt: Image alt text
   - infopic:
+      title: Mural Painting Workshop – Harmony in Bloom!
+      subtitle: 24 May 2025, Saturday
+      id: infopic
+      description: Celebrate SG60 in a colorful and creative way by joining us for a
+        Mural Painting Workshop – Harmony in Bloom!
+      button: Register Here
+      url: https://go.gov.sg/mocamuralpainting
+      image: /images/Community_Mural_Painting_2025.png
+      alt: Image alt text
+  - infopic:
       title: TANGLIN CC CARNIVAL 2025
       subtitle: 24 May 2025, Saturday
       id: infopic
@@ -99,14 +109,4 @@ sections:
   - resources:
       id: resources
       subtitle: What we have been up to
-  - infopic:
-      title: Mural Painting Workshop – Harmony in Bloom!
-      subtitle: 24 May 2025, Saturday
-      id: infopic
-      description: Celebrate SG60 in a colorful and creative way by joining us for a
-        Mural Painting Workshop – Harmony in Bloom!
-      button: Register Here
-      url: https://go.gov.sg/mocamuralpainting
-      image: /images/Community_Mural_Painting_2025.png
-      alt: Image alt text
 ---
