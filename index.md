@@ -139,6 +139,16 @@ sections:
       image: /images/WhatsApp_Image_2025_05_21_at_14_59_39.jpg
       alt: Image alt text
   - infopic:
+      title: Keep Tekka Clean
+      subtitle: 29 June 2025, Sunday
+      id: infopic
+      description: Enjoy meaningful morning keeping Tekka Clean during our litter
+        picking event
+      button: Register Here
+      url: https://go.gov.sg/keeptekkaclean2025/
+      image: /images/WhatsApp_Image_2025_05_21_at_19_11_08.jpg
+      alt: Image alt text
+  - infopic:
       title: Pek Kio Durian Fiesta
       subtitle: 26 July 2025, Saturday
       id: infopic
