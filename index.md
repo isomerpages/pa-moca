@@ -109,6 +109,46 @@ sections:
       image: /images/Light_Brown_and_Pink_Playful_Soft_Toys_Crafting_Class_Instagram_Story__A4___2_.png
       alt: Image alt text
   - infopic:
+      title: LITTLE PRESENTERS -PUBLIC SPEAKING
+      subtitle: 14 June 2025, Saturday
+      id: infopic
+      description: Do your kids get nervous when speaking in front of others? Sign
+        them up for the Little Presenters Public Speaking Workshop!
+      button: Purchase here
+      url: https://go.gov.sg/publicspeakingworkshop14june25
+      image: /images/Little_Presenter_14_June_2025_amended_page_0001.jpg
+      alt: Image alt text
+  - infopic:
+      title: Chunky Handknit Workshop for Kids
+      subtitle: 18 June 2025, Sunday
+      id: infopic
+      description: Let your child discover the joy of knitting and create their very
+        own stylish two-tone chunky knit bag!
+      button: Purchase Here
+      url: https://go.gov.sg/chunkyhandknitworkshop18june25
+      image: /images/Chunky_Handknit_Workshop_2.jpg
+      alt: Image alt text
+  - infopic:
+      title: Kayak, Clean and Explore 2025
+      subtitle: 28 June 2025, Saturday
+      id: infopic
+      description: Join us on an adventure as we paddle through the waterways and
+        learn the importance of preserving our environment!
+      button: Purchase Here
+      url: https://go.gov.sg/mocakayakcleanandexplore25
+      image: /images/WhatsApp_Image_2025_05_21_at_14_59_39.jpg
+      alt: Image alt text
+  - infopic:
+      title: Keep Tekka Clean
+      subtitle: 29 June 2025, Sunday
+      id: infopic
+      description: Enjoy meaningful morning keeping Tekka Clean during our litter
+        picking event
+      button: Register Here
+      url: https://go.gov.sg/keeptekkaclean2025/
+      image: /images/WhatsApp_Image_2025_05_21_at_19_11_08.jpg
+      alt: Image alt text
+  - infopic:
       title: Pek Kio Durian Fiesta
       subtitle: 26 July 2025, Saturday
       id: infopic
