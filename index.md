@@ -160,4 +160,14 @@ sections:
   - resources:
       id: resources
       subtitle: What we have been up to
+  - infopic:
+      title: "Sleep Deep & Recover Fast: Wellness for Restful Nights"
+      subtitle: 25 May 2025, Sunday
+      id: infopic
+      description: In this workshop, you will have a better understanding of how poor
+        sleep affects your health and proper sleep hygiene to promote good sleep
+      button: Purchase Here
+      url: https://go.gov.sg/flchealth25may25
+      image: /images/492098784_1092338892930861_3294988155782872157_n.jpg
+      alt: Image alt text
 ---
