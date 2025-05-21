@@ -109,6 +109,16 @@ sections:
       image: /images/Light_Brown_and_Pink_Playful_Soft_Toys_Crafting_Class_Instagram_Story__A4___2_.png
       alt: Image alt text
   - infopic:
+      title: LITTLE PRESENTERS -PUBLIC SPEAKING
+      subtitle: 14 June 2025, Saturday
+      id: infopic
+      description: Do your kids get nervous when speaking in front of others? Sign
+        them up for the Little Presenters Public Speaking Workshop!
+      button: Purchase here
+      url: https://go.gov.sg/publicspeakingworkshop14june25
+      image: /images/Little_Presenter_14_June_2025_amended_page_0001.jpg
+      alt: Image alt text
+  - infopic:
       title: Chunky Handknit Workshop for Kids
       subtitle: 18 June 2025, Sunday
       id: infopic
