@@ -149,6 +149,17 @@ sections:
       image: /images/WhatsApp_Image_2025_05_21_at_14_59_39.jpg
       alt: Image alt text
   - infopic:
+      title: MOCA Rail-istic Tour
+      subtitle: 28 June 2025, Saturday
+      id: infopic
+      description: Discover the rich history of the Bukit Timah Railway Station and
+        explore the beauty of the Bukit Timah Nature Reserve on a curated guided
+        tour!
+      button: Purchase Here
+      url: https://go.gov.sg/cljbukittimahrailistictour25
+      image: /images/WhatsApp_Image_2025_05_22_at_12_23_32.jpg
+      alt: Image alt text
+  - infopic:
       title: Keep Tekka Clean
       subtitle: 29 June 2025, Sunday
       id: infopic
@@ -157,13 +168,6 @@ sections:
       button: Register Here
       url: https://go.gov.sg/keeptekkaclean2025/
       image: /images/WhatsApp_Image_2025_05_21_at_19_11_08.jpg
-      alt: Image alt text
-  - infopic:
-      title: Infopic
-      subtitle: 28 June 2025, Saturday
-      id: infopic
-      description: Infopic description
-      button: Button Text
       alt: Image alt text
   - infopic:
       title: Pek Kio Durian Fiesta
@@ -177,15 +181,4 @@ sections:
   - resources:
       id: resources
       subtitle: What we have been up to
-  - infopic:
-      title: MOCA Rail-istic Tour!
-      subtitle: 28 June 2025, Saturday
-      id: infopic
-      description: Discover the rich history of the Bukit Timah Railway Station and
-        explore the beauty of the Bukit Timah Nature Reserve on a curated guided
-        tour!
-      button: Purchase Here
-      url: https://go.gov.sg/cljbukittimahrailistictour25
-      image: /images/WhatsApp_Image_2025_05_22_at_12_23_32.jpg
-      alt: Image alt text
 ---
