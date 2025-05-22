@@ -88,6 +88,16 @@ sections:
       url: go.gov.sg/pkrndragonboat
       image: /images/WhatsApp_Image_2025_04_24_at_15_27_53.jpg
   - infopic:
+      title: "Sleep Deep & Recover Fast: Wellness for Restful Nights"
+      subtitle: 25 May 2025, Sunday
+      id: infopic
+      description: In this workshop, you will have a better understanding of how poor
+        sleep affects your health and sleep hygiene to promote good sleep
+      button: Purchase Here
+      url: https://go.gov.sg/flchealth25may25
+      image: /images/492098784_1092338892930861_3294988155782872157_n.jpg
+      alt: Image alt text
+  - infopic:
       title: Speak, Actually!
       subtitle: 2-4 June 2025
       id: infopic
@@ -137,6 +147,17 @@ sections:
       button: Purchase Here
       url: https://go.gov.sg/mocakayakcleanandexplore25
       image: /images/WhatsApp_Image_2025_05_21_at_14_59_39.jpg
+      alt: Image alt text
+  - infopic:
+      title: MOCA Rail-istic Tour
+      subtitle: 28 June 2025, Saturday
+      id: infopic
+      description: Discover the rich history of the Bukit Timah Railway Station and
+        explore the beauty of the Bukit Timah Nature Reserve on a curated guided
+        tour!
+      button: Purchase Here
+      url: https://go.gov.sg/cljbukittimahrailistictour25
+      image: /images/WhatsApp_Image_2025_05_22_at_12_23_32.jpg
       alt: Image alt text
   - infopic:
       title: Keep Tekka Clean
