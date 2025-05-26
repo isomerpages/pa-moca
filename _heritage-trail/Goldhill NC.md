@@ -154,7 +154,7 @@ description: ""
             <iframe class="site-map" src="https://www.google.com/maps/embed?pb=!4v1748251984786!6m8!1m7!1sApLkUAIki_X1I3tkyVACbg!2m2!1d1.316819613311327!2d103.8388780825052!3f255.12767!4f0!5f0.7820865974627469" loading="lazy" allowfullscreen="" style="border: 0" height="100%" width="100%" data-src="https://www.google.com/maps/embed?pb=!4v1748251984786!6m8!1m7!1sApLkUAIki_X1I3tkyVACbg!2m2!1d1.316819613311327!2d103.8388780825052!3f255.12767!4f0!5f0.7820865974627469"></iframe>
           </div>
         </div>
-        <a href="/heritage-sites/westbourne-mansion" class="site-name">Westbourne Mansion</a>
+        <a href="/heritage-sites/westbourne-mansion" class="site-name">Westbourne Mansion (1927)</a>
         <div class="site-buttons">
           <a class="site-button directions" href="https://maps.app.goo.gl/tZwN6iwTTknzVqsB6"><div>Directions</div>
             <svg class="directions-icon" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 655 655" height="655" width="655">
