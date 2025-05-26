@@ -24,7 +24,7 @@ variant: markdown
     </a>
   </div>
   <div class="site-media">
-    <img class="site-image" alt="Baroque Bungalow on raised footings (early 1900s)" loading="lazy" src="/images/baroque_bungalow_on_raised_footings_early_1900s.jpg">
+    <img class="site-image" alt="Baroque Bungalow on raised footings (early 1900s)" loading="lazy" src="/images/baroque_bungalow_on_raised_footings_early_1900s_new.jpg">
     <a class="site-button directions" href="https://maps.app.goo.gl/DNsFmR6Zes5iRPQy8">
       <div>Directions</div>
       <svg class="directions-icon" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 655 655" height="655" width="655">
