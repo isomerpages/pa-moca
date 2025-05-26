@@ -9,7 +9,7 @@ description: ""
     <div role="listitem">
       <div class="site-item">
         <div class="site-media">
-          <img class="site-image" alt="" loading="lazy" src="/images/baroque_bungalow_on_raised_footings_early_1900s.jpg">
+          <img class="site-image" alt="" loading="lazy" src="/images/baroque_bungalow_on_raised_footings_early_1900s_new.jpg">
           <div>
             <iframe class="site-map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.763031137432!2d103.8399673!3d1.3178208999999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da19e61099a659%3A0xa5f01f8020f1c306!2s9%20Buckley%20Rd%2C%20Singapore%20309765!5e0!3m2!1sen!2sjp!4v1729926700878!5m2!1sen!2sjp" loading="lazy" allowfullscreen="" style="border: 0" height="100%" width="100%" data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.763031137432!2d103.8399673!3d1.3178208999999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da19e61099a659%3A0xa5f01f8020f1c306!2s9%20Buckley%20Rd%2C%20Singapore%20309765!5e0!3m2!1sen!2sjp!4v1729926700878!5m2!1sen!2sjp"></iframe>
           </div>
