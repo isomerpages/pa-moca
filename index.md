@@ -41,53 +41,6 @@ sections:
       title: 5 Years of Amazing MoCa!
       subtitle: Moulmein-Cairnhill Brochure
   - infopic:
-      title: Rose Mantou Making Workshop
-      subtitle: 24 May 2025, Saturday
-      id: infopic
-      description: Celebrate Mother’s Day with a Fun & Tasty Workshop!
-      button: Purchase Here
-      url: https://go.gov.sg/wecmumday8may25
-      image: /images/Poster_Mantou_Making_A4.png
-      alt: Image alt text
-  - infopic:
-      title: Mural Painting Workshop – Harmony in Bloom!
-      subtitle: 24 May 2025, Saturday
-      id: infopic
-      description: Celebrate SG60 in a colorful and creative way by joining us for a
-        Mural Painting Workshop – Harmony in Bloom!
-      button: Register Here
-      url: https://go.gov.sg/mocamuralpainting
-      image: /images/Community_Mural_Painting_2025.png
-      alt: Image alt text
-  - infopic:
-      title: TANGLIN CC CARNIVAL 2025
-      subtitle: 24 May 2025, Saturday
-      id: infopic
-      description: Get ready for an afternoon of FUN for the whole family!
-      button: Purchase Here
-      url: https://go.gov.sg/tanglincarnival2025
-      image: /images/Colorful_Bold_Summer_Carnival_Event_Flyer__6_.png
-      alt: Image alt text
-  - infopic:
-      title: A Parenting Workshop on Gaming
-      subtitle: 24 May 2025, Saturday
-      id: infopic
-      description: Learn how to connect with your child through gaming, set healthy
-        boundaries, and guide them toward digital well-being.
-      button: Register Here
-      url: https://go.gov.sg/aparentingworkshopongaming24may2025
-      image: /images/WhatsApp_Image_2025_04_16_at_12_14_38.jpg
-      alt: Image alt text
-  - infopic:
-      title: Dragon Boat Festival with Pek Kio Residents’ Network!
-      subtitle: 24 May 2025, Saturday
-      id: infopic
-      description: Join us for a fun-filled day of tradition, culture & community bonding!
-      button: Purchase Here
-      alt: Image alt text
-      url: go.gov.sg/pkrndragonboat
-      image: /images/WhatsApp_Image_2025_04_24_at_15_27_53.jpg
-  - infopic:
       title: "Sleep Deep & Recover Fast: Wellness for Restful Nights"
       subtitle: 25 May 2025, Sunday
       id: infopic
