@@ -120,7 +120,7 @@ sections:
         picking event
       button: Register Here
       url: https://go.gov.sg/keeptekkaclean2025/
-      image: /images/WhatsApp_Image_2025_05_21_at_19_11_08.jpg
+      image: /images/WhatsApp_Image_2025_05_29_at_13_57_22.jpg
       alt: Image alt text
   - infopic:
       title: Pek Kio Durian Fiesta
