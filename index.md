@@ -41,16 +41,6 @@ sections:
       title: 5 Years of Amazing MoCa!
       subtitle: Moulmein-Cairnhill Brochure
   - infopic:
-      title: "Sleep Deep & Recover Fast: Wellness for Restful Nights"
-      subtitle: 25 May 2025, Sunday
-      id: infopic
-      description: In this workshop, you will have a better understanding of how poor
-        sleep affects your health and sleep hygiene to promote good sleep
-      button: Purchase Here
-      url: https://go.gov.sg/flchealth25may25
-      image: /images/492098784_1092338892930861_3294988155782872157_n.jpg
-      alt: Image alt text
-  - infopic:
       title: Speak, Actually!
       subtitle: 2-4 June 2025
       id: infopic
@@ -72,14 +62,45 @@ sections:
       image: /images/Light_Brown_and_Pink_Playful_Soft_Toys_Crafting_Class_Instagram_Story__A4___2_.png
       alt: Image alt text
   - infopic:
-      title: LITTLE PRESENTERS -PUBLIC SPEAKING
+      title: Acrylic Painting Workshop for Kids (Ages 7–12)
       subtitle: 14 June 2025, Saturday
       id: infopic
-      description: Do your kids get nervous when speaking in front of others? Sign
-        them up for the Little Presenters Public Speaking Workshop!
-      button: Purchase here
-      url: https://go.gov.sg/publicspeakingworkshop14june25
+      description: 🎨 Unleash Your Child’s Inner Artist!   Looking for a fun and
+        creative activity for your kids this June holiday?
+      button: Purchase Here
+      url: https://go.gov.sg/acrylicpainting140625
+      image: /images/Acrylic_Painting_Workshop_for__Kids_12_July_2025.png
+      alt: Image alt text
+  - infopic:
+      title: Little Presenters – Public Speaking Workshop
+      subtitle: 14 June 2025, Saturday
+      id: infopic
+      description: This fun and engaging session helps kids overcome stage fright and
+        build strong communication skills through playful and interactive
+        activities!
+      button: Purchase Here
+      alt: Image alt text
+      url: https://go.gov.sg/publicspeakingworkshop140625
       image: /images/Little_Presenter_14_June_2025_amended_page_0001.jpg
+  - infopic:
+      title: Learn2Code Roblox
+      subtitle: 15 June 2025, Sunday
+      id: infopic
+      description: Get ready to dive into the exciting world of coding through your
+        favorite games – ROBLOX!
+      button: Purchase Here
+      url: https://go.gov.sg/pkccroblox25
+      image: /images/PKCC_School_Holiday_Courses.png
+      alt: Image alt text
+  - infopic:
+      title: Learn2Code Minecraft
+      subtitle: 15 June 2025, Sunday
+      id: infopic
+      description: Get ready to dive into the exciting world of coding through your
+        favorite games – MINECRAFT!
+      button: Purchase Here
+      url: https://go.gov.sg/pkccminecraft25
+      image: /images/PKCC_School_Holiday_Courses.png
       alt: Image alt text
   - infopic:
       title: Chunky Handknit Workshop for Kids
@@ -120,7 +141,7 @@ sections:
         picking event
       button: Register Here
       url: https://go.gov.sg/keeptekkaclean2025/
-      image: /images/WhatsApp_Image_2025_05_21_at_19_11_08.jpg
+      image: /images/WhatsApp_Image_2025_05_29_at_13_57_22.jpg
       alt: Image alt text
   - infopic:
       title: Pek Kio Durian Fiesta
