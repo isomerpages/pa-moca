@@ -72,15 +72,16 @@ sections:
       image: /images/Acrylic_Painting_Workshop_for__Kids_12_July_2025.png
       alt: Image alt text
   - infopic:
-      title: LITTLE PRESENTERS -PUBLIC SPEAKING
+      title: Little Presenters – Public Speaking Workshop
       subtitle: 14 June 2025, Saturday
       id: infopic
-      description: Do your kids get nervous when speaking in front of others? Sign
-        them up for the Little Presenters Public Speaking Workshop!
-      button: Purchase here
-      url: https://go.gov.sg/publicspeakingworkshop14june25
-      image: /images/Little_Presenter_14_June_2025_amended_page_0001.jpg
+      description: This fun and engaging session helps kids overcome stage fright and
+        build strong communication skills through playful and interactive
+        activities!
+      button: Purchase Here
       alt: Image alt text
+      url: https://go.gov.sg/publicspeakingworkshop140625
+      image: /images/Little_Presenter_14_June_2025_amended_page_0001.jpg
   - infopic:
       title: Learn2Code Roblox
       subtitle: 15 June 2025, Sunday
@@ -154,11 +155,4 @@ sections:
   - resources:
       id: resources
       subtitle: What we have been up to
-  - infopic:
-      title: Infopic
-      subtitle: Add an image and text
-      id: infopic
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
 ---
