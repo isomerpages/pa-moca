@@ -144,6 +144,15 @@ sections:
       image: /images/WhatsApp_Image_2025_06_05_at_13_54_05.jpg
       alt: Image alt text
   - infopic:
+      title: FMC Community Eye Screening Day
+      subtitle: 5 July 2025, Saturday
+      id: infopic
+      description: Join us for a day dedicated to eye health!
+      button: Register Here
+      url: https://go.gov.sg/free-eye-check-5jul2025
+      image: /images/502451324_1042181991339986_4138946434583565976_n.jpg
+      alt: Image alt text
+  - infopic:
       title: Pek Kio Durian Fiesta
       subtitle: 26 July 2025, Saturday
       id: infopic
