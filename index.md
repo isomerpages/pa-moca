@@ -41,16 +41,6 @@ sections:
       title: 5 Years of Amazing MoCa!
       subtitle: Moulmein-Cairnhill Brochure
   - infopic:
-      title: Speak, Actually!
-      subtitle: 2-4 June 2025
-      id: infopic
-      description: Boost your child’s confidence with our "Speak, Actually" public
-        speaking workshop!
-      button: Puchase Here
-      alt: Image alt text
-      url: https://go.gov.sg/onepa-pekkiocc
-      image: /images/Speak_Actually_Publicity_Poster_2025___Pek_Kio_CC___A4_V1.png
-  - infopic:
       title: Plushie Workshop
       subtitle: 8 June 2025, Sunday
       id: infopic
@@ -142,6 +132,16 @@ sections:
       button: Register Here
       url: https://go.gov.sg/keeptekkaclean2025/
       image: /images/WhatsApp_Image_2025_05_29_at_13_57_22.jpg
+      alt: Image alt text
+  - infopic:
+      title: Creative Correction Workshop
+      subtitle: 5 July 2025, Saturday
+      id: infopic
+      description: Join us and learn the principles and strategies of discipline and
+        how you can discipline with love.
+      button: Register Here
+      url: https://go.gov.sg/parentingevent5july2025
+      image: /images/WhatsApp_Image_2025_06_05_at_13_54_05.jpg
       alt: Image alt text
   - infopic:
       title: Pek Kio Durian Fiesta
