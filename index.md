@@ -153,6 +153,16 @@ sections:
       image: /images/502451324_1042181991339986_4138946434583565976_n.jpg
       alt: Image alt text
   - infopic:
+      title: SG60 Cambridge Carnival
+      subtitle: 19 July 2025, Saturday
+      id: infopic
+      description: Come celebrate Singapore’s 60th birthday with us at a fun-filled
+        carnival for all ages!
+      button: Purchase Here
+      url: https://go.gov.sg/cambridgesg60
+      image: /images/WhatsApp_Image_2025_06_02_at_18_18_23.jpg
+      alt: Image alt text
+  - infopic:
       title: Pek Kio Durian Fiesta
       subtitle: 26 July 2025, Saturday
       id: infopic
