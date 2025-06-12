@@ -41,17 +41,6 @@ sections:
       title: 5 Years of Amazing MoCa!
       subtitle: Moulmein-Cairnhill Brochure
   - infopic:
-      title: Plushie Workshop
-      subtitle: 8 June 2025, Sunday
-      id: infopic
-      description: Calling all craft lovers and soft toy fans! Join us for a Plushie
-        Workshop where you'll get hands-on and learn to make your very own
-        adorable soft toy!
-      button: Purchase Here
-      url: https://go.gov.sg/plushie2025
-      image: /images/Light_Brown_and_Pink_Playful_Soft_Toys_Crafting_Class_Instagram_Story__A4___2_.png
-      alt: Image alt text
-  - infopic:
       title: Acrylic Painting Workshop for Kids (Ages 7–12)
       subtitle: 14 June 2025, Saturday
       id: infopic
@@ -110,7 +99,7 @@ sections:
         learn the importance of preserving our environment!
       button: Purchase Here
       url: https://go.gov.sg/mocakayakcleanandexplore25
-      image: /images/WhatsApp_Image_2025_05_21_at_14_59_39.jpg
+      image: /images/WhatsApp_Image_2025_06_09_at_12_33_57.jpg
       alt: Image alt text
   - infopic:
       title: MOCA Rail-istic Tour
