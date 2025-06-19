@@ -82,16 +82,6 @@ sections:
       image: /images/WhatsApp_Image_2025_06_05_at_13_54_05.jpg
       alt: Image alt text
   - infopic:
-      title: Central Singapore Market is Here
-      subtitle: 19 July 2025, Saturday
-      id: infopic
-      description: A Market with a Difference – Come join us for an evening of fun,
-        food, and community spirit!
-      button: Visit Here for more infor
-      url: go.gov.sg/central-singapore-market
-      image: /images/505259034_1111899597650095_5075058214731403100_n.jpg
-      alt: Image alt text
-  - infopic:
       title: "Envisioning SG100: A Community Initiative!"
       subtitle: 5 July 2025, Saturday
       id: infopic
@@ -119,6 +109,16 @@ sections:
       button: Purchase Here
       url: https://go.gov.sg/cambridgesg60
       image: /images/WhatsApp_Image_2025_06_02_at_18_18_23.jpg
+      alt: Image alt text
+  - infopic:
+      title: Central Singapore Market is Here
+      subtitle: 19 July 2025, Saturday
+      id: infopic
+      description: A Market with a Difference – Come join us for an evening of fun,
+        food, and community spirit!
+      button: Visit Here for more infor
+      url: go.gov.sg/central-singapore-market
+      image: /images/505259034_1111899597650095_5075058214731403100_n.jpg
       alt: Image alt text
   - infopic:
       title: Pek Kio Durian Fiesta
