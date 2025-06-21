@@ -111,6 +111,16 @@ sections:
       image: /images/WhatsApp_Image_2025_06_02_at_18_18_23.jpg
       alt: Image alt text
   - infopic:
+      title: "SG60: Our Future, Our Canvas"
+      subtitle: 18 July 2025, Saturday
+      id: infopic
+      description: "Join us for SG60: Our Future, Our Canvas – a community-led
+        celebration powered by families, schools, and young creators."
+      button: Register Here
+      url: https://go.gov.sg/envisionsg
+      image: /images/Poster_FINAL_PDF_hires_SG60_MOCA_Community_Art_Competition_page_0001.jpg
+      alt: Image alt text
+  - infopic:
       title: Central Singapore Market is Here
       subtitle: 19 July 2025, Saturday
       id: infopic
