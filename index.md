@@ -151,6 +151,15 @@ sections:
       image: /images/FLC_HEALTH_TALK_2025_Part_6__5__endorsed_page_0001.jpg
       alt: Image alt text
   - infopic:
+      title: Celebrate @ Kampong Pasiran
+      subtitle: 26 July 2025, Saturday
+      id: infopic
+      description: Join us for a fantastic day of heritage, fun, and community spirit!
+      button: Purchase Here
+      url: https://go.gov.sg/kampongpasiran
+      image: /images/Kampong_Pasiran_poster_updated_endorsed_page_0001.jpg
+      alt: Image alt text
+  - infopic:
       title: Pek Kio Durian Fiesta
       subtitle: 26 July 2025, Saturday
       id: infopic
