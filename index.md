@@ -141,6 +141,16 @@ sections:
       image: /images/Green_Yellow_and_White_Illustrative_How_to_Maintain_Family_Harmony_Poster__2_.png
       alt: Image alt text
   - infopic:
+      title: AAC & FLC Health Workshop 2025
+      subtitle: 20 July 2025, Sunday
+      id: infopic
+      description: Learn how to boost your immunity with simple, practical tips from
+        health experts!
+      button: Purchase Here
+      url: https://go.gov.sg/flchealth20july25
+      image: /images/FLC_HEALTH_TALK_2025_Part_6.png
+      alt: Image alt text
+  - infopic:
       title: Pek Kio Durian Fiesta
       subtitle: 26 July 2025, Saturday
       id: infopic
