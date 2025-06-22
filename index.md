@@ -148,7 +148,7 @@ sections:
         health experts!
       button: Purchase Here
       url: https://go.gov.sg/flchealth20july25
-      image: /images/FLC_HEALTH_TALK_2025_Part_6.png
+      image: /images/FLC_HEALTH_TALK_2025_Part_6__5__endorsed_page_0001.jpg
       alt: Image alt text
   - infopic:
       title: Pek Kio Durian Fiesta
