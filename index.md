@@ -101,6 +101,16 @@ sections:
       image: /images/502451324_1042181991339986_4138946434583565976_n.jpg
       alt: Image alt text
   - infopic:
+      title: "SG60: Our Future, Our Canvas"
+      subtitle: 18 July 2025, Friday
+      id: infopic
+      description: "Join us for SG60: Our Future, Our Canvas – a community-led
+        celebration powered by families, schools, and young creators."
+      button: Register Here
+      url: https://go.gov.sg/envisionsg
+      image: /images/Poster_FINAL_PDF_hires_SG60_MOCA_Community_Art_Competition_page_0001.jpg
+      alt: Image alt text
+  - infopic:
       title: SG60 Cambridge Carnival
       subtitle: 19 July 2025, Saturday
       id: infopic
@@ -111,16 +121,6 @@ sections:
       image: /images/WhatsApp_Image_2025_06_02_at_18_18_23.jpg
       alt: Image alt text
   - infopic:
-      title: "SG60: Our Future, Our Canvas"
-      subtitle: 18 July 2025, Saturday
-      id: infopic
-      description: "Join us for SG60: Our Future, Our Canvas – a community-led
-        celebration powered by families, schools, and young creators."
-      button: Register Here
-      url: https://go.gov.sg/envisionsg
-      image: /images/Poster_FINAL_PDF_hires_SG60_MOCA_Community_Art_Competition_page_0001.jpg
-      alt: Image alt text
-  - infopic:
       title: Central Singapore Market is Here
       subtitle: 19 July 2025, Saturday
       id: infopic
@@ -129,6 +129,16 @@ sections:
       button: Visit Here for more infor
       url: go.gov.sg/central-singapore-market
       image: /images/505259034_1111899597650095_5075058214731403100_n.jpg
+      alt: Image alt text
+  - infopic:
+      title: Racial Harmony Concert
+      subtitle: 19 July 2025, Saturday
+      id: infopic
+      description: Bring your friends and family to experience the spirit of racial
+        harmony and community togetherness.
+      button: Purchase Here
+      url: https://go.gov.sg/19julytccmultiracial
+      image: /images/Green_Yellow_and_White_Illustrative_How_to_Maintain_Family_Harmony_Poster__2_.png
       alt: Image alt text
   - infopic:
       title: Pek Kio Durian Fiesta
