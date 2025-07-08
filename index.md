@@ -182,4 +182,14 @@ sections:
   - resources:
       id: resources
       subtitle: What we have been up to
+  - infopic:
+      title: "SG60: Harmony in Bloom"
+      subtitle: 2 August 2025, Saturday
+      id: infopic
+      description: Celebrate our SG60 MoCa National Day with Picnic & Performances @
+        Botanic Gardens
+      button: Purchase Here
+      url: https://www.onepa.gov.sg/.../sg-60-harmony-in-bloom-87546373
+      image: /images/511056197_1123642023142519_7859593244050797384_n.jpg
+      alt: Image alt text
 ---
