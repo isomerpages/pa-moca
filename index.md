@@ -107,7 +107,7 @@ sections:
         delightful durian feast and enjoy a harmonious time with neighbours and
         friends.
       button: Purchase Here
-      url: https://go.gov.sg/durianrp2025
+      url: https://go.gov.sg/1b8boz
       image: /images/501019821_1113740037448955_4696754076238247339_n.jpg
       alt: Image alt text
   - infopic:
