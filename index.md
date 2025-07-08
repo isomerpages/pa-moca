@@ -183,7 +183,7 @@ sections:
       title: Make-A-Plushie Workshop
       subtitle: 3 August 2025, Sunday
       id: infopic
-      description: 🧸✨ Calling All Craft Lovers! ✨🧸 Create your very own adorable
+      description: 🧸✨ Calling all Craft Lovers! ✨🧸 Create your very own adorable
         plushie to take home
       button: Purchase Here
       url: https://go.gov.sg/plushie3825
