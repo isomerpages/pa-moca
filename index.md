@@ -41,6 +41,25 @@ sections:
       title: 5 Years of Amazing MoCa!
       subtitle: Moulmein-Cairnhill Brochure
   - infopic:
+      title: Brighten Up Our Community Walkway 🌈
+      subtitle: Add an image and text
+      id: infopic
+      description: Join hands to bring colour and life to the sheltered walkway
+        pillars between Blk 49 & Blk 50 Dorset Road. Contact Pek Kio Community
+        Centre 📞 6298 9598
+      image: /images/512886824_1127238822782839_2856270258505470368_n.jpg
+      alt: Image alt text
+  - infopic:
+      title: MoCa Sings SG60!
+      subtitle: Submission by 9 August 2025
+      id: infopic
+      description: Submit short, snappy lyrics (15 words max) in any of Singapore’s
+        official languages and help shape the soundtrack of our future
+      button: Register Here
+      url: https://go.gov.sg/moca-sings
+      image: /images/511068612_1123275113179210_8477796296902596966_n.jpg
+      alt: Image alt text
+  - infopic:
       title: "SG60: Our Future, Our Canvas"
       subtitle: 18 July 2025, Friday
       id: infopic
@@ -81,6 +100,28 @@ sections:
       image: /images/Green_Yellow_and_White_Illustrative_How_to_Maintain_Family_Harmony_Poster__2_.png
       alt: Image alt text
   - infopic:
+      title: Celebrate Racial Harmony with Durian Delights!
+      subtitle: 19 July 2025, Saturday
+      id: infopic
+      description: Durian has always been a favourite for many! Come join us for a
+        delightful durian feast and enjoy a harmonious time with neighbours and
+        friends.
+      button: Purchase Here
+      url: https://go.gov.sg/durianrp2025
+      image: /images/501019821_1113740037448955_4696754076238247339_n.jpg
+      alt: Image alt text
+  - infopic:
+      title: 60 Years, One Flag!
+      subtitle: 19 July 2025, Saturday
+      id: infopic
+      description: Celebrate Singapore’s 60th birthday with us as we create a giant
+        Singapore flag — a powerful symbol of unity, pride, and our shared
+        journey.
+      button: Register Here
+      url: https://go.gov.sg/60years1flag
+      image: /images/516316225_749799040735158_4190707108415461450_n.jpg
+      alt: Image alt text
+  - infopic:
       title: AAC & FLC Health Workshop 2025
       subtitle: 20 July 2025, Sunday
       id: infopic
@@ -100,6 +141,16 @@ sections:
       image: /images/Kampong_Pasiran_poster_updated_endorsed_page_0001.jpg
       alt: Image alt text
   - infopic:
+      title: MoCa Sustainability Marketplace
+      subtitle: 26 July 2025, Saturday
+      id: infopic
+      description: Discover new ways to live sustainably with our partners and enjoy
+        fun green activities for you and your family!
+      button: Register Here
+      url: https://go.gov.sg/mocasustainabilitymarketplace25
+      image: /images/WhatsApp_Image_2025_07_08_at_19_25_26.jpg
+      alt: Image alt text
+  - infopic:
       title: Pek Kio Durian Fiesta
       subtitle: 26 July 2025, Saturday
       id: infopic
@@ -107,6 +158,16 @@ sections:
       button: Purchase Here
       url: https://go.gov.sg/pkdurianfiesta
       image: /images/PKCC___Durian_Fiesta_poster_edited_by_jeremy_page_0001.jpg
+      alt: Image alt text
+  - infopic:
+      title: MoCa National Day Dinner 2025
+      subtitle: 2 August 2025, Saturday
+      id: infopic
+      description: Let’s celebrate Singapore’s 60th birthday together at the
+        Moulmein-Cairnhill National Day Dinner 2025!
+      button: Register Here
+      url: https://go.gov.sg/mocandd2025
+      image: /images/National_Day_2025_Poster__2_.png
       alt: Image alt text
   - infopic:
       title: Make-A-Plushie Workshop
@@ -121,14 +182,4 @@ sections:
   - resources:
       id: resources
       subtitle: What we have been up to
-  - infopic:
-      title: MoCa National Day Dinner 2025
-      subtitle: 2 August 2025, Saturday
-      id: infopic
-      description: Let’s celebrate Singapore’s 60th birthday together at the
-        Moulmein-Cairnhill National Day Dinner 2025!
-      button: Register Here
-      url: https://go.gov.sg/mocandd2025
-      image: /images/National_Day_2025_Poster__2_.png
-      alt: Image alt text
 ---
