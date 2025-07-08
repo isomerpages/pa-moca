@@ -108,7 +108,27 @@ sections:
       url: https://go.gov.sg/pkdurianfiesta
       image: /images/PKCC___Durian_Fiesta_poster_edited_by_jeremy_page_0001.jpg
       alt: Image alt text
+  - infopic:
+      title: Make-A-Plushie Workshop
+      subtitle: 3 August 2025, Sunday
+      id: infopic
+      description: 🧸✨ Calling All Craft Lovers! ✨🧸 Create your very own adorable
+        plushie to take home
+      button: Purchase Here
+      url: https://go.gov.sg/plushie3825
+      image: /images/Make__A_Plushie__1_.png
+      alt: Image alt text
   - resources:
       id: resources
       subtitle: What we have been up to
+  - infopic:
+      title: MoCa National Day Dinner 2025
+      subtitle: 2 August 2025, Saturday
+      id: infopic
+      description: Let’s celebrate Singapore’s 60th birthday together at the
+        Moulmein-Cairnhill National Day Dinner 2025!
+      button: Register Here
+      url: https://go.gov.sg/mocandd2025
+      image: /images/National_Day_2025_Poster__2_.png
+      alt: Image alt text
 ---
