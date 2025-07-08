@@ -42,7 +42,6 @@ sections:
       subtitle: Moulmein-Cairnhill Brochure
   - infopic:
       title: Brighten Up Our Community Walkway 🌈
-      subtitle: Add an image and text
       id: infopic
       description: Join hands to bring colour and life to the sheltered walkway
         pillars between Blk 49 & Blk 50 Dorset Road. Contact Pek Kio Community
