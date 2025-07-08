@@ -151,6 +151,16 @@ sections:
       image: /images/WhatsApp_Image_2025_07_08_at_19_25_26.jpg
       alt: Image alt text
   - infopic:
+      title: Tekka Durian Party
+      subtitle: 26 July 2025, Saturday
+      id: infopic
+      description: Join us for a fruity celebration packed with fun, flavour and
+        community vibes!
+      button: Purchase Here
+      url: https://go.gov.sg/trndurian2025
+      image: /images/WhatsApp_Image_2025_06_28_at_11_35_29.jpg
+      alt: Image alt text
+  - infopic:
       title: Pek Kio Durian Fiesta
       subtitle: 26 July 2025, Saturday
       id: infopic
