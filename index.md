@@ -189,6 +189,16 @@ sections:
       image: /images/National_Day_2025_Poster__2_.png
       alt: Image alt text
   - infopic:
+      title: Celebrate SG60 @ Pek Kio
+      subtitle: 9 August 2025, Saturday
+      id: infopic
+      description: Join us for a morning of fun, food, and festivities as we celebrate
+        Singapore’s 60th birthday in style!
+      button: Purchase Here
+      url: https://go.gov.sg/pek-kio-celebrates-sg60
+      image: /images/518941113_757932599921802_4717742374263191393_n.jpg
+      alt: Image alt text
+  - infopic:
       title: Make-A-Plushie Workshop
       subtitle: 3 August 2025, Sunday
       id: infopic
@@ -201,4 +211,11 @@ sections:
   - resources:
       id: resources
       subtitle: What we have been up to
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
