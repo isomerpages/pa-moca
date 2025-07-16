@@ -169,6 +169,15 @@ sections:
       image: /images/PKCC___Durian_Fiesta_poster_edited_by_jeremy_page_0001.jpg
       alt: Image alt text
   - infopic:
+      title: Cairnhill Celebrates SG60
+      subtitle: 2 August 2025, Saturday
+      id: infopic
+      description: Join us for a vibrant celebration of Singapore’s 60th National Day!
+      button: Purchase Here
+      alt: Image alt text
+      image: /images/WhatsApp_Image_2025_07_09_at_16_09_27.jpg
+      url: https://go.gov.sg/cairnhillccsg60
+  - infopic:
       title: "SG60: Harmony in Bloom"
       subtitle: 2 August 2025, Saturday
       id: infopic
@@ -197,6 +206,16 @@ sections:
       button: Purchase Here
       url: https://go.gov.sg/plushie3825
       image: /images/Make__A_Plushie__1_.png
+      alt: Image alt text
+  - infopic:
+      title: Celebrate SG60 @ Pek Kio
+      subtitle: 9 August 2025, Saturday
+      id: infopic
+      description: Join us for a morning of fun, food, and festivities as we celebrate
+        Singapore’s 60th birthday in style!
+      button: Purchase Here
+      url: https://go.gov.sg/pek-kio-celebrates-sg60
+      image: /images/518941113_757932599921802_4717742374263191393_n.jpg
       alt: Image alt text
   - resources:
       id: resources
