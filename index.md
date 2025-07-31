@@ -69,44 +69,6 @@ sections:
       image: /images/Poster_FINAL_PDF_hires_SG60_MOCA_Community_Art_Competition_page_0001.jpg
       alt: Image alt text
   - infopic:
-      title: Celebrate @ Kampong Pasiran
-      subtitle: 26 July 2025, Saturday
-      id: infopic
-      description: Join us for a fantastic day of heritage, fun, and community spirit!
-      button: Purchase Here
-      url: https://go.gov.sg/kampongpasiran
-      image: /images/Kampong_Pasiran_poster_updated_endorsed_page_0001.jpg
-      alt: Image alt text
-  - infopic:
-      title: MoCa Sustainability Marketplace
-      subtitle: 26 July 2025, Saturday
-      id: infopic
-      description: Discover new ways to live sustainably with our partners and enjoy
-        fun green activities for you and your family!
-      button: Register Here
-      url: https://go.gov.sg/mocasustainabilitymarketplace25
-      image: /images/WhatsApp_Image_2025_07_08_at_19_25_26.jpg
-      alt: Image alt text
-  - infopic:
-      title: Tekka Durian Party
-      subtitle: 26 July 2025, Saturday
-      id: infopic
-      description: Join us for a fruity celebration packed with fun, flavour and
-        community vibes!
-      button: Purchase Here
-      url: https://go.gov.sg/trndurian2025
-      image: /images/WhatsApp_Image_2025_06_28_at_11_35_29.jpg
-      alt: Image alt text
-  - infopic:
-      title: Pek Kio Durian Fiesta
-      subtitle: 26 July 2025, Saturday
-      id: infopic
-      description: Get ready for a durian-filled evening with friends and neighbors!
-      button: Purchase Here
-      url: https://go.gov.sg/pkdurianfiesta
-      image: /images/PKCC___Durian_Fiesta_poster_edited_by_jeremy_page_0001.jpg
-      alt: Image alt text
-  - infopic:
       title: Cairnhill Celebrates SG60
       subtitle: 2 August 2025, Saturday
       id: infopic
