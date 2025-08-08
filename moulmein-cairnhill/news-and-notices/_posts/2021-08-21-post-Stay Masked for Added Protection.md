@@ -9,14 +9,7 @@ variant: tiptap
 ---
 <p>From 26 August to 26 September 2021, every Singapore household will be
 eligible to collect 50 medical grade surgical masks and 25 N95 masks at
-select CapitaLand malls and supermarket outlets.</p>
-<p>What you need: your SP residential bill and a reusable bag to carry the
-free masks.</p>
-<p>Not all stores are collection points. Please check <a href="https://stayprepared.sg/masks?fbclid=IwAR1XVVCZ6KEGu-dLQlhMli-OemwYqExDok-Knr-wSdBlg3e5U1gzXoe7-pQ" rel="noopener noreferrer nofollow" target="_blank">https://stayprepared.sg/masks</a> for
-your nearest collection point, opening hours and stock level before collecting.</p>
-<p><em>Do not rush. There is one month to collect and sufficient stock.</em>
-</p>
-<p>
+select CapitaLand malls and supermarket outlets.
 <br>
 </p>
 <div class="isomer-image-wrapper">
