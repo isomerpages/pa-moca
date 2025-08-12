@@ -51,14 +51,39 @@ sections:
       image: /images/511068612_1123275113179210_8477796296902596966_n.jpg
       alt: Image alt text
   - infopic:
-      title: Celebrate SG60 @ Pek Kio
-      subtitle: 9 August 2025, Saturday
+      title: The Quietest Rave
+      subtitle: 30 August 2025, Saturday
       id: infopic
-      description: Join us for a morning of fun, food, and festivities as we celebrate
-        Singapore’s 60th birthday in style!
+      description: Join us for a one-of-a-kind silent rave experience where you
+        control your own groove with LED headphones!
       button: Purchase Here
-      url: https://go.gov.sg/pek-kio-celebrates-sg60
-      image: /images/518941113_757932599921802_4717742374263191393_n.jpg
+      url: https://go.gov.sg/mocaquietrave
+      image: /images/WhatsApp_Image_2025_07_29_at_14_06_59.jpg
+      alt: Image alt text
+  - infopic:
+      title: 1960s A Go-Go!
+      subtitle: 20 September 2025, Saturday
+      id: infopic
+      description: Travel back to the swinging sixties with live entertainment, retro
+        vibes, and delicious food.
+      button: Purchase Here
+      url: https://go.gov.sg/1960sgogoreg
+      image: /images/WhatsApp_Image_2025_08_07_at_11_29_57.jpg
+      alt: Image alt text
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      image: /images/WhatsApp_Image_2025_08_11_at_10_33_21.jpg
+      alt: Image alt text
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
       alt: Image alt text
   - resources:
       id: resources
