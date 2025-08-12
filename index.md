@@ -71,13 +71,15 @@ sections:
       image: /images/WhatsApp_Image_2025_08_07_at_11_29_57.jpg
       alt: Image alt text
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: Oktoberfest at Tanglin CC
+      subtitle: 27 September 2025, Saturday
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: All are welcome! Bring your friends & family, and raise your glass
+        to a night of great food, music & community cheer.
+      button: Purchase here
       image: /images/WhatsApp_Image_2025_08_11_at_10_33_21.jpg
       alt: Image alt text
+      url: https://go.gov.sg/tccoktoberfest2025
   - infopic:
       title: Infopic
       subtitle: Add an image and text
