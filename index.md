@@ -51,6 +51,14 @@ sections:
       image: /images/511068612_1123275113179210_8477796296902596966_n.jpg
       alt: Image alt text
   - infopic:
+      title: "Growth Cirlces: Self Care"
+      subtitle: 30 August 2025, Saturday
+      id: infopic
+      button: Register Here
+      alt: Image alt text
+      image: /images/WhatsApp_Image_2025_07_30_at_19_21_10__2_.jpg
+      url: https://tinyurl.com/49ebe5ah
+  - infopic:
       title: The Quietest Rave
       subtitle: 30 August 2025, Saturday
       id: infopic
@@ -80,13 +88,6 @@ sections:
       image: /images/WhatsApp_Image_2025_08_11_at_10_33_21.jpg
       alt: Image alt text
       url: https://go.gov.sg/tccoktoberfest2025
-  - infopic:
-      title: Infopic
-      subtitle: Add an image and text
-      id: infopic
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
   - resources:
       id: resources
       subtitle: What we have been up to
