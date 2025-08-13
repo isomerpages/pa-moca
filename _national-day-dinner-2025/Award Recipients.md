@@ -106,6 +106,8 @@ description: ""
 
 ![](https://moca.sgp1.cdn.digitaloceanspaces.com/NDD_25/ndd-awards-051.jpeg)
 
+![](https://moca.sgp1.cdn.digitaloceanspaces.com/NDD_25/ndd-awards-999.jpeg)
+
 ![](https://moca.sgp1.cdn.digitaloceanspaces.com/NDD_25/ndd-awards-052.jpeg)
 
 ![](https://moca.sgp1.cdn.digitaloceanspaces.com/NDD_25/ndd-awards-053.jpeg)
