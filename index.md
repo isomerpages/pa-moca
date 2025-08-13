@@ -75,7 +75,7 @@ sections:
       description: Travel back to the swinging sixties with live entertainment, retro
         vibes, and delicious food.
       button: Purchase Here
-      url: https://go.gov.sg/1960sgogoreg
+      url: https://go.gov.sg/20septccwecagogo
       image: /images/WhatsApp_Image_2025_08_07_at_11_29_57.jpg
       alt: Image alt text
   - infopic:
