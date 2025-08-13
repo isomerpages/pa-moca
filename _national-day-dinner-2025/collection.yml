@@ -2,5 +2,5 @@ collections:
   national-day-dinner-2025:
     output: true
     order:
-      - Tables.md
       - Award Recipients.md
+      - Tables.md
