@@ -41,17 +41,7 @@ sections:
       title: 5 Years of Amazing MoCa!
       subtitle: Moulmein-Cairnhill Brochure
   - infopic:
-      title: MoCa Sings SG60!
-      subtitle: Submission by 9 August 2025
-      id: infopic
-      description: Submit short, snappy lyrics (15 words max) in any of Singapore’s
-        official languages and help shape the soundtrack of our future
-      button: Register Here
-      url: https://go.gov.sg/moca-sings
-      image: /images/511068612_1123275113179210_8477796296902596966_n.jpg
-      alt: Image alt text
-  - infopic:
-      title: "Growth Cirlces: Self Care"
+      title: "Growth Circles: Self Care"
       subtitle: 30 August 2025, Saturday
       id: infopic
       button: Register Here
