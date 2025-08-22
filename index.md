@@ -41,7 +41,7 @@ sections:
       title: 5 Years of Amazing MoCa!
       subtitle: Moulmein-Cairnhill Brochure
   - infopic:
-      title: "Growth Cirlces: Self Care"
+      title: "Growth Circles: Self Care"
       subtitle: 30 August 2025, Saturday
       id: infopic
       button: Register Here
