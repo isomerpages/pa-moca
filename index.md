@@ -99,9 +99,6 @@ sections:
       alt: Image alt text
       image: /images/538330339_18016348529772703_268362780476047628_n.jpg
       url: https://go.gov.sg/mammogramscreening2025
-  - resources:
-      id: resources
-      subtitle: What we have been up to
   - infopic:
       title: Mid-Autumn Tour at Jurong Lake
       subtitle: 4 October 2025, Saturday
@@ -112,11 +109,7 @@ sections:
       url: https://go.gov.sg/scecmidautumnwalk25
       image: /images/SCEC_tour_to_Jurong_Lake__5_.png
       alt: Image alt text
-  - infopic:
-      title: Infopic
-      subtitle: Add an image and text
-      id: infopic
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
+  - resources:
+      id: resources
+      subtitle: What we have been up to
 ---
