@@ -59,12 +59,15 @@ sections:
       image: /images/538330339_18016348529772703_268362780476047628_n.jpg
       url: https://go.gov.sg/mammogramscreening2025
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: Mid-Autumn Festival
+      subtitle: 27 September 2025, Saturday
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: Join us for a fun filled evening, celebrating Mid-Autumn Festival
+        this SG60 through traditional snacks and engaging activities.
+      button: Purchase here
       alt: Image alt text
+      url: https://go.gov.sg/newtonrnmidautumncelebrations25
+      image: /images/539770085_18054750494407983_6484595476873270867_n.jpg
   - infopic:
       title: Infopic
       subtitle: Add an image and text
