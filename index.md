@@ -41,6 +41,47 @@ sections:
       title: 5 Years of Amazing MoCa!
       subtitle: Moulmein-Cairnhill Brochure
   - infopic:
+      title: 2025 Monkey Guarding Workshop
+      subtitle: 6 September 2025, Saturday
+      id: infopic
+      description: Join us and learn practical skills for Monkey Guarding—how to stay
+        safe, handle encounters responsibly, and protect both people and
+        wildlife!
+      button: Register Here
+      alt: Image alt text
+      image: /images/529846915_1236082981884753_7996217963737574087_n.jpg
+      url: https://tinyurl.com/gncmonkeyguarding2025
+  - infopic:
+      title: 1960s A Go-Go!
+      subtitle: 20 September 2025, Saturday
+      id: infopic
+      description: Travel back to the swinging sixties with live entertainment, retro
+        vibes, and delicious food.
+      button: Purchase Here
+      url: https://go.gov.sg/20septccwecagogo
+      image: /images/WhatsApp_Image_2025_08_07_at_11_29_57.jpg
+      alt: Image alt text
+  - infopic:
+      title: Mid-Autumn Festival
+      subtitle: 27 September 2025, Saturday
+      id: infopic
+      description: Join us for a fun filled evening, celebrating Mid-Autumn Festival
+        this SG60 through traditional snacks and engaging activities.
+      button: Purchase here
+      alt: Image alt text
+      url: https://go.gov.sg/newtonrnmidautumncelebrations25
+      image: /images/539770085_18054750494407983_6484595476873270867_n.jpg
+  - infopic:
+      title: Oktoberfest at Tanglin CC
+      subtitle: 27 September 2025, Saturday
+      id: infopic
+      description: All are welcome! Bring your friends & family, and raise your glass
+        to a night of great food, music & community cheer.
+      button: Purchase here
+      image: /images/WhatsApp_Image_2025_08_11_at_10_33_21.jpg
+      alt: Image alt text
+      url: https://go.gov.sg/tccoktoberfest2025
+  - infopic:
       title: MOCA Heartland Halloween – Feast of Screams ‘25
       subtitle: 18 October 2025, Saturday
       id: infopic
@@ -58,43 +99,6 @@ sections:
       alt: Image alt text
       image: /images/538330339_18016348529772703_268362780476047628_n.jpg
       url: https://go.gov.sg/mammogramscreening2025
-  - infopic:
-      title: Mid-Autumn Festival
-      subtitle: 27 September 2025, Saturday
-      id: infopic
-      description: Join us for a fun filled evening, celebrating Mid-Autumn Festival
-        this SG60 through traditional snacks and engaging activities.
-      button: Purchase here
-      alt: Image alt text
-      url: https://go.gov.sg/newtonrnmidautumncelebrations25
-      image: /images/539770085_18054750494407983_6484595476873270867_n.jpg
-  - infopic:
-      title: Infopic
-      subtitle: Add an image and text
-      id: infopic
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
-  - infopic:
-      title: 1960s A Go-Go!
-      subtitle: 20 September 2025, Saturday
-      id: infopic
-      description: Travel back to the swinging sixties with live entertainment, retro
-        vibes, and delicious food.
-      button: Purchase Here
-      url: https://go.gov.sg/20septccwecagogo
-      image: /images/WhatsApp_Image_2025_08_07_at_11_29_57.jpg
-      alt: Image alt text
-  - infopic:
-      title: Oktoberfest at Tanglin CC
-      subtitle: 27 September 2025, Saturday
-      id: infopic
-      description: All are welcome! Bring your friends & family, and raise your glass
-        to a night of great food, music & community cheer.
-      button: Purchase here
-      image: /images/WhatsApp_Image_2025_08_11_at_10_33_21.jpg
-      alt: Image alt text
-      url: https://go.gov.sg/tccoktoberfest2025
   - resources:
       id: resources
       subtitle: What we have been up to
