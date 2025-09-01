@@ -41,22 +41,33 @@ sections:
       title: 5 Years of Amazing MoCa!
       subtitle: Moulmein-Cairnhill Brochure
   - infopic:
-      title: "Growth Circles: Self Care"
-      subtitle: 30 August 2025, Saturday
+      title: Infopic
+      subtitle: Add an image and text
       id: infopic
-      button: Register Here
+      description: Infopic description
+      button: Button Text
+      image: /images/539760993_1174736288033092_2877918222667092715_n.jpg
       alt: Image alt text
-      image: /images/WhatsApp_Image_2025_07_30_at_19_21_10__2_.jpg
-      url: https://tinyurl.com/49ebe5ah
   - infopic:
-      title: The Quietest Rave
-      subtitle: 30 August 2025, Saturday
+      title: Infopic
+      subtitle: Add an image and text
       id: infopic
-      description: Join us for a one-of-a-kind silent rave experience where you
-        control your own groove with LED headphones!
-      button: Purchase Here
-      url: https://go.gov.sg/mocaquietrave
-      image: /images/WhatsApp_Image_2025_07_29_at_14_06_59.jpg
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
       alt: Image alt text
   - infopic:
       title: 1960s A Go-Go!
