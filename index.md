@@ -102,4 +102,21 @@ sections:
   - resources:
       id: resources
       subtitle: What we have been up to
+  - infopic:
+      title: Mid-Autumn Tour at Jurong Lake
+      subtitle: 4 October 2025, Saturday
+      id: infopic
+      description: We warmly invite you for an enchanting evening of moon-gazing, a
+        delicious dinner, and a magical walk by the Lake.
+      button: Purchase Here
+      url: https://go.gov.sg/scecmidautumnwalk25
+      image: /images/SCEC_tour_to_Jurong_Lake__5_.png
+      alt: Image alt text
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
