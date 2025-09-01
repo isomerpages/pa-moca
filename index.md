@@ -82,6 +82,16 @@ sections:
       alt: Image alt text
       url: https://go.gov.sg/tccoktoberfest2025
   - infopic:
+      title: Mid-Autumn Tour at Jurong Lake
+      subtitle: 4 October 2025, Saturday
+      id: infopic
+      description: We warmly invite you for an enchanting evening of moon-gazing, a
+        delicious dinner, and a magical walk by the Lake.
+      button: Purchase Here
+      url: https://go.gov.sg/scecmidautumnwalk25
+      image: /images/SCEC_tour_to_Jurong_Lake__5_.png
+      alt: Image alt text
+  - infopic:
       title: MOCA Heartland Halloween – Feast of Screams ‘25
       subtitle: 18 October 2025, Saturday
       id: infopic
@@ -99,16 +109,6 @@ sections:
       alt: Image alt text
       image: /images/538330339_18016348529772703_268362780476047628_n.jpg
       url: https://go.gov.sg/mammogramscreening2025
-  - infopic:
-      title: Mid-Autumn Tour at Jurong Lake
-      subtitle: 4 October 2025, Saturday
-      id: infopic
-      description: We warmly invite you for an enchanting evening of moon-gazing, a
-        delicious dinner, and a magical walk by the Lake.
-      button: Purchase Here
-      url: https://go.gov.sg/scecmidautumnwalk25
-      image: /images/SCEC_tour_to_Jurong_Lake__5_.png
-      alt: Image alt text
   - resources:
       id: resources
       subtitle: What we have been up to
