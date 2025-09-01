@@ -41,20 +41,23 @@ sections:
       title: 5 Years of Amazing MoCa!
       subtitle: Moulmein-Cairnhill Brochure
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: MOCA Heartland Halloween – Feast of Screams ‘25
+      subtitle: 18 October 2025, Saturday
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: Get ready for a night of frightful fun!
+      button: Purchase Here
       image: /images/539760993_1174736288033092_2877918222667092715_n.jpg
       alt: Image alt text
+      url: https://go.gov.sg/mocafeastofscreams
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: Mammogram Screening
+      subtitle: 8 & 9 November 2025
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: Early detection saves lives! Join us for mammogram screening
+      button: Purchase Here
       alt: Image alt text
+      image: /images/538330339_18016348529772703_268362780476047628_n.jpg
+      url: https://go.gov.sg/mammogramscreening2025
   - infopic:
       title: Infopic
       subtitle: Add an image and text
