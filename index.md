@@ -52,7 +52,7 @@ sections:
       image: /images/529846915_1236082981884753_7996217963737574087_n.jpg
       url: https://tinyurl.com/gncmonkeyguarding2025
   - infopic:
-      title: "🌱🎾 Serve & Sustain: Cambridge Park Edition!"
+      title: "Serve & Sustain: Cambridge Park Edition!"
       subtitle: 20 September 2025, Saturday
       id: infopic
       description: Join us for an exciting and eco-friendly afternoon at Cambridge Park!
