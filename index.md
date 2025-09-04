@@ -52,6 +52,15 @@ sections:
       image: /images/529846915_1236082981884753_7996217963737574087_n.jpg
       url: https://tinyurl.com/gncmonkeyguarding2025
   - infopic:
+      title: "Serve & Sustain: Cambridge Park Edition!"
+      subtitle: 20 September 2025, Saturday
+      id: infopic
+      description: Join us for an exciting and eco-friendly afternoon at Cambridge Park!
+      button: Purchase Here
+      url: https://go.gov.sg/cambridgeserveandsustain
+      image: /images/Serve___Sustain_at_Cambridge_Park.png
+      alt: Image alt text
+  - infopic:
       title: 1960s A Go-Go!
       subtitle: 20 September 2025, Saturday
       id: infopic

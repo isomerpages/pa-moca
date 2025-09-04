@@ -15,8 +15,7 @@ Yew's incredible life rendered in engaging interactions in the many rooms
 that make up the “experience”.</p>
 <p>Having just re-read “The Singapore Story”, “LKY: The Experience” had even
 more familiarity and meaning for me.</p>
-<p>Good news is that “LKY: The Experience”will be extended to March 2024.
-So please drop by to experience it: <a href="https://lkyexperience.com/?fbclid=IwAR0lb1LK3s-DlsbTPQI8ilSSiJclf7agBW6d8nOcWGbzqfBW_XOaVpiqNII" rel="noopener noreferrer nofollow" target="_blank">https://lkyexperience.com</a>!</p>
+<p></p>
 <p>‍</p>
 <p>
 <br>
