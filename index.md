@@ -118,6 +118,26 @@ sections:
       alt: Image alt text
       image: /images/538330339_18016348529772703_268362780476047628_n.jpg
       url: https://go.gov.sg/mammogramscreening2025
+  - infopic:
+      title: "Mental Health Festival 2025: Everyone Matters"
+      subtitle: 25 October 2025, Saturday
+      id: infopic
+      description: Join us as we celebrate Singapore’s 60th with a meaningful event
+        that emphasizes unity, resilience, and well-being for all!
+      button: Register Hee
+      url: https://go.gov.sg/everyonematterson25oct2025
+      alt: Image alt text
+  - infopic:
+      title: Local Heritage Tour
+      subtitle: 22 November 2025, Saturday
+      id: infopic
+      description: Join us for a Local Heritage Tour to the Asian Civilisations Museum
+        for an unforgettable experience exploring the history & cultures of
+        Asia.
+      button: Purchase Here
+      url: https://go.gov.sg/localheritage2025
+      image: /images/Heritage_Tour_Poster.png
+      alt: Image alt text
   - resources:
       id: resources
       subtitle: What we have been up to
