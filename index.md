@@ -41,17 +41,6 @@ sections:
       title: 5 Years of Amazing MoCa!
       subtitle: Moulmein-Cairnhill Brochure
   - infopic:
-      title: 2025 Monkey Guarding Workshop
-      subtitle: 6 September 2025, Saturday
-      id: infopic
-      description: Join us and learn practical skills for Monkey Guarding—how to stay
-        safe, handle encounters responsibly, and protect both people and
-        wildlife!
-      button: Register Here
-      alt: Image alt text
-      image: /images/529846915_1236082981884753_7996217963737574087_n.jpg
-      url: https://tinyurl.com/gncmonkeyguarding2025
-  - infopic:
       title: "Serve & Sustain: Cambridge Park Edition!"
       subtitle: 20 September 2025, Saturday
       id: infopic
