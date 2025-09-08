@@ -101,6 +101,15 @@ sections:
       image: /images/SCEC_tour_to_Jurong_Lake__5_.png
       alt: Image alt text
   - infopic:
+      title: "One Community Fiesta: Spooks, Sprouts & Monsters"
+      subtitle: 11 October 2025, Saturday
+      id: infopic
+      description: Ready for a spook-tacular night out?
+      button: Purchase here
+      url: https://go.gov.sg/tpgrchalloween2025
+      image: /images/MOCA___Cairnhill.png
+      alt: Image alt text
+  - infopic:
       title: MOCA Heartland Halloween – Feast of Screams ‘25
       subtitle: 18 October 2025, Saturday
       id: infopic
@@ -110,15 +119,6 @@ sections:
       alt: Image alt text
       url: https://go.gov.sg/mocafeastofscreams
   - infopic:
-      title: Mammogram Screening
-      subtitle: 8 & 9 November 2025
-      id: infopic
-      description: Early detection saves lives! Join us for mammogram screening
-      button: Purchase Here
-      alt: Image alt text
-      image: /images/538330339_18016348529772703_268362780476047628_n.jpg
-      url: https://go.gov.sg/mammogramscreening2025
-  - infopic:
       title: "Mental Health Festival 2025: Everyone Matters"
       subtitle: 25 October 2025, Saturday
       id: infopic
@@ -127,6 +127,16 @@ sections:
       button: Register Hee
       url: https://go.gov.sg/everyonematterson25oct2025
       alt: Image alt text
+      image: /images/Poster_Everyone_Matters__Event_Date_25_Oct_2025_A4_Portrait__1_.png
+  - infopic:
+      title: Mammogram Screening
+      subtitle: 8 & 9 November 2025
+      id: infopic
+      description: Early detection saves lives! Join us for mammogram screening
+      button: Purchase Here
+      alt: Image alt text
+      image: /images/538330339_18016348529772703_268362780476047628_n.jpg
+      url: https://go.gov.sg/mammogramscreening2025
   - infopic:
       title: Local Heritage Tour
       subtitle: 22 November 2025, Saturday
