@@ -113,7 +113,7 @@ sections:
       id: infopic
       description: Join us as we celebrate Singapore’s 60th with a meaningful event
         that emphasizes unity, resilience, and well-being for all!
-      button: Register Hee
+      button: Register Here
       url: https://go.gov.sg/everyonematterson25oct2025
       alt: Image alt text
       image: /images/Poster_Everyone_Matters__Event_Date_25_Oct_2025_A4_Portrait__1_.png
