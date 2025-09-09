@@ -41,17 +41,6 @@ sections:
       title: 5 Years of Amazing MoCa!
       subtitle: Moulmein-Cairnhill Brochure
   - infopic:
-      title: 2025 Monkey Guarding Workshop
-      subtitle: 6 September 2025, Saturday
-      id: infopic
-      description: Join us and learn practical skills for Monkey Guarding—how to stay
-        safe, handle encounters responsibly, and protect both people and
-        wildlife!
-      button: Register Here
-      alt: Image alt text
-      image: /images/529846915_1236082981884753_7996217963737574087_n.jpg
-      url: https://tinyurl.com/gncmonkeyguarding2025
-  - infopic:
       title: "Serve & Sustain: Cambridge Park Edition!"
       subtitle: 20 September 2025, Saturday
       id: infopic
@@ -101,6 +90,15 @@ sections:
       image: /images/SCEC_tour_to_Jurong_Lake__5_.png
       alt: Image alt text
   - infopic:
+      title: "One Community Fiesta: Spooks, Sprouts & Monsters"
+      subtitle: 11 October 2025, Saturday
+      id: infopic
+      description: Ready for a spook-tacular night out?
+      button: Purchase here
+      url: https://go.gov.sg/tpgrchalloween2025
+      image: /images/MOCA___Cairnhill.png
+      alt: Image alt text
+  - infopic:
       title: MOCA Heartland Halloween – Feast of Screams ‘25
       subtitle: 18 October 2025, Saturday
       id: infopic
@@ -110,6 +108,16 @@ sections:
       alt: Image alt text
       url: https://go.gov.sg/mocafeastofscreams
   - infopic:
+      title: "Mental Health Festival 2025: Everyone Matters"
+      subtitle: 25 October 2025, Saturday
+      id: infopic
+      description: Join us as we celebrate Singapore’s 60th with a meaningful event
+        that emphasizes unity, resilience, and well-being for all!
+      button: Register Hee
+      url: https://go.gov.sg/everyonematterson25oct2025
+      alt: Image alt text
+      image: /images/Poster_Everyone_Matters__Event_Date_25_Oct_2025_A4_Portrait__1_.png
+  - infopic:
       title: Mammogram Screening
       subtitle: 8 & 9 November 2025
       id: infopic
@@ -118,6 +126,17 @@ sections:
       alt: Image alt text
       image: /images/538330339_18016348529772703_268362780476047628_n.jpg
       url: https://go.gov.sg/mammogramscreening2025
+  - infopic:
+      title: Local Heritage Tour
+      subtitle: 22 November 2025, Saturday
+      id: infopic
+      description: Join us for a Local Heritage Tour to the Asian Civilisations Museum
+        for an unforgettable experience exploring the history & cultures of
+        Asia.
+      button: Purchase Here
+      url: https://go.gov.sg/localheritage2025
+      image: /images/Heritage_Tour_Poster.png
+      alt: Image alt text
   - resources:
       id: resources
       subtitle: What we have been up to
