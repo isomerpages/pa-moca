@@ -1,6 +1,6 @@
 ---
-title: Winsted Road Speed Hump
-permalink: /winsted-road-speed-hump-and-safety-cones/
+title: Winstedt Road Speed Hump
+permalink: /winstedt-road-speed-hump-and-safety-cones/
 date: 2024-08-22
 layout: post
 description: ""
