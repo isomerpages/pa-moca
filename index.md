@@ -101,12 +101,15 @@ sections:
       image: /images/548804684_1190978843075503_7533490265696719592_n.jpg
       alt: Image alt text
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: MoCA Heritage Trail & Dragon Playground Carnival 2025
+      subtitle: 11 October 2025, Saturday
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: Embark on one-hour self-guided Heritage Trail — explore hidden gems
+        in our neighbourhood
+      button: Purchase Here
       alt: Image alt text
+      url: https://go.gov.sg/newtonsg60heritage
+      image: /images/WhatsApp_Image_2025_09_16_at_12_31_15.jpg
   - infopic:
       title: "One Community Fiesta: Spooks, Sprouts & Monsters"
       subtitle: 11 October 2025, Saturday
