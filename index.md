@@ -90,6 +90,24 @@ sections:
       image: /images/SCEC_tour_to_Jurong_Lake__5_.png
       alt: Image alt text
   - infopic:
+      title: SG60 Keep Singapore Clean Carnival
+      subtitle: 4 October 2025, Saturday
+      id: infopic
+      description: Join us for a fun-filled morning of exciting activities, tasty
+        carnival snacks, and meaningful ways to contribute to a more sustainable
+        Singapore!
+      button: Purchase Here
+      url: https://go.gov.sg/sg60cleansg
+      image: /images/548804684_1190978843075503_7533490265696719592_n.jpg
+      alt: Image alt text
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
+  - infopic:
       title: "One Community Fiesta: Spooks, Sprouts & Monsters"
       subtitle: 11 October 2025, Saturday
       id: infopic
