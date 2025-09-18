@@ -120,6 +120,15 @@ sections:
       image: /images/MOCA___Cairnhill.png
       alt: Image alt text
   - infopic:
+      title: Movie Under the Stars!
+      subtitle: 18 October 2025, Saturday
+      id: infopic
+      description: 🌟 Join Us for the Inaugural Newton RN – Movie Under the Stars! 🎬✨
+      button: Purchase Here
+      url: https://go.gov.sg/sg60newtonmovienight
+      image: /images/WhatsApp_Image_2025_09_18_at_17_17_03.jpg
+      alt: Image alt text
+  - infopic:
       title: MOCA Heartland Halloween – Feast of Screams ‘25
       subtitle: 18 October 2025, Saturday
       id: infopic
