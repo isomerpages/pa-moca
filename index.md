@@ -49,7 +49,7 @@ sections:
       button: Purchase here
       alt: Image alt text
       url: https://go.gov.sg/newtonrnmidautumncelebrations25
-      image: /images/539770085_18054750494407983_6484595476873270867_n.jpg
+      image: /images/WhatsApp_Image_2025_09_26_at_14_40_50.jpg
   - infopic:
       title: Oktoberfest at Tanglin CC
       subtitle: 27 September 2025, Saturday
@@ -79,7 +79,7 @@ sections:
         Singapore!
       button: Purchase Here
       url: https://go.gov.sg/sg60cleansg
-      image: /images/548804684_1190978843075503_7533490265696719592_n.jpg
+      image: /images/WhatsApp_Image_2025_09_26_at_14_40_18.jpg
       alt: Image alt text
   - infopic:
       title: MoCA Heritage Trail & Dragon Playground Carnival 2025
@@ -115,7 +115,7 @@ sections:
       id: infopic
       description: Get ready for a night of frightful fun!
       button: Purchase Here
-      image: /images/539760993_1174736288033092_2877918222667092715_n.jpg
+      image: /images/WhatsApp_Image_2025_09_26_at_14_41_53.jpg
       alt: Image alt text
       url: https://go.gov.sg/mocafeastofscreams
   - infopic:
