@@ -151,4 +151,14 @@ sections:
   - resources:
       id: resources
       subtitle: What we have been up to
+  - infopic:
+      title: Art Jam 2025
+      subtitle: 1 November 2025, Saturday
+      id: infopic
+      description: Celebrate SG60 with us at Art Jam 2025, a fun-filled afternoon of
+        creativity, laughter, and community bonding for the whole family!
+      button: Purchase Here
+      url: https://go.gov.sg/sg60artjam
+      image: /images/554419736_1213036850848317_8725415797691675196_n.jpg
+      alt: Image alt text
 ---
