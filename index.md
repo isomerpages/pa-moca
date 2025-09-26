@@ -41,25 +41,6 @@ sections:
       title: 5 Years of Amazing MoCa!
       subtitle: Moulmein-Cairnhill Brochure
   - infopic:
-      title: "Serve & Sustain: Cambridge Park Edition!"
-      subtitle: 20 September 2025, Saturday
-      id: infopic
-      description: Join us for an exciting and eco-friendly afternoon at Cambridge Park!
-      button: Purchase Here
-      url: https://go.gov.sg/cambridgeserveandsustain
-      image: /images/Serve___Sustain_at_Cambridge_Park.png
-      alt: Image alt text
-  - infopic:
-      title: 1960s A Go-Go!
-      subtitle: 20 September 2025, Saturday
-      id: infopic
-      description: Travel back to the swinging sixties with live entertainment, retro
-        vibes, and delicious food.
-      button: Purchase Here
-      url: https://go.gov.sg/20septccwecagogo
-      image: /images/WhatsApp_Image_2025_08_07_at_11_29_57.jpg
-      alt: Image alt text
-  - infopic:
       title: Mid-Autumn Festival
       subtitle: 27 September 2025, Saturday
       id: infopic
@@ -90,6 +71,27 @@ sections:
       image: /images/SCEC_tour_to_Jurong_Lake__5_.png
       alt: Image alt text
   - infopic:
+      title: SG60 Keep Singapore Clean Carnival
+      subtitle: 4 October 2025, Saturday
+      id: infopic
+      description: Join us for a fun-filled morning of exciting activities, tasty
+        carnival snacks, and meaningful ways to contribute to a more sustainable
+        Singapore!
+      button: Purchase Here
+      url: https://go.gov.sg/sg60cleansg
+      image: /images/548804684_1190978843075503_7533490265696719592_n.jpg
+      alt: Image alt text
+  - infopic:
+      title: MoCA Heritage Trail & Dragon Playground Carnival 2025
+      subtitle: 11 October 2025, Saturday
+      id: infopic
+      description: Embark on one-hour self-guided Heritage Trail — explore hidden gems
+        in our neighbourhood
+      button: Purchase Here
+      alt: Image alt text
+      url: https://go.gov.sg/newtonsg60heritage
+      image: /images/WhatsApp_Image_2025_09_16_at_12_31_15.jpg
+  - infopic:
       title: "One Community Fiesta: Spooks, Sprouts & Monsters"
       subtitle: 11 October 2025, Saturday
       id: infopic
@@ -97,6 +99,15 @@ sections:
       button: Purchase here
       url: https://go.gov.sg/tpgrchalloween2025
       image: /images/MOCA___Cairnhill.png
+      alt: Image alt text
+  - infopic:
+      title: Movie Under the Stars!
+      subtitle: 18 October 2025, Saturday
+      id: infopic
+      description: 🌟 Join Us for the Inaugural Newton RN – Movie Under the Stars! 🎬✨
+      button: Purchase Here
+      url: https://go.gov.sg/sg60newtonmovienight
+      image: /images/WhatsApp_Image_2025_09_18_at_17_17_03.jpg
       alt: Image alt text
   - infopic:
       title: MOCA Heartland Halloween – Feast of Screams ‘25
