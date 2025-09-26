@@ -49,7 +49,7 @@ sections:
       button: Purchase here
       alt: Image alt text
       url: https://go.gov.sg/newtonrnmidautumncelebrations25
-      image: /images/539770085_18054750494407983_6484595476873270867_n.jpg
+      image: /images/WhatsApp_Image_2025_09_26_at_14_40_50.jpg
   - infopic:
       title: Oktoberfest at Tanglin CC
       subtitle: 27 September 2025, Saturday
@@ -79,7 +79,7 @@ sections:
         Singapore!
       button: Purchase Here
       url: https://go.gov.sg/sg60cleansg
-      image: /images/548804684_1190978843075503_7533490265696719592_n.jpg
+      image: /images/WhatsApp_Image_2025_09_26_at_14_40_18.jpg
       alt: Image alt text
   - infopic:
       title: MoCA Heritage Trail & Dragon Playground Carnival 2025
@@ -107,7 +107,7 @@ sections:
       description: 🌟 Join Us for the Inaugural Newton RN – Movie Under the Stars! 🎬✨
       button: Purchase Here
       url: https://go.gov.sg/sg60newtonmovienight
-      image: /images/WhatsApp_Image_2025_09_18_at_17_17_03.jpg
+      image: /images/WhatsApp_Image_2025_09_26_at_17_13_03.jpg
       alt: Image alt text
   - infopic:
       title: MOCA Heartland Halloween – Feast of Screams ‘25
@@ -115,7 +115,7 @@ sections:
       id: infopic
       description: Get ready for a night of frightful fun!
       button: Purchase Here
-      image: /images/539760993_1174736288033092_2877918222667092715_n.jpg
+      image: /images/WhatsApp_Image_2025_09_26_at_14_41_53.jpg
       alt: Image alt text
       url: https://go.gov.sg/mocafeastofscreams
   - infopic:
@@ -128,6 +128,16 @@ sections:
       url: https://go.gov.sg/everyonematterson25oct2025
       alt: Image alt text
       image: /images/Poster_Everyone_Matters__Event_Date_25_Oct_2025_A4_Portrait__1_.png
+  - infopic:
+      title: Art Jam 2025
+      subtitle: 1 November 2025, Saturday
+      id: infopic
+      description: Celebrate SG60 with us at Art Jam 2025, a fun-filled afternoon of
+        creativity, laughter, and community bonding for the whole family!
+      button: Purchase Here
+      url: https://go.gov.sg/sg60artjam
+      image: /images/554419736_1213036850848317_8725415797691675196_n.jpg
+      alt: Image alt text
   - infopic:
       title: Mammogram Screening
       subtitle: 8 & 9 November 2025
