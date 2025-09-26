@@ -107,7 +107,7 @@ sections:
       description: 🌟 Join Us for the Inaugural Newton RN – Movie Under the Stars! 🎬✨
       button: Purchase Here
       url: https://go.gov.sg/sg60newtonmovienight
-      image: /images/WhatsApp_Image_2025_09_18_at_17_17_03.jpg
+      image: /images/WhatsApp_Image_2025_09_26_at_17_13_03.jpg
       alt: Image alt text
   - infopic:
       title: MOCA Heartland Halloween – Feast of Screams ‘25
@@ -128,6 +128,16 @@ sections:
       url: https://go.gov.sg/everyonematterson25oct2025
       alt: Image alt text
       image: /images/Poster_Everyone_Matters__Event_Date_25_Oct_2025_A4_Portrait__1_.png
+  - infopic:
+      title: Art Jam 2025
+      subtitle: 1 November 2025, Saturday
+      id: infopic
+      description: Celebrate SG60 with us at Art Jam 2025, a fun-filled afternoon of
+        creativity, laughter, and community bonding for the whole family!
+      button: Purchase Here
+      url: https://go.gov.sg/sg60artjam
+      image: /images/554419736_1213036850848317_8725415797691675196_n.jpg
+      alt: Image alt text
   - infopic:
       title: Mammogram Screening
       subtitle: 8 & 9 November 2025
@@ -151,14 +161,4 @@ sections:
   - resources:
       id: resources
       subtitle: What we have been up to
-  - infopic:
-      title: Art Jam 2025
-      subtitle: 1 November 2025, Saturday
-      id: infopic
-      description: Celebrate SG60 with us at Art Jam 2025, a fun-filled afternoon of
-        creativity, laughter, and community bonding for the whole family!
-      button: Purchase Here
-      url: https://go.gov.sg/sg60artjam
-      image: /images/554419736_1213036850848317_8725415797691675196_n.jpg
-      alt: Image alt text
 ---
