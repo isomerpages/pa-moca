@@ -41,26 +41,6 @@ sections:
       title: 5 Years of Amazing MoCa!
       subtitle: Moulmein-Cairnhill Brochure
   - infopic:
-      title: Mid-Autumn Festival
-      subtitle: 27 September 2025, Saturday
-      id: infopic
-      description: Join us for a fun filled evening, celebrating Mid-Autumn Festival
-        this SG60 through traditional snacks and engaging activities.
-      button: Purchase here
-      alt: Image alt text
-      url: https://go.gov.sg/newtonrnmidautumncelebrations25
-      image: /images/WhatsApp_Image_2025_09_26_at_14_40_50.jpg
-  - infopic:
-      title: Oktoberfest at Tanglin CC
-      subtitle: 27 September 2025, Saturday
-      id: infopic
-      description: All are welcome! Bring your friends & family, and raise your glass
-        to a night of great food, music & community cheer.
-      button: Purchase here
-      image: /images/WhatsApp_Image_2025_08_11_at_10_33_21.jpg
-      alt: Image alt text
-      url: https://go.gov.sg/tccoktoberfest2025
-  - infopic:
       title: Mid-Autumn Tour at Jurong Lake
       subtitle: 4 October 2025, Saturday
       id: infopic
