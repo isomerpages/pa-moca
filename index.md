@@ -50,6 +50,15 @@ sections:
       image: /images/548531583_1227825232711986_2620149940665045802_n.jpg
       url: https://go.gov.sg/chccchapter2
   - infopic:
+      title: Celebrate Mid-Autumn with us at Pek Kio!
+      subtitle: 4 October 2025, Saturday
+      id: infopic
+      description: Bring your family and friends—let’s light up the evening together!
+      button: Purchase Here
+      url: https://go.gov.sg/pkcc-midautumn2025
+      image: /images/538385899_18015769598772703_2299096812016823245_n.jpg
+      alt: Image alt text
+  - infopic:
       title: Mid-Autumn Tour at Jurong Lake
       subtitle: 4 October 2025, Saturday
       id: infopic
