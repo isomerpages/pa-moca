@@ -41,25 +41,23 @@ sections:
       title: 5 Years of Amazing MoCa!
       subtitle: Moulmein-Cairnhill Brochure
   - infopic:
-      title: Mid-Autumn Festival
-      subtitle: 27 September 2025, Saturday
+      title: The Quietest Rave @ Cairnhill CC
+      subtitle: 4 October 2025, Saturday
       id: infopic
-      description: Join us for a fun filled evening, celebrating Mid-Autumn Festival
-        this SG60 through traditional snacks and engaging activities.
-      button: Purchase here
+      description: Join us for a one-of-a-kind silent disco where the music is in your ears!
+      button: Register Here
       alt: Image alt text
-      url: https://go.gov.sg/newtonrnmidautumncelebrations25
-      image: /images/WhatsApp_Image_2025_09_26_at_14_40_50.jpg
+      image: /images/548531583_1227825232711986_2620149940665045802_n.jpg
+      url: https://go.gov.sg/chccchapter2
   - infopic:
-      title: Oktoberfest at Tanglin CC
-      subtitle: 27 September 2025, Saturday
+      title: Celebrate Mid-Autumn with us at Pek Kio
+      subtitle: 4 October 2025, Saturday
       id: infopic
-      description: All are welcome! Bring your friends & family, and raise your glass
-        to a night of great food, music & community cheer.
-      button: Purchase here
-      image: /images/WhatsApp_Image_2025_08_11_at_10_33_21.jpg
+      description: Bring your family and friends—let’s light up the evening together!
+      button: Purchase Here
+      url: https://go.gov.sg/pkcc-midautumn2025
+      image: /images/538385899_18015769598772703_2299096812016823245_n.jpg
       alt: Image alt text
-      url: https://go.gov.sg/tccoktoberfest2025
   - infopic:
       title: Mid-Autumn Tour at Jurong Lake
       subtitle: 4 October 2025, Saturday
@@ -118,6 +116,16 @@ sections:
       image: /images/WhatsApp_Image_2025_09_26_at_14_41_53.jpg
       alt: Image alt text
       url: https://go.gov.sg/mocafeastofscreams
+  - infopic:
+      title: Stevens RN’s Inaugural Halloween Street Party – NEON PARTY
+      subtitle: 25 October 2025, Saturday
+      id: infopic
+      description: Join us for an evening filled with games, trick-or-treat booths,
+        and more!
+      button: Purchase Here
+      url: https://go.gov.sg/stevenshalloween
+      image: /images/555152684_17917333785190443_8398405549670019351_n.jpg
+      alt: Image alt text
   - infopic:
       title: "Mental Health Festival 2025: Everyone Matters"
       subtitle: 25 October 2025, Saturday
