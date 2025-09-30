@@ -143,11 +143,13 @@ sections:
       subtitle: What we have been up to
   - infopic:
       title: The Quietest Rave @ Cairnhill CC
-      subtitle: Add an image and text
+      subtitle: 4 October 2025, Saturday
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: Join us for a one-of-a-kind silent disco where the music is in your ears!
+      button: Register Here
       alt: Image alt text
+      image: /images/548531583_1227825232711986_2620149940665045802_n.jpg
+      url: https://go.gov.sg/chccchapter2
   - infopic:
       title: Stevens RN’s Inaugural Halloween Street Party – NEON PARTY
       subtitle: 25 October 2025, Saturday
