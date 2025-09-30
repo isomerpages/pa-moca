@@ -41,6 +41,15 @@ sections:
       title: 5 Years of Amazing MoCa!
       subtitle: Moulmein-Cairnhill Brochure
   - infopic:
+      title: The Quietest Rave @ Cairnhill CC
+      subtitle: 4 October 2025, Saturday
+      id: infopic
+      description: Join us for a one-of-a-kind silent disco where the music is in your ears!
+      button: Register Here
+      alt: Image alt text
+      image: /images/548531583_1227825232711986_2620149940665045802_n.jpg
+      url: https://go.gov.sg/chccchapter2
+  - infopic:
       title: Mid-Autumn Tour at Jurong Lake
       subtitle: 4 October 2025, Saturday
       id: infopic
@@ -99,6 +108,16 @@ sections:
       alt: Image alt text
       url: https://go.gov.sg/mocafeastofscreams
   - infopic:
+      title: Stevens RN’s Inaugural Halloween Street Party – NEON PARTY
+      subtitle: 25 October 2025, Saturday
+      id: infopic
+      description: Join us for an evening filled with games, trick-or-treat booths,
+        and more!
+      button: Purchase Here
+      url: https://go.gov.sg/stevenshalloween
+      image: /images/555152684_17917333785190443_8398405549670019351_n.jpg
+      alt: Image alt text
+  - infopic:
       title: "Mental Health Festival 2025: Everyone Matters"
       subtitle: 25 October 2025, Saturday
       id: infopic
@@ -141,23 +160,4 @@ sections:
   - resources:
       id: resources
       subtitle: What we have been up to
-  - infopic:
-      title: The Quietest Rave @ Cairnhill CC
-      subtitle: 4 October 2025, Saturday
-      id: infopic
-      description: Join us for a one-of-a-kind silent disco where the music is in your ears!
-      button: Register Here
-      alt: Image alt text
-      image: /images/548531583_1227825232711986_2620149940665045802_n.jpg
-      url: https://go.gov.sg/chccchapter2
-  - infopic:
-      title: Stevens RN’s Inaugural Halloween Street Party – NEON PARTY
-      subtitle: 25 October 2025, Saturday
-      id: infopic
-      description: Join us for an evening filled with games, trick-or-treat booths,
-        and more!
-      button: Purchase Here
-      url: https://go.gov.sg/stevenshalloween
-      image: /images/555152684_17917333785190443_8398405549670019351_n.jpg
-      alt: Image alt text
 ---
