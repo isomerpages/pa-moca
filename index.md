@@ -41,45 +41,6 @@ sections:
       title: 5 Years of Amazing MoCa!
       subtitle: Moulmein-Cairnhill Brochure
   - infopic:
-      title: The Quietest Rave @ Cairnhill CC
-      subtitle: 4 October 2025, Saturday
-      id: infopic
-      description: Join us for a one-of-a-kind silent disco where the music is in your ears!
-      button: Register Here
-      alt: Image alt text
-      image: /images/548531583_1227825232711986_2620149940665045802_n.jpg
-      url: https://go.gov.sg/chccchapter2
-  - infopic:
-      title: Celebrate Mid-Autumn with us at Pek Kio
-      subtitle: 4 October 2025, Saturday
-      id: infopic
-      description: Bring your family and friends—let’s light up the evening together!
-      button: Purchase Here
-      url: https://go.gov.sg/pkcc-midautumn2025
-      image: /images/538385899_18015769598772703_2299096812016823245_n.jpg
-      alt: Image alt text
-  - infopic:
-      title: Mid-Autumn Tour at Jurong Lake
-      subtitle: 4 October 2025, Saturday
-      id: infopic
-      description: We warmly invite you for an enchanting evening of moon-gazing, a
-        delicious dinner, and a magical walk by the Lake.
-      button: Purchase Here
-      url: https://go.gov.sg/scecmidautumnwalk25
-      image: /images/SCEC_tour_to_Jurong_Lake__5_.png
-      alt: Image alt text
-  - infopic:
-      title: SG60 Keep Singapore Clean Carnival
-      subtitle: 4 October 2025, Saturday
-      id: infopic
-      description: Join us for a fun-filled morning of exciting activities, tasty
-        carnival snacks, and meaningful ways to contribute to a more sustainable
-        Singapore!
-      button: Purchase Here
-      url: https://go.gov.sg/sg60cleansg
-      image: /images/WhatsApp_Image_2025_09_26_at_14_40_18.jpg
-      alt: Image alt text
-  - infopic:
       title: MoCA Heritage Trail & Dragon Playground Carnival 2025
       subtitle: 11 October 2025, Saturday
       id: infopic
