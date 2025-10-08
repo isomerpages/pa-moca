@@ -78,7 +78,7 @@ sections:
       alt: Image alt text
       url: https://go.gov.sg/mocafeastofscreams
   - infopic:
-      title: Clean Newton!
+      title: Clean Newton
       subtitle: 25 October 2025, Saturday
       id: infopic
       description: Be part of our upcoming community clean-up event around the Newton
