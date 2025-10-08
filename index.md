@@ -78,6 +78,16 @@ sections:
       alt: Image alt text
       url: https://go.gov.sg/mocafeastofscreams
   - infopic:
+      title: Clean Newton
+      subtitle: 25 October 2025, Saturday
+      id: infopic
+      description: Be part of our upcoming community clean-up event around the Newton
+        area and make a positive impact on our environment!
+      button: Register Here
+      url: https://go.gov.sg/cleannewton25
+      image: /images/42c3d1f9_cc68_4b41_b4e7_880a91de29e7.jpg
+      alt: Image alt text
+  - infopic:
       title: Stevens RN’s Inaugural Halloween Street Party – NEON PARTY
       subtitle: 25 October 2025, Saturday
       id: infopic
