@@ -51,15 +51,6 @@ sections:
       url: https://go.gov.sg/newtonsg60heritage
       image: /images/WhatsApp_Image_2025_09_16_at_12_31_15.jpg
   - infopic:
-      title: "One Community Fiesta: Spooks, Sprouts & Monsters"
-      subtitle: 11 October 2025, Saturday
-      id: infopic
-      description: Ready for a spook-tacular night out?
-      button: Purchase here
-      url: https://go.gov.sg/tpgrchalloween2025
-      image: /images/MOCA___Cairnhill.png
-      alt: Image alt text
-  - infopic:
       title: Movie Under the Stars!
       subtitle: 18 October 2025, Saturday
       id: infopic
