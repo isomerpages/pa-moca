@@ -51,15 +51,6 @@ sections:
       url: https://go.gov.sg/newtonsg60heritage
       image: /images/WhatsApp_Image_2025_09_16_at_12_31_15.jpg
   - infopic:
-      title: "One Community Fiesta: Spooks, Sprouts & Monsters"
-      subtitle: 11 October 2025, Saturday
-      id: infopic
-      description: Ready for a spook-tacular night out?
-      button: Purchase here
-      url: https://go.gov.sg/tpgrchalloween2025
-      image: /images/MOCA___Cairnhill.png
-      alt: Image alt text
-  - infopic:
       title: Movie Under the Stars!
       subtitle: 18 October 2025, Saturday
       id: infopic
@@ -67,6 +58,16 @@ sections:
       button: Purchase Here
       url: https://go.gov.sg/sg60newtonmovienight
       image: /images/WhatsApp_Image_2025_09_26_at_17_13_03.jpg
+      alt: Image alt text
+  - infopic:
+      title: Balmoral RN Halloween Fiesta
+      subtitle: 18 October 2025, Saturday
+      id: infopic
+      description: Tickets are now sold out. You are still welcome to walk along Ewe
+        Boon Rd and participate in the Trick or Treat booths run by our
+        residents!
+      url: "-"
+      image: /images/542711034_1101943118707477_1762913229898629378_n.jpg
       alt: Image alt text
   - infopic:
       title: MOCA Heartland Halloween – Feast of Screams ‘25
