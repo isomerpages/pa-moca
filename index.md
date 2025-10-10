@@ -69,6 +69,16 @@ sections:
       image: /images/WhatsApp_Image_2025_09_26_at_17_13_03.jpg
       alt: Image alt text
   - infopic:
+      title: Balmoral RN Halloween Fiesta
+      subtitle: 18 October 2025, Saturday
+      id: infopic
+      description: Tickets are now sold out. You are still welcome to walk along Ewe
+        Boon Rd and participate in the Trick or Treat booths run by our
+        residents!
+      url: "-"
+      image: /images/542711034_1101943118707477_1762913229898629378_n.jpg
+      alt: Image alt text
+  - infopic:
       title: MOCA Heartland Halloween – Feast of Screams ‘25
       subtitle: 18 October 2025, Saturday
       id: infopic
