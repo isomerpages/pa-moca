@@ -11,7 +11,7 @@ notification: Government officials will never ask you to transfer money or
   href="https://www.scamshield.gov.sg/">Click here for more information</a>
 sections:
   - hero:
-      title: We are Moulmein-Cairnhill
+      title: Our Moulmein-Cairnhill
       subtitle: Our people, communities’ contribution is what makes this town special,
         caring and warm. Come experience it and join us in making a difference.
       background: /images/The_Quietest_Rave_Moulmein_Cairnhill_47.jpg
