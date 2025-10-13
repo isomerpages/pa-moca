@@ -41,16 +41,6 @@ sections:
       title: 5 Years of Amazing MoCa!
       subtitle: Moulmein-Cairnhill Brochure
   - infopic:
-      title: MoCA Heritage Trail & Dragon Playground Carnival 2025
-      subtitle: 11 October 2025, Saturday
-      id: infopic
-      description: Embark on one-hour self-guided Heritage Trail — explore hidden gems
-        in our neighbourhood
-      button: Purchase Here
-      alt: Image alt text
-      url: https://go.gov.sg/newtonsg60heritage
-      image: /images/WhatsApp_Image_2025_09_16_at_12_31_15.jpg
-  - infopic:
       title: Movie Under the Stars!
       subtitle: 18 October 2025, Saturday
       id: infopic
@@ -137,6 +127,24 @@ sections:
       button: Purchase Here
       url: https://go.gov.sg/localheritage2025
       image: /images/Heritage_Tour_Poster.png
+      alt: Image alt text
+  - infopic:
+      title: MoCa Bowling Competition
+      subtitle: 22 November 2025, Saturday
+      id: infopic
+      description: Join us for our Annual Bowling Competition!
+      button: Purchase Here
+      url: https://go.gov.sg/funbowl2025
+      image: /images/WhatsApp_Image_2025_10_13_at_16_16_11.jpg
+      alt: Image alt text
+  - infopic:
+      title: 🌶️ Spice Up SG60 Workshop @ Pek Kio CC! 🌶️
+      subtitle: 23 November 2025, Sunday
+      id: infopic
+      description: Play, blend, and taste your way through Singapore’s spice heritage!
+      button: Purchase Here
+      url: https://go.gov.sg/pkwecspiceworkshop
+      image: /images/Spice_Up_SG60_Workshop__cleared__page_0001.jpg
       alt: Image alt text
   - resources:
       id: resources
