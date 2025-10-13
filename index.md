@@ -128,9 +128,6 @@ sections:
       url: https://go.gov.sg/localheritage2025
       image: /images/Heritage_Tour_Poster.png
       alt: Image alt text
-  - resources:
-      id: resources
-      subtitle: What we have been up to
   - infopic:
       title: MoCa Bowling Competition
       subtitle: 22 November 2025, Saturday
@@ -149,4 +146,7 @@ sections:
       url: https://go.gov.sg/pkwecspiceworkshop
       image: /images/Spice_Up_SG60_Workshop__cleared__page_0001.jpg
       alt: Image alt text
+  - resources:
+      id: resources
+      subtitle: What we have been up to
 ---
