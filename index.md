@@ -41,34 +41,6 @@ sections:
       title: 5 Years of Amazing MoCa!
       subtitle: Moulmein-Cairnhill Brochure
   - infopic:
-      title: Movie Under the Stars!
-      subtitle: 18 October 2025, Saturday
-      id: infopic
-      description: 🌟 Join Us for the Inaugural Newton RN – Movie Under the Stars! 🎬✨
-      button: Purchase Here
-      url: https://go.gov.sg/sg60newtonmovienight
-      image: /images/WhatsApp_Image_2025_09_26_at_17_13_03.jpg
-      alt: Image alt text
-  - infopic:
-      title: Balmoral RN Halloween Fiesta
-      subtitle: 18 October 2025, Saturday
-      id: infopic
-      description: Tickets are now sold out. You are still welcome to walk along Ewe
-        Boon Rd and participate in the Trick or Treat booths run by our
-        residents!
-      url: "-"
-      image: /images/542711034_1101943118707477_1762913229898629378_n.jpg
-      alt: Image alt text
-  - infopic:
-      title: MOCA Heartland Halloween – Feast of Screams ‘25
-      subtitle: 18 October 2025, Saturday
-      id: infopic
-      description: Get ready for a night of frightful fun!
-      button: Purchase Here
-      image: /images/WhatsApp_Image_2025_09_26_at_14_41_53.jpg
-      alt: Image alt text
-      url: https://go.gov.sg/mocafeastofscreams
-  - infopic:
       title: Clean Newton
       subtitle: 25 October 2025, Saturday
       id: infopic
