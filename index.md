@@ -41,36 +41,6 @@ sections:
       title: 5 Years of Amazing MoCa!
       subtitle: Moulmein-Cairnhill Brochure
   - infopic:
-      title: Clean Newton
-      subtitle: 25 October 2025, Saturday
-      id: infopic
-      description: Be part of our upcoming community clean-up event around the Newton
-        area and make a positive impact on our environment!
-      button: Register Here
-      url: https://go.gov.sg/cleannewton25
-      image: /images/42c3d1f9_cc68_4b41_b4e7_880a91de29e7.jpg
-      alt: Image alt text
-  - infopic:
-      title: Stevens RN’s Inaugural Halloween Street Party – NEON PARTY
-      subtitle: 25 October 2025, Saturday
-      id: infopic
-      description: Join us for an evening filled with games, trick-or-treat booths,
-        and more!
-      button: Purchase Here
-      url: https://go.gov.sg/stevenshalloween
-      image: /images/555152684_17917333785190443_8398405549670019351_n.jpg
-      alt: Image alt text
-  - infopic:
-      title: "Mental Health Festival 2025: Everyone Matters"
-      subtitle: 25 October 2025, Saturday
-      id: infopic
-      description: Join us as we celebrate Singapore’s 60th with a meaningful event
-        that emphasizes unity, resilience, and well-being for all!
-      button: Register Here
-      url: https://go.gov.sg/everyonematterson25oct2025
-      alt: Image alt text
-      image: /images/Poster_Everyone_Matters__Event_Date_25_Oct_2025_A4_Portrait__1_.png
-  - infopic:
       title: Art Jam 2025
       subtitle: 1 November 2025, Saturday
       id: infopic
