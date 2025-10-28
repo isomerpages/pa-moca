@@ -96,7 +96,7 @@ sections:
       button: Register Here
       alt: Image alt text
       image: /images/564674390_1219166270256760_3039342868358335703_n.jpg
-      url: go.gov.sg/paws-and-furs-2025
+      url: https://www.onepa.gov.sg/events/tanjong-pagar-grc-queenstown-and-radin-mas-smcs-paws-and-furs-2025-51155637
   - infopic:
       title: Mammogram Screening
       subtitle: 8 & 9 November 2025
