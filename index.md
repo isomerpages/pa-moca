@@ -139,12 +139,14 @@ sections:
       alt: Image alt text
       image: /images/562339381_1218233993683321_5639001305835412879_n.jpg
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: Healthy Hearts for All!
+      subtitle: 8 November 2025, Saturday
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: Join us for an inspiring afternoon to learn about the holistic
+        approach to a healthy heart! 🫀✨
+      button: Register Here
       alt: Image alt text
+      url: https://go.gov.sg/healthyheartsforall
   - infopic:
       title: Infopic
       subtitle: Add an image and text
