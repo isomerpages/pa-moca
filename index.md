@@ -147,6 +147,7 @@ sections:
       button: Register Here
       alt: Image alt text
       url: https://go.gov.sg/healthyheartsforall
+      image: /images/559482246_1293029046190146_2701909947520327905_n.jpg
   - infopic:
       title: Infopic
       subtitle: Add an image and text
