@@ -85,9 +85,9 @@ sections:
       button: Register Here
       alt: Image alt text
       image: /images/569029017_1225161049657282_5444726616987848466_n.jpg
-      url: go.gov.sg/TPGRCTreePlantingDay2025
+      url: https://go.gov.sg/TPGRCTreePlantingDay2025
   - infopic:
-      title: 🐾✨ Paws & Furs 2025 is back! ✨🐾
+      title: 🐾✨Paws & Furs 2025✨🐾
       subtitle: 9 November 2025, Sunday
       id: infopic
       description: Tanjong Pagar GRC, Queenstown and Radin Mas SMCs invite all
