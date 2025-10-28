@@ -92,12 +92,16 @@ sections:
       id: resources
       subtitle: What we have been up to
   - infopic:
-      title: Infopic
+      title: 🐾✨ Paws & Furs 2025 is back! ✨🐾
       subtitle: Add an image and text
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: Tanjong Pagar GRC, Queenstown and Radin Mas SMCs invite all
+        families, friends, and furry companions to a paw-some evening of fun and
+        bonding! 🐕🐈🐇
+      button: Purchase Here
       alt: Image alt text
+      image: /images/564674390_1219166270256760_3039342868358335703_n.jpg
+      url: go.gov.sg/paws-and-furs-2025
   - infopic:
       title: Infopic
       subtitle: Add an image and text
