@@ -103,12 +103,15 @@ sections:
       image: /images/564674390_1219166270256760_3039342868358335703_n.jpg
       url: go.gov.sg/paws-and-furs-2025
   - infopic:
-      title: Infopic
+      title: 🌳 Tree Planting Day 2025 🌳
       subtitle: Add an image and text
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: Come join us at Tanjong Pagar GRC, Queenstown and Radin Mas SMCs'
+        Tree Planting Day 2025 as we celebrate SG60 with our community! 💚
+      button: Register Here
       alt: Image alt text
+      image: /images/569029017_1225161049657282_5444726616987848466_n.jpg
+      url: go.gov.sg/TPGRCTreePlantingDay2025
   - infopic:
       title: Infopic
       subtitle: Add an image and text
