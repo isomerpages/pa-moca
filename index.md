@@ -121,13 +121,15 @@ sections:
       alt: Image alt text
       image: /images/571000902_1227590472747673_6837524102423735543_n.jpg
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: Let’s Kick! ⚽
+      subtitle: 6 December 2025, Saturday
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: Tanjong Pagar GRC, Queenstown & Radin Mas SMCs’ Let’s Kick! ⚽
+        Futsal Tournament is back! It’s your time to shine on the pitch! 🌟
+      button: Purchase Here
       alt: Image alt text
       image: /images/550560086_1216477883858932_2099610866914362032_n.jpg
+      url: https://go.gov.sg/letskick2025
   - infopic:
       title: Infopic
       subtitle: Add an image and text
