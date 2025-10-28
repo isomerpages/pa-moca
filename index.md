@@ -107,6 +107,15 @@ sections:
       image: /images/538330339_18016348529772703_268362780476047628_n.jpg
       url: https://go.gov.sg/mammogramscreening2025
   - infopic:
+      title: 🎧✨ The Quietest Rave – 3rd Edition @ Tanglin CC! ✨🎧
+      subtitle: 15 November 2025, Saturday
+      id: infopic
+      description: Get your groove on at the Quietest Rave🎧🎶
+      button: Purchase Here
+      alt: Image alt text
+      image: /images/WhatsApp_Image_2025_10_23_at_12_54_24__1_.jpg
+      url: https://go.gov.sg/tccquietrave
+  - infopic:
       title: Local Heritage Tour
       subtitle: 22 November 2025, Saturday
       id: infopic
@@ -145,13 +154,6 @@ sections:
       alt: Image alt text
       image: /images/550560086_1216477883858932_2099610866914362032_n.jpg
       url: https://go.gov.sg/letskick2025
-  - infopic:
-      title: Infopic
-      subtitle: Add an image and text
-      id: infopic
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
   - resources:
       id: resources
       subtitle: What we have been up to
