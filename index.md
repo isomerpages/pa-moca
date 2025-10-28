@@ -131,12 +131,13 @@ sections:
       image: /images/550560086_1216477883858932_2099610866914362032_n.jpg
       url: https://go.gov.sg/letskick2025
   - infopic:
-      title: Infopic
+      title: 🌟 Let’s Celebrate Deepavali! 🪔
       subtitle: Add an image and text
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: Join our Tanjong Pagar GRC, Queenstown & Radin Mas SMCs for the
+        Vaanga Kondaduvom a joyful evening of lights, flavours and friendship!
       alt: Image alt text
+      image: /images/562339381_1218233993683321_5639001305835412879_n.jpg
   - infopic:
       title: Infopic
       subtitle: Add an image and text
