@@ -132,7 +132,7 @@ sections:
       url: https://go.gov.sg/letskick2025
   - infopic:
       title: 🌟 Let’s Celebrate Deepavali! 🪔
-      subtitle: Add an image and text
+      subtitle: 8 November 2025, Saturday
       id: infopic
       description: Join our Tanjong Pagar GRC, Queenstown & Radin Mas SMCs for the
         Vaanga Kondaduvom a joyful evening of lights, flavours and friendship!
