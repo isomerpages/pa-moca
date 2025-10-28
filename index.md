@@ -98,7 +98,7 @@ sections:
       description: Tanjong Pagar GRC, Queenstown and Radin Mas SMCs invite all
         families, friends, and furry companions to a paw-some evening of fun and
         bonding! 🐕🐈🐇
-      button: Purchase Here
+      button: Register Here
       alt: Image alt text
       image: /images/564674390_1219166270256760_3039342868358335703_n.jpg
       url: go.gov.sg/paws-and-furs-2025
