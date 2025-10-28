@@ -92,8 +92,18 @@ sections:
       id: resources
       subtitle: What we have been up to
   - infopic:
+      title: 🌳 Tree Planting Day 2025 🌳
+      subtitle: 8 November 2025, Saturday
+      id: infopic
+      description: Come join us at Tanjong Pagar GRC, Queenstown and Radin Mas SMCs'
+        Tree Planting Day 2025 as we celebrate SG60 with our community! 💚
+      button: Register Here
+      alt: Image alt text
+      image: /images/569029017_1225161049657282_5444726616987848466_n.jpg
+      url: go.gov.sg/TPGRCTreePlantingDay2025
+  - infopic:
       title: 🐾✨ Paws & Furs 2025 is back! ✨🐾
-      subtitle: Add an image and text
+      subtitle: 9 November 2025, Sunday
       id: infopic
       description: Tanjong Pagar GRC, Queenstown and Radin Mas SMCs invite all
         families, friends, and furry companions to a paw-some evening of fun and
@@ -103,15 +113,13 @@ sections:
       image: /images/564674390_1219166270256760_3039342868358335703_n.jpg
       url: go.gov.sg/paws-and-furs-2025
   - infopic:
-      title: 🌳 Tree Planting Day 2025 🌳
-      subtitle: Add an image and text
+      title: Envision the Future with Us! & Time Capsule Sealing Ceremony
+      subtitle: 24 October - 2 November 2025
       id: infopic
-      description: Come join us at Tanjong Pagar GRC, Queenstown and Radin Mas SMCs'
-        Tree Planting Day 2025 as we celebrate SG60 with our community! 💚
-      button: Register Here
+      description: A celebration of creativity, hope, and community spirit as we
+        imagine what Singapore could be at SG100!
       alt: Image alt text
-      image: /images/569029017_1225161049657282_5444726616987848466_n.jpg
-      url: go.gov.sg/TPGRCTreePlantingDay2025
+      image: /images/571000902_1227590472747673_6837524102423735543_n.jpg
   - infopic:
       title: Infopic
       subtitle: Add an image and text
@@ -119,13 +127,7 @@ sections:
       description: Infopic description
       button: Button Text
       alt: Image alt text
-  - infopic:
-      title: Infopic
-      subtitle: Add an image and text
-      id: infopic
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
+      image: /images/550560086_1216477883858932_2099610866914362032_n.jpg
   - infopic:
       title: Infopic
       subtitle: Add an image and text
