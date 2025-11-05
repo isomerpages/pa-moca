@@ -137,6 +137,17 @@ sections:
       image: /images/Editing_Workshop_Poster_endorsed.png
       alt: Image alt text
   - infopic:
+      title: 🏥 Step Back in Time at the Former KKH
+      subtitle: 29 November 2025, Saturday
+      id: infopic
+      description: Join our exclusive guided walking tour and uncover the rich
+        history, architecture, and legacy of care behind this iconic
+        institution.
+      button: Register Here
+      url: https://go.gov.sg/oldkkhtour
+      image: /images/WhatsApp_Image_2025_11_05_at_12_29_33__1_.jpg
+      alt: Image alt text
+  - infopic:
       title: Let’s Kick! ⚽
       subtitle: 6 December 2025, Saturday
       id: infopic
