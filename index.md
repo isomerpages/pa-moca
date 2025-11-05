@@ -137,7 +137,7 @@ sections:
       image: /images/Editing_Workshop_Poster_endorsed.png
       alt: Image alt text
   - infopic:
-      title: 🏥 Step Back in Time at the Former KKH
+      title: Walking Tour of the Former Kandang Kerbau Hospital (KKH)
       subtitle: 29 November 2025, Saturday
       id: infopic
       description: Join our exclusive guided walking tour and uncover the rich
