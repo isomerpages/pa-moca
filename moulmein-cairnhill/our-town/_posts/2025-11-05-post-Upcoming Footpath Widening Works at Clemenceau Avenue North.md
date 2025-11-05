@@ -15,5 +15,5 @@ variant: tiptap
 especially for the students who use it regularly. 🚶🏻‍♂️🚶‍♀️</p>
 <p>We’re pleased to share that <strong>footpath-widening works are targeted to begin in the first half of 2026</strong>.
 This upgrade will make the walkway safer and more comfortable for all pedestrians.</p>
-<p>A big <strong>thank you to the Land Transport Authority (LTA)</strong> for
-partnering with us to make our neighbourhood safer.</p>
+<p>A big thank you to Land Transport Authority (LTA) for partnering with
+us to make our neighbourhood safer.</p>
