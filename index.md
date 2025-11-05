@@ -41,24 +41,6 @@ sections:
       title: 5 Years of Amazing MoCa!
       subtitle: Moulmein-Cairnhill Brochure
   - infopic:
-      title: Envision the Future with Us! & Time Capsule Sealing Ceremony
-      subtitle: 24 October - 2 November 2025
-      id: infopic
-      description: A celebration of creativity, hope, and community spirit as we
-        imagine what Singapore could be at SG100!
-      alt: Image alt text
-      image: /images/571000902_1227590472747673_6837524102423735543_n.jpg
-  - infopic:
-      title: Art Jam 2025
-      subtitle: 1 November 2025, Saturday
-      id: infopic
-      description: Celebrate SG60 with us at Art Jam 2025, a fun-filled afternoon of
-        creativity, laughter, and community bonding for the whole family!
-      button: Purchase Here
-      url: https://go.gov.sg/sg60artjam
-      image: /images/554419736_1213036850848317_8725415797691675196_n.jpg
-      alt: Image alt text
-  - infopic:
       title: 🌟 Let’s Celebrate Deepavali! 🪔
       subtitle: 8 November 2025, Saturday
       id: infopic
@@ -143,6 +125,27 @@ sections:
       button: Purchase Here
       url: https://go.gov.sg/pkwecspiceworkshop
       image: /images/Spice_Up_SG60_Workshop__cleared__page_0001.jpg
+      alt: Image alt text
+  - infopic:
+      title: Inter-Generational Digital Video Editing Workshop
+      subtitle: 29 November 2025, Saturday
+      id: infopic
+      description: Join and learn how to turn your everyday photos and clips into a
+        beautiful, share-ready memory reel❤️
+      button: Register Here
+      url: go.gov.sg/editingworkshop
+      image: /images/Editing_Workshop_Poster_endorsed.png
+      alt: Image alt text
+  - infopic:
+      title: Walking Tour of the Former Kandang Kerbau Hospital (KKH)
+      subtitle: 29 November 2025, Saturday
+      id: infopic
+      description: Join our exclusive guided walking tour and uncover the rich
+        history, architecture, and legacy of care behind this iconic
+        institution.
+      button: Register Here
+      url: https://go.gov.sg/oldkkhtour
+      image: /images/WhatsApp_Image_2025_11_05_at_12_29_33__1_.jpg
       alt: Image alt text
   - infopic:
       title: Let’s Kick! ⚽
