@@ -41,54 +41,6 @@ sections:
       title: 5 Years of Amazing MoCa!
       subtitle: Moulmein-Cairnhill Brochure
   - infopic:
-      title: 🌟 Let’s Celebrate Deepavali! 🪔
-      subtitle: 8 November 2025, Saturday
-      id: infopic
-      description: Join our Tanjong Pagar GRC, Queenstown & Radin Mas SMCs for the
-        Vaanga Kondaduvom a joyful evening of lights, flavours and friendship!
-      alt: Image alt text
-      image: /images/562339381_1218233993683321_5639001305835412879_n.jpg
-  - infopic:
-      title: Healthy Hearts for All!
-      subtitle: 8 November 2025, Saturday
-      id: infopic
-      description: Join us for an inspiring afternoon to learn about the holistic
-        approach to a healthy heart! 🫀✨
-      button: Register Here
-      alt: Image alt text
-      url: https://go.gov.sg/healthyheartsforall
-      image: /images/559482246_1293029046190146_2701909947520327905_n.jpg
-  - infopic:
-      title: 🌳 Tree Planting Day 2025 🌳
-      subtitle: 8 November 2025, Saturday
-      id: infopic
-      description: Come join us at Tanjong Pagar GRC, Queenstown and Radin Mas SMCs'
-        Tree Planting Day 2025 as we celebrate SG60 with our community! 💚
-      button: Register Here
-      alt: Image alt text
-      image: /images/569029017_1225161049657282_5444726616987848466_n.jpg
-      url: https://go.gov.sg/TPGRCTreePlantingDay2025
-  - infopic:
-      title: 🐾✨Paws & Furs 2025✨🐾
-      subtitle: 9 November 2025, Sunday
-      id: infopic
-      description: Tanjong Pagar GRC, Queenstown and Radin Mas SMCs invite all
-        families, friends, and furry companions to a paw-some evening of fun and
-        bonding! 🐕🐈🐇
-      button: Register Here
-      alt: Image alt text
-      image: /images/564674390_1219166270256760_3039342868358335703_n.jpg
-      url: https://www.onepa.gov.sg/events/tanjong-pagar-grc-queenstown-and-radin-mas-smcs-paws-and-furs-2025-51155637
-  - infopic:
-      title: Mammogram Screening
-      subtitle: 8 & 9 November 2025
-      id: infopic
-      description: Early detection saves lives! Join us for mammogram screening
-      button: Purchase Here
-      alt: Image alt text
-      image: /images/538330339_18016348529772703_268362780476047628_n.jpg
-      url: https://go.gov.sg/mammogramscreening2025
-  - infopic:
       title: 🎧✨ The Quietest Rave – 3rd Edition @ Tanglin CC! ✨🎧
       subtitle: 15 November 2025, Saturday
       id: infopic
