@@ -79,6 +79,26 @@ sections:
       image: /images/Spice_Up_SG60_Workshop__cleared__page_0001.jpg
       alt: Image alt text
   - infopic:
+      title: Pilates Matwork for Kids @ Cairnhill CC!💪
+      subtitle: 24 November 2025, Monday
+      id: infopic
+      description: Looking for a fun and effective way to boost your child’s posture,
+        balance, and core strength? 🌟
+      button: Purchase Here
+      url: https://go.gov.sg/pilatesforkids241125
+      image: /images/Poster_Pilates_Matwork_for_kids_24_Nov_25_approved_page_0001.jpg
+      alt: Image alt text
+  - infopic:
+      title: 🎄Christmas Charity Bazaar 2025 @ Cairnhill CC🎄
+      subtitle: 29 November 2025, Saturday
+      id: infopic
+      description: Our Christmas Charity Bazaar is back — and it’s bigger and merrier
+        than ever! 🎅🎁
+      button: Purchase Here
+      url: https://go.gov.sg/xmas291125
+      image: /images/577410338_122224559264266635_8070333803213185464_n.jpg
+      alt: Image alt text
+  - infopic:
       title: Inter-Generational Digital Video Editing Workshop
       subtitle: 29 November 2025, Saturday
       id: infopic
@@ -112,4 +132,23 @@ sections:
   - resources:
       id: resources
       subtitle: What we have been up to
+  - infopic:
+      title: 🎧Pek Kio Silent Groove Fest🎧
+      subtitle: 27 December 2025, Saturday
+      id: infopic
+      description: Get ready to light up the night at the PEK KIO SILENT GROOVE FEST! 🎉
+      button: Purchase Here
+      url: https://go.gov.sg/pekkio-silentgroove-2025
+      image: /images/WhatsApp_Image_2025_11_08_at_10_51_46.jpg
+      alt: Image alt text
+  - infopic:
+      title: 🧘‍♀️Yoga for Children @ Cairnhill CC🧘‍♂️
+      subtitle: 19 December 2025, Friday
+      id: infopic
+      description: Give your child the gift of calm, confidence, and strength this
+        season! 🌈
+      button: Purchase Here
+      url: https://go.gov.sg/yogaforchild191225
+      image: /images/Poster_for_Yoga_for_kids_19_dec_25__approved_page_0001.jpg
+      alt: Image alt text
 ---
