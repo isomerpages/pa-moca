@@ -129,18 +129,6 @@ sections:
       alt: Image alt text
       image: /images/550560086_1216477883858932_2099610866914362032_n.jpg
       url: https://go.gov.sg/letskick2025
-  - resources:
-      id: resources
-      subtitle: What we have been up to
-  - infopic:
-      title: 🎧Pek Kio Silent Groove Fest🎧
-      subtitle: 27 December 2025, Saturday
-      id: infopic
-      description: Get ready to light up the night at the PEK KIO SILENT GROOVE FEST! 🎉
-      button: Purchase Here
-      url: https://go.gov.sg/pekkio-silentgroove-2025
-      image: /images/WhatsApp_Image_2025_11_08_at_10_51_46.jpg
-      alt: Image alt text
   - infopic:
       title: 🧘‍♀️Yoga for Children @ Cairnhill CC🧘‍♂️
       subtitle: 19 December 2025, Friday
@@ -151,4 +139,16 @@ sections:
       url: https://go.gov.sg/yogaforchild191225
       image: /images/Poster_for_Yoga_for_kids_19_dec_25__approved_page_0001.jpg
       alt: Image alt text
+  - infopic:
+      title: 🎧Pek Kio Silent Groove Fest🎧
+      subtitle: 27 December 2025, Saturday
+      id: infopic
+      description: Get ready to light up the night at the PEK KIO SILENT GROOVE FEST! 🎉
+      button: Purchase Here
+      url: https://go.gov.sg/pekkio-silentgroove-2025
+      image: /images/WhatsApp_Image_2025_11_08_at_10_51_46.jpg
+      alt: Image alt text
+  - resources:
+      id: resources
+      subtitle: What we have been up to
 ---
