@@ -105,7 +105,7 @@ sections:
       description: Join and learn how to turn your everyday photos and clips into a
         beautiful, share-ready memory reel❤️
       button: Register Here
-      url: go.gov.sg/editingworkshop
+      url: https://form.gov.sg/6902b74b87b3d0c131988802
       image: /images/Editing_Workshop_Poster_endorsed.png
       alt: Image alt text
   - infopic:
