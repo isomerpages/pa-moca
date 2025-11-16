@@ -41,15 +41,6 @@ sections:
       title: 5 Years of Amazing MoCa!
       subtitle: Moulmein-Cairnhill Brochure
   - infopic:
-      title: 🎧✨ The Quietest Rave – 3rd Edition @ Tanglin CC! ✨🎧
-      subtitle: 15 November 2025, Saturday
-      id: infopic
-      description: Get your groove on at the Quietest Rave🎧🎶
-      button: Purchase Here
-      alt: Image alt text
-      image: /images/WhatsApp_Image_2025_10_23_at_12_54_24__1_.jpg
-      url: https://go.gov.sg/tccquietrave
-  - infopic:
       title: Local Heritage Tour
       subtitle: 22 November 2025, Saturday
       id: infopic
