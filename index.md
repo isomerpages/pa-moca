@@ -41,45 +41,6 @@ sections:
       title: 5 Years of Amazing MoCa!
       subtitle: Moulmein-Cairnhill Brochure
   - infopic:
-      title: Local Heritage Tour
-      subtitle: 22 November 2025, Saturday
-      id: infopic
-      description: Join us for a Local Heritage Tour to the Asian Civilisations Museum
-        for an unforgettable experience exploring the history & cultures of
-        Asia.
-      button: Purchase Here
-      url: https://go.gov.sg/localheritage2025
-      image: /images/Heritage_Tour_Poster.png
-      alt: Image alt text
-  - infopic:
-      title: MoCa Bowling Competition
-      subtitle: 22 November 2025, Saturday
-      id: infopic
-      description: Join us for our Annual Bowling Competition!
-      button: Purchase Here
-      url: https://go.gov.sg/funbowl2025
-      image: /images/WhatsApp_Image_2025_10_13_at_16_16_11.jpg
-      alt: Image alt text
-  - infopic:
-      title: 🌶️ Spice Up SG60 Workshop @ Pek Kio CC! 🌶️
-      subtitle: 23 November 2025, Sunday
-      id: infopic
-      description: Play, blend, and taste your way through Singapore’s spice heritage!
-      button: Purchase Here
-      url: https://go.gov.sg/pkwecspiceworkshop
-      image: /images/Spice_Up_SG60_Workshop__cleared__page_0001.jpg
-      alt: Image alt text
-  - infopic:
-      title: Pilates Matwork for Kids @ Cairnhill CC!💪
-      subtitle: 24 November 2025, Monday
-      id: infopic
-      description: Looking for a fun and effective way to boost your child’s posture,
-        balance, and core strength? 🌟
-      button: Purchase Here
-      url: https://go.gov.sg/pilatesforkids241125
-      image: /images/Poster_Pilates_Matwork_for_kids_24_Nov_25_approved_page_0001.jpg
-      alt: Image alt text
-  - infopic:
       title: 🎄Christmas Charity Bazaar 2025 @ Cairnhill CC🎄
       subtitle: 29 November 2025, Saturday
       id: infopic
