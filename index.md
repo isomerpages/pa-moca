@@ -124,6 +124,15 @@ sections:
       image: /images/588838102_863977582650636_1616340205586407944_n.png
       alt: Image alt text
   - infopic:
+      title: 🎉🌟 Cambridge Durian Party 2026! 🌟🎉
+      subtitle: 3 January 2026, Saturday
+      id: infopic
+      description: Join us at our annual durian party to kickstart 2026!
+      button: Purchase Here
+      alt: Image alt text
+      image: /images/588925944_1271307188364675_8493138637812565404_n.png
+      url: https://go.gov.sg/camdurian3jan26
+  - infopic:
       title: Infopic
       subtitle: Add an image and text
       id: infopic
