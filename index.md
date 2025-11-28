@@ -82,28 +82,6 @@ sections:
       image: /images/550560086_1216477883858932_2099610866914362032_n.jpg
       url: https://go.gov.sg/letskick2025
   - infopic:
-      title: 🧘‍♀️Yoga for Children @ Cairnhill CC🧘‍♂️
-      subtitle: 19 December 2025, Friday
-      id: infopic
-      description: Give your child the gift of calm, confidence, and strength this
-        season! 🌈
-      button: Purchase Here
-      url: https://go.gov.sg/yogaforchild191225
-      image: /images/Poster_for_Yoga_for_kids_19_dec_25__approved_page_0001.jpg
-      alt: Image alt text
-  - infopic:
-      title: 🎧Pek Kio Silent Groove Fest🎧
-      subtitle: 27 December 2025, Saturday
-      id: infopic
-      description: Get ready to light up the night at the PEK KIO SILENT GROOVE FEST! 🎉
-      button: Purchase Here
-      url: https://go.gov.sg/pekkio-silentgroove-2025
-      image: /images/WhatsApp_Image_2025_11_08_at_10_51_46.jpg
-      alt: Image alt text
-  - resources:
-      id: resources
-      subtitle: What we have been up to
-  - infopic:
       title: Hip Hop Dance Workshop
       subtitle: 8 December 2025, Monday
       id: infopic
@@ -124,14 +102,15 @@ sections:
       image: /images/588838102_863977582650636_1616340205586407944_n.png
       alt: Image alt text
   - infopic:
-      title: 🎉🌟 Cambridge Durian Party 2026! 🌟🎉
-      subtitle: 3 January 2026, Saturday
+      title: 🧘‍♀️Yoga for Children @ Cairnhill CC🧘‍♂️
+      subtitle: 19 December 2025, Friday
       id: infopic
-      description: Join us at our annual durian party to kickstart 2026!
+      description: Give your child the gift of calm, confidence, and strength this
+        season! 🌈
       button: Purchase Here
+      url: https://go.gov.sg/yogaforchild191225
+      image: /images/Poster_for_Yoga_for_kids_19_dec_25__approved_page_0001.jpg
       alt: Image alt text
-      image: /images/588925944_1271307188364675_8493138637812565404_n.png
-      url: https://go.gov.sg/camdurian3jan26
   - infopic:
       title: Arts & Crafts Holiday Workshop
       subtitle: 22 December 2025, Monday
@@ -142,4 +121,25 @@ sections:
       alt: Image alt text
       image: /images/587399279_863974029317658_8265033433823876809_n.jpg
       url: go.gov.sg/i25mqo
+  - infopic:
+      title: 🎧Pek Kio Silent Groove Fest🎧
+      subtitle: 27 December 2025, Saturday
+      id: infopic
+      description: Get ready to light up the night at the PEK KIO SILENT GROOVE FEST! 🎉
+      button: Purchase Here
+      url: https://go.gov.sg/pekkio-silentgroove-2025
+      image: /images/WhatsApp_Image_2025_11_08_at_10_51_46.jpg
+      alt: Image alt text
+  - infopic:
+      title: 🎉🌟 Cambridge Durian Party 2026! 🌟🎉
+      subtitle: 3 January 2026, Saturday
+      id: infopic
+      description: Join us at our annual durian party to kickstart 2026!
+      button: Purchase Here
+      alt: Image alt text
+      image: /images/588925944_1271307188364675_8493138637812565404_n.png
+      url: https://go.gov.sg/camdurian3jan26
+  - resources:
+      id: resources
+      subtitle: What we have been up to
 ---
