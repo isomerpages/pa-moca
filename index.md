@@ -103,4 +103,31 @@ sections:
   - resources:
       id: resources
       subtitle: What we have been up to
+  - infopic:
+      title: Hip Hop Dance Workshop
+      subtitle: 8 December 2025, Monday
+      id: infopic
+      description: Join us at Pek Kio CC for a Hip Hop Dance Workshop specially
+        designed for kids aged 6–12.
+      button: Purchase Here
+      url: go.gov.sg/pkcchiphopkids
+      image: /images/587518737_865129505868777_3732168648596602809_n.png
+      alt: Image alt text
+  - infopic:
+      title: Chunky Handknit Workshop
+      subtitle: 9 December 2025, Tuesday
+      id: infopic
+      description: Learn the basics of handknitting and create your very own chunky
+        plush or bag.
+      button: Purchase Here
+      url: go.gov.sg/pkcchandknit
+      image: /images/588838102_863977582650636_1616340205586407944_n.png
+      alt: Image alt text
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
