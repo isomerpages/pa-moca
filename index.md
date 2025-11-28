@@ -82,6 +82,26 @@ sections:
       image: /images/550560086_1216477883858932_2099610866914362032_n.jpg
       url: https://go.gov.sg/letskick2025
   - infopic:
+      title: Hip Hop Dance Workshop
+      subtitle: 8 December 2025, Monday
+      id: infopic
+      description: Join us at Pek Kio CC for a Hip Hop Dance Workshop specially
+        designed for kids aged 6–12.
+      button: Purchase Here
+      url: go.gov.sg/pkcchiphopkids
+      image: /images/587518737_865129505868777_3732168648596602809_n.png
+      alt: Image alt text
+  - infopic:
+      title: Chunky Handknit Workshop
+      subtitle: 9 December 2025, Tuesday
+      id: infopic
+      description: Learn the basics of handknitting and create your very own chunky
+        plush or bag.
+      button: Purchase Here
+      url: go.gov.sg/pkcchandknit
+      image: /images/588838102_863977582650636_1616340205586407944_n.png
+      alt: Image alt text
+  - infopic:
       title: 🧘‍♀️Yoga for Children @ Cairnhill CC🧘‍♂️
       subtitle: 19 December 2025, Friday
       id: infopic
@@ -92,6 +112,16 @@ sections:
       image: /images/Poster_for_Yoga_for_kids_19_dec_25__approved_page_0001.jpg
       alt: Image alt text
   - infopic:
+      title: Arts & Crafts Holiday Workshop
+      subtitle: 22 December 2025, Monday
+      id: infopic
+      description: Let your child unleash their creativity with our fun and festive
+        DIY Glue Cream Pencil Box activity
+      button: Purchase Here
+      alt: Image alt text
+      image: /images/587399279_863974029317658_8265033433823876809_n.jpg
+      url: go.gov.sg/i25mqo
+  - infopic:
       title: 🎧Pek Kio Silent Groove Fest🎧
       subtitle: 27 December 2025, Saturday
       id: infopic
@@ -100,6 +130,15 @@ sections:
       url: https://go.gov.sg/pekkio-silentgroove-2025
       image: /images/WhatsApp_Image_2025_11_08_at_10_51_46.jpg
       alt: Image alt text
+  - infopic:
+      title: 🎉🌟 Cambridge Durian Party 2026! 🌟🎉
+      subtitle: 3 January 2026, Saturday
+      id: infopic
+      description: Join us at our annual durian party to kickstart 2026!
+      button: Purchase Here
+      alt: Image alt text
+      image: /images/588925944_1271307188364675_8493138637812565404_n.png
+      url: https://go.gov.sg/camdurian3jan26
   - resources:
       id: resources
       subtitle: What we have been up to
