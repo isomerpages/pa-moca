@@ -133,10 +133,13 @@ sections:
       image: /images/588925944_1271307188364675_8493138637812565404_n.png
       url: https://go.gov.sg/camdurian3jan26
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: Arts & Crafts Holiday Workshop
+      subtitle: 22 December 2025, Monday
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: Let your child unleash their creativity with our fun and festive
+        DIY Glue Cream Pencil Box activity
+      button: Purchase Here
       alt: Image alt text
+      image: /images/587399279_863974029317658_8265033433823876809_n.jpg
+      url: go.gov.sg/i25mqo
 ---
