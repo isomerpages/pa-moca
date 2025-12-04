@@ -41,37 +41,6 @@ sections:
       title: 5 Years of Amazing MoCa!
       subtitle: Moulmein-Cairnhill Brochure
   - infopic:
-      title: 🎄Christmas Charity Bazaar 2025 @ Cairnhill CC🎄
-      subtitle: 29 November 2025, Saturday
-      id: infopic
-      description: Our Christmas Charity Bazaar is back — and it’s bigger and merrier
-        than ever! 🎅🎁
-      button: Purchase Here
-      url: https://go.gov.sg/xmas291125
-      image: /images/577410338_122224559264266635_8070333803213185464_n.jpg
-      alt: Image alt text
-  - infopic:
-      title: Inter-Generational Digital Video Editing Workshop
-      subtitle: 29 November 2025, Saturday
-      id: infopic
-      description: Join and learn how to turn your everyday photos and clips into a
-        beautiful, share-ready memory reel❤️
-      button: Register Here
-      url: https://form.gov.sg/6902b74b87b3d0c131988802
-      image: /images/Editing_Workshop_Poster_endorsed.png
-      alt: Image alt text
-  - infopic:
-      title: Walking Tour of the Former Kandang Kerbau Hospital (KKH)
-      subtitle: 29 November 2025, Saturday
-      id: infopic
-      description: Join our exclusive guided walking tour and uncover the rich
-        history, architecture, and legacy of care behind this iconic
-        institution.
-      button: Register Here
-      url: https://go.gov.sg/oldkkhtour
-      image: /images/WhatsApp_Image_2025_11_05_at_12_29_33__1_.jpg
-      alt: Image alt text
-  - infopic:
       title: Let’s Kick! ⚽
       subtitle: 6 December 2025, Saturday
       id: infopic
@@ -139,6 +108,16 @@ sections:
       alt: Image alt text
       image: /images/588925944_1271307188364675_8493138637812565404_n.png
       url: https://go.gov.sg/camdurian3jan26
+  - infopic:
+      title: Chinese New Year- Artificial Flower Arrangement Workshop 🌸
+      subtitle: 24 January 2026, Saturday
+      id: infopic
+      description: Ring in the Lunar New Year with a creative and joy-filled floral
+        experience!
+      button: Purchase Here
+      url: https://go.gov.sg/pib2026
+      image: /images/WhatsApp_Image_2025_12_03_at_21_04_13.png
+      alt: Image alt text
   - resources:
       id: resources
       subtitle: What we have been up to
