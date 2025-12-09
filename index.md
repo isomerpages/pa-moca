@@ -89,6 +89,15 @@ sections:
       image: /images/WhatsApp_Image_2025_11_08_at_10_51_46.jpg
       alt: Image alt text
   - infopic:
+      title: CNY Angbao Lantern Making Workshop
+      subtitle: Every Thursday in January 2026
+      id: infopic
+      description: Learn how to turn festive angbaos into beautiful lanterns
+      button: Register Here
+      url: https://go.gov.sg/a35bif
+      image: /images/596495618_874420781606316_2368102386851486916_n.png
+      alt: Image alt text
+  - infopic:
       title: 🎉🌟 Cambridge Durian Party 2026! 🌟🎉
       subtitle: 3 January 2026, Saturday
       id: infopic
@@ -110,13 +119,4 @@ sections:
   - resources:
       id: resources
       subtitle: What we have been up to
-  - infopic:
-      title: CNY Angbao Lantern Making Workshop
-      subtitle: Every Thursday in January 2026
-      id: infopic
-      description: Learn how to turn festive angbaos into beautiful lanterns
-      button: Register Here
-      url: https://go.gov.sg/a35bif
-      image: /images/596495618_874420781606316_2368102386851486916_n.png
-      alt: Image alt text
 ---
