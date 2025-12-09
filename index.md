@@ -61,6 +61,15 @@ sections:
       image: /images/Poster_for_Yoga_for_kids_19_dec_25__approved_page_0001.jpg
       alt: Image alt text
   - infopic:
+      title: Board Game Bonanza
+      subtitle: 21 December 2025, Sunday
+      id: infopic
+      description: Join us at Pek Kio CC for a Board Game Bonanza
+      button: Register Here
+      url: go.gov.sg/boardgame-pkcc-21dec25
+      image: /images/593699800_869345382113856_8729925370020105346_n__1_.jpg
+      alt: Image alt text
+  - infopic:
       title: Arts & Crafts Holiday Workshop
       subtitle: 22 December 2025, Monday
       id: infopic
@@ -101,4 +110,13 @@ sections:
   - resources:
       id: resources
       subtitle: What we have been up to
+  - infopic:
+      title: CNY Angbao Lantern Making Workshop
+      subtitle: Every Thursday in January 2026
+      id: infopic
+      description: Learn how to turn festive angbaos into beautiful lanterns
+      button: Register Here
+      url: https://go.gov.sg/a35bif
+      image: /images/596495618_874420781606316_2368102386851486916_n.png
+      alt: Image alt text
 ---
