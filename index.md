@@ -41,26 +41,6 @@ sections:
       title: 5 Years of Amazing MoCa!
       subtitle: Moulmein-Cairnhill Brochure
   - infopic:
-      title: Let’s Kick! ⚽
-      subtitle: 6 December 2025, Saturday
-      id: infopic
-      description: Tanjong Pagar GRC, Queenstown & Radin Mas SMCs’ Let’s Kick! ⚽
-        Futsal Tournament is back! It’s your time to shine on the pitch! 🌟
-      button: Purchase Here
-      alt: Image alt text
-      image: /images/550560086_1216477883858932_2099610866914362032_n.jpg
-      url: https://go.gov.sg/letskick2025
-  - infopic:
-      title: Hip Hop Dance Workshop
-      subtitle: 8 December 2025, Monday
-      id: infopic
-      description: Join us at Pek Kio CC for a Hip Hop Dance Workshop specially
-        designed for kids aged 6–12.
-      button: Purchase Here
-      url: go.gov.sg/pkcchiphopkids
-      image: /images/587518737_865129505868777_3732168648596602809_n.png
-      alt: Image alt text
-  - infopic:
       title: Chunky Handknit Workshop
       subtitle: 9 December 2025, Tuesday
       id: infopic
@@ -79,6 +59,15 @@ sections:
       button: Purchase Here
       url: https://go.gov.sg/yogaforchild191225
       image: /images/Poster_for_Yoga_for_kids_19_dec_25__approved_page_0001.jpg
+      alt: Image alt text
+  - infopic:
+      title: Board Game Bonanza
+      subtitle: 21 December 2025, Sunday
+      id: infopic
+      description: Join us at Pek Kio CC for a Board Game Bonanza
+      button: Register Here
+      url: go.gov.sg/boardgame-pkcc-21dec25
+      image: /images/593699800_869345382113856_8729925370020105346_n__1_.jpg
       alt: Image alt text
   - infopic:
       title: Arts & Crafts Holiday Workshop
@@ -100,13 +89,22 @@ sections:
       image: /images/WhatsApp_Image_2025_11_08_at_10_51_46.jpg
       alt: Image alt text
   - infopic:
+      title: CNY Angbao Lantern Making Workshop
+      subtitle: Every Thursday in January 2026
+      id: infopic
+      description: Learn how to turn festive angbaos into beautiful lanterns
+      button: Register Here
+      url: https://go.gov.sg/a35bif
+      image: /images/596495618_874420781606316_2368102386851486916_n.png
+      alt: Image alt text
+  - infopic:
       title: 🎉🌟 Cambridge Durian Party 2026! 🌟🎉
       subtitle: 3 January 2026, Saturday
       id: infopic
       description: Join us at our annual durian party to kickstart 2026!
       button: Purchase Here
       alt: Image alt text
-      image: /images/588925944_1271307188364675_8493138637812565404_n.png
+      image: /images/WhatsApp_Image_2025_12_09_at_18_59_16.jpg
       url: https://go.gov.sg/camdurian3jan26
   - infopic:
       title: Chinese New Year- Artificial Flower Arrangement Workshop 🌸
