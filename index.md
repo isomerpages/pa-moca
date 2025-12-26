@@ -41,45 +41,6 @@ sections:
       title: 5 Years of Amazing MoCa!
       subtitle: Moulmein-Cairnhill Brochure
   - infopic:
-      title: Chunky Handknit Workshop
-      subtitle: 9 December 2025, Tuesday
-      id: infopic
-      description: Learn the basics of handknitting and create your very own chunky
-        plush or bag.
-      button: Purchase Here
-      url: go.gov.sg/pkcchandknit
-      image: /images/588838102_863977582650636_1616340205586407944_n.png
-      alt: Image alt text
-  - infopic:
-      title: 🧘‍♀️Yoga for Children @ Cairnhill CC🧘‍♂️
-      subtitle: 19 December 2025, Friday
-      id: infopic
-      description: Give your child the gift of calm, confidence, and strength this
-        season! 🌈
-      button: Purchase Here
-      url: https://go.gov.sg/yogaforchild191225
-      image: /images/Poster_for_Yoga_for_kids_19_dec_25__approved_page_0001.jpg
-      alt: Image alt text
-  - infopic:
-      title: Board Game Bonanza
-      subtitle: 21 December 2025, Sunday
-      id: infopic
-      description: Join us at Pek Kio CC for a Board Game Bonanza
-      button: Register Here
-      url: go.gov.sg/boardgame-pkcc-21dec25
-      image: /images/593699800_869345382113856_8729925370020105346_n__1_.jpg
-      alt: Image alt text
-  - infopic:
-      title: Arts & Crafts Holiday Workshop
-      subtitle: 22 December 2025, Monday
-      id: infopic
-      description: Let your child unleash their creativity with our fun and festive
-        DIY Glue Cream Pencil Box activity
-      button: Purchase Here
-      alt: Image alt text
-      image: /images/587399279_863974029317658_8265033433823876809_n.jpg
-      url: go.gov.sg/i25mqo
-  - infopic:
       title: 🎧Pek Kio Silent Groove Fest🎧
       subtitle: 27 December 2025, Saturday
       id: infopic
