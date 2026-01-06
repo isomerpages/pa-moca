@@ -41,15 +41,6 @@ sections:
       title: 5 Years of Amazing MoCa!
       subtitle: Moulmein-Cairnhill Brochure
   - infopic:
-      title: 🎧Pek Kio Silent Groove Fest🎧
-      subtitle: 27 December 2025, Saturday
-      id: infopic
-      description: Get ready to light up the night at the PEK KIO SILENT GROOVE FEST! 🎉
-      button: Purchase Here
-      url: https://go.gov.sg/pekkio-silentgroove-2025
-      image: /images/WhatsApp_Image_2025_11_08_at_10_51_46.jpg
-      alt: Image alt text
-  - infopic:
       title: CNY Angbao Lantern Making Workshop
       subtitle: Every Thursday in January 2026
       id: infopic
@@ -58,15 +49,6 @@ sections:
       url: https://go.gov.sg/a35bif
       image: /images/596495618_874420781606316_2368102386851486916_n.png
       alt: Image alt text
-  - infopic:
-      title: 🎉🌟 Cambridge Durian Party 2026! 🌟🎉
-      subtitle: 3 January 2026, Saturday
-      id: infopic
-      description: Join us at our annual durian party to kickstart 2026!
-      button: Purchase Here
-      alt: Image alt text
-      image: /images/WhatsApp_Image_2025_12_09_at_18_59_16.jpg
-      url: https://go.gov.sg/camdurian3jan26
   - infopic:
       title: Chinese New Year- Artificial Flower Arrangement Workshop 🌸
       subtitle: 24 January 2026, Saturday
