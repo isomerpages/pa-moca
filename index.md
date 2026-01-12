@@ -62,4 +62,14 @@ sections:
   - resources:
       id: resources
       subtitle: What we have been up to
+  - infopic:
+      title: Community Flea Market 2026✨
+      subtitle: 7 & 8 February 2026
+      id: infopic
+      description: Got items to declutter or a meaningful idea for a stall? 👋 Join us
+        as a stallholder at the upcoming Community Flea Market 2026!
+      button: Register Here
+      url: https://go.gov.sg/fleamarket26
+      image: /images/615232104_1287113433462043_3058931201244565313_n.jpg
+      alt: Image alt text
 ---
