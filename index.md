@@ -41,23 +41,14 @@ sections:
       title: 5 Years of Amazing MoCa!
       subtitle: Moulmein-Cairnhill Brochure
   - infopic:
-      title: CNY Angbao Lantern Making Workshop
-      subtitle: Every Thursday in January 2026
+      title: Community Flea Market 2026✨
+      subtitle: 7 & 8 February 2026
       id: infopic
-      description: Learn how to turn festive angbaos into beautiful lanterns
+      description: Got items to declutter or a meaningful idea for a stall? 👋 Join us
+        as a stallholder at the upcoming Community Flea Market 2026!
       button: Register Here
-      url: https://go.gov.sg/a35bif
-      image: /images/596495618_874420781606316_2368102386851486916_n.png
-      alt: Image alt text
-  - infopic:
-      title: Chinese New Year- Artificial Flower Arrangement Workshop 🌸
-      subtitle: 24 January 2026, Saturday
-      id: infopic
-      description: Ring in the Lunar New Year with a creative and joy-filled floral
-        experience!
-      button: Purchase Here
-      url: https://go.gov.sg/pib2026
-      image: /images/WhatsApp_Image_2025_12_03_at_21_04_13.png
+      url: https://go.gov.sg/fleamarket26
+      image: /images/615232104_1287113433462043_3058931201244565313_n.jpg
       alt: Image alt text
   - resources:
       id: resources
