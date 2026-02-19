@@ -2,4 +2,5 @@ collections:
   edusave-awards-feb-2026:
     output: true
     order:
+      - Cairnhill CC Session 2 (Feb '26).md
       - Cairnhill CC Session 1 (Feb '26).md
