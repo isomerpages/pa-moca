@@ -1,8 +1,11 @@
 ---
-title: Award Recipients
-permalink: /ndd25/award-recipients/
-variant: markdown
+title: National Day Dinner '25 (Awards)
+permalink: /national-day-dinner-25-awards/
+date: 2025-08-02
+layout: post
 description: ""
+image: ""
+variant: markdown
 ---
 ![](https://moca.sgp1.cdn.digitaloceanspaces.com/NDD_25/ndd-awards-001.jpeg)
 

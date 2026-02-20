@@ -1,8 +1,11 @@
 ---
-title: Tables
-permalink: /ndd25/tables/
-variant: markdown
+title: National Day Dinner '25 (Tables)
+permalink: /national-day-dinner-25-tables/
+date: 2025-08-02
+layout: post
 description: ""
+image: ""
+variant: markdown
 ---
 ![](https://moca.sgp1.cdn.digitaloceanspaces.com/NDD_25/ndd-tables-001.jpeg)
 
