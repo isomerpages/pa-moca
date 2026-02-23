@@ -41,15 +41,26 @@ sections:
       title: 5 Years of Amazing MoCa!
       subtitle: Moulmein-Cairnhill Brochure
   - infopic:
-      title: Community Flea Market 2026✨
-      subtitle: 7 & 8 February 2026
+      title: MOCA International Women’s Day 🌷
+      subtitle: 7 March 2026, Saturday
       id: infopic
-      description: Got items to declutter or a meaningful idea for a stall? 👋 Join us
-        as a stallholder at the upcoming Community Flea Market 2026!
-      button: Register Here
-      url: https://go.gov.sg/fleamarket26
-      image: /images/615232104_1287113433462043_3058931201244565313_n.jpg
+      description: This event is open to all ages and genders 👨‍👩‍👧‍👦, so bring
+        your family and friends along! 💛
+      button: Purchase Here
+      url: https://go.gov.sg/mocaiwd7326
+      image: /images/MOCA_IWD__purple___1_.png
       alt: Image alt text
+  - infopic:
+      title: Buka Puasa Together at Moulmein–Cairnhill
+      subtitle: 14 March 2026, Saturday
+      id: infopic
+      description: Join us for a heartwarming fast-breaking meal as we come together
+        with our migrant guests to appreciate their contributions to our
+        community.
+      button: Register Here
+      alt: Image alt text
+      url: https://go.gov.sg/bukapuasa2026
+      image: /images/Buka_Puasa_2024__1_.png
   - resources:
       id: resources
       subtitle: What we have been up to
