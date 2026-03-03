@@ -61,14 +61,18 @@ sections:
       url: https://go.gov.sg/oceanariumtour1403
       image: /images/639729461_1340742904754436_8479844458607207618_n.jpg
       alt: Purchase Here
+  - infopic:
+      title: 💪🎉 Cairnhill Health & Fitness Day 2026 🎉💪
+      subtitle: 14 March 2026, Saturday
+      id: infopic
+      description: "Get ready for a full day of fun, fitness and community vibes!
+        Whether you’re a beginner or a fitness enthusiast, there’s something for
+        everyone:"
+      button: Purchase Here
+      alt: Image alt text
+      url: https://go.gov.sg/chfd26
+      image: /images/639922326_18072826115407983_2931830088802628025_n.jpg
   - resources:
       id: resources
       subtitle: What we have been up to
-  - infopic:
-      title: Infopic
-      subtitle: Add an image and text
-      id: infopic
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
 ---
