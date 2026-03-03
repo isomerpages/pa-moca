@@ -41,16 +41,6 @@ sections:
       title: 5 Years of Amazing MoCa!
       subtitle: Moulmein-Cairnhill Brochure
   - infopic:
-      title: MOCA International Women’s Day 🌷
-      subtitle: 7 March 2026, Saturday
-      id: infopic
-      description: This event is open to all ages and genders 👨‍👩‍👧‍👦, so bring
-        your family and friends along! 💛
-      button: Purchase Here
-      url: https://go.gov.sg/mocaiwd7326
-      image: /images/MOCA_IWD__purple___1_.png
-      alt: Image alt text
-  - infopic:
       title: Buka Puasa Together at Moulmein–Cairnhill
       subtitle: 14 March 2026, Saturday
       id: infopic
@@ -61,7 +51,24 @@ sections:
       alt: Image alt text
       url: https://go.gov.sg/bukapuasa2026
       image: /images/Buka_Puasa_2024__1_.png
+  - infopic:
+      title: 🌊🐠 Learning Journey to Singapore Oceanarium! 🐙🦈
+      subtitle: 14 March 2026, Saturday
+      id: infopic
+      description: Join us for an exciting underwater adventure with the Cambridge
+        Residents’ Network!
+      button: Purchase here
+      url: https://go.gov.sg/oceanariumtour1403
+      image: /images/639729461_1340742904754436_8479844458607207618_n.jpg
+      alt: Purchase Here
   - resources:
       id: resources
       subtitle: What we have been up to
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
