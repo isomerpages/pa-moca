@@ -84,3 +84,5 @@ variant: markdown
 ![](https://moca.sgp1.cdn.digitaloceanspaces.com/Recent%20Events/cny-lunch-26-tables/cny-lunch-26-tables-038.webp)
 
 ![](https://moca.sgp1.cdn.digitaloceanspaces.com/Recent%20Events/cny-lunch-26-tables/cny-lunch-26-tables-039.webp)
+
+![](https://moca.sgp1.cdn.digitaloceanspaces.com/Recent%20Events/cny-lunch-26-tables/cny-lunch-26-tables-040.webp)
