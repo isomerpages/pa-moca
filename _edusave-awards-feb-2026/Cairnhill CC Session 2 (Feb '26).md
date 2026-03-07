@@ -57,13 +57,3 @@ description: ""
 ![](https://moca.sgp1.cdn.digitaloceanspaces.com/Edusave_Awards/cairnhill-s02-feb-26/cairnhill-s02-feb-26-026.webp)
 
 ![](https://moca.sgp1.cdn.digitaloceanspaces.com/Edusave_Awards/cairnhill-s02-feb-26/cairnhill-s02-feb-26-027.webp)
-
-![](https://moca.sgp1.cdn.digitaloceanspaces.com/Edusave_Awards/cairnhill-s02-feb-26/cairnhill-s02-feb-26-028.webp)
-
-![](https://moca.sgp1.cdn.digitaloceanspaces.com/Edusave_Awards/cairnhill-s02-feb-26/cairnhill-s02-feb-26-029.webp)
-
-![](https://moca.sgp1.cdn.digitaloceanspaces.com/Edusave_Awards/cairnhill-s02-feb-26/cairnhill-s02-feb-26-030.webp)
-
-![](https://moca.sgp1.cdn.digitaloceanspaces.com/Edusave_Awards/cairnhill-s02-feb-26/cairnhill-s02-feb-26-031.webp)
-
-![](https://moca.sgp1.cdn.digitaloceanspaces.com/Edusave_Awards/cairnhill-s02-feb-26/cairnhill-s02-feb-26-032.webp)
