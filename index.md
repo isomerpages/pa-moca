@@ -52,26 +52,36 @@ sections:
       url: https://go.gov.sg/bukapuasa2026
       image: /images/Buka_Puasa_2024__1_.png
   - infopic:
-      title: 🌊🐠 Learning Journey to Singapore Oceanarium! 🐙🦈
-      subtitle: 14 March 2026, Saturday
+      title: Eggless Berry Pulp Muffins(Parent & Child Baking Class)
+      subtitle: 22 March 2026, Sunday
       id: infopic
-      description: Join us for an exciting underwater adventure with the Cambridge
-        Residents’ Network!
-      button: Purchase here
-      url: https://go.gov.sg/oceanariumtour1403
-      image: /images/639729461_1340742904754436_8479844458607207618_n.jpg
-      alt: Purchase Here
-  - infopic:
-      title: 💪🎉 Cairnhill Health & Fitness Day 2026 🎉💪
-      subtitle: 14 March 2026, Saturday
-      id: infopic
-      description: "Get ready for a full day of fun, fitness and community vibes!
-        Whether you’re a beginner or a fitness enthusiast, there’s something for
-        everyone:"
+      description: Spend quality time baking together and learn how to make delicious
+        eggless berry pulp muffins
       button: Purchase Here
+      url: go.gov.sg/pkccmuffin
+      image: /images/653264398_948049694243424_6447619220671727945_n.jpg
       alt: Image alt text
-      url: https://go.gov.sg/chfd26
-      image: /images/639922326_18072826115407983_2931830088802628025_n.jpg
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
   - resources:
       id: resources
       subtitle: What we have been up to
