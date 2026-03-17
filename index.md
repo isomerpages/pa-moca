@@ -72,12 +72,15 @@ sections:
       image: /images/652559000_948048010910259_9216989236906114673_n.jpg
       url: https://go.gov.sg/w00d6c
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: DIY Musical Box Workshop
+      subtitle: 9 May 2026, Saturday
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: Customise your own musical box with a variety of tunes and
+        accessories—perfect as a heartfelt gift or family bonding activity.
+      button: Purchase Here
       alt: Image alt text
+      url: go.gov.sg/musicalbox9may26
+      image: /images/649869335_945247064523687_8549341126168880680_n.jpg
   - infopic:
       title: Infopic
       subtitle: Add an image and text
