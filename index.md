@@ -71,16 +71,6 @@ sections:
       url: https://go.gov.sg/2yeefe
       image: /images/654195311_948049324243461_6999845883917687725_n.jpg
   - infopic:
-      title: DIY Musical Box Workshop
-      subtitle: 9 May 2026, Saturday
-      id: infopic
-      description: Customise your own musical box with a variety of tunes and
-        accessories—perfect as a heartfelt gift or family bonding activity.
-      button: Purchase Here
-      alt: Image alt text
-      url: go.gov.sg/musicalbox9may26
-      image: /images/649869335_945247064523687_8549341126168880680_n.jpg
-  - infopic:
       title: Gua Sha for Health
       subtitle: 30 April 2026, Saturday
       id: infopic
@@ -90,6 +80,16 @@ sections:
       url: :https://go.gov.sg/3nvquz
       image: /images/652443155_948047344243659_4869283453277959098_n.jpg
       alt: Image alt text
+  - infopic:
+      title: DIY Musical Box Workshop
+      subtitle: 9 May 2026, Saturday
+      id: infopic
+      description: Customise your own musical box with a variety of tunes and
+        accessories—perfect as a heartfelt gift or family bonding activity.
+      button: Purchase Here
+      alt: Image alt text
+      url: go.gov.sg/musicalbox9may26
+      image: /images/649869335_945247064523687_8549341126168880680_n.jpg
   - resources:
       id: resources
       subtitle: What we have been up to
