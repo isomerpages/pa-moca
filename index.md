@@ -62,12 +62,15 @@ sections:
       image: /images/653264398_948049694243424_6447619220671727945_n.jpg
       alt: Image alt text
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: Healthy Cooking Workshop (Demo)
+      subtitle: 18 April 2026, Saturday
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: Learn how to prepare wholesome and delicious dishes in this healthy
+        cooking demonstration.
+      button: Purchase Here
       alt: Image alt text
+      image: /images/652559000_948048010910259_9216989236906114673_n.jpg
+      url: https://go.gov.sg/w00d6c
   - infopic:
       title: Infopic
       subtitle: Add an image and text
