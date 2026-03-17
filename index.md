@@ -41,17 +41,6 @@ sections:
       title: 5 Years of Amazing MoCa!
       subtitle: Moulmein-Cairnhill Brochure
   - infopic:
-      title: Buka Puasa Together at Moulmein–Cairnhill
-      subtitle: 14 March 2026, Saturday
-      id: infopic
-      description: Join us for a heartwarming fast-breaking meal as we come together
-        with our migrant guests to appreciate their contributions to our
-        community.
-      button: Register Here
-      alt: Image alt text
-      url: https://go.gov.sg/bukapuasa2026
-      image: /images/Buka_Puasa_2024__1_.png
-  - infopic:
       title: Eggless Berry Pulp Muffins(Parent & Child Baking Class)
       subtitle: 22 March 2026, Sunday
       id: infopic
@@ -72,6 +61,16 @@ sections:
       image: /images/652559000_948048010910259_9216989236906114673_n.jpg
       url: https://go.gov.sg/w00d6c
   - infopic:
+      title: Mother’s Day Flower Workshop
+      subtitle: 16 or 23 April 2026, Thursdays
+      id: infopic
+      description: Create a beautiful bouquet and enjoy a meaningful moment of
+        creativity and appreciation.
+      button: Register Here
+      alt: Image alt text
+      url: https://go.gov.sg/2yeefe
+      image: /images/654195311_948049324243461_6999845883917687725_n.jpg
+  - infopic:
       title: DIY Musical Box Workshop
       subtitle: 9 May 2026, Saturday
       id: infopic
@@ -82,15 +81,15 @@ sections:
       url: go.gov.sg/musicalbox9may26
       image: /images/649869335_945247064523687_8549341126168880680_n.jpg
   - infopic:
-      title: Mother’s Day Flower Workshop
-      subtitle: 16 or 23 April 2026, Thursdays
+      title: Gua Sha for Health
+      subtitle: 30 April 2026, Saturday
       id: infopic
-      description: Create a beautiful bouquet and enjoy a meaningful moment of
-        creativity and appreciation.
-      button: Register Here
+      description: Discover the benefits of TCM Gua Sha and learn practical techniques
+        to support everyday wellness.
+      button: Purchase Here
+      url: :https://go.gov.sg/3nvquz
+      image: /images/652443155_948047344243659_4869283453277959098_n.jpg
       alt: Image alt text
-      url: https://go.gov.sg/2yeefe
-      image: /images/654195311_948049324243461_6999845883917687725_n.jpg
   - resources:
       id: resources
       subtitle: What we have been up to
