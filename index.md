@@ -82,12 +82,15 @@ sections:
       url: go.gov.sg/musicalbox9may26
       image: /images/649869335_945247064523687_8549341126168880680_n.jpg
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: Mother’s Day Flower Workshop
+      subtitle: 16 or 23 April 2026, Thursdays
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: Create a beautiful bouquet and enjoy a meaningful moment of
+        creativity and appreciation.
+      button: Register Here
       alt: Image alt text
+      url: https://go.gov.sg/2yeefe
+      image: /images/654195311_948049324243461_6999845883917687725_n.jpg
   - resources:
       id: resources
       subtitle: What we have been up to
