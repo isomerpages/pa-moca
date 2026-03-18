@@ -51,6 +51,15 @@ sections:
       image: /images/653264398_948049694243424_6447619220671727945_n.jpg
       alt: Image alt text
   - infopic:
+      title: ✨ Timeless Traditions of Indian Heritage Tour ✨
+      subtitle: 11 April 2026, Saturday
+      id: infopic
+      description: Join us for an enriching journey into the heart of Indian culture.
+      button: Purchase Here
+      url: https://go.gov.sg/indianheritagetour26
+      image: /images/655217588_1341079311398788_1636978621615739445_n.jpg
+      alt: Image alt text
+  - infopic:
       title: Healthy Cooking Workshop (Demo)
       subtitle: 18 April 2026, Saturday
       id: infopic
@@ -90,15 +99,6 @@ sections:
       alt: Image alt text
       url: go.gov.sg/musicalbox9may26
       image: /images/649869335_945247064523687_8549341126168880680_n.jpg
-  - infopic:
-      title: ✨ Timeless Traditions of Indian Heritage Tour ✨
-      subtitle: 11 April 2026, Saturday
-      id: infopic
-      description: Join us for an enriching journey into the heart of Indian culture.
-      button: Purchase Here
-      url: https://go.gov.sg/indianheritagetour26
-      image: /images/655217588_1341079311398788_1636978621615739445_n.jpg
-      alt: Image alt text
   - resources:
       id: resources
       subtitle: What we have been up to
