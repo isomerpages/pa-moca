@@ -80,12 +80,15 @@ sections:
       image: /images/Tanglin_CC_SCEC_Hari_RAYA_v2_pdf_safe__2__page_0001.jpg
       alt: Image alt text
   - infopic:
-      title: Infopic
-      subtitle: 18 April 2026, Saturday
+      title: Community Flea Market 2026
+      subtitle: 11 April 2026, Saturday
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: Give your pre-loved items a second life, showcase creative
+        products, or support a notable cause while connecting with the
+        community.
+      button: Register Here
       alt: Image alt text
+      url: https://go.gov.sg/fleamarket26
   - infopic:
       title: Mother’s Day Flower Workshop
       subtitle: 16 or 23 April 2026, Thursdays
