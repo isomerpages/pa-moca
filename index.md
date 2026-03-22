@@ -70,6 +70,23 @@ sections:
       image: /images/652559000_948048010910259_9216989236906114673_n.jpg
       url: https://go.gov.sg/w00d6c
   - infopic:
+      title: Hari Raya Berbaju Batik 2026
+      subtitle: 18 April 2026, Saturday
+      id: infopic
+      description: Enjoy an afternoon filled with festive performances, a delicious
+        halal buffet, lucky draw, Best Dressed contest and many more!
+      button: Purchase Here
+      url: Https://go.gov.sg/tccscechariraya26
+      image: /images/Tanglin_CC_SCEC_Hari_RAYA_v2_pdf_safe__2__page_0001.jpg
+      alt: Image alt text
+  - infopic:
+      title: Infopic
+      subtitle: 18 April 2026, Saturday
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
+  - infopic:
       title: Mother’s Day Flower Workshop
       subtitle: 16 or 23 April 2026, Thursdays
       id: infopic
