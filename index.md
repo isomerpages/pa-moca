@@ -60,6 +60,17 @@ sections:
       image: /images/655217588_1341079311398788_1636978621615739445_n.jpg
       alt: Image alt text
   - infopic:
+      title: Community Flea Market 2026
+      subtitle: 11 April 2026, Saturday
+      id: infopic
+      description: Give your pre-loved items a second life, showcase creative
+        products, or support a notable cause while connecting with the
+        community.
+      button: Register Here
+      alt: Image alt text
+      url: https://go.gov.sg/fleamarket26
+      image: /images/Community_Flea_Market_2026.jpg
+  - infopic:
       title: Healthy Cooking Workshop (Demo)
       subtitle: 18 April 2026, Saturday
       id: infopic
@@ -79,16 +90,6 @@ sections:
       url: Https://go.gov.sg/tccscechariraya26
       image: /images/Tanglin_CC_SCEC_Hari_RAYA_v2_pdf_safe__2__page_0001.jpg
       alt: Image alt text
-  - infopic:
-      title: Community Flea Market 2026
-      subtitle: 11 April 2026, Saturday
-      id: infopic
-      description: Give your pre-loved items a second life, showcase creative
-        products, or support a notable cause while connecting with the
-        community.
-      button: Register Here
-      alt: Image alt text
-      url: https://go.gov.sg/fleamarket26
   - infopic:
       title: Mother’s Day Flower Workshop
       subtitle: 16 or 23 April 2026, Thursdays
