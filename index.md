@@ -41,16 +41,6 @@ sections:
       title: 5 Years of Amazing MoCa!
       subtitle: Moulmein-Cairnhill Brochure
   - infopic:
-      title: Eggless Berry Pulp Muffins(Parent & Child Baking Class)
-      subtitle: 22 March 2026, Sunday
-      id: infopic
-      description: Spend quality time baking together and learn how to make delicious
-        eggless berry pulp muffins
-      button: Purchase Here
-      url: go.gov.sg/pkccmuffin
-      image: /images/653264398_948049694243424_6447619220671727945_n.jpg
-      alt: Image alt text
-  - infopic:
       title: ✨ Timeless Traditions of Indian Heritage Tour ✨
       subtitle: 11 April 2026, Saturday
       id: infopic
@@ -80,6 +70,16 @@ sections:
       alt: Image alt text
       image: /images/652559000_948048010910259_9216989236906114673_n.jpg
       url: https://go.gov.sg/w00d6c
+  - infopic:
+      title: Keep our neighbourhood clean, green, and litter-free! 🌿
+      subtitle: 18 April 2026, Saturday
+      id: infopic
+      description: Come be part of our community effort to keep our neighbourhood
+        clean, green, and litter-free! 💪🌱
+      button: Register Here
+      url: https://go.gov.sg/trashthetrash26
+      alt: Image alt text
+      image: /images/3b174760_527a_46cc_bae1_9cc343dbe75d.jpg
   - infopic:
       title: Hari Raya Berbaju Batik 2026
       subtitle: 18 April 2026, Saturday
@@ -120,6 +120,16 @@ sections:
       alt: Image alt text
       url: go.gov.sg/musicalbox9may26
       image: /images/649869335_945247064523687_8549341126168880680_n.jpg
+  - infopic:
+      title: Youth Career Exploration Chit Chat Session
+      subtitle: 2 May 2026, Saturday
+      id: infopic
+      description: Hear directly from professionals across industries and gain real
+        insights into their journeys.
+      button: Register Herer
+      url: go.gov.sg/mocacareerchitchat
+      image: /images/WhatsApp_Image_2026_03_29_at_13_26_22.jpg
+      alt: Image alt text
   - resources:
       id: resources
       subtitle: What we have been up to
