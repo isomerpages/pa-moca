@@ -41,26 +41,6 @@ sections:
       title: 5 Years of Amazing MoCa!
       subtitle: Moulmein-Cairnhill Brochure
   - infopic:
-      title: ✨ Timeless Traditions of Indian Heritage Tour ✨
-      subtitle: 11 April 2026, Saturday
-      id: infopic
-      description: Join us for an enriching journey into the heart of Indian culture.
-      button: Purchase Here
-      url: https://go.gov.sg/indianheritagetour26
-      image: /images/655217588_1341079311398788_1636978621615739445_n.jpg
-      alt: Image alt text
-  - infopic:
-      title: Community Flea Market 2026
-      subtitle: 11 April 2026, Saturday
-      id: infopic
-      description: Give your pre-loved items a second life, showcase creative
-        products, or support a notable cause while connecting with the
-        community.
-      button: Register Here
-      alt: Image alt text
-      url: https://go.gov.sg/fleamarket26
-      image: /images/Community_Flea_Market_2026.jpg
-  - infopic:
       title: Healthy Cooking Workshop (Demo)
       subtitle: 18 April 2026, Saturday
       id: infopic
