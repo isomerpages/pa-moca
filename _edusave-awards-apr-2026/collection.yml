@@ -1,4 +1,5 @@
 collections:
   edusave-awards-apr-2026:
     output: true
-    order: []
+    order:
+      - Pek Kio.md
