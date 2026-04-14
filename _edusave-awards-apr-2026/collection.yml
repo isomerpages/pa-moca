@@ -1,0 +1,6 @@
+collections:
+  edusave-awards-apr-2026:
+    output: true
+    order:
+      - Pek Kio.md
+      - Tanglin.md
