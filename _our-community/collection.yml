@@ -3,8 +3,6 @@ collections:
     output: true
     order:
       - Moulmein–Cairnhill.md
-      - Moulmein Cairnhill CCC GROs/Moulmein Cairnhill Our Migrant Guests(OMG).md
-      - Moulmein Cairnhill CCC GROs/Our Green MoCa.md
       - Moulmein Cairnhill CCC GROs/.keep
       - Moulmein Cairnhill CCC GROs/Moulmein Cairnhill Youth Network.md
       - Moulmein Cairnhill CCC GROs/Moulmein Cairnhill Community Sports Network
@@ -36,7 +34,7 @@ collections:
       - Tanglin Community Club/Tanglin CC WEC.md
       - Tanglin Community Club/Tanglin CC IAEC.md
       - Tanglin Community Club/Tanglin CC.md
-      - Residents’ Committee & Network/Farrer Park RC.md
+      - Residents’ Committee & Network/Farrer Park RN.md
       - Residents’ Committee & Network/Pek Kio RN.md
       - Residents’ Committee & Network/Tekka RN.md
       - Residents’ Committee & Network/.keep
@@ -44,7 +42,7 @@ collections:
       - Residents’ Committee & Network/Stevens' RN.md
       - Residents’ Committee & Network/Cambridge RN.md
       - Residents’ Committee & Network/Cairnhill RN.md
-      - Residents’ Committee & Network/Goldhill NC.md
+      - Residents’ Committee & Network/Goldhill RN.md
       - Residents’ Committee & Network/Newton RN.md
       - Residents’ Committee & Network/Botanic Gardens RN.md
       - Residents’ Committee & Network/The Hills RN.md
