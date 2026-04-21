@@ -41,15 +41,15 @@ sections:
       title: 5 Years of Amazing MoCa!
       subtitle: Moulmein-Cairnhill Brochure
   - infopic:
-      title: Healthy Cooking Workshop (Demo)
-      subtitle: 18 April 2026, Saturday
+      title: 🚀e2i Skills & Career Fair @ Pek Kio Community Centre
+      subtitle: 25 April 2026, Saturday
       id: infopic
-      description: Learn how to prepare wholesome and delicious dishes in this healthy
-        cooking demonstration.
-      button: Purchase Here
+      description: Looking for your next career move? Don’t miss the e2i Skills &
+        Career Fair Pek Kio Community Centre!
+      button: Register Here
+      url: https://go.gov.sg/pkjf
+      image: /images/660796725_1352054796967906_5484994083395149076_n.png
       alt: Image alt text
-      image: /images/652559000_948048010910259_9216989236906114673_n.jpg
-      url: https://go.gov.sg/w00d6c
   - infopic:
       title: Mother’s Day Flower Workshop
       subtitle: 16 or 23 April 2026, Thursdays
@@ -99,19 +99,6 @@ sections:
       url: https://go.gov.sg/ppp26
       image: /images/cd54b8ad_51e0_4ced_ae67_5ba606838c10.png
       alt: Image alt text
-  - resources:
-      id: resources
-      subtitle: What we have been up to
-  - infopic:
-      title: 🚀e2i Skills & Career Fair @ Pek Kio Community Centre
-      subtitle: 25 April 2026, Saturday
-      id: infopic
-      description: Looking for your next career move? Don’t miss the e2i Skills &
-        Career Fair Pek Kio Community Centre!
-      button: Register Here
-      url: https://go.gov.sg/pkjf
-      image: /images/660796725_1352054796967906_5484994083395149076_n.png
-      alt: Image alt text
   - infopic:
       title: 🌟 MOCA Seniors Wellness Day🌟
       subtitle: 9 May 2026, Saturday
@@ -132,4 +119,7 @@ sections:
       url: https://go.gov.sg/tanglincccarnival2026
       image: /images/656745339_18080901149610861_2859564178421721547_n.jpg
       alt: Image alt text
+  - resources:
+      id: resources
+      subtitle: What we have been up to
 ---
