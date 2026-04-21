@@ -41,16 +41,6 @@ sections:
       title: 5 Years of Amazing MoCa!
       subtitle: Moulmein-Cairnhill Brochure
   - infopic:
-      title: 🚀e2i Skills & Career Fair @ Pek Kio Community Centre
-      subtitle: 25 April 2026, Saturday
-      id: infopic
-      description: Looking for your next career move? Don’t miss the e2i Skills &
-        Career Fair Pek Kio Community Centre!
-      button: Register Here
-      url: https://go.gov.sg/pkjf
-      image: /images/660796725_1352054796967906_5484994083395149076_n.png
-      alt: Image alt text
-  - infopic:
       title: Mother’s Day Flower Workshop
       subtitle: 16 or 23 April 2026, Thursdays
       id: infopic
@@ -60,6 +50,16 @@ sections:
       alt: Image alt text
       url: https://go.gov.sg/2yeefe
       image: /images/654195311_948049324243461_6999845883917687725_n.jpg
+  - infopic:
+      title: 🚀e2i Skills & Career Fair @ Pek Kio Community Centre
+      subtitle: 25 April 2026, Saturday
+      id: infopic
+      description: Looking for your next career move? Don’t miss the e2i Skills &
+        Career Fair Pek Kio Community Centre!
+      button: Register Here
+      url: https://go.gov.sg/pkjf
+      image: /images/660796725_1352054796967906_5484994083395149076_n.png
+      alt: Image alt text
   - infopic:
       title: Gua Sha for Health
       subtitle: 30 April 2026, Saturday
