@@ -41,26 +41,6 @@ sections:
       title: 5 Years of Amazing MoCa!
       subtitle: Moulmein-Cairnhill Brochure
   - infopic:
-      title: Healthy Cooking Workshop (Demo)
-      subtitle: 18 April 2026, Saturday
-      id: infopic
-      description: Learn how to prepare wholesome and delicious dishes in this healthy
-        cooking demonstration.
-      button: Purchase Here
-      alt: Image alt text
-      image: /images/652559000_948048010910259_9216989236906114673_n.jpg
-      url: https://go.gov.sg/w00d6c
-  - infopic:
-      title: Hari Raya Berbaju Batik 2026
-      subtitle: 18 April 2026, Saturday
-      id: infopic
-      description: Enjoy an afternoon filled with festive performances, a delicious
-        halal buffet, lucky draw, Best Dressed contest and many more!
-      button: Purchase Here
-      url: Https://go.gov.sg/tccscechariraya26
-      image: /images/Tanglin_CC_SCEC_Hari_RAYA_v2_pdf_safe__2__page_0001.jpg
-      alt: Image alt text
-  - infopic:
       title: Mother’s Day Flower Workshop
       subtitle: 16 or 23 April 2026, Thursdays
       id: infopic
@@ -70,6 +50,16 @@ sections:
       alt: Image alt text
       url: https://go.gov.sg/2yeefe
       image: /images/654195311_948049324243461_6999845883917687725_n.jpg
+  - infopic:
+      title: 🚀e2i Skills & Career Fair @ Pek Kio Community Centre
+      subtitle: 25 April 2026, Saturday
+      id: infopic
+      description: Looking for your next career move? Don’t miss the e2i Skills &
+        Career Fair Pek Kio Community Centre!
+      button: Register Here
+      url: https://go.gov.sg/pkjf
+      image: /images/660796725_1352054796967906_5484994083395149076_n.png
+      alt: Image alt text
   - infopic:
       title: Gua Sha for Health
       subtitle: 30 April 2026, Saturday
@@ -108,6 +98,26 @@ sections:
       button: Purchase Here
       url: https://go.gov.sg/ppp26
       image: /images/cd54b8ad_51e0_4ced_ae67_5ba606838c10.png
+      alt: Image alt text
+  - infopic:
+      title: 🌟 MOCA Seniors Wellness Day🌟
+      subtitle: 9 May 2026, Saturday
+      id: infopic
+      description: Looking for a fun and meaningful way to stay active and connect
+        with others?
+      button: Purchase Here
+      url: https://go.gov.sg/mocawellness25apr
+      image: /images/657699119_18081043262610861_7145340710812227107_n.jpg
+      alt: Image alt text
+  - infopic:
+      title: 🎡 Tanglin CC Carnival!🎉
+      subtitle: 30 May 2026, Saturday
+      id: infopic
+      description: Looking for something fun to do with the family?  Don’t miss this
+        exciting afternoon packed with games, food, and live entertainment!
+      button: Purchase Here
+      url: https://go.gov.sg/tanglincccarnival2026
+      image: /images/656745339_18080901149610861_2859564178421721547_n.jpg
       alt: Image alt text
   - resources:
       id: resources
