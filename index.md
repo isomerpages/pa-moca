@@ -119,6 +119,16 @@ sections:
       url: https://go.gov.sg/tanglincccarnival2026
       image: /images/656745339_18080901149610861_2859564178421721547_n.jpg
       alt: Image alt text
+  - infopic:
+      title: 🎤 Speak Actually @ Pek Kio CC
+      subtitle: 30 May- 2 June, 5 - 7 June
+      id: infopic
+      description: Looking for a meaningful way to boost your child’s confidence this
+        June holidays?
+      button: Register Here
+      url: https://go.gov.sg/ot5tlu
+      image: /images/675929926_977213327993727_4380971775370779447_n.jpg
+      alt: Image alt text
   - resources:
       id: resources
       subtitle: What we have been up to
