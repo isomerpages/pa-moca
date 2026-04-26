@@ -41,26 +41,6 @@ sections:
       title: 5 Years of Amazing MoCa!
       subtitle: Moulmein-Cairnhill Brochure
   - infopic:
-      title: Mother’s Day Flower Workshop
-      subtitle: 16 or 23 April 2026, Thursdays
-      id: infopic
-      description: Create a beautiful bouquet and enjoy a meaningful moment of
-        creativity and appreciation.
-      button: Register Here
-      alt: Image alt text
-      url: https://go.gov.sg/2yeefe
-      image: /images/654195311_948049324243461_6999845883917687725_n.jpg
-  - infopic:
-      title: 🚀e2i Skills & Career Fair @ Pek Kio Community Centre
-      subtitle: 25 April 2026, Saturday
-      id: infopic
-      description: Looking for your next career move? Don’t miss the e2i Skills &
-        Career Fair Pek Kio Community Centre!
-      button: Register Here
-      url: https://go.gov.sg/pkjf
-      image: /images/660796725_1352054796967906_5484994083395149076_n.png
-      alt: Image alt text
-  - infopic:
       title: Gua Sha for Health
       subtitle: 30 April 2026, Saturday
       id: infopic
@@ -118,6 +98,37 @@ sections:
       button: Purchase Here
       url: https://go.gov.sg/tanglincccarnival2026
       image: /images/656745339_18080901149610861_2859564178421721547_n.jpg
+      alt: Image alt text
+  - infopic:
+      title: 🎤 Speak Actually @ Pek Kio CC
+      subtitle: 30 May- 2 June, 5 - 7 June
+      id: infopic
+      description: Looking for a meaningful way to boost your child’s confidence this
+        June holidays?
+      button: Register Here
+      url: https://go.gov.sg/ot5tlu
+      image: /images/675929926_977213327993727_4380971775370779447_n.jpg
+      alt: Image alt text
+  - infopic:
+      title: Family Life Champion (FLC) Book Day 2026✨📚
+      subtitle: 27 June 2026, Saturday
+      id: infopic
+      description: Bring your family for an afternoon packed with book-themed carnival
+        booths, storytelling, book swaps and costume parade
+      button: Purchase Here
+      url: https://go.gov.sg/flcbookdayon27june2026
+      image: /images/WhatsApp_Image_2026_04_24_at_09_42_23.jpg
+      alt: Image alt text
+  - infopic:
+      title: Visit to a Material Recovery Facility (MRF)
+      subtitle: 27 June 2026, Saturday
+      id: infopic
+      description: Curious about what really happens to your recyclables?   Join us
+        for an exclusive behind-the-scenes visit to a Material Recovery Facility
+        (MRF) in Singapore!
+      button: Purchase Here
+      url: go.gov.sg/mrftour27june26
+      image: /images/674309668_977276997987360_5433694079324928653_n.png
       alt: Image alt text
   - resources:
       id: resources
