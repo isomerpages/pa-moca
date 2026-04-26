@@ -109,9 +109,6 @@ sections:
       url: https://go.gov.sg/ot5tlu
       image: /images/675929926_977213327993727_4380971775370779447_n.jpg
       alt: Image alt text
-  - resources:
-      id: resources
-      subtitle: What we have been up to
   - infopic:
       title: Family Life Champion (FLC) Book Day 2026✨📚
       subtitle: 27 June 2026, Saturday
@@ -133,4 +130,7 @@ sections:
       url: go.gov.sg/mrftour27june26
       image: /images/674309668_977276997987360_5433694079324928653_n.png
       alt: Image alt text
+  - resources:
+      id: resources
+      subtitle: What we have been up to
 ---
