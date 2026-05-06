@@ -41,16 +41,6 @@ sections:
       title: 5 Years of Amazing MoCa!
       subtitle: Moulmein-Cairnhill Brochure
   - infopic:
-      title: Gua Sha for Health
-      subtitle: 30 April 2026, Saturday
-      id: infopic
-      description: Discover the benefits of TCM Gua Sha and learn practical techniques
-        to support everyday wellness.
-      button: Purchase Here
-      url: :https://go.gov.sg/3nvquz
-      image: /images/652443155_948047344243659_4869283453277959098_n.jpg
-      alt: Image alt text
-  - infopic:
       title: DIY Musical Box Workshop
       subtitle: 9 May 2026, Saturday
       id: infopic
@@ -60,16 +50,6 @@ sections:
       alt: Image alt text
       url: go.gov.sg/musicalbox9may26
       image: /images/649869335_945247064523687_8549341126168880680_n.jpg
-  - infopic:
-      title: Youth Career Exploration Chit Chat Session
-      subtitle: 2 May 2026, Saturday
-      id: infopic
-      description: Hear directly from professionals across industries and gain real
-        insights into their journeys.
-      button: Register Herer
-      url: go.gov.sg/mocacareerchitchat
-      image: /images/WhatsApp_Image_2026_03_29_at_13_26_22.jpg
-      alt: Image alt text
   - infopic:
       title: Paddle, Pick & Protect!🌿🚣‍♂️
       subtitle: 9 May 2026, Saturday
@@ -120,6 +100,16 @@ sections:
       image: /images/WhatsApp_Image_2026_04_24_at_09_42_23.jpg
       alt: Image alt text
   - infopic:
+      title: "🧠 Power of Pause: Calm Minds, Happy Hearts"
+      subtitle: 20 June 2026, Saturday
+      id: infopic
+      description: Want to help your child better manage emotions while bonding
+        through play? 💛
+      button: Purchase Here
+      url: https://go.gov.sg/calmminds200626
+      image: /images/Date_of_event__20_June__Sat__3_5pm_Number_of_participants__15_pairs_of_parents_and_children__7_10_years_old__Cost___12_per_pair_Duration___2hr.png
+      alt: Image alt text
+  - infopic:
       title: Visit to a Material Recovery Facility (MRF)
       subtitle: 27 June 2026, Saturday
       id: infopic
@@ -129,6 +119,16 @@ sections:
       button: Purchase Here
       url: go.gov.sg/mrftour27june26
       image: /images/674309668_977276997987360_5433694079324928653_n.png
+      alt: Image alt text
+  - infopic:
+      title: Cairnhill Durian Fiesta 2026
+      subtitle: 18 July 2026, Saturday
+      id: infopic
+      description: Join us at the Cairnhill Durian Fiesta for a fun-filled evening of
+        feasting and community bonding!
+      button: Purchase Here
+      url: https://go.gov.sg/chdurian180726
+      image: /images/Cairnhill_durian.png
       alt: Image alt text
   - resources:
       id: resources
