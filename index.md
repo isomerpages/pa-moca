@@ -41,16 +41,6 @@ sections:
       title: 5 Years of Amazing MoCa!
       subtitle: Moulmein-Cairnhill Brochure
   - infopic:
-      title: Gua Sha for Health
-      subtitle: 30 April 2026, Saturday
-      id: infopic
-      description: Discover the benefits of TCM Gua Sha and learn practical techniques
-        to support everyday wellness.
-      button: Purchase Here
-      url: :https://go.gov.sg/3nvquz
-      image: /images/652443155_948047344243659_4869283453277959098_n.jpg
-      alt: Image alt text
-  - infopic:
       title: DIY Musical Box Workshop
       subtitle: 9 May 2026, Saturday
       id: infopic
@@ -60,16 +50,6 @@ sections:
       alt: Image alt text
       url: go.gov.sg/musicalbox9may26
       image: /images/649869335_945247064523687_8549341126168880680_n.jpg
-  - infopic:
-      title: Youth Career Exploration Chit Chat Session
-      subtitle: 2 May 2026, Saturday
-      id: infopic
-      description: Hear directly from professionals across industries and gain real
-        insights into their journeys.
-      button: Register Herer
-      url: go.gov.sg/mocacareerchitchat
-      image: /images/WhatsApp_Image_2026_03_29_at_13_26_22.jpg
-      alt: Image alt text
   - infopic:
       title: Paddle, Pick & Protect!🌿🚣‍♂️
       subtitle: 9 May 2026, Saturday
