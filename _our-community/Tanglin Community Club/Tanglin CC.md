@@ -61,9 +61,7 @@ lovers of all ages.</p>
 <p></p>
 <p><strong>Art &amp; Music Courses</strong>
 </p>
-<p></p>
 <p>• Tamil Singing Group <a href="https://www.onepa.gov.sg/interest-groups/tamil-singing-interest-group-i000010379" rel="noopener noreferrer nofollow" target="_blank">[Register on OnePA]</a> 
-<br>• Music Club Jam <a href="https://www.onepa.gov.sg/interest-groups/tanglin-cc-music-club-jam-i000010597" rel="noopener noreferrer nofollow" target="_blank">[Register on OnePA]</a>
-</p>
+<br>• Music Club Jam (Contact Tanglin CC)</p>
 <p>‍</p>
 <p></p>
