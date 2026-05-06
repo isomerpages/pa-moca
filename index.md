@@ -86,7 +86,7 @@ sections:
       description: Looking for a meaningful way to boost your child’s confidence this
         June holidays?
       button: Register Here
-      url: https://go.gov.sg/ot5tlu
+      url: https://go.gov.sg/osgdnn
       image: /images/675929926_977213327993727_4380971775370779447_n.jpg
       alt: Image alt text
   - infopic:
