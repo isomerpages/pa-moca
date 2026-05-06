@@ -54,8 +54,6 @@ lovers of all ages.</p>
 </p>
 <p>• Bhangra Dance Club [<a href="https://www.onepa.gov.sg/interest-groups/bhangra-dance-club-i000005248" rel="noopener noreferrer nofollow" target="_blank">Register on OnePA]</a>
 </p>
-<p>• Malay Dance <a href="https://www.onepa.gov.sg/interest-groups/tanglin-cc-malay-dance-ig-i000012419" rel="noopener noreferrer nofollow" target="_blank">[Register on OnePA]</a>
-</p>
 <p>• Blues Jam <a href="https://www.onepa.gov.sg/interest-groups/blues-jam-ig-i000013384" rel="noopener noreferrer nofollow" target="_blank">[Register on OnePA]</a>
 </p>
 <p>• Pop Jam <a href="https://www.onepa.gov.sg/interest-groups/pop-jam-ig-i000013385" rel="noopener noreferrer nofollow" target="_blank">[Register on OnePA]</a>
@@ -68,13 +66,4 @@ lovers of all ages.</p>
 <br>• Music Club Jam <a href="https://www.onepa.gov.sg/interest-groups/tanglin-cc-music-club-jam-i000010597" rel="noopener noreferrer nofollow" target="_blank">[Register on OnePA]</a>
 </p>
 <p>‍</p>
-<p><strong><em>Tanglin CC WEC</em></strong>
-</p>
-<p>‍<strong>Dance Courses</strong>
-</p>
-<p>• K-Pop Dance <a href="https://www.onepa.gov.sg/interest-groups/wec-k-pop-dance-interest-group-i000023525" rel="noopener noreferrer nofollow" target="_blank">[Register on OnePA]</a>
-</p>
-<p>‍<strong>Art &amp; Music Courses</strong>
-</p>
-<p>• Brick Building Group (Active but currently suspended)</p>
 <p></p>
