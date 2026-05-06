@@ -48,7 +48,7 @@ sections:
         accessories—perfect as a heartfelt gift or family bonding activity.
       button: Purchase Here
       alt: Image alt text
-      url: go.gov.sg/musicalbox9may26
+      url: https://go.gov.sg/musicalbox9may26
       image: /images/649869335_945247064523687_8549341126168880680_n.jpg
   - infopic:
       title: Paddle, Pick & Protect!🌿🚣‍♂️
@@ -86,7 +86,7 @@ sections:
       description: Looking for a meaningful way to boost your child’s confidence this
         June holidays?
       button: Register Here
-      url: https://go.gov.sg/ot5tlu
+      url: https://go.gov.sg/osgdnn
       image: /images/675929926_977213327993727_4380971775370779447_n.jpg
       alt: Image alt text
   - infopic:
@@ -117,7 +117,7 @@ sections:
         for an exclusive behind-the-scenes visit to a Material Recovery Facility
         (MRF) in Singapore!
       button: Purchase Here
-      url: go.gov.sg/mrftour27june26
+      url: https://go.gov.sg/mrftour27june26
       image: /images/674309668_977276997987360_5433694079324928653_n.png
       alt: Image alt text
   - infopic:
