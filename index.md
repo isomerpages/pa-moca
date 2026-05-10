@@ -41,35 +41,6 @@ sections:
       title: 5 Years of Amazing MoCa!
       subtitle: Moulmein-Cairnhill Brochure
   - infopic:
-      title: DIY Musical Box Workshop
-      subtitle: 9 May 2026, Saturday
-      id: infopic
-      description: Customise your own musical box with a variety of tunes and
-        accessories—perfect as a heartfelt gift or family bonding activity.
-      button: Purchase Here
-      alt: Image alt text
-      url: https://go.gov.sg/musicalbox9may26
-      image: /images/649869335_945247064523687_8549341126168880680_n.jpg
-  - infopic:
-      title: Paddle, Pick & Protect!🌿🚣‍♂️
-      subtitle: 9 May 2026, Saturday
-      id: infopic
-      description: Join us in keeping our community clean and green.
-      button: Purchase Here
-      url: https://go.gov.sg/ppp26
-      image: /images/cd54b8ad_51e0_4ced_ae67_5ba606838c10.png
-      alt: Image alt text
-  - infopic:
-      title: 🌟 MOCA Seniors Wellness Day🌟
-      subtitle: 9 May 2026, Saturday
-      id: infopic
-      description: Looking for a fun and meaningful way to stay active and connect
-        with others?
-      button: Purchase Here
-      url: https://go.gov.sg/mocawellness25apr
-      image: /images/657699119_18081043262610861_7145340710812227107_n.jpg
-      alt: Image alt text
-  - infopic:
       title: 🎡 Tanglin CC Carnival!🎉
       subtitle: 30 May 2026, Saturday
       id: infopic
@@ -88,6 +59,15 @@ sections:
       button: Register Here
       url: https://go.gov.sg/osgdnn
       image: /images/675929926_977213327993727_4380971775370779447_n.jpg
+      alt: Image alt text
+  - infopic:
+      title: Gua Sha Workshop @ Pek Kio CC
+      subtitle: 4 June 2026, Thursday
+      id: infopic
+      description: Looking for natural relief for knees and lower back pain? Join us!
+      button: Purchase Here
+      url: https://go.gov.sg/bjldehguasha
+      image: /images/687747124_987824970265896_2346833359601894959_n.jpg
       alt: Image alt text
   - infopic:
       title: Family Life Champion (FLC) Book Day 2026✨📚
@@ -133,4 +113,21 @@ sections:
   - resources:
       id: resources
       subtitle: What we have been up to
+  - infopic:
+      title: Money with Mindy Workshop
+      subtitle: 13,20,27 June and 4 July 2026
+      id: infopic
+      description: Help your kids build real‑life financial confidence through fun,
+        interactive activities!
+      button: Purchase Here
+      url: https://go.gov.sg/pekkioMoneyMindy
+      image: /images/688424526_989271573454569_4526614436425233416_n.jpg
+      alt: Image alt text
+  - infopic:
+      title: Infopic
+      subtitle: 20 June 2026, Saturday
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
