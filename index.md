@@ -124,10 +124,14 @@ sections:
       image: /images/688424526_989271573454569_4526614436425233416_n.jpg
       alt: Image alt text
   - infopic:
-      title: Infopic
-      subtitle: 20 June 2026, Saturday
+      title: Aroma Massage Ball Workshop @ Pek Kio CC
+      subtitle: 4 July 2026, Saturday
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: Hand‑craft your very own wellness companion! Learn how to create an
+        aroma massage ball infused with natural ingredients to relax, refresh,
+        and rejuvenate.
+      button: Purchase Here
       alt: Image alt text
+      image: /images/687085853_987834803598246_1991179227019503690_n.jpg
+      url: https://go.gov.sg/bkcg0xmassageball
 ---
