@@ -30,16 +30,6 @@ sections:
           url: /contact
       variant: center
   - infopic:
-      title: 🎤 Speak Actually @ Pek Kio CC
-      subtitle: 30 May- 2 June, 5 - 7 June
-      id: infopic
-      description: Looking for a meaningful way to boost your child’s confidence this
-        June holidays?
-      button: Register Here
-      url: https://go.gov.sg/osgdnn
-      image: /images/675929926_977213327993727_4380971775370779447_n.jpg
-      alt: Image alt text
-  - infopic:
       title: Gua Sha Workshop @ Pek Kio CC
       subtitle: 4 June 2026, Thursday
       id: infopic
@@ -90,6 +80,16 @@ sections:
       image: /images/674309668_977276997987360_5433694079324928653_n.png
       alt: Image alt text
   - infopic:
+      title: 📢 Get ready to UNLEASH THE PITCH! 🏉⚽️🔥
+      subtitle: 27 June 2026, Saturday
+      id: infopic
+      description: Join us as we officially explore our division's newest sporting
+        grounds at the Tanglin Rugby Club Open House!
+      button: Purchase Here
+      url: https://go.gov.sg/trccage
+      image: /images/Unleash_the_Pitch_6_Jun_03.png
+      alt: Image alt text
+  - infopic:
       title: Aroma Massage Ball Workshop @ Pek Kio CC
       subtitle: 4 July 2026, Saturday
       id: infopic
@@ -100,6 +100,16 @@ sections:
       alt: Image alt text
       image: /images/687085853_987834803598246_1991179227019503690_n.jpg
       url: https://go.gov.sg/bkcg0xmassageball
+  - infopic:
+      title: 🏁🎉 Cambridge Grand Prix 2026
+      subtitle: 11 July 2026, Saturday
+      id: infopic
+      description: Calling all little racers! 🚗💨 Get ready for an exciting
+        competition at the Kiddy Rides Cambridge Grand Prix!
+      button: Purchase Here
+      url: https://go.gov.sg/grandprixparty
+      image: /images/Cambridge_Grand_Prix_A3.png
+      alt: Image alt text
   - infopic:
       title: Cairnhill Durian Fiesta 2026
       subtitle: 18 July 2026, Saturday
