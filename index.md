@@ -80,6 +80,16 @@ sections:
       image: /images/674309668_977276997987360_5433694079324928653_n.png
       alt: Image alt text
   - infopic:
+      title: 📢 Get ready to UNLEASH THE PITCH! 🏉⚽️🔥
+      subtitle: 27 June 2026, Saturday
+      id: infopic
+      description: Join us as we officially explore our division's newest sporting
+        grounds at the Tanglin Rugby Club Open House!
+      button: Purchase Here
+      url: https://go.gov.sg/trccage
+      image: /images/Unleash_the_Pitch_6_Jun_03.png
+      alt: Image alt text
+  - infopic:
       title: Aroma Massage Ball Workshop @ Pek Kio CC
       subtitle: 4 July 2026, Saturday
       id: infopic
