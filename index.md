@@ -114,4 +114,13 @@ sections:
   - resources:
       id: resources
       subtitle: What we have been up to
+  - infopic:
+      title: 🌏✨ Many Cultures, One MoCa ✨🌏
+      subtitle: 4 July 2026, Saturday
+      id: infopic
+      description: Celebrating cultural diversity in our community🎉
+      button: Purchase Here
+      url: https://www.onepa.gov.sg/events/many-cultures-one-moca-78823797
+      image: /images/WhatsApp_Image_2026_06_07_at_16_50_01.jpg
+      alt: Image alt text
 ---
