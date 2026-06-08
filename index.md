@@ -30,15 +30,6 @@ sections:
           url: /contact
       variant: center
   - infopic:
-      title: Gua Sha Workshop @ Pek Kio CC
-      subtitle: 4 June 2026, Thursday
-      id: infopic
-      description: Looking for natural relief for knees and lower back pain? Join us!
-      button: Purchase Here
-      url: https://go.gov.sg/bjldehguasha
-      image: /images/687747124_987824970265896_2346833359601894959_n.jpg
-      alt: Image alt text
-  - infopic:
       title: Money with Mindy Workshop
       subtitle: 13,20,27 June and 4 July 2026
       id: infopic
