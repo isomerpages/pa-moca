@@ -52,16 +52,12 @@ lovers of all ages.</p>
 <p></p>
 <p>‍<strong>Dance Courses</strong>
 </p>
-<p>• Bhangra Dance Club [<a href="https://www.onepa.gov.sg/interest-groups/bhangra-dance-club-i000005248" rel="noopener noreferrer nofollow" target="_blank">Register on OnePA]</a>
-</p>
-<p>• Blues Jam <a href="https://www.onepa.gov.sg/interest-groups/blues-jam-ig-i000013384" rel="noopener noreferrer nofollow" target="_blank">[Register on OnePA]</a>
-</p>
-<p>• Pop Jam <a href="https://www.onepa.gov.sg/interest-groups/pop-jam-ig-i000013385" rel="noopener noreferrer nofollow" target="_blank">[Register on OnePA]</a>
-</p>
+<p>• Bhangra Dance Club</p>
+<p>• Blues Jam</p>
 <p></p>
 <p><strong>Art &amp; Music Courses</strong>
 </p>
-<p>• Tamil Singing Group <a href="https://www.onepa.gov.sg/interest-groups/tamil-singing-interest-group-i000010379" rel="noopener noreferrer nofollow" target="_blank">[Register on OnePA]</a> 
+<p>• Tamil Singing Group
 <br>• Music Club Jam (Contact Tanglin CC)</p>
 <p>‍</p>
 <p></p>
