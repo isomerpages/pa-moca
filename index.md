@@ -123,4 +123,22 @@ sections:
       url: https://www.onepa.gov.sg/events/many-cultures-one-moca-78823797
       image: /images/WhatsApp_Image_2026_06_07_at_16_50_01.jpg
       alt: Image alt text
+  - infopic:
+      title: 🍴 Different Cultures, One Kitchen
+      subtitle: 18 July 2026, Saturday
+      id: infopic
+      description: Celebrate racial harmony through food!
+      button: Purchase Here
+      url: https://go.gov.sg/kuehlinary180726
+      image: /images/720040904_1017044520677274_3287946061902474861_n.jpg
+      alt: Image alt text
+  - infopic:
+      title: Murals for Little India MRT Station
+      subtitle: Closing Date:19 June, Friday
+      id: infopic
+      description: ✨ Vote for your top six favourite designs here
+      button: Vote Here
+      url: https://forms.cloud.microsoft/r/ejTyXFXadk
+      image: /images/717298672_1321906120131414_3151999604877892401_n.jpg
+      alt: Image alt text
 ---
