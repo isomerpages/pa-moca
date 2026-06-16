@@ -139,6 +139,15 @@ sections:
       url: https://go.gov.sg/chdurian180726
       image: /images/Cairnhill_durian.png
       alt: Image alt text
+  - infopic:
+      title: 🍴 Different Cultures, One Kitchen
+      subtitle: 18 July 2026, Saturday
+      id: infopic
+      description: Celebrate racial harmony through food!
+      button: Purchase Here
+      url: ": https://go.gov.sg/kuehlinary180726"
+      image: /images/720040904_1017044520677274_3287946061902474861_n.jpg
+      alt: Image alt text
   - resources:
       id: resources
       subtitle: What we have been up to
