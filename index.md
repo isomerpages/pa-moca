@@ -151,4 +151,27 @@ sections:
   - resources:
       id: resources
       subtitle: What we have been up to
+  - infopic:
+      title: 🌸✨ A Blooming Day Out Awaits! ✨🌸
+      subtitle: 12 July 2026, Sunday
+      id: infopic
+      description: Join us for the Singapore Garden Festival & Flower Dome Experience
+      button: Purchase Here
+      url: https://go.gov.sg/gardensbythebay2026
+      image: /images/WhatsApp_Image_2026_06_18_at_14_44_24.jpg
+      alt: Image alt text
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
