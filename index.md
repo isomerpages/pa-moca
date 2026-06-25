@@ -141,7 +141,7 @@ sections:
       subtitle: 8 August 2026,Saturday
       id: infopic
       description: Let's come together to celebrate our nation, and our community,
-      button: Register Her
+      button: Register Here
       alt: Image alt text
       image: /images/Mass_Ticket___38__front___8_.png
       url: https://go.gov.sg/ndd2026
