@@ -149,7 +149,7 @@ sections:
       title: Community Resilience Day
       subtitle: 23 August 2026, Sunday
       id: infopic
-      description: join us to learn lifesaving skills, meet community partners, and
+      description: Join us to learn lifesaving skills, meet community partners, and
         discover how each of us can play a part in building a safer and more
         resilient Singapore
       button: Register Here
