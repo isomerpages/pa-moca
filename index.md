@@ -133,7 +133,7 @@ sections:
       id: infopic
       description: Celebrate racial harmony through food!
       button: Purchase Here
-      url: ": https://go.gov.sg/kuehlinary180726"
+      url: https://go.gov.sg/kuehlinary180726
       image: /images/720040904_1017044520677274_3287946061902474861_n.jpg
       alt: Image alt text
   - infopic:
@@ -153,7 +153,7 @@ sections:
         discover how each of us can play a part in building a safer and more
         resilient Singapore
       button: Register Here
-      url: go.gov.sg/mocacrday
+      url: https://go.gov.sg/mocacrday
       image: /images/WhatsApp_Image_2026_06_25_at_16_44_22.jpg
       alt: Image alt text
   - resources:
