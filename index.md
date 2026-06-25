@@ -59,16 +59,6 @@ sections:
       image: /images/688424526_989271573454569_4526614436425233416_n.jpg
       alt: Image alt text
   - infopic:
-      title: "🧠 Power of Pause: Calm Minds, Happy Hearts"
-      subtitle: 20 June 2026, Saturday
-      id: infopic
-      description: Want to help your child better manage emotions while bonding
-        through play? 💛
-      button: Purchase Here
-      url: https://go.gov.sg/calmminds200626
-      image: /images/Date_of_event__20_June__Sat__3_5pm_Number_of_participants__15_pairs_of_parents_and_children__7_10_years_old__Cost___12_per_pair_Duration___2hr.png
-      alt: Image alt text
-  - infopic:
       title: Family Life Champion (FLC) Book Day 2026✨📚
       subtitle: 27 June 2026, Saturday
       id: infopic
@@ -159,13 +149,6 @@ sections:
       button: Purchase Here
       url: https://go.gov.sg/gardensbythebay2026
       image: /images/WhatsApp_Image_2026_06_18_at_14_44_24.jpg
-      alt: Image alt text
-  - infopic:
-      title: Infopic
-      subtitle: Add an image and text
-      id: infopic
-      description: Infopic description
-      button: Button Text
       alt: Image alt text
   - infopic:
       title: Infopic
