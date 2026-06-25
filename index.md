@@ -69,17 +69,6 @@ sections:
       image: /images/WhatsApp_Image_2026_04_24_at_09_42_23.jpg
       alt: Image alt text
   - infopic:
-      title: Visit to a Material Recovery Facility (MRF)
-      subtitle: 27 June 2026, Saturday
-      id: infopic
-      description: Curious about what really happens to your recyclables?   Join us
-        for an exclusive behind-the-scenes visit to a Material Recovery Facility
-        (MRF) in Singapore!
-      button: Purchase Here
-      url: https://go.gov.sg/mrftour27june26
-      image: /images/674309668_977276997987360_5433694079324928653_n.png
-      alt: Image alt text
-  - infopic:
       title: 📢 Get ready to UNLEASH THE PITCH! 🏉⚽️🔥
       subtitle: 27 June 2026, Saturday
       id: infopic
