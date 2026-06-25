@@ -59,16 +59,6 @@ sections:
       image: /images/688424526_989271573454569_4526614436425233416_n.jpg
       alt: Image alt text
   - infopic:
-      title: "🧠 Power of Pause: Calm Minds, Happy Hearts"
-      subtitle: 20 June 2026, Saturday
-      id: infopic
-      description: Want to help your child better manage emotions while bonding
-        through play? 💛
-      button: Purchase Here
-      url: https://go.gov.sg/calmminds200626
-      image: /images/Date_of_event__20_June__Sat__3_5pm_Number_of_participants__15_pairs_of_parents_and_children__7_10_years_old__Cost___12_per_pair_Duration___2hr.png
-      alt: Image alt text
-  - infopic:
       title: Family Life Champion (FLC) Book Day 2026✨📚
       subtitle: 27 June 2026, Saturday
       id: infopic
@@ -77,17 +67,6 @@ sections:
       button: Purchase Here
       url: https://go.gov.sg/flcbookdayon27june2026
       image: /images/WhatsApp_Image_2026_04_24_at_09_42_23.jpg
-      alt: Image alt text
-  - infopic:
-      title: Visit to a Material Recovery Facility (MRF)
-      subtitle: 27 June 2026, Saturday
-      id: infopic
-      description: Curious about what really happens to your recyclables?   Join us
-        for an exclusive behind-the-scenes visit to a Material Recovery Facility
-        (MRF) in Singapore!
-      button: Purchase Here
-      url: https://go.gov.sg/mrftour27june26
-      image: /images/674309668_977276997987360_5433694079324928653_n.png
       alt: Image alt text
   - infopic:
       title: 📢 Get ready to UNLEASH THE PITCH! 🏉⚽️🔥
@@ -130,6 +109,15 @@ sections:
       image: /images/Cambridge_Grand_Prix_A3.png
       alt: Image alt text
   - infopic:
+      title: 🌸✨ A Blooming Day Out Awaits! ✨🌸
+      subtitle: 12 July 2026, Sunday
+      id: infopic
+      description: Join us for the Singapore Garden Festival & Flower Dome Experience
+      button: Purchase Here
+      url: https://go.gov.sg/gardensbythebay2026
+      image: /images/WhatsApp_Image_2026_06_18_at_14_44_24.jpg
+      alt: Image alt text
+  - infopic:
       title: Cairnhill Durian Fiesta 2026
       subtitle: 18 July 2026, Saturday
       id: infopic
@@ -148,6 +136,15 @@ sections:
       url: ": https://go.gov.sg/kuehlinary180726"
       image: /images/720040904_1017044520677274_3287946061902474861_n.jpg
       alt: Image alt text
+  - infopic:
+      title: MOCA National Day Dinner 2026
+      subtitle: 8 August 2026,Saturday
+      id: infopic
+      description: Let's come together to celebrate our nation, and our community,
+      button: Register Her
+      alt: Image alt text
+      image: /images/Mass_Ticket___38__front___8_.png
+      url: https://go.gov.sg/ndd2026
   - resources:
       id: resources
       subtitle: What we have been up to
