@@ -133,7 +133,7 @@ sections:
       id: infopic
       description: Celebrate racial harmony through food!
       button: Purchase Here
-      url: ": https://go.gov.sg/kuehlinary180726"
+      url: https://go.gov.sg/kuehlinary180726
       image: /images/720040904_1017044520677274_3287946061902474861_n.jpg
       alt: Image alt text
   - infopic:
@@ -141,10 +141,21 @@ sections:
       subtitle: 8 August 2026,Saturday
       id: infopic
       description: Let's come together to celebrate our nation, and our community,
-      button: Register Her
+      button: Register Here
       alt: Image alt text
       image: /images/Mass_Ticket___38__front___8_.png
       url: https://go.gov.sg/ndd2026
+  - infopic:
+      title: Community Resilience Day
+      subtitle: 23 August 2026, Sunday
+      id: infopic
+      description: Join us to learn lifesaving skills, meet community partners, and
+        discover how each of us can play a part in building a safer and more
+        resilient Singapore
+      button: Register Here
+      url: https://go.gov.sg/mocacrday
+      image: /images/WhatsApp_Image_2026_06_25_at_16_44_22.jpg
+      alt: Image alt text
   - resources:
       id: resources
       subtitle: What we have been up to
