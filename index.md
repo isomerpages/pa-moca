@@ -120,6 +120,15 @@ sections:
       image: /images/Cambridge_Grand_Prix_A3.png
       alt: Image alt text
   - infopic:
+      title: 🌸✨ A Blooming Day Out Awaits! ✨🌸
+      subtitle: 12 July 2026, Sunday
+      id: infopic
+      description: Join us for the Singapore Garden Festival & Flower Dome Experience
+      button: Purchase Here
+      url: https://go.gov.sg/gardensbythebay2026
+      image: /images/WhatsApp_Image_2026_06_18_at_14_44_24.jpg
+      alt: Image alt text
+  - infopic:
       title: Cairnhill Durian Fiesta 2026
       subtitle: 18 July 2026, Saturday
       id: infopic
@@ -138,25 +147,16 @@ sections:
       url: ": https://go.gov.sg/kuehlinary180726"
       image: /images/720040904_1017044520677274_3287946061902474861_n.jpg
       alt: Image alt text
-  - resources:
-      id: resources
-      subtitle: What we have been up to
-  - infopic:
-      title: 🌸✨ A Blooming Day Out Awaits! ✨🌸
-      subtitle: 12 July 2026, Sunday
-      id: infopic
-      description: Join us for the Singapore Garden Festival & Flower Dome Experience
-      button: Purchase Here
-      url: https://go.gov.sg/gardensbythebay2026
-      image: /images/WhatsApp_Image_2026_06_18_at_14_44_24.jpg
-      alt: Image alt text
   - infopic:
       title: MOCA National Day Dinner 2026
       subtitle: 8 August 2026,Saturday
       id: infopic
-      description: let's come together to celebrate our nation, and our community,
+      description: Let's come together to celebrate our nation, and our community,
       button: Purchase here
       alt: Image alt text
       image: /images/Mass_Ticket___38__front___8_.png
       url: https://go.gov.sg/ndd2026
+  - resources:
+      id: resources
+      subtitle: What we have been up to
 ---
