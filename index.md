@@ -145,6 +145,17 @@ sections:
       alt: Image alt text
       image: /images/Mass_Ticket___38__front___8_.png
       url: https://go.gov.sg/ndd2026
+  - infopic:
+      title: Community Resilience Day
+      subtitle: 23 August 2026, Sunday
+      id: infopic
+      description: join us to learn lifesaving skills, meet community partners, and
+        discover how each of us can play a part in building a safer and more
+        resilient Singapore
+      button: Register Here
+      url: go.gov.sg/mocacrday
+      image: /images/WhatsApp_Image_2026_06_25_at_16_44_22.jpg
+      alt: Image alt text
   - resources:
       id: resources
       subtitle: What we have been up to
