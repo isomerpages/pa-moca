@@ -151,10 +151,12 @@ sections:
       image: /images/WhatsApp_Image_2026_06_18_at_14_44_24.jpg
       alt: Image alt text
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: MOCA National Day Dinner 2026
+      subtitle: 8 August 2026,Saturday
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: let's come together to celebrate our nation, and our community,
+      button: Purchase here
       alt: Image alt text
+      image: /images/Mass_Ticket___38__front___8_.png
+      url: https://go.gov.sg/ndd2026
 ---
