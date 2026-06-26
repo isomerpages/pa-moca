@@ -90,15 +90,6 @@ sections:
       image: /images/687085853_987834803598246_1991179227019503690_n.jpg
       url: https://go.gov.sg/bkcg0xmassageball
   - infopic:
-      title: 🌏✨ Many Cultures, One MoCa ✨🌏
-      subtitle: 4 July 2026, Saturday
-      id: infopic
-      description: Celebrating cultural diversity in our community🎉
-      button: Purchase Here
-      url: https://www.onepa.gov.sg/events/many-cultures-one-moca-78823797
-      image: /images/WhatsApp_Image_2026_06_07_at_16_50_01.jpg
-      alt: Image alt text
-  - infopic:
       title: 🏁🎉 Cambridge Grand Prix 2026
       subtitle: 11 July 2026, Saturday
       id: infopic
