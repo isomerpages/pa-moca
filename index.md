@@ -59,6 +59,16 @@ sections:
       image: /images/Cambridge_Grand_Prix_A3.png
       alt: Image alt text
   - infopic:
+      title: 🏃‍♂️MOCA Family-Rox 2026🏃‍♀️
+      subtitle: 11 July 2026, Saturday
+      id: infopic
+      description: oin us for MoCa Family-Rox 2026, a sports event inspired by the
+        popular HYROX format, specially designed for children and families!
+      button: Purchase Here
+      url: https://go.gov.sg/mocafamilyrox
+      image: /images/WhatsApp_Image_2026_06_22_at_11_33_28.jpg
+      alt: Image alt text
+  - infopic:
       title: 🌸✨ A Blooming Day Out Awaits! ✨🌸
       subtitle: 12 July 2026, Sunday
       id: infopic
@@ -87,7 +97,7 @@ sections:
       image: /images/720040904_1017044520677274_3287946061902474861_n.jpg
       alt: Image alt text
   - infopic:
-      title: 🌿MoCa Sustainability Marketplace 2026!🌿
+      title: 🌿MOCA Sustainability Marketplace 2026!🌿
       subtitle: 25 July 2026, Saturday
       id: infopic
       description: Discover hands-on ways to live greener—learn, play, and create with
