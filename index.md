@@ -40,15 +40,6 @@ sections:
       image: /images/WhatsApp_Image_2026_06_11_at_15_23_27.jpg
       alt: Image alt text
   - infopic:
-      title: Murals for Little India MRT Station
-      subtitle: Closing Date:19 June, Friday
-      id: infopic
-      description: ✨ Vote for your top six favourite designs here
-      button: Vote Here
-      url: https://forms.cloud.microsoft/r/ejTyXFXadk
-      image: /images/717298672_1321906120131414_3151999604877892401_n.jpg
-      alt: Image alt text
-  - infopic:
       title: 🏁🎉 Cambridge Grand Prix 2026
       subtitle: 11 July 2026, Saturday
       id: infopic
