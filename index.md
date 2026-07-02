@@ -49,47 +49,6 @@ sections:
       image: /images/717298672_1321906120131414_3151999604877892401_n.jpg
       alt: Image alt text
   - infopic:
-      title: Money with Mindy Workshop
-      subtitle: 13,20,27 June and 4 July 2026
-      id: infopic
-      description: Help your kids build real‑life financial confidence through fun,
-        interactive activities!
-      button: Purchase Here
-      url: https://go.gov.sg/pekkioMoneyMindy
-      image: /images/688424526_989271573454569_4526614436425233416_n.jpg
-      alt: Image alt text
-  - infopic:
-      title: Family Life Champion (FLC) Book Day 2026✨📚
-      subtitle: 27 June 2026, Saturday
-      id: infopic
-      description: Bring your family for an afternoon packed with book-themed carnival
-        booths, storytelling, book swaps and costume parade
-      button: Purchase Here
-      url: https://go.gov.sg/flcbookdayon27june2026
-      image: /images/WhatsApp_Image_2026_04_24_at_09_42_23.jpg
-      alt: Image alt text
-  - infopic:
-      title: 📢 Get ready to UNLEASH THE PITCH! 🏉⚽️🔥
-      subtitle: 27 June 2026, Saturday
-      id: infopic
-      description: Join us as we officially explore our division's newest sporting
-        grounds at the Tanglin Rugby Club Open House!
-      button: Purchase Here
-      url: https://go.gov.sg/trccage
-      image: /images/Unleash_the_Pitch_6_Jun_03.png
-      alt: Image alt text
-  - infopic:
-      title: Aroma Massage Ball Workshop @ Pek Kio CC
-      subtitle: 4 July 2026, Saturday
-      id: infopic
-      description: Hand‑craft your very own wellness companion! Learn how to create an
-        aroma massage ball infused with natural ingredients to relax, refresh,
-        and rejuvenate.
-      button: Purchase Here
-      alt: Image alt text
-      image: /images/687085853_987834803598246_1991179227019503690_n.jpg
-      url: https://go.gov.sg/bkcg0xmassageball
-  - infopic:
       title: 🏁🎉 Cambridge Grand Prix 2026
       subtitle: 11 July 2026, Saturday
       id: infopic
@@ -126,6 +85,16 @@ sections:
       button: Purchase Here
       url: https://go.gov.sg/kuehlinary180726
       image: /images/720040904_1017044520677274_3287946061902474861_n.jpg
+      alt: Image alt text
+  - infopic:
+      title: 🌿MoCa Sustainability Marketplace 2026!🌿
+      subtitle: 25 July 2026, Saturday
+      id: infopic
+      description: Discover hands-on ways to live greener—learn, play, and create with
+        activities for all ages.✨
+      button: Purchase here
+      url: https://go.gov.sg/msmp26
+      image: /images/WhatsApp_Image_2026_07_01_at_19_43_32.jpg
       alt: Image alt text
   - infopic:
       title: MOCA National Day Dinner 2026
