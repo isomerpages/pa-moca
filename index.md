@@ -60,15 +60,6 @@ sections:
       image: /images/WhatsApp_Image_2026_06_22_at_11_33_28.jpg
       alt: Image alt text
   - infopic:
-      title: 🌸✨ A Blooming Day Out Awaits! ✨🌸
-      subtitle: 12 July 2026, Sunday
-      id: infopic
-      description: Join us for the Singapore Garden Festival & Flower Dome Experience
-      button: Purchase Here
-      url: https://go.gov.sg/gardensbythebay2026
-      image: /images/WhatsApp_Image_2026_06_18_at_14_44_24.jpg
-      alt: Image alt text
-  - infopic:
       title: Cairnhill Durian Fiesta 2026
       subtitle: 18 July 2026, Saturday
       id: infopic
