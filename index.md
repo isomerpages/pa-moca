@@ -40,35 +40,6 @@ sections:
       image: /images/WhatsApp_Image_2026_06_11_at_15_23_27.jpg
       alt: Image alt text
   - infopic:
-      title: 🏁🎉 Cambridge Grand Prix 2026
-      subtitle: 11 July 2026, Saturday
-      id: infopic
-      description: Calling all little racers! 🚗💨 Get ready for an exciting
-        competition at the Kiddy Rides Cambridge Grand Prix!
-      button: Purchase Here
-      url: https://go.gov.sg/grandprixparty
-      image: /images/Cambridge_Grand_Prix_A3.png
-      alt: Image alt text
-  - infopic:
-      title: 🌸✨ A Blooming Day Out Awaits! ✨🌸
-      subtitle: 12 July 2026, Sunday
-      id: infopic
-      description: Looking for a fun and relaxing outing with family and friends?
-      button: Purchase here
-      url: https://go.gov.sg/gardensbythebay26
-      image: /images/WhatsApp_Image_2026_06_18_at_14_44_24.jpg
-      alt: Image alt text
-  - infopic:
-      title: 🏃‍♂️MOCA Family-Rox 2026🏃‍♀️
-      subtitle: 11 July 2026, Saturday
-      id: infopic
-      description: oin us for MoCa Family-Rox 2026, a sports event inspired by the
-        popular HYROX format, specially designed for children and families!
-      button: Purchase Here
-      url: https://go.gov.sg/mocafamilyrox
-      image: /images/WhatsApp_Image_2026_06_22_at_11_33_28.jpg
-      alt: Image alt text
-  - infopic:
       title: Cairnhill Durian Fiesta 2026
       subtitle: 18 July 2026, Saturday
       id: infopic
