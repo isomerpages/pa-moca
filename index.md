@@ -40,25 +40,6 @@ sections:
       image: /images/WhatsApp_Image_2026_06_11_at_15_23_27.jpg
       alt: Image alt text
   - infopic:
-      title: Cairnhill Durian Fiesta 2026
-      subtitle: 18 July 2026, Saturday
-      id: infopic
-      description: Join us at the Cairnhill Durian Fiesta for a fun-filled evening of
-        feasting and community bonding!
-      button: Purchase Here
-      url: https://go.gov.sg/chdurian180726
-      image: /images/Cairnhill_durian.png
-      alt: Image alt text
-  - infopic:
-      title: 🍴 Different Cultures, One Kitchen
-      subtitle: 18 July 2026, Saturday
-      id: infopic
-      description: Celebrate racial harmony through food!
-      button: Purchase Here
-      url: https://go.gov.sg/kuehlinary180726
-      image: /images/720040904_1017044520677274_3287946061902474861_n.jpg
-      alt: Image alt text
-  - infopic:
       title: 🌿MOCA Sustainability Marketplace 2026!🌿
       subtitle: 25 July 2026, Saturday
       id: infopic
