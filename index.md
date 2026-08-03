@@ -40,16 +40,6 @@ sections:
       image: /images/WhatsApp_Image_2026_06_11_at_15_23_27.jpg
       alt: Image alt text
   - infopic:
-      title: 🌿MOCA Sustainability Marketplace 2026!🌿
-      subtitle: 25 July 2026, Saturday
-      id: infopic
-      description: Discover hands-on ways to live greener—learn, play, and create with
-        activities for all ages.✨
-      button: Purchase here
-      url: https://go.gov.sg/msmp26
-      image: /images/WhatsApp_Image_2026_07_01_at_19_43_32.jpg
-      alt: Image alt text
-  - infopic:
       title: MOCA National Day Dinner 2026
       subtitle: 8 August 2026,Saturday
       id: infopic
