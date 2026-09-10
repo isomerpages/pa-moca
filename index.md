@@ -29,27 +29,6 @@ sections:
           description: Visit Our Centres
           url: /contact
       variant: center
-  - infopic:
-      title: 🏆 MFL (MoCa Football League) 2026
-      subtitle: 5 Sat in July, Aug, Sep 26
-      id: infopic
-      description: Join us for five action-packed Saturdays of thrilling goals,
-        teamwork, and great sportsmanship.
-      button: Register Here
-      url: https://go.gov.sg/mfl2026
-      image: /images/WhatsApp_Image_2026_06_11_at_15_23_27.jpg
-      alt: Image alt text
-  - infopic:
-      title: Community Resilience Day
-      subtitle: 23 August 2026, Sunday
-      id: infopic
-      description: Join us to learn lifesaving skills, meet community partners, and
-        discover how each of us can play a part in building a safer and more
-        resilient Singapore
-      button: Register Here
-      url: https://go.gov.sg/mocacrday
-      image: /images/WhatsApp_Image_2026_06_25_at_16_44_22.jpg
-      alt: Image alt text
   - resources:
       id: resources
       subtitle: What we have been up to
